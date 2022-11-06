@@ -2,6 +2,7 @@ collections:
   student:
     output: true
     order:
+      - CALENDAR OF EVENTS.md
       - MOE SEXUALITY EDUCATION.md
       - SEMESTRAL ASSESSMENT schedule.md
       - Student Learning Space.md
