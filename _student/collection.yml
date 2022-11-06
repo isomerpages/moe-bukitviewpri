@@ -2,6 +2,7 @@ collections:
   student:
     output: true
     order:
+      - Assessment Policy/PRIMARY 3 TO PRIMARY 6 SEMESTRAL ASSESSMENTS.md
       - Assessment Policy/.keep
       - CALENDAR OF EVENTS.md
       - MOE SEXUALITY EDUCATION.md
