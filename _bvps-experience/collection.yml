@@ -2,6 +2,7 @@ collections:
   bvps-experience:
     output: true
     order:
+      - Clubs and Uniformed Group/.keep
       - Sports and Games/BADMINTON.md
       - Sports and Games/FOOTBALL CLUB.md
       - Sports and Games/NETBALL.md
