@@ -2,5 +2,6 @@ collections:
   about-us:
     output: true
     order:
+      - BVPS Staff/Non Teaching Staff.md
       - BVPS Staff/.keep
       - WZCOE for Aesthetics.md
