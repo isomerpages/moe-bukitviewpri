@@ -1,4 +1,5 @@
 collections:
   bvps-experience:
     output: true
-    order: []
+    order:
+      - Life in BVPS.md
