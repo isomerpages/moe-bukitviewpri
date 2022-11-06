@@ -2,5 +2,6 @@ collections:
   bvps-experience:
     output: true
     order:
+      - Learn For Life Programmes/gracious living in our world.md
       - Learn For Life Programmes/.keep
       - Life in BVPS.md
