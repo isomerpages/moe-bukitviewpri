@@ -2,5 +2,6 @@ collections:
   student:
     output: true
     order:
+      - MOE SEXUALITY EDUCATION.md
       - SEMESTRAL ASSESSMENT schedule.md
       - Student Learning Space.md
