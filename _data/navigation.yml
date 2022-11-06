@@ -39,3 +39,18 @@ links:
         url: /permalink
       - title: Life in BVPS
         url: /permalink
+  - title: Student
+    url: /permalink
+    sublinks:
+      - title: School Rules
+        url: /permalink
+      - title: Assessment Policy
+        url: /permalink
+      - title: Calendar of Events
+        url: /permalink
+      - title: MOE Sexuality Education
+        url: /permalink
+      - title: SEMESTRAL ASSESSMENT schedule
+        url: /permalink
+      - title: Student Learning Space
+        url: /permalink
