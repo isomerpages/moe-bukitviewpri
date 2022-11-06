@@ -1,22 +1,22 @@
 logo: /images/Homepage/LOGO.png
 links:
   - title: About Us
-    url: /permalink
+    url: /about-us/Mission-Vision-and-Motto/
     sublinks:
       - title: Mission, Vision and Motto
-        url: /permalink
+        url: /about-us/Mission-Vision-and-Motto/
       - title: Our School Values
-        url: /permalink
+        url: /about-us/Our-School-Values/
       - title: School Crest
-        url: /permalink
+        url: /about-us/School-Crest/
       - title: School Song
-        url: /permalink
+        url: /about-us/School-Song/
       - title: School History
-        url: /permalink
+        url: /about-us/School-History/
       - title: BVPS Staff
-        url: /permalink
+        url: /about-us/BVPS-Staff/EXCO-Members/
       - title: WZCOE for Aesthetics
-        url: /permalink
+        url: /about-us/WZCOE-for-Aesthetics/
   - title: Parents & Partners
     url: /permalink
     sublinks:
