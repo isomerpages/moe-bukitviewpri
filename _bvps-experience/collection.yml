@@ -2,7 +2,6 @@ collections:
   bvps-experience:
     output: true
     order:
-      - CoCurricular Activities/.keep
       - Curriculum/English Department.md
       - Curriculum/Mathematics Department.md
       - Curriculum/Science Department.md
