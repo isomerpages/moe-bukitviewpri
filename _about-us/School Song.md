@@ -3,7 +3,6 @@ title: School Song
 permalink: /about-us/School-Song/
 description: ""
 ---
-  
 Bukit View Primary School
 
 Our hope and treasured pride
