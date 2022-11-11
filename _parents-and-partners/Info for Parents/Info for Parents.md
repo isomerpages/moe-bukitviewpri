@@ -10,7 +10,7 @@ third_nav_title: Info for Parents
   
 Parents may refer to the canteen stall menu and price list attached. This will give you and your child greater flexibility to plan and buy his/her food for breakfast, recess and/or lunch on days he/she has school activities (e.g. CCAs and remedial lessons) in the afternoon.  
   
-Please click [here](https://bukitviewpri.moe.edu.sg/qql/slot/u318/BVPS%20Stall%20Canteen%20Menu%202022%20for%2019%20Aug%202022%20Fri.pdf) to access canteen menu and price list.   
+Please click [here](/files/Parents%20and%20Partners/Info%20for%20Parents/Info%20for%20Parents/BVPS%20Stall%20Canteen%20Menu%202022%20for%2019%20Aug%202022%20Fri.pdf) to access canteen menu and price list.   
 (With effect from Monday, 22 August 2022)  
   
 
@@ -34,11 +34,11 @@ The video aims to help parents and educators realise the importance of Social St
 #### **Cyberwellness Education at Home**
 
 
-Click [here](https://bukitviewpri.moe.edu.sg/qql/slot/u318/Partnership/Parents/2018/Parents%20Tip%20Sheet_pdf.pdf) to learn more about how you can reinforce Cyber Wellness education at home.  
+Click [here](/files/Parents%20and%20Partners/Info%20for%20Parents/Info%20for%20Parents/Parents%20Tip%20Sheet_pdf.pdf) to learn more about how you can reinforce Cyber Wellness education at home.  
   
 
 #### **2021/2022 End-of-Year Purchase of Textbooks and School Uniform**  
 
 
   
-Click [here](https://bukitviewpri.moe.edu.sg/qql/slot/u318/EOY%20Book%20and%20Uniform%20Sale%20BVPS%20For%20School%20Website_Serene.pdf) for more information.
+Click [here](/files/Parents%20and%20Partners/Info%20for%20Parents/Info%20for%20Parents/EOY%20Book%20and%20Uniform%20Sale%20BVPS%20For%20School%20Website_Serene.pdf) for more information.
