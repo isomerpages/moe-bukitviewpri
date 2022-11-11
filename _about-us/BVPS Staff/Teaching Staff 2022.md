@@ -99,6 +99,33 @@ third_nav_title: BVPS Staff
 
 #### **LEARNING SUPPORT TEACHERS**
 
+| Support Area |           Teachers         |   Email Address @moe.edu.sg   |
+|--------------|:--------------------------:|:-----------------------------:|
+| LSC          | Mdm Nor Aidah              | nor_aidah_duana               |
+| LSM          | Miss Tan Peck Har          | tan_peck_har                  |
+| LSM          | Mdm Azlinda Bte Kamarudin  | azlinda_kamarudin             |
+| LSM          | Mrs Evelyn Tan             | chia_sheng_nan_evelyn         |
+| LSM          | Mrs Wendy Kwek             | chow_peck_yin_wendy           |
+| SDR          | Mrs Magdalene Sebastian    | magdalene_christina_sebastian |
+
 #### **ALLIED EDUCATORS**
 
+| Designation                  | Name                      | Email Address @moe.edu.sg |
+|------------------------------|---------------------------|---------------------------|
+| Senior School Counsellor     | Mrs Alfred Shanthi        | shanthi_n_magaiswaran     |
+| School Counsellor            | Miss Sandra Tan           | sandra_tan_sai_leng       |
+| Senior Allied Educator (LBS) | Miss Lim Kim Geok Jessie  | lim_kim_geok_jessie       |
+| Allied Educator (LBS)        | Mdm Sulastri              | sulastri_kusen            |
+
 #### **ADJUNCT TEACHERS**
+
+| 1  | Mrs Dinah Tan            |
+|----|--------------------------|
+| 2  | Mdm Rahayu               |
+| 3  | Miss Florence Ong        |
+| 4  | Miss Jasmine Xie         |
+| 5  | Mdm Anabelle Soh Hwee    |
+| 6  | Mdm Mae Loh              |
+| 7  | Mdm Sarinah              |
+| 8  | Mdm Esther Chua Yan Yan  |
+| 9  | Mdm Lim Bee Leng         |
