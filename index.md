@@ -8,5 +8,11 @@ notification: Welcome to BukitView Primary!
 sections:
   - hero:
       background: /images/Homepage/HomepageGIF.gif
+      key_highlights:
+        - title: Announcements
+          description: Click here for Announcements
+          url: ""
+        - title: Quick Links
+          description: Click here for Quick Links
+          url: ""
 ---
-
