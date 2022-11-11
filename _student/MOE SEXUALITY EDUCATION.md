@@ -230,3 +230,19 @@ You may click **[HERE](https://www.moe.gov.sg/programmes/sexuality-education)**
   </tr>
 </tbody>
 </table>
+
+#### **INFORMATION FOR PARENTS**
+
+8\. Parents may opt their children out of the Sexuality Education lessons and/or supplementary sexuality education programmes by MOE-approved external providers. .
+
+  
+
+9\. Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an online opt-out form via [FormSG](https://go.gov.sg/bvps-sed2022-optout) at https://go/gov/sg/bvps-sed2022-optout , or download the form **[HERE](/files/Parents%20and%20Partners/Student/MOE%20SEXUALITY%20EDUCATION/Parents%20Opt-out%20form%202022.pdf)** and submit the completed form to the General Office by **17 January 2022.** 
+
+  
+
+10. Parents can contact the school at **bukitview\_ps@moe.edu.sg** for discussion or to seek clarification about the school's sexuality education programme. 
+
+  
+
+11\. Parents, who wish to attend the school's sexuality education lessons, should contact the school to make necessary arrangements.
