@@ -59,6 +59,6 @@ You will need to sign up as a member (if you have not already done so) at the Ac
   
 The user guide is attached for your reference.   
   
-[Guidelines to access SwimSafer Quiz](https://bukitviewpri.moe.edu.sg/qql/slot/u318/Guidelines%20to%20access%20SwimSafer%202.0%20quiz.pdf)  
+[Guidelines to access SwimSafer Quiz](/files/Parents%20and%20Partners/Info%20for%20Parents/PARENTS%20GATEWAY/Guidelines%20to%20access%20SwimSafer%2020%20quiz.pdf))  
   
-[Swimsafer E-Certificate User Guide](https://bukitviewpri.moe.edu.sg/qql/slot/u318/SwimSafer%20E-Certificate%20User%20Guide.pdf)
+[Swimsafer E-Certificate User Guide](/files/Parents%20and%20Partners/Info%20for%20Parents/PARENTS%20GATEWAY/SwimSafer%20E-Certificate%20User%20Guide.pdf)
