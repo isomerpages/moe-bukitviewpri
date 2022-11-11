@@ -11,8 +11,8 @@ sections:
       key_highlights:
         - title: Announcements
           description: Click here for Announcements
-          url: ""
+          url: /Announcements/
         - title: Quick Links
           description: Click here for Quick Links
-          url: ""
+          url: /Quick-Links/
 ---
