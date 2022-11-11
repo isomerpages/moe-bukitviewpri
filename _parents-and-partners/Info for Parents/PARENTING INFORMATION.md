@@ -4,7 +4,6 @@ permalink: /parents-and-partners/Info-for-Parents/PARENTING-INFORMATION/
 description: ""
 third_nav_title: Info for Parents
 ---
-  
 **Parenting Support Programmes**  
   
 There is no hard and fast rule book for raising children, but it is surprising how many familiar parenting problems have very simple solutions. From anger outbursts, tantrums, defiance, unhealthy gaming habits to establishing a regular homework routine – the issues you face aren’t unique to your family. In fact, they are commonplace. That is why aren’t unique to your family. In fact, they are commonplace. That is why [Triple P Positive Parenting Programmes](https://www.triplep-parenting.net/global/triple-p/) can help.  
@@ -16,7 +15,7 @@ Bukit View Primary School has partnered with Fei Yue Community Services, the app
 
   
 
-Fei Yue Triple P Teaser [(https://youtu.be/OktQSOzQ0oY](https://bukitviewpri.moe.edu.sg/parents-n-partners/info-for-parents/(https://youtu.be/OktQSOzQ0oY))
+Fei Yue Triple P Teaser [(https://youtu.be/OktQSOzQ0oY)](https://bukitviewpri.moe.edu.sg/parents-n-partners/info-for-parents/(https://youtu.be/OktQSOzQ0oY))
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OktQSOzQ0oY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
