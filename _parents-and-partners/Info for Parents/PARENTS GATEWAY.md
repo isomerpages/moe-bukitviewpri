@@ -36,8 +36,8 @@ third_nav_title: Info for Parents
   
                                                                                                                                          Updated 2 May 2019  
 
-Download of Parents Gateway App
--------------------------------
+#### **Download of Parents Gateway App**
+
 
 Dear Parents,   
   
@@ -47,8 +47,8 @@ Thank you.
                                             
                                                                                                                                          Updated 9 Jan 2019  
 
-Primary 4: Swimsafer 2.0 Certifcate
------------------------------------
+#### **Primary 4: Swimsafer 2.0 Certifcate**
+
 
   
 Dear Primary 4 Parents,  
