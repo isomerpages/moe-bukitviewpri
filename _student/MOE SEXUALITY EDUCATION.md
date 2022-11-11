@@ -162,3 +162,71 @@ You may click **[HERE](https://www.moe.gov.sg/programmes/sexuality-education)**
   </tr>
 </tbody>
 </table>
+
+**PRIMARY 6**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-b5l7{background-color:rgba(255, 255, 255, 0.6);color:#333;text-align:left;vertical-align:top}
+.tg .tg-fbxo{background-color:rgba(255, 255, 255, 0.6);color:#333;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-5gxm{background-color:rgba(255, 255, 255, 0.6);color:#333;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-ewoz{background-color:rgba(255, 255, 255, 0.6);color:#333;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-fbxo">UNIT</th>
+    <th class="tg-fbxo">LESSONS / DURATION</th>
+    <th class="tg-5gxm">LESSON OBJECTIVES<br>At the end of the lesson, pupils will be able to:</th>
+    <th class="tg-fbxo">Time Period</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-ewoz" rowspan="5">Are We More Than Friends?</td>
+    <td class="tg-ewoz">Who Are My Friends?<br> (30 min)</td>
+    <td class="tg-b5l7">identify the qualities of a healthy friendship<br>recognise the importance of making wise choices in friendship</td>
+    <td class="tg-b5l7">Term 1 <br>Week 4</td>
+  </tr>
+  <tr>
+    <td class="tg-ewoz">Am I A Good Friend? (30 min)</td>
+    <td class="tg-b5l7">identify the qualities that they have as a friend<br>recognise the importance of developing in oneself the qualities of a good friend</td>
+    <td class="tg-b5l7">Term 1 <br>Week 6</td>
+  </tr>
+  <tr>
+    <td class="tg-ewoz">What is Love? <br>(30 min)</td>
+    <td class="tg-b5l7">identify the characteristics of love and infatuation<br>distinguish between the characteristics of love versus infatuation<br>identify strong feelings arising from infatuation</td>
+    <td class="tg-b5l7">Term 1 <br>Week 6</td>
+  </tr>
+  <tr>
+    <td class="tg-ewoz">Am I Falling In Love? (30 min)</td>
+    <td class="tg-b5l7">manage strong feelings arising from infatuation<br><br>identify ways to manage and cope with teasing with peers</td>
+    <td class="tg-b5l7">Term 1 <br>Week 7</td>
+  </tr>
+  <tr>
+    <td class="tg-ewoz">Main Task (30 min)</td>
+    <td class="tg-b5l7"><span style="font-weight:normal">Description of the Main Task:</span><br><span style="font-weight:normal">Pupils are to play the role of a game designer who wants to create a board game to help pupils of their age learn more about the Big Idea of Relationships, specifically on family, friendships, love and infatuation. They will consider issues that their peers would face and craft questions and answers that they believe their peers would benefit most from knowing.</span></td>
+    <td class="tg-b5l7">Term 1 <br>Week 7</td>
+  </tr>
+  <tr>
+    <td class="tg-ewoz" rowspan="3">Friends or Foes?</td>
+    <td class="tg-ewoz">Are You Really My Friend? <br>(30 min)</td>
+    <td class="tg-b5l7">identify the pros and cons of forming relationships through social networking websites<br>know ways to keep themselves safe when using social networking websites</td>
+    <td class="tg-b5l7">Term 1 <br>Week 8</td>
+  </tr>
+  <tr>
+    <td class="tg-ewoz">Is It All Safe?<br> (30 min)</td>
+    <td class="tg-b5l7">know that some information (like pornography) received through the Internet may be harmful<br>know ways to keep themselves safe when using social networking websites or the Internet<br></td>
+    <td class="tg-b5l7">Term 1 <br>Week 8</td>
+  </tr>
+  <tr>
+    <td class="tg-ewoz">Main Task (30 min)</td>
+    <td class="tg-b5l7"><span style="font-weight:normal">Description of the Main Task:</span><br><span style="font-weight:normal">Pupils are to apply their understanding of Safety in a variety of scenarios when the main character could be in a precarious situation. They will consider the situation from the point of view of the main character, discuss what they think and feel about the situation and what they will do or say to ensure their safety. These scenarios will provide pupils with the opportunity to demonstrate their understanding of Safety and that safety is a right and a responsibility.</span><br></td>
+    <td class="tg-b5l7">Term 1 <br>Week 9</td>
+  </tr>
+</tbody>
+</table>
