@@ -62,7 +62,40 @@ third_nav_title: BVPS Staff
 
 #### **PRIMARY 6 FORM TEACHERS**
 
+|      Class      |                           Form Teachers                          |            Email Address @moe.edu.sg           |
+|:---------------:|:----------------------------------------------------------------:|:----------------------------------------------:|
+| 6 Integrity     | Mdm Eddayana Bte AbdullahMrs Goh-Wang Jia Mdm Liyanna Bte Maznin | eddayana_abdullah wang_jia nur_liyanna_maznin  |
+| 6 Perseverance  | Mrs Yeo Soon Foong Mdm Serene Ng Tse Ern                         |  yeo_soon_foong ng_tse_ern                     |
+| 6 Respect       | Mdm Nageswari D/O Olaganathan Mdm Ang Siok Kuwan, Dominique      | nageswari_olaganathan ang_siok_kuwan_dominique |
+| 6 Care          | Mdm Norezan Bte Saim Miss Rose Aizashira Bte Aineh               | norezan_saim rose_aizashira_aineh              |
+
 #### **MOTHER TONGUE TEACHERS**
+
+| MTL |         MT Teachers         |     Email Address@ moe.edu.sg    |
+|:---:|:---------------------------:|:--------------------------------:|
+| CL  | Mdm Fong Mei Ying           | fong_mei_ying                    |
+| CL  | Mdm Peh Hui Min, Kimberley  | peh_hui_min_kimberley            |
+| CL  | Mdm Winnie Ho               | ho_yee_hin_winnie                |
+| CL  | Mdm Lee Geok Puay           | lee_geok_puay                    |
+| CL  | Mdm Ng Siew Hong            | ng_siew_hong                     |
+| CL  | Mdm Tan Ya Xin              | tan_ya_xin                       |
+| CL  | Miss Lim Hwee Ching         | lim_hwee_ching                   |
+| CL  | Mr Wong Chea Chuen          | wong_chea_chuen                  |
+| CL  | Mdm Eileen Chua             | chua_ee_wen_eileen               |
+| CL  | Mdm Chen Shimin             | chen_shimin                      |
+| CL  | Mdm Chua Xingrou            | chua_xingrou                     |
+| CL  | Mdm Tan You Mei             | tan_you_mei                      |
+| CL  | Mdm Tan Ming Say            | tan_ming_say                     |
+| CL  | Miss Chai Hui Min           | chai_hui_min                     |
+| CL  | Miss Fong Shi Men           | fong_shi_men                     |
+| CL  | Miss Hu Li Xin              | hu_biying                        |
+| ML  | Mdm Suraya                  | suraya_rahmat                    |
+| ML  | Mdm Eddayana                | eddayana_abdullah                |
+| ML  | Mdm Rohani Ishak            | rohani_ishak                     |
+| ML  | Mdm Fa'Izah                 | nur_faizah_ahmad_fauzi           |
+| TL  | Mdm Jayanthi                | jayanthi_chandramohan@moe.edu.sg |
+| TL  | Mdm Aida Noorwani           | aida_noorwani                    |
+| TL  | Mdm Nageswari               | nageswari_olaganathan            |
 
 #### **LEARNING SUPPORT TEACHERS**
 
