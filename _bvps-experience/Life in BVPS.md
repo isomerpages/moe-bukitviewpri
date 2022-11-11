@@ -61,10 +61,10 @@ description: ""
 
 **BVPS Corporate Video**
 
-BVPS e-Newsletter
------------------
+#### **BVPS e-Newsletter**
+
 
   
-![](https://bukitviewpri.moe.edu.sg/rs/cc/icon/onyx/news.png) [BVPS e Newsletter for Semester 1 2020.pdf](https://bukitviewpri.moe.edu.sg/qql/slot/u318/BVPS%20Experience/BVPS%20e-Newsletter%20for%20Semester%201%202020.pdf)   
+ [BVPS e Newsletter for Semester 1 2020.pdf](https://bukitviewpri.moe.edu.sg/qql/slot/u318/BVPS%20Experience/BVPS%20e-Newsletter%20for%20Semester%201%202020.pdf)   
   
-![](https://bukitviewpri.moe.edu.sg/rs/cc/icon/onyx/news.png) [BVPS e Newsletter for Semester 2 2020.pdf](https://bukitviewpri.moe.edu.sg/qql/slot/u318/BVPS%20Experience/BVPS%20e-Newsletter%20for%20Semester%202%202020.pdf)
+ [BVPS e Newsletter for Semester 2 2020.pdf](/files/Life%20in%20BVPS/BVPS%20e-Newsletter%20for%20Semester%202%202020.pdf)
