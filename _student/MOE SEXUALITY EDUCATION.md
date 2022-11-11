@@ -73,3 +73,92 @@ You may click **[HERE](https://www.moe.gov.sg/programmes/sexuality-education)**
   
 
 **At Bukit View Primary School, the following Sexuality Education lessons will be taught in 2022:**
+
+**PRIMARY 5**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-b5l7{background-color:rgba(255, 255, 255, 0.6);color:#333;text-align:left;vertical-align:top}
+.tg .tg-oner{background-color:rgba(255, 255, 255, 0.6);color:#333;text-align:center;vertical-align:middle}
+.tg .tg-fbxo{background-color:rgba(255, 255, 255, 0.6);color:#333;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-5gxm{background-color:rgba(255, 255, 255, 0.6);color:#333;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-ewoz{background-color:rgba(255, 255, 255, 0.6);color:#333;text-align:center;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-ewoz"></th>
+    <th class="tg-0lax"></th>
+    <th class="tg-0lax"></th>
+    <th class="tg-0lax"></th>
+    <th class="tg-0lax"></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-5gxm">Unit</td>
+    <td class="tg-5gxm">Lessons / Duration</td>
+    <td class="tg-5gxm">LESSON OBJECTIVES<br>At the end of the lesson, pupils will be able to:</td>
+    <td class="tg-5gxm">Time Period</td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-fbxo" rowspan="3">Gosh! I Am Changing<br><br><br><br><br><br><br></td>
+    <td class="tg-oner"> What Is Happening To Me?<br>(30 min)</td>
+    <td class="tg-b5l7">know what puberty is<br>identify the physical changes during puberty </td>
+    <td class="tg-oner">Term 3<br>Week 8 </td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-oner"> What Can I Do? (Part 1) <br>(30 min)</td>
+    <td class="tg-b5l7">identify the stresses caused by physical and emotional changes during puberty<br>describe healthy ways to manage the stresses caused by physical and emotional changes during puberty<br>describe the emotions caused by the physical changes during puberty<br>recognise that one's identity does not change even when one’s body is experiencing change due to puberty</td>
+    <td class="tg-oner">Term 3<br>Week 9 </td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-oner"> What Can I Do? (Part 2) <br>(30 min)</td>
+    <td class="tg-b5l7"><br>identify the stresses caused by physical and emotional changes during puberty<br>describe healthy ways to manage the stresses caused by these physical and emotional changes during puberty<br>describe the emotions caused by physical changes during puberty<br>recognise that one’s identity does not change even when one’s body is experiencing change due to puberty</td>
+    <td class="tg-oner">Term 3<br>Week 9 </td>
+    <td class="tg-oner"> </td>
+  </tr>
+  <tr>
+    <td class="tg-oner"> </td>
+    <td class="tg-oner"> Main Task<br>(30 min)</td>
+    <td class="tg-ewoz">Description of the Main Task:  <span style="color:#000;background-color:initial">Pupils are to play the role of an Uncle/Aunt Agony to help a peer address his/her experiences during puberty. They will consider the situation from the point of view of the peer and share ways to help him/her cope with the changes he/she is going through.</span> </td>
+    <td class="tg-oner">Term 4<br>Week 2 </td>
+    <td class="tg-oner"> </td>
+  </tr>
+  <tr>
+    <td class="tg-ewoz"><br><br><br><br>Where I belong<br></td>
+    <td class="tg-ewoz"><span style="color:#000;background-color:initial">What are families? (30 min)</span> </td>
+    <td class="tg-b5l7">know that there are different types of family structures<br>know that every family is unique<br>state that the three basic functions of families are to provide love, protection and guidance<br>identify the right sources to help to turn to when in need</td>
+    <td class="tg-fbxo"> Term 4<br>Week 2</td>
+    <td class="tg-oner"> </td>
+  </tr>
+  <tr>
+    <td class="tg-oner">Where I Belong </td>
+    <td class="tg-oner"> What is My Role?<br>(30 min)</td>
+    <td class="tg-ewoz">know that gender is about being male or female<br>choose not to stereotype by gender</td>
+    <td class="tg-oner">Term 4<br>Week 5 </td>
+    <td class="tg-oner"> </td>
+  </tr>
+  <tr>
+    <td class="tg-ewoz" rowspan="2"> How do I Keep Myself Safe?</td>
+    <td class="tg-ewoz"><br>What is safety? <br>(30 min)</td>
+    <td class="tg-5gxm"><br>know what is sexual abuse is<br>know that there are laws in Singapore that can protect them from sexual abuse<br>know their rights in keeping themselves safe from sexual abuse<br></td>
+    <td class="tg-5gxm"><br><span style="font-weight:normal">Term 4</span><br><span style="font-weight:normal">Week 5 </span><br></td>
+    <td class="tg-0lax"></td>
+  </tr>
+  <tr>
+    <td class="tg-ewoz"><br>Stop It! Run! Tell! (30 min)</td>
+    <td class="tg-5gxm"><br>protect themselves by resisting and removing themselves from harm and seeking help from a trusted adult<br>know their responsibilities in minimising the risk of sexual harm<br></td>
+    <td class="tg-b5l7"><span style="color:#000;background-color:initial">Term 4</span><br><br><span style="font-weight:normal;color:#000;background-color:initial">Week 5</span></td>
+    <td class="tg-0lax"></td>
+  </tr>
+</tbody>
+</table>
