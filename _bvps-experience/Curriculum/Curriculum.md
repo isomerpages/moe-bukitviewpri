@@ -4,11 +4,11 @@ permalink: /bvps-experience/Curriculum/Curriculum/
 description: ""
 third_nav_title: Curriculum
 ---
-*   [English Language](https://bukitviewpri.moe.edu.sg/bvps-experience/curriculum/english-department)
-*   [Mathematics](https://bukitviewpri.moe.edu.sg/bvps-experience/curriculum/mathematics-department)
-*   [Science](https://bukitviewpri.moe.edu.sg/bvps-experience/curriculum/science-department) 
-*   [Mother Tongue](https://bukitviewpri.moe.edu.sg/bvps-experience/curriculum/mother-tongue-department)
+*   [English Language](/bvps-experience/Curriculum/English-Department/)
+*   [Mathematics](/bvps-experience/Curriculum/Mathematics-Department/)
+*   [Science](/bvps-experience/Curriculum/Science-Department/) 
+*   [Mother Tongue](/bvps-experience/Curriculum/Mother-Tongue-Department/)
 *   [Character and Citizenship Education](https://bukitviewpri.moe.edu.sg/bvps-experience/curriculum/character-and-citizenship-education)
-*   [Information and Communication Technology](https://bukitviewpri.moe.edu.sg/bvps-experience/curriculum/information-and-communication-technology)
-*   [PE & CCA](https://bukitviewpri.moe.edu.sg/bvps-experience/curriculum/pe-n-cca)
-*   [Aesthetics](https://bukitviewpri.moe.edu.sg/bvps-experience/curriculum/aesthetics)
+*   [Information and Communication Technology](/bvps-experience/Curriculum/Information-and-Communication-Technology/)
+*   [PE & CCA](/bvps-experience/Curriculum/PE-and-CCA/)
+*   [Aesthetics](/bvps-experience/Curriculum/Aesthetics/)
