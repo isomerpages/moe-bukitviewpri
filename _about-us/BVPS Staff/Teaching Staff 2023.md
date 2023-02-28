@@ -134,7 +134,57 @@ third_nav_title: BVPS Staff
 
 #### **PRIMARY 3 FORM TEACHERS**
 
-
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-b5l7{background-color:rgba(255, 255, 255, 0.6);color:#333;text-align:left;vertical-align:top}
+.tg .tg-1b5h{background-color:rgba(255, 255, 255, 0.6);color:#333;text-align:left;vertical-align:middle}
+.tg .tg-qyxu{background-color:#ffffff;color:#330001;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-qyxu">Class</th>
+    <th class="tg-qyxu">Form Teachers</th>
+    <th class="tg-qyxu">Email Address<br>@moe.edu.sg</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-b5l7">3 Graciousness</td>
+    <td class="tg-1b5h">Mdm Lam Hui Li Narcissus<br>Miss Fong Shi Men</td>
+    <td class="tg-1b5h">lam_hui_li_narcissus<br>fong_shi_men<br></td>
+  </tr>
+  <tr>
+    <td class="tg-b5l7">3 Responsibility</td>
+    <td class="tg-1b5h">Mdm Siti Raihana Bte SuleimanMiss Ong Kai Gin Florence<br></td>
+    <td class="tg-b5l7">siti_raihana_suleiman<br>ong_kai_gin_florence</td>
+  </tr>
+  <tr>
+    <td class="tg-b5l7">3 Integrity</td>
+    <td class="tg-b5l7">Miss Lee Kit Beng<br></td>
+    <td class="tg-1b5h">lee_kit_beng<br></td>
+  </tr>
+  <tr>
+    <td class="tg-b5l7">3 Perseverance</td>
+    <td class="tg-1b5h">Miss Er Xin Hui<br></td>
+    <td class="tg-b5l7">er_xin_hui<br></td>
+  </tr>
+  <tr>
+    <td class="tg-1b5h">3 Respect</td>
+    <td class="tg-1b5h">Mdm Tay Xue Ling Cherie<br>Mdm Rohani Bte Ishak<br></td>
+    <td class="tg-1b5h">tay_xue_ling_cherie<br>rohani_ishak<br></td>
+  </tr>
+  <tr>
+    <td class="tg-1b5h"> 3 Care</td>
+    <td class="tg-1b5h">Mr Zachariah Jayden Than Rui Sheng<br></td>
+    <td class="tg-b5l7">zachariah_jayden_than_rui</td>
+  </tr>
+</tbody>
+</table>
 
 #### **PRIMARY 4 FORM TEACHERS**
 
