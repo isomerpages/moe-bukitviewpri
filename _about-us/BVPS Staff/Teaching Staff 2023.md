@@ -38,7 +38,7 @@ third_nav_title: BVPS Staff
   <tr>
     <td class="tg-b5l7">1 Integrity</td>
     <td class="tg-1b5h">Mdm Kong Su-Mei Monica<br>Mdm Eddayana Bte Abdullah<br></td>
-    <td class="tg-1b5h">kong_su_mei_monicaeddayana_abdullah</td>
+    <td class="tg-1b5h">kong_su_mei_monica<br>eddayana_abdullah</td>
   </tr>
   <tr>
     <td class="tg-b5l7">1 Perseverance</td>
@@ -53,7 +53,7 @@ third_nav_title: BVPS Staff
   <tr>
     <td class="tg-b5l7"><span style="color:#000">1 Care</span></td>
     <td class="tg-1b5h">Mrs Lee-Chua Ee Wen Eileen Miss Tham Wei Ting Vanessa<br></td>
-    <td class="tg-1b5h">chua_ee_wen_eileenTham_Wei_Ting_Vanessa<br></td>
+    <td class="tg-1b5h">chua_ee_wen_eileen<br>Tham_Wei_Ting_Vanessa<br></td>
   </tr>
   <tr>
     <td class="tg-1b5h">1 Harmony</td>
