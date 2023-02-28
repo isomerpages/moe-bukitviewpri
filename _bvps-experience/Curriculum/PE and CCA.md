@@ -71,18 +71,14 @@ Furthermore, learning experiences and activities are planned into the lessons fo
 #### **BVPS PE Activities at a glance**
 
 
-• Sports Carnival
+• Sports Day
 
-• P1 & P2 Games Day
+• Children's Day Games
 
-• P3 Camp
+• P4 Swimming
 
-• P3 Swimming Programme
+• P5 Camp
 
-• P4 Camp
+• P4 & P6 NAPFA
 
-• Recess Challenge
-
-• NAPFA 
-
-• Inter-class games
+• P3, P4, P5 & P6 Sports Education Programme (SEP)
