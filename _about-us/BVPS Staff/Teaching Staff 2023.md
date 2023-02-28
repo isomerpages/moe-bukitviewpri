@@ -544,6 +544,109 @@ third_nav_title: BVPS Staff
 
 #### **ALLIED EDUCATORS**
 
-
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-b5l7{background-color:rgba(255, 255, 255, 0.6);color:#333;text-align:left;vertical-align:top}
+.tg .tg-1b5h{background-color:rgba(255, 255, 255, 0.6);color:#333;text-align:left;vertical-align:middle}
+.tg .tg-5gxm{background-color:rgba(255, 255, 255, 0.6);color:#333;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-5gxm">Designation</th>
+    <th class="tg-5gxm">Name</th>
+    <th class="tg-5gxm">Email Address<br>@moe.edu.sg</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-1b5h">Senior School Counsellor</td>
+    <td class="tg-1b5h">Mrs Alfred Shanthi<br></td>
+    <td class="tg-1b5h">shanthi_n_magaiswaran</td>
+  </tr>
+  <tr>
+    <td class="tg-1b5h">Senior Special Educational Needs Officer</td>
+    <td class="tg-1b5h">Miss Lim Kim Geok Jessie </td>
+    <td class="tg-1b5h">lim_kim_geok_jessie </td>
+  </tr>
+  <tr>
+    <td class="tg-1b5h">Special Educational Needs Officer<br></td>
+    <td class="tg-b5l7">Mdm Sulastri Kusen</td>
+    <td class="tg-b5l7">sulastri_kusen </td>
+  </tr>
+</tbody>
+</table>
 
 #### **ADJUNCT TEACHERS**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-b5l7{background-color:rgba(255, 255, 255, 0.6);color:#333;text-align:left;vertical-align:top}
+.tg .tg-1b5h{background-color:rgba(255, 255, 255, 0.6);color:#333;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-b5l7">1</th>
+    <th class="tg-b5l7">Mrs Dinah Tan-Lim Hong Buay<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-b5l7">2</td>
+    <td class="tg-b5l7">Mdm Rahayu Bte Mohd Ali</td>
+  </tr>
+  <tr>
+    <td class="tg-1b5h">3</td>
+    <td class="tg-b5l7"><span style="color:#000">Miss Florence Ong </span> Kai Gin</td>
+  </tr>
+  <tr>
+    <td class="tg-1b5h">4</td>
+    <td class="tg-1b5h">Ms Wong Po San</td>
+  </tr>
+  <tr>
+    <td class="tg-1b5h">5</td>
+    <td class="tg-1b5h">Mrs Mae Loh</td>
+  </tr>
+  <tr>
+    <td class="tg-1b5h">6</td>
+    <td class="tg-1b5h">Miss Sarinah Bte Samsudin</td>
+  </tr>
+  <tr>
+    <td class="tg-1b5h">7</td>
+    <td class="tg-1b5h">Mdm Ng Siew Hong</td>
+  </tr>
+  <tr>
+    <td class="tg-1b5h">8</td>
+    <td class="tg-1b5h">Mdm Goh Tok Min</td>
+  </tr>
+  <tr>
+    <td class="tg-1b5h">9 </td>
+    <td class="tg-1b5h">Mdm Lim Bee Leng </td>
+  </tr>
+  <tr>
+    <td class="tg-1b5h">10 </td>
+    <td class="tg-1b5h">Mdm Pang Kah Kah</td>
+  </tr>
+  <tr>
+    <td class="tg-1b5h">11</td>
+    <td class="tg-1b5h">Mdm Ruzana Saini</td>
+  </tr>
+  <tr>
+    <td class="tg-1b5h">12 </td>
+    <td class="tg-1b5h">Mdm Juliet Ang Shy Yunn </td>
+  </tr>
+  <tr>
+    <td class="tg-1b5h">13</td>
+    <td class="tg-1b5h">Mdm Siti Zubaidah</td>
+  </tr>
+</tbody>
+</table>
