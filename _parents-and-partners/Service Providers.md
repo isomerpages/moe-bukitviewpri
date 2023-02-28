@@ -67,13 +67,10 @@ Dental clinic will only be opened on alternate weeks. Please contact the school 
 
   
 
-**Operating Hours:**  
-
-Mondays to Thursdays : 8am - 5.30pm
-
-Friday:  8am to 5pm
-
-Tel: 91142631
+**Operating Hours:**    
+Mondays to Thursdays : 8am - 5.30pm  
+Friday:  8am to 5pm  
+Tel: 91142631  
 
   
 
@@ -81,8 +78,6 @@ Tel: 91142631
 
 **LIM CHIN YONG SCHOOL BUS TRANSPORT**
 
-Contact Person: Mr Winson Lim
-
-Tel: 9271 9234
-
+Contact Person: Mr Winson Lim  
+Tel: 9271 9234  
 **Email:  lcysbt@gmail.com**
