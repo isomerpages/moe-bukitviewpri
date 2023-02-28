@@ -18,7 +18,39 @@ The Art Club also provides a platform for students to showcase their talents bey
 
 ![](/images/BVPS%20Experience/Co%20Curricular%20Activities/Clubs%20&%20Uniformed%20Group/ART%20CLUB/A4.jpg)
 
-|  DAY |                     TIME                     |                                           TEACHERS IN-CHARGE                                           |   VENUE   |
-|:----:|:--------------------------------------------:|:------------------------------------------------------------------------------------------------------:|:---------:|
-|  THU |       Ceramics 2.15 p.m. to 4.15 p.m.        |  Miss Chwa Bee Lian (I/C)  Mdm Chua Huai Ling Sheila Mdm Wang Jia Miss Lee Kit Beng Miss Tan Peck Har  |  Art Room |
-|  THU |  Drawing and Painting 2.15 p.m. to 4.15 p.m. | Miss Chwa Bee Lian  (I/C)  Mdm Chua Huai Ling Sheila Mdm Wang Jia  Miss Lee Kit Beng Miss Tan Peck Har |  Art Room |
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-b5l7{background-color:rgba(255, 255, 255, 0.6);color:#333;text-align:left;vertical-align:top}
+.tg .tg-nmnb{background-color:rgba(255, 255, 255, 0.6);color:#00F;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-1b5h{background-color:rgba(255, 255, 255, 0.6);color:#333;text-align:left;vertical-align:middle}
+.tg .tg-bx9b{background-color:#ffffff;color:#000000;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-6op4{background-color:rgba(255, 255, 255, 0.6);color:#00F;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-bx9b">DAY</th>
+    <th class="tg-bx9b">TIME</th>
+    <th class="tg-bx9b">TEACHERS IN-CHARGE</th>
+    <th class="tg-bx9b">VENUE</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-1b5h">THU</td>
+    <td class="tg-nmnb">Ceramics<br>2 p.m. to 4 p.m.<br><br></td>
+    <td class="tg-1b5h">Miss Chwa Bee Lian (I/C) <br>Mdm Chua Huai Ling Sheila<br>Miss Lee Kit Beng<br>Miss Tan Peck Har<br>Mdm Tay Xue Ling Cherie</td>
+    <td class="tg-1b5h">Art Room</td>
+  </tr>
+  <tr>
+    <td class="tg-1b5h"> THU</td>
+    <td class="tg-6op4"> Drawing and Painting<br>2 p.m. to 4 p.m.</td>
+    <td class="tg-b5l7">Miss Chwa Bee Lian  (I/C) <br>Mdm Chua Huai Ling Sheila<br><span style="background-color:initial">Miss Lee Kit Beng</span><br><br>Miss Tan Peck Har<br><br>Mdm Tay Xue Ling</td>
+    <td class="tg-1b5h"> Art Room</td>
+  </tr>
+</tbody>
+</table>
