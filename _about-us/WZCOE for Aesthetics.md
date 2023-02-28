@@ -3,9 +3,7 @@ title: WZCOE for Aesthetics
 permalink: /about-us/WZCOE-for-Aesthetics/
 description: ""
 ---
-Bukit View Primary School’s efforts in contributing to the Aesthetics scene in the west zone was recognized in 2011 with its appointment as the Centre of Excellence for Aesthetics in the West Zone. This was a step forward after it was awarded the School-based Excellence Award 
-
-for Aesthetics in 2007.  
+Bukit View Primary School’s efforts in contributing to the Aesthetics scene in the west zone was recognized in 2011 with its appointment as the Centre of Excellence for Aesthetics in the West Zone. This was a step forward after it was awarded the School-based Excellence Award for Aesthetics in 2007.  
 
   
 
