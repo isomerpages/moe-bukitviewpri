@@ -188,7 +188,52 @@ third_nav_title: BVPS Staff
 
 #### **PRIMARY 4 FORM TEACHERS**
 
-
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-b5l7{background-color:rgba(255, 255, 255, 0.6);color:#333;text-align:left;vertical-align:top}
+.tg .tg-1b5h{background-color:rgba(255, 255, 255, 0.6);color:#333;text-align:left;vertical-align:middle}
+.tg .tg-qyxu{background-color:#ffffff;color:#330001;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-qyxu">Class</th>
+    <th class="tg-qyxu">Form Teachers</th>
+    <th class="tg-qyxu">Email Address<br>@moe.edu.sg</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-b5l7">4 Integrity</td>
+    <td class="tg-1b5h">Mr Lukman Umar Bin Zainal</td>
+    <td class="tg-1b5h">lukman_umar_umar<br></td>
+  </tr>
+  <tr>
+    <td class="tg-b5l7">4 Perseverance</td>
+    <td class="tg-b5l7">Mdm Nageswari D/O Olaganathan<br>Mdm Eliana Bte Mohamed</td>
+    <td class="tg-1b5h">nageswari_olaganathan<br>eliana_mohamed<br></td>
+  </tr>
+  <tr>
+    <td class="tg-b5l7">4 Respect<br></td>
+    <td class="tg-b5l7">Mdm Yong Li Ying Jayce<br>Mrs Kimberley Lin</td>
+    <td class="tg-1b5h">yong_li_ying_jayce<br>peh_hui_min_kimberley <br></td>
+  </tr>
+  <tr>
+    <td class="tg-1b5h">4 Care</td>
+    <td class="tg-b5l7">Mdm Kalashobini Chandrasaharan<br></td>
+    <td class="tg-1b5h">kalashobini_chandrasaharan</td>
+  </tr>
+  <tr>
+    <td class="tg-b5l7"><span style="color:#000">4 Harmony</span><br><br></td>
+    <td class="tg-1b5h">Mrs Quek Sin Ee <br>Mdm Nur Liyanna Binte Maznin</td>
+    <td class="tg-1b5h">ng_sin_ee<br>nur_liyanna_maznin</td>
+  </tr>
+</tbody>
+</table>
 
 #### **PRIMARY 5 FORM TEACHERS**
 
