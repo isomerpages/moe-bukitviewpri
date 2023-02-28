@@ -335,11 +335,212 @@ third_nav_title: BVPS Staff
 
 #### **MOTHER TONGUE TEACHERS**
 
-
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-b5l7{background-color:rgba(255, 255, 255, 0.6);color:#333;text-align:left;vertical-align:top}
+.tg .tg-1b5h{background-color:rgba(255, 255, 255, 0.6);color:#333;text-align:left;vertical-align:middle}
+.tg .tg-5gxm{background-color:rgba(255, 255, 255, 0.6);color:#333;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-5gxm">MTL</th>
+    <th class="tg-5gxm">MT Teachers</th>
+    <th class="tg-5gxm"><span style="color:#000;background-color:initial">Email Address</span><span style="background-color:initial">@ moe.edu.sg</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-b5l7"><span style="color:#000">CL</span> </td>
+    <td class="tg-1b5h">Mdm Fong Mei Ying</td>
+    <td class="tg-1b5h">fong_mei_ying</td>
+  </tr>
+  <tr>
+    <td class="tg-1b5h">CL </td>
+    <td class="tg-1b5h">Mdm Peh Hui Min, Kimberley </td>
+    <td class="tg-1b5h">peh_hui_min_kimberley </td>
+  </tr>
+  <tr>
+    <td class="tg-b5l7">CL</td>
+    <td class="tg-b5l7">Mdm Winnie Ho</td>
+    <td class="tg-b5l7">ho_yee_hin_winnie</td>
+  </tr>
+  <tr>
+    <td class="tg-b5l7">CL</td>
+    <td class="tg-b5l7">Mdm Lee Geok Puay</td>
+    <td class="tg-b5l7">lee_geok_puay</td>
+  </tr>
+  <tr>
+    <td class="tg-b5l7">CL</td>
+    <td class="tg-1b5h">Mdm Ng Siew Hong</td>
+    <td class="tg-1b5h">ng_siew_hong<br></td>
+  </tr>
+  <tr>
+    <td class="tg-b5l7">CL</td>
+    <td class="tg-b5l7">Mdm Tan Ya Xin</td>
+    <td class="tg-b5l7">tan_ya_xin</td>
+  </tr>
+  <tr>
+    <td class="tg-b5l7">CL</td>
+    <td class="tg-1b5h">Miss Lim Hwee Ching</td>
+    <td class="tg-b5l7">lim_hwee_ching</td>
+  </tr>
+  <tr>
+    <td class="tg-b5l7">CL</td>
+    <td class="tg-b5l7">Mdm Eileen Chua </td>
+    <td class="tg-b5l7">chua_ee_wen_eileen</td>
+  </tr>
+  <tr>
+    <td class="tg-b5l7">CL </td>
+    <td class="tg-b5l7">Mdm Chen Shimin </td>
+    <td class="tg-b5l7">chen_shimin</td>
+  </tr>
+  <tr>
+    <td class="tg-b5l7">CL </td>
+    <td class="tg-b5l7">Mdm Chua Xingrou </td>
+    <td class="tg-b5l7">chua_xingrou</td>
+  </tr>
+  <tr>
+    <td class="tg-1b5h">CL </td>
+    <td class="tg-b5l7">Mdm Tan You Mei </td>
+    <td class="tg-b5l7">tan_you_mei</td>
+  </tr>
+  <tr>
+    <td class="tg-b5l7">CL </td>
+    <td class="tg-b5l7">Mdm Tan Ming Say </td>
+    <td class="tg-b5l7">tan_ming_say </td>
+  </tr>
+  <tr>
+    <td class="tg-1b5h">CL </td>
+    <td class="tg-1b5h">Miss Chai Hui Min </td>
+    <td class="tg-1b5h">chai_hui_min </td>
+  </tr>
+  <tr>
+    <td class="tg-1b5h">CL </td>
+    <td class="tg-1b5h">Miss Fong Shi Men </td>
+    <td class="tg-1b5h">fong_shi_men </td>
+  </tr>
+  <tr>
+    <td class="tg-b5l7">ML</td>
+    <td class="tg-b5l7">Mdm Suraya</td>
+    <td class="tg-b5l7">suraya_rahmat</td>
+  </tr>
+  <tr>
+    <td class="tg-b5l7">ML</td>
+    <td class="tg-b5l7">Mdm Eddayana</td>
+    <td class="tg-b5l7">eddayana_abdullah</td>
+  </tr>
+  <tr>
+    <td class="tg-b5l7">ML</td>
+    <td class="tg-b5l7">Mdm Rohani Ishak</td>
+    <td class="tg-b5l7">rohani_ishak</td>
+  </tr>
+  <tr>
+    <td class="tg-1b5h">ML</td>
+    <td class="tg-1b5h">Ms Noor Azniza Bte Abdul Aziz</td>
+    <td class="tg-b5l7">noor_azniza_abdul_aziz_a<br></td>
+  </tr>
+  <tr>
+    <td class="tg-b5l7">TL</td>
+    <td class="tg-b5l7">Mdm Jayanthi</td>
+    <td class="tg-1b5h">jayanthi_chandramohan</td>
+  </tr>
+  <tr>
+    <td class="tg-b5l7">TL</td>
+    <td class="tg-b5l7">Mdm Aida Noorwani</td>
+    <td class="tg-b5l7">aida_noorwani</td>
+  </tr>
+  <tr>
+    <td class="tg-b5l7">TL</td>
+    <td class="tg-b5l7">Mdm Nageswari</td>
+    <td class="tg-b5l7">nageswari_olaganathan</td>
+  </tr>
+</tbody>
+</table>
 
 #### **LEARNING SUPPORT TEACHERS**
 
-
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-b5l7{background-color:rgba(255, 255, 255, 0.6);color:#333;text-align:left;vertical-align:top}
+.tg .tg-1b5h{background-color:rgba(255, 255, 255, 0.6);color:#333;text-align:left;vertical-align:middle}
+.tg .tg-c4pv{background-color:rgba(255, 255, 255, 0.6);color:#000000;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-2tv0{background-color:rgba(255, 255, 255, 0.6);color:#00B1B1;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-c4pv">Support Area</th>
+    <th class="tg-c4pv"> Teachers</th>
+    <th class="tg-c4pv"><span style="background-color:initial">Email Address @moe.edu.sg</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-1b5h">LSC </td>
+    <td class="tg-b5l7"><span style="color:#000">Mdm Nor Aidah</span> </td>
+    <td class="tg-b5l7"><span style="color:#000">nor_aidah_duana</span> </td>
+  </tr>
+  <tr>
+    <td class="tg-b5l7">LSM</td>
+    <td class="tg-b5l7">Miss Tan Peck Har</td>
+    <td class="tg-2tv0"><a href="mailto:tan_peck_har@moe.edu.sg"><span style="font-weight:normal">tan_peck_har</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-b5l7">LSM</td>
+    <td class="tg-1b5h">Mdm Neo Hui Fen</td>
+    <td class="tg-1b5h">neo_hui_fen</td>
+  </tr>
+  <tr>
+    <td class="tg-1b5h">LSM</td>
+    <td class="tg-1b5h">Mrs Quek Sin Ee</td>
+    <td class="tg-1b5h">ng_sin_ee</td>
+  </tr>
+  <tr>
+    <td class="tg-b5l7">LSM </td>
+    <td class="tg-b5l7">Mrs Wendy Kwek</td>
+    <td class="tg-b5l7">chow_peck_yin_wendy</td>
+  </tr>
+  <tr>
+    <td class="tg-b5l7"><span style="color:#000">SDR </span> </td>
+    <td class="tg-b5l7"><span style="color:#000">Mrs Magdalene Sebastian</span> </td>
+    <td class="tg-b5l7"><span style="color:#000">magdalene_christina_sebastian</span></td>
+  </tr>
+  <tr>
+    <td class="tg-1b5h">SDR</td>
+    <td class="tg-1b5h">Miss Chua Si Ai</td>
+    <td class="tg-1b5h">chua_si_ai</td>
+  </tr>
+  <tr>
+    <td class="tg-1b5h">SDR</td>
+    <td class="tg-1b5h">Miss Ashley Boey</td>
+    <td class="tg-1b5h">sabrina_abdullahashley_boey_ching</td>
+  </tr>
+  <tr>
+    <td class="tg-1b5h">SDR</td>
+    <td class="tg-1b5h">Mdm Lam Hui Li Narcissus</td>
+    <td class="tg-1b5h">lam_hui_li_narcissus</td>
+  </tr>
+  <tr>
+    <td class="tg-1b5h">SDR</td>
+    <td class="tg-1b5h">Mdm Kong Su-Mei Monica</td>
+    <td class="tg-b5l7">kong_su_mei_monica<br></td>
+  </tr>
+  <tr>
+    <td class="tg-1b5h">SDR</td>
+    <td class="tg-1b5h">Mdm Tan Sze-Hui Vanessa</td>
+    <td class="tg-1b5h">tan_sze_hui_vanessa </td>
+  </tr>
+</tbody>
+</table>
 
 #### **ALLIED EDUCATORS**
 
