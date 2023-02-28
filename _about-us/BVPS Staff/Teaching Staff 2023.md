@@ -286,7 +286,52 @@ third_nav_title: BVPS Staff
 
 #### **PRIMARY 6 FORM TEACHERS**
 
-
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-b5l7{background-color:rgba(255, 255, 255, 0.6);color:#333;text-align:left;vertical-align:top}
+.tg .tg-1b5h{background-color:rgba(255, 255, 255, 0.6);color:#333;text-align:left;vertical-align:middle}
+.tg .tg-qyxu{background-color:#ffffff;color:#330001;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-qyxu">Class</th>
+    <th class="tg-qyxu">Form Teachers</th>
+    <th class="tg-qyxu">Email Address<br>@moe.edu.sg</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-1b5h">6 Graciousness</td>
+    <td class="tg-1b5h">Mrs Kumutha Selvan <br>Miss Chan Li Xin</td>
+    <td class="tg-1b5h">kumutha_silvamany<br>chan_li_xin</td>
+  </tr>
+  <tr>
+    <td class="tg-1b5h">6 Responsibility</td>
+    <td class="tg-b5l7"><span style="color:#000">Mdm Aida Noorwani</span><br><br>Mdm Ernita Bte Yazid</td>
+    <td class="tg-1b5h">aida_noorwani<br>ernita_mohd_yazid<br></td>
+  </tr>
+  <tr>
+    <td class="tg-b5l7">6 Respect</td>
+    <td class="tg-1b5h">Mdm Tan Shimin<br>Mdm Siti Shahira Bte Sapade<br></td>
+    <td class="tg-1b5h">chen_shimin<br>siti_shahira_sapade</td>
+  </tr>
+  <tr>
+    <td class="tg-1b5h">6 Care</td>
+    <td class="tg-1b5h">Mrs Eunice Goh<br>Mohammmad Abdul Halim Bin Rosli</td>
+    <td class="tg-1b5h">suat_ling_eunice_kho<br>mohammad_abdul_halim_rosli</td>
+  </tr>
+  <tr>
+    <td class="tg-1b5h"> 6 Harmony</td>
+    <td class="tg-1b5h">Mr A R Balamurugan<br>Mdm Norezan Bte Saim <br></td>
+    <td class="tg-1b5h">a_r_balamurugan <br>norezan_saim</td>
+  </tr>
+</tbody>
+</table>
 
 #### **MOTHER TONGUE TEACHERS**
 
