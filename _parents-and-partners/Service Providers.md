@@ -12,7 +12,7 @@ PRO-TEACH EDUCATION GROUP PTE LTD
 Tel: 8717 6766  
 **Email:  bukitview@pro-teach.com**
 
-#### **SCHOOL BOOKSHOP ** 
+#### **SCHOOL BOOKSHOP** 
 
 #### **PACIFIC BOOKSTORES PTE LTD**
 
