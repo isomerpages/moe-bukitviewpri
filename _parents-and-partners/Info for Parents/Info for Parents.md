@@ -36,9 +36,3 @@ The video aims to help parents and educators realise the importance of Social St
 
 Click [here](/files/Parents%20and%20Partners/Info%20for%20Parents/Info%20for%20Parents/Parents%20Tip%20Sheet_pdf.pdf) to learn more about how you can reinforce Cyber Wellness education at home.  
   
-
-#### **2021/2022 End-of-Year Purchase of Textbooks and School Uniform**  
-
-
-  
-Click [here](/files/Parents%20and%20Partners/Info%20for%20Parents/Info%20for%20Parents/EOY%20Book%20and%20Uniform%20Sale%20BVPS%20For%20School%20Website_Serene.pdf) for more information.
