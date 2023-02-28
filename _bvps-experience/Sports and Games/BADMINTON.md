@@ -26,6 +26,7 @@ As members of the Badminton CCA , students not only learn the basics of the spor
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-t8hx{background-color:rgba(255, 255, 255, 0.6);color:#333;text-align:left;text-decoration:underline;vertical-align:top}
 .tg .tg-1b5h{background-color:rgba(255, 255, 255, 0.6);color:#333;text-align:left;vertical-align:middle}
+.tg .tg-669n{background-color:rgba(255, 255, 255, 0.6);color:#333;text-align:left;text-decoration:underline;vertical-align:middle}
 .tg .tg-bx9b{background-color:#ffffff;color:#000000;font-weight:bold;text-align:left;vertical-align:middle}
 </style>
 <table class="tg">
@@ -40,7 +41,7 @@ As members of the Badminton CCA , students not only learn the basics of the spor
 <tbody>
   <tr>
     <td class="tg-1b5h"> WED</td>
-    <td class="tg-1b5h"> SCHOOL TEAM<br><span style="font-weight:normal">2 p.m. to 4 p.m</span><span style="font-weight:600;color:#333">.</span></td>
+    <td class="tg-669n"> SCHOOL TEAM<br><span style="font-weight:normal">2 p.m. to 4 p.m</span><span style="font-weight:600;color:#333">.</span></td>
     <td class="tg-1b5h">Mr Marso Mohammed Dil'shad  (I/C)<br>Mdm Grace Goh Yue Lin<br>Mdm Esther Chua<br>Mdm Kir Soo Kien</td>
     <td class="tg-1b5h"> School Hall</td>
   </tr>
