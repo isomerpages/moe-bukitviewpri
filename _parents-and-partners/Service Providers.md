@@ -10,19 +10,16 @@ PRO-TEACH EDUCATION GROUP PTE LTD
   
 
 Tel: 8717 6766  
-
 **Email:  bukitview@pro-teach.com**
 
-SCHOOL BOOKSHOP  
+#### **SCHOOL BOOKSHOP ** 
 
 #### **PACIFIC BOOKSTORES PTE LTD**
 
   
 
-**Operating Hours:**
-
-Mondays to Fridays : 11.30am to 12.30pm  &  2pm to 3pm
-
+**Operating Hours:**  
+Mondays to Fridays : 11.30am to 12.30pm  &  2pm to 3pm  
 Tel: 6464 0111 / 6563 0889  
   
 
@@ -40,32 +37,24 @@ Walk-in purchase at retail outlet is strictly by appointment only, please be rem
 
   
 
-Mode of Payment: 
-
+Mode of Payment:  
 Cash, Nets, PayNow, DBS Paylah!
 
   
 
-Retail address:
-
+Retail address:  
 BLK 4012 ANG MO KIO AVE 10 #01-09 TECHPLACE 1 SINGAPORE 569628
 
   
 
-Opening Hours:
-
-Monday to Friday: 10 a.m. to 6 p.m.
-
-Saturday: 10 a.m. to 2 p.m.
-
+Opening Hours:  
+Monday to Friday: 10 a.m. to 6 p.m.  
+Saturday: 10 a.m. to 2 p.m.  
 Closed on Sundays and Pubic Holidays 
 
   
 
-Lunch Break and Sanitising of Store: 1 p.m. to 2 p.m.
-
-  
-
+Lunch Break and Sanitising of Store: 1 p.m. to 2 p.m.  
 Tel: 3163 6074    
 
   
