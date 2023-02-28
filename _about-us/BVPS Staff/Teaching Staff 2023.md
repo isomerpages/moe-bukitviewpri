@@ -237,7 +237,52 @@ third_nav_title: BVPS Staff
 
 #### **PRIMARY 5 FORM TEACHERS**
 
-
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-b5l7{background-color:rgba(255, 255, 255, 0.6);color:#333;text-align:left;vertical-align:top}
+.tg .tg-1b5h{background-color:rgba(255, 255, 255, 0.6);color:#333;text-align:left;vertical-align:middle}
+.tg .tg-qyxu{background-color:#ffffff;color:#330001;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-qyxu">Class</th>
+    <th class="tg-qyxu">Form Teachers</th>
+    <th class="tg-qyxu">Email Address<br>@moe.edu.sg</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-1b5h">5 Graciousness</td>
+    <td class="tg-1b5h">Mdm Serene Ng Tse ErnMiss Rose Aizashira Bte Aineh</td>
+    <td class="tg-1b5h">ng_tse_ern<br>rose_aizashira_aineh<br></td>
+  </tr>
+  <tr>
+    <td class="tg-1b5h">5 Responsibility</td>
+    <td class="tg-1b5h">Mr Yao Huasong<br>Miss Ashley Boey <br></td>
+    <td class="tg-1b5h">yao_huasong<br>sabrina_abdullahashley_boey_ching<br></td>
+  </tr>
+  <tr>
+    <td class="tg-1b5h">5 Integrity</td>
+    <td class="tg-b5l7">Mdm Tan You Mei<br>Mr Teo Jiunn Shyan, Gary</td>
+    <td class="tg-b5l7">tan_you_mei<br>gary_teo_jiunn_shyan</td>
+  </tr>
+  <tr>
+    <td class="tg-b5l7"><span style="color:#000">5 Perseverance</span><br></td>
+    <td class="tg-1b5h">Mdm Sheena Ho</td>
+    <td class="tg-1b5h">ho_shi_hui_sheena<br></td>
+  </tr>
+  <tr>
+    <td class="tg-1b5h">5 Respect</td>
+    <td class="tg-1b5h">Mdm Tan Beng Choo<br>Mdm Ang Siok Kuwan, Dominique<br></td>
+    <td class="tg-1b5h">tan_beng_choo<br>ang_siok_kuwan_dominique</td>
+  </tr>
+</tbody>
+</table>
 
 #### **PRIMARY 6 FORM TEACHERS**
 
