@@ -77,15 +77,15 @@ third_nav_title: BVPS Staff
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-b5l7{background-color:rgba(255, 255, 255, 0.6);color:#333;text-align:left;vertical-align:top}
-.tg .tg-6jtc{background-color:#ffffff;color:#330001;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-1b5h{background-color:rgba(255, 255, 255, 0.6);color:#333;text-align:left;vertical-align:middle}
+.tg .tg-qyxu{background-color:#ffffff;color:#330001;font-weight:bold;text-align:left;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-6jtc">Class</th>
-    <th class="tg-6jtc">Form Teachers</th>
-    <th class="tg-6jtc">Email Address<br>@moe.edu.sg</th>
+    <th class="tg-qyxu">Class</th>
+    <th class="tg-qyxu">Form Teachers</th>
+    <th class="tg-qyxu">Email Address<br>@moe.edu.sg</th>
   </tr>
 </thead>
 <tbody>
