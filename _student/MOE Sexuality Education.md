@@ -163,3 +163,15 @@ b. Character and Citizenship Education (CCE)
 
 **Please Note:**   
 **\*For 2023, the Primary 5 lesson “Did You Know?” will also be conducted for the Primary 6 cohort.**
+
+#### **INFORMATION FOR PARENTS**  
+
+8\. Parents may opt their children out of the Sexuality Education lessons and/or supplementary Sexuality Education programmes by MOE-approved external providers. 
+
+  
+
+9\. Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an online opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [HERE](https://bukitviewpri.moe.edu.sg/qql/slot/u318/ANNEX%20A%20OptOut%20Form%20Pr%202023.pdf). The completed opt-out is to be submitted by **18 January 2023.** 
+
+  
+
+10. Parents can contact the school at **bukitview\_ps@moe.edu.sg** for discussion or to seek clarification about the school's Sexuality Education programme.
