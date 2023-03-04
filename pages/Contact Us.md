@@ -7,26 +7,19 @@ description: ""
 
   
 
-**18 Bukit Batok St 21**
-
+**18 Bukit Batok St 21**  
 **Singapore 659634**
 
-**Public Bus Services:**
-
-**173 _(In front of BVPS at Bukit Batok St 21)_**
-
-**66, 189, 990 _(Behind BVPS, along Bukit Batok East Ave 6)_**  
-
+**Public Bus Services:**  
+**173 _(In front of BVPS at Bukit Batok St 21)_**  
+**66, 189, 990 _(Behind BVPS, along Bukit Batok East Ave 6)_**    
 **61, 77, 106, 157, 174, 178, 852, 506, 963 _(Near BVPS, along Bukit Batok East Ave 3)_**  
 
   
 
-**Operating Hours:**
-
-**Mondays to Fridays: 7.30am to 5.30pm**
-
-**Saturdays: Closed**
-
+**Operating Hours:**  
+**Mondays to Fridays: 7.30am to 5.30pm**  
+**Saturdays: Closed**  
 **Sundays and Public Holidays: Closed**
 
   
@@ -35,8 +28,7 @@ description: ""
 
   
 
-**Tel: 6566 1980**
-
+**Tel: 6566 1980**  
 **Fax: 6563 5015**
 
   
