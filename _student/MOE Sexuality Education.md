@@ -174,4 +174,4 @@ b. Character and Citizenship Education (CCE)
 
   
 
-10. Parents can contact the school at **bukitview\_ps@moe.edu.sg** for discussion or to seek clarification about the school's Sexuality Education programme.
+10. Parents can contact the school at **bukitview_ps@moe.edu.sg** for discussion or to seek clarification about the school's Sexuality Education programme.
