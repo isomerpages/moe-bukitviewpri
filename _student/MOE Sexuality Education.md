@@ -170,7 +170,7 @@ b. Character and Citizenship Education (CCE)
 
   
 
-9\. Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an online opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [HERE](https://bukitviewpri.moe.edu.sg/qql/slot/u318/ANNEX%20A%20OptOut%20Form%20Pr%202023.pdf). The completed opt-out is to be submitted by **18 January 2023.** 
+9\. Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an online opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [HERE](/files/Student/ANNEX%20A%20OptOut%20Form%20Pr%202023.pdf). The completed opt-out is to be submitted by **18 January 2023.** 
 
   
 
