@@ -34,5 +34,23 @@ The video aims to help parents and educators realise the importance of Social St
 #### **Cyberwellness Education at Home**
 
 
-Click [here](/files/Parents%20and%20Partners/Info%20for%20Parents/Info%20for%20Parents/Parents%20Tip%20Sheet_pdf.pdf) to learn more about how you can reinforce Cyber Wellness education at home.  
-  
+Click [here](/files/Parents%20and%20Partners/Info%20for%20Parents/Info%20for%20Parents/Parents%20Tip%20Sheet_pdf.pdf) to learn more about how you can reinforce Cyber Wellness education at home.
+
+
+#### **2023 School Booklist (P1 to P6)**
+
+BVPS P1 Booklist here
+
+BVPS P2 Booklist here
+
+BVPS P3 Booklist here
+
+BVPS P4 Booklist here
+
+BVPS P5 Booklist here
+
+BVPS P5 Foundation Booklist here
+
+BVPS P6 Booklist here
+
+BVPS P6 Foundation Booklist here
