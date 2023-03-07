@@ -39,7 +39,7 @@ Click [here](/files/Parents%20and%20Partners/Info%20for%20Parents/Info%20for%20
 
 #### **2023 School Booklist (P1 to P6)**
 
-BVPS P1 Booklist [here][](/files/2023%20P1%20BVPS%20Booklist.pdf)
+BVPS P1 Booklist [here](/2023 P1 BVPS Booklist.pdf)
 
 BVPS P2 Booklist here
 
