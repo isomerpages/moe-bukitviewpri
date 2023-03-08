@@ -4,7 +4,7 @@ title: Bukitview Primary School
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: Welcome to BukitView Primary!
+notification: Welcome to Bukit View Primary!
 sections:
   - hero:
       background: /images/Homepage/HomepageGIF.gif
