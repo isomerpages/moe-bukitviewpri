@@ -258,7 +258,7 @@ third_nav_title: BVPS Staff
 <tbody>
   <tr>
     <td class="tg-1b5h">5 Graciousness</td>
-    <td class="tg-1b5h">Mdm Serene Ng Tse ErnMiss Rose Aizashira Bte Aineh</td>
+    <td class="tg-1b5h">Mdm Serene Ng Tse Ern<br>Miss Rose Aizashira Bte Aineh</td>
     <td class="tg-1b5h">ng_tse_ern<br>rose_aizashira_aineh<br></td>
   </tr>
   <tr>
@@ -279,7 +279,7 @@ third_nav_title: BVPS Staff
   <tr>
     <td class="tg-1b5h">5 Respect</td>
     <td class="tg-1b5h">Mdm Tan Beng Choo<br>Mdm Ang Siok Kuwan, Dominique<br></td>
-    <td class="tg-1b5h">tan_beng_choo<br>ang_siok_kuwan_dominique</td>
+    <td class="tg1b5h">tan_beng_choo<br>ang_siok_kuwan_dominique</td>
   </tr>
 </tbody>
 </table>
@@ -312,18 +312,18 @@ third_nav_title: BVPS Staff
   </tr>
   <tr>
     <td class="tg-1b5h">6 Responsibility</td>
-    <td class="tg-b5l7"><span style="color:#000">Mdm Aida Noorwani</span><br><br>Mdm Ernita Bte Yazid</td>
+    <td class="tg-1b5h"><span style="color:#000">Mdm Aida Noorwani</span><br>Mdm Ernita Bte Yazid</td>
     <td class="tg-1b5h">aida_noorwani<br>ernita_mohd_yazid<br></td>
   </tr>
   <tr>
-    <td class="tg-b5l7">6 Respect</td>
-    <td class="tg-1b5h">Mdm Tan Shimin<br>Mdm Siti Shahira Bte Sapade<br></td>
+    <td class="tg-1b5h">6 Respect</td>
+    <td class="tg-1b5h">Mdm Tan Shimin<br>Mdm Siti Shahira Bte Sapade</td>
     <td class="tg-1b5h">chen_shimin<br>siti_shahira_sapade</td>
   </tr>
   <tr>
     <td class="tg-1b5h">6 Care</td>
     <td class="tg-1b5h">Mrs Eunice Goh<br>Mohammmad Abdul Halim Bin Rosli</td>
-    <td class="tg-1b5h">suat_ling_eunice_kho<br>mohammad_abdul_halim_rosli</td>
+    <td class="tg1b5h">suat_ling_eunice_kho<br>mohammad_abdul_halim_rosli</td>
   </tr>
   <tr>
     <td class="tg-1b5h"> 6 Harmony</td>
