@@ -263,8 +263,8 @@ third_nav_title: BVPS Staff
   </tr>
   <tr>
     <td class="tg-1b5h">5 Responsibility</td>
-    <td class="tg-1b5h">Mr Yao Huasong<br>Miss Ashley Boey <br></td>
-    <td class="tg-1b5h">yao_huasong<br>sabrina_abdullahashley_boey_ching<br></td>
+    <td class="tg-1b5h">Miss Ashley Boey <br></td>
+    <td class="tg-1b5h">sabrina_abdullahashley_boey_ching<br></td>
   </tr>
   <tr>
     <td class="tg-1b5h">5 Integrity</td>
