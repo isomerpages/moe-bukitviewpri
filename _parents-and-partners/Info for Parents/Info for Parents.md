@@ -41,16 +41,16 @@ Click [here](/files/Parents%20and%20Partners/Info%20for%20Parents/Info%20for%20
 
 BVPS P1 Booklist [here](/2023 P1 BVPS Booklist.pdf)
 
-BVPS P2 Booklist here
+BVPS P2 Booklist [here](/2023 P2 BVPS booklist.pdf)
 
-BVPS P3 Booklist here
+BVPS P3 Booklist [here](/2023 P3 BVPS Booklist.pdf)
 
-BVPS P4 Booklist here
+BVPS P4 Booklist [here](2023 P4 BVPS Booklist.pdf)
 
-BVPS P5 Booklist here
+BVPS P5 Booklist [here](/2023 P5 BVPS Booklist.pdf)
 
-BVPS P5 Foundation Booklist here
+BVPS P5 Foundation Booklist [here](/2023 P5 Fdn BVPS Booklist.pdf)
 
-BVPS P6 Booklist here
+BVPS P6 Booklist [here](/2023 P6 BVPS Booklist.pdf)
 
-BVPS P6 Foundation Booklist here
+BVPS P6 Foundation Booklist [here](/2023 P6 Fdn BVPS Booklist.pdf)
