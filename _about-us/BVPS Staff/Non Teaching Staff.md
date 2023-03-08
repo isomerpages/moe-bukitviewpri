@@ -39,7 +39,7 @@ third_nav_title: BVPS Staff
   </tr>
   <tr>
     <td class="tg-5gxm">ICT Associate</td>
-    <td class="tg-b5l7">Mr Khoo Kwan Liang<br>Ms Khairunissa Bte Khalid</td>
+    <td class="tg-b5l7">Mr Khoo Kwan Liang<br>Ms Khairunnisa Bte Khalid</td>
   </tr>
   <tr>
     <td class="tg-5gxm">Desktop Engineer</td>
