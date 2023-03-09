@@ -3,7 +3,6 @@ title: School History
 permalink: /about-us/School-History/
 description: ""
 ---
-  
 Bukit View Primary School was established in Bukit Batok New Town in January 1986 and started operations in the premises of Bukit View Secondary School. On 24 March 1986, Bukit View Primary School moved into its own building at Bukit Batok Street 21, where it is presently located. The school was officially opened on 31 August 1988.
 
 Since its establishment in 1986, Bukit View Primary School has continuously upgraded its facilities to provide a conducive environment to support teaching and learning. In 2001, Bukit View Primary School completed the PRIME upgrading and has since been operating as a single-session school. The major improvements included a new classroom block, improved administrative and staff rooms, a larger library and canteen, additional computer and science labs and better-equipped special rooms.
@@ -19,6 +18,7 @@ Principals:
 *   Mrs Low Poh Lin (1997–2001)
 *   Mdm Jenny Law (2002–2011)
 *   Mrs Elsie Poey (2012–2016)
-*   Mdm Koh Yuen Choo (2017–present)
+*   Mdm Koh Yuen Choo (2017–2022)
+*   Mdm Teo Eng Hui (2022)
 
 ![](/images/About%20Us/School%20History/H1.jpg)
