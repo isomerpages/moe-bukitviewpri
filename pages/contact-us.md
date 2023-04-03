@@ -12,9 +12,7 @@ locations:
       - days: Mon - Fri
         time: 7.30am - 5.30pm
         description: |-
-          Saturdays: Closed
-
-
+          Saturdays, 
           Sundays and Public Holidays: Closed
     maps_link: ""
     title: Main Office
