@@ -10,20 +10,12 @@ locations:
       - Singapore 659634
     operating_hours:
       - days: Mon - Fri
-        time: 8.30am - 6.00pm
-        description: Closed on Public Holidays
-      - days: Sat
-        time: 8.30am - 12.00pm
-        description: ""
+        time: 7.30am - 5.30pm
+        description: |-
+          Saturdays: Closed
+          Sundays and Public Holidays: Closed
     maps_link: ""
     title: Main Office
-  - address:
-      - 109 North Bridge Road
-      - Singapore 179097
-      - ""
-    operating_hours: []
-    maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
-    title: Branch Office
 contacts:
   - content:
       - phone: +65 6566 1980
@@ -32,9 +24,4 @@ contacts:
           href="https://forms.cwp.gov.sg/bukitviewpri/FormP361U"</a> online
           feedback form. '
     title: General Enquiries & Feedback
-  - content:
-      - phone: ""
-      - email: careers@abc.gov.sg
-      - other: ""
-    title: Careers
 ---
