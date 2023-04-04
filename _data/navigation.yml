@@ -1,15 +1,60 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/Homepage/LOGO.png
 links:
+  - title: About Us
+    url: /about-us/Mission-Vision-and-Motto/
+    sublinks:
+      - title: Mission, Vision and Motto
+        url: /about-us/Mission-Vision-and-Motto/
+      - title: Our School Values
+        url: /about-us/Our-School-Values/
+      - title: School Crest
+        url: /about-us/School-Crest/
+      - title: School Song
+        url: /about-us/School-Song/
+      - title: School History
+        url: /about-us/School-History/
+      - title: BVPS Staff
+        url: /about-us/BVPS-Staff/EXCO-Members/
+      - title: WZCOE for Aesthetics
+        url: /about-us/WZCOE-for-Aesthetics/
+  - title: Parents & Partners
+    url: /parents-and-partners/Info-for-Parents/Info-for-Parents/
+    sublinks:
+      - title: Info for Parents
+        url: /parents-and-partners/Info-for-Parents/Info-for-Parents/
+      - title: Subject-Based Banding Brochure
+        url: /parents-and-partners/Subject-Based-Banding-Brochure/
+      - title: E-Newsletter
+        url: /parents-and-partners/E-Newsletter/
+      - title: School Advisory Committee(SAC)
+        url: /parents-and-partners/School-Advisory-Committee-SAC/
+      - title: Service Providers
+        url: /parents-and-partners/Service-Providers/
+  - title: BVPS Experience
+    url: /bvps-experience/CoCurricular-Activities/
+    sublinks:
+      - title: "Co-Curricular Activities "
+        url: /bvps-experience/CoCurricular-Activities/
+      - title: Curriculum
+        url: /bvps-experience/Curriculum/Curriculum/
+      - title: Learn For Life Programmes
+        url: /bvps-experience/Learn-For-Life-Programmes/Learn-For-Life-Programmes-at-BVPS/
+      - title: Life in BVPS
+        url: /bvps-experience/Life-in-BVPS/
+  - title: Student
+    url: /student/School-Rules/
+    sublinks:
+      - title: School Rules
+        url: /student/School-Rules/
+      - title: Assessment Policy
+        url: /student/Assessment-Policy/Assessment-Policy/
+      - title: Calendar of Events
+        url: /student/CALENDAR-OF-EVENTS/
+      - title: MOE Sexuality Education
+        url: /student/MOE-SEXUALITY-EDUCATION/
+      - title: SEMESTRAL ASSESSMENT schedule
+        url: /student/SEMESTRAL-ASSESSMENT-schedule/
+      - title: Student Learning Space
+        url: /student/Student-Learning-Space/
   - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+    url: /Contact-Us/
