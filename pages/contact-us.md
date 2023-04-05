@@ -11,13 +11,15 @@ locations:
     operating_hours:
       - days: Mon - Fri
         time: 7.30am - 5.30pm
-        description: "closed"
+        description: closed
     maps_link: ""
     title: Main Office
 contacts:
   - content:
       - phone: +65 6566 1980
       - email: bukitview_ps@moe.edu.sg
-      - other: "something"
+      - other: You can send in your enquiries or suggestions using our
+          <a           href="https://forms.cwp.gov.sg/bukitviewpri/FormP361U"</a>
+          online           feedback form.
     title: General Enquiries & Feedback
 ---
