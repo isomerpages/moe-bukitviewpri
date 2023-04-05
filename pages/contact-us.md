@@ -11,9 +11,7 @@ locations:
     operating_hours:
       - days: Mon - Fri
         time: 7.30am - 5.30pm
-        description: |-
-          Saturdays, 
-          Sundays and Public Holidays: Closed
+        description: "closed"
     maps_link: ""
     title: Main Office
 contacts:
