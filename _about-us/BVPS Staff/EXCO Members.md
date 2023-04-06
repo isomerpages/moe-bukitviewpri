@@ -25,14 +25,14 @@ third_nav_title: BVPS Staff
 </thead>
 <tbody>
   <tr>
-    <td class="tg-b5l7">Mdm Teo Eng Hui <br></td>
+    <td class="tg-1b5h">Mdm Teo Eng Hui <br></td>
     <td class="tg-1b5h">Principal</td>
     <td class="tg-1b5h">bukitview_ps</td>
   </tr>
   <tr>
     <td class="tg-1b5h">Mrs Chia-Lai Seow Poh</td>
-    <td class="tg-b5l7"><span style="color:#000">Vice-Principal (Academic)</span> </td>
-    <td class="tg-b5l7"><span style="color:#000">bukitview_ps</span></td>
+    <td class="tg-1b5h">Vice-Principal (Academic) </td>
+    <td class="tg-1b5h">bukitview_ps</td>
   </tr>
   <tr>
     <td class="tg-b5l7">Mr Goh Gin Howe</td>
@@ -46,18 +46,18 @@ third_nav_title: BVPS Staff
   </tr>
   <tr>
     <td class="tg-b5l7">Mrs Selena Ang<br></td>
-    <td class="tg-b5l7">HOD / Special Projects</td>
-    <td class="tg-b5l7">ang_selena</td>
+    <td class="tg-1b5h">HOD / Special Projects</td>
+    <td class="tg-1b5h">ang_selena</td>
   </tr>
   <tr>
     <td class="tg-b5l7">Miss Leong Sok Yee</td>
-    <td class="tg-b5l7">HOD / English</td>
-    <td class="tg-b5l7">leong_sok_yee</td>
+    <td class="tg-1b5h">HOD / English</td>
+    <td class="tg-1b5h">leong_sok_yee</td>
   </tr>
   <tr>
     <td class="tg-b5l7">Mdm Lee Lee Cheng</td>
-    <td class="tg-b5l7">SSD</td>
-    <td class="tg-b5l7">lee_lee_cheng</td>
+    <td class="tg-1b5h">SSD</td>
+    <td class="tg-1b5h">lee_lee_cheng</td>
   </tr>
   <tr>
     <td class="tg-1b5h">Mdm Ng Kay Joo</td>
@@ -67,32 +67,32 @@ third_nav_title: BVPS Staff
   <tr>
     <td class="tg-b5l7">Mrs Chloe Wong  </td>
     <td class="tg-b5l7">Lead Teacher- Mathematics  </td>
-    <td class="tg-b5l7">wong_soo_ching </td>
+    <td class="tg-1b5h">wong_soo_ching </td>
   </tr>
   <tr>
     <td class="tg-b5l7">Mdm Winnie Ho    <br></td>
-    <td class="tg-b5l7">HOD / ICT</td>
-    <td class="tg-b5l7">ho_yee_hin_winnie</td>
+    <td class="tg-1b5h">HOD / ICT</td>
+    <td class="tg-1b5h">ho_yee_hin_winnie</td>
   </tr>
   <tr>
     <td class="tg-1b5h">Mr Stephen Joseph D'cruz</td>
-    <td class="tg-b5l7">HOD / Science  </td>
+    <td class="tg-1b5h">HOD / Science  </td>
     <td class="tg-1b5h">stephen_joseph_dcruz<br></td>
   </tr>
   <tr>
     <td class="tg-b5l7">Mdm Faith Chung</td>
-    <td class="tg-b5l7">HOD / Aesthetics </td>
-    <td class="tg-b5l7">faith_chung_wai_teng</td>
+    <td class="tg-1b5h">HOD / Aesthetics </td>
+    <td class="tg-1b5h">faith_chung_wai_teng</td>
   </tr>
   <tr>
     <td class="tg-b5l7">Mdm Norsidah Suadi <br></td>
-    <td class="tg-b5l7">HOD / CCE &amp; Pastoral Care</td>
-    <td class="tg-b5l7">norsidah_suadi<br></td>
+    <td class="tg-1b5h">HOD / CCE &amp; Pastoral Care</td>
+    <td class="tg-1b5h">norsidah_suadi<br></td>
   </tr>
   <tr>
     <td class="tg-b5l7">Mdm Fong Mei Ying</td>
-    <td class="tg-b5l7">HOD / Mother Tongue</td>
-    <td class="tg-b5l7">fong_mei_ying</td>
+    <td class="tg-1b5h">HOD / Mother Tongue</td>
+    <td class="tg-1b5h">fong_mei_ying</td>
   </tr>
   <tr>
     <td class="tg-1b5h">Mr Tan Eng Wee </td>
@@ -101,12 +101,12 @@ third_nav_title: BVPS Staff
   </tr>
   <tr>
     <td class="tg-1b5h">Mdm Cheng Joo Hiang</td>
-    <td class="tg-b5l7"><span style="color:#000">Year Head</span>  </td>
+    <td class="tg-1b5h">Year Head  </td>
     <td class="tg-1b5h">cheng_joo_hiang</td>
   </tr>
   <tr>
     <td class="tg-1b5h">Mdm Tan Ming Say </td>
-    <td class="tg-b5l7"><span style="color:#000">Year Head</span>  <br></td>
+    <td class="tg-1b5h">Year Head  <br></td>
     <td class="tg-1b5h">tan_ming_say  </td>
   </tr>
   <tr>
@@ -121,7 +121,7 @@ third_nav_title: BVPS Staff
   </tr>
   <tr>
     <td class="tg-1b5h">Mdm Eliana Bte Mohamed<br></td>
-    <td class="tg-b5l7">LH / English <br></td>
+    <td class="tg-1b5h">LH / English <br></td>
     <td class="tg-1b5h">eliana_mohamed<br></td>
   </tr>
   <tr>
@@ -135,8 +135,8 @@ third_nav_title: BVPS Staff
     <td class="tg-1b5h">neo_hui_fen</td>
   </tr>
   <tr>
-    <td class="tg-b5l7"><span style="color:#000">Mr Gary Teo</span> <br></td>
-    <td class="tg-b5l7">SH / PE &amp; CCA<br></td>
+    <td class="tg-1b5h">Mr Gary Teo<br></td>
+    <td class="tg-1b5h">SH / PE &amp; CCA<br></td>
     <td class="tg-1b5h">gary_teo_jiunn_shyan</td>
   </tr>
   <tr>

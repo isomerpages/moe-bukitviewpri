@@ -27,7 +27,7 @@ third_nav_title: BVPS Staff
 <tbody>
   <tr>
     <td class="tg-b5l7">1 Graciousness</td>
-    <td class="tg-1b5h">Miss Lim Hwee ChingMrs Wendy Kwek</td>
+    <td class="tg-1b5h">Miss Lim Hwee Ching<br>Mrs Wendy Kwek</td>
     <td class="tg-1b5h">lim_hwee_ching<br><span style="color:#000">chow_peck_yin_wendy</span></td>
   </tr>
   <tr>
@@ -42,7 +42,7 @@ third_nav_title: BVPS Staff
   </tr>
   <tr>
     <td class="tg-b5l7">1 Perseverance</td>
-    <td class="tg-1b5h">Mdm Nor Aidah Bte DuanaMrs Goh-Wang Jia  <br></td>
+    <td class="tg-1b5h">Mdm Nor Aidah Bte Duana<br>Mrs Goh-Wang Jia  <br></td>
     <td class="tg-1b5h">nor_aidah_duana<br>wang_jia</td>
   </tr>
   <tr>
@@ -52,7 +52,7 @@ third_nav_title: BVPS Staff
   </tr>
   <tr>
     <td class="tg-b5l7"><span style="color:#000">1 Care</span></td>
-    <td class="tg-1b5h">Mrs Lee-Chua Ee Wen Eileen Miss Tham Wei Ting Vanessa<br></td>
+    <td class="tg-1b5h">Mrs Lee-Chua Ee Wen Eileen<br> Miss Tham Wei Ting Vanessa<br></td>
     <td class="tg-1b5h">chua_ee_wen_eileen<br>Tham_Wei_Ting_Vanessa<br></td>
   </tr>
   <tr>
@@ -62,7 +62,7 @@ third_nav_title: BVPS Staff
   </tr>
   <tr>
     <td class="tg-1b5h">1 Resilience </td>
-    <td class="tg-b5l7"><span style="background-color:initial">Mdm Kir Soo Kien</span><br><br>Miss Tan Peck Har<br></td>
+    <td class="tg-b5l7">Mdm Kir Soo Kien<br>Miss Tan Peck Har<br></td>
     <td class="tg-1b5h">kir_soo_kien<br>tan_peck_har </td>
   </tr>
 </tbody>
@@ -160,8 +160,8 @@ third_nav_title: BVPS Staff
   </tr>
   <tr>
     <td class="tg-b5l7">3 Responsibility</td>
-    <td class="tg-1b5h">Mdm Siti Raihana Bte SuleimanMiss Ong Kai Gin Florence<br></td>
-    <td class="tg-b5l7">siti_raihana_suleiman<br>ong_kai_gin_florence</td>
+    <td class="tg-1b5h">Mdm Siti Raihana Bte Suleiman<br>Miss Ong Kai Gin Florence</td>
+		<td class="tg-1b5h">siti_raihana_suleiman<br>ong_kai_gin_florence<br></td>
   </tr>
   <tr>
     <td class="tg-b5l7">3 Integrity</td>
@@ -269,7 +269,7 @@ third_nav_title: BVPS Staff
   <tr>
     <td class="tg-1b5h">5 Integrity</td>
     <td class="tg-b5l7">Mdm Tan You Mei<br>Mr Teo Jiunn Shyan, Gary</td>
-    <td class="tg-b5l7">tan_you_mei<br>gary_teo_jiunn_shyan</td>
+		<td class="tg-1b5h">tan_you_mei<br>gary_teo_jiunn_shyan<br></td>
   </tr>
   <tr>
     <td class="tg-b5l7"><span style="color:#000">5 Perseverance</span><br></td>
@@ -279,7 +279,7 @@ third_nav_title: BVPS Staff
   <tr>
     <td class="tg-1b5h">5 Respect</td>
     <td class="tg-1b5h">Mdm Tan Beng Choo<br>Mdm Ang Siok Kuwan, Dominique<br></td>
-    <td class="tg1b5h">tan_beng_choo<br>ang_siok_kuwan_dominique</td>
+		<td class="tg-1b5h">tan_beng_choo<br>ang_siok_kuwan_dominique<br></td>
   </tr>
 </tbody>
 </table>
@@ -323,7 +323,7 @@ third_nav_title: BVPS Staff
   <tr>
     <td class="tg-1b5h">6 Care</td>
     <td class="tg-1b5h">Mrs Eunice Goh<br>Mohammmad Abdul Halim Bin Rosli</td>
-    <td class="tg1b5h">suat_ling_eunice_kho<br>mohammad_abdul_halim_rosli</td>
+		<td class="tg-1b5h">suat_ling_eunice_kho<br>mohammad_abdul_halim_rosli</td>
   </tr>
   <tr>
     <td class="tg-1b5h"> 6 Harmony</td>
@@ -492,7 +492,7 @@ third_nav_title: BVPS Staff
   <tr>
     <td class="tg-b5l7">LSM</td>
     <td class="tg-b5l7">Miss Tan Peck Har</td>
-    <td class="tg-2tv0"><a href="mailto:tan_peck_har@moe.edu.sg"><span style="font-weight:normal">tan_peck_har</span></a></td>
+    <td class="tg-1b5h">tan_peck_har</td>
   </tr>
   <tr>
     <td class="tg-b5l7">LSM</td>
