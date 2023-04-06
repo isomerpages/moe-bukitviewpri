@@ -3,7 +3,7 @@ title: Life in BVPS
 permalink: /bvps-experience/Life-in-BVPS/
 description: ""
 ---
-**<p style="font-size:30px"><u>BVPS Open House 2023</u></p>**
+**<u>BVPS Open House 2023</u>**
 
 ![](/images/BVPS%20Experience/Life%20in%20BVPS/combine.png)
    
