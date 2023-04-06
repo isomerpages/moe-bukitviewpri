@@ -7,12 +7,13 @@ description: ""
 
 ![](/images/BVPS%20Experience/Life%20in%20BVPS/combine.png)
    
+<br>
 
 Calling all parents with children going on to primary school next year! Do join us for our Open House on 20 Apr 2023 (Thu) starting from 2.15pm.
 
 Please register your interest using this form [here](https://go.gov.sg/bvpsopenhouse2023) .
 
-Meanwhile, you can follow us on [Facebook](https://www.facebook.com/BukitViewPrimary/)/[Instagram](https://instagram.com/bukitviewprimary?igshid=YmMyMTA2M2Y=) and check out our videos below on our school website to have a feel of Life in BVPS!
+Meanwhile, you can follow us on [Facebook](https://www.facebook.com/BukitViewPrimary/)/[Instagram](https://instagram.com/bukitviewprimary?igshid=YmMyMTA2M2Y=) and check out our videos below to have a feel of Life in BVPS!
 
 
 
