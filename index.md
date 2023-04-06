@@ -4,8 +4,8 @@ title: Bukitview Primary School
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: Welcome to Bukit View Primary!  - Scroll down to view more of our
-  Open House 2023 information
+notification: Welcome to Bukit View Primary!  - Scroll down to know more about
+  our Open House 2023
 sections:
   - hero:
       background: /images/Homepage/HomepageGIF.gif
