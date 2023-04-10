@@ -12,4 +12,4 @@ description: ""
   
 [BVPS e Newsletter for Semester 2 2020.pdf](/files/Life%20in%20BVPS/BVPS%20e-Newsletter%20for%20Semester%202%202020.pdf)
 
-BVPS 35th Anniversary Commemorative Book
+[BVPS 35th Commemorative Book](https://drive.google.com/file/d/1z7_TM_l1ndawPyNsEhvls42EAVgQbNzp/view?usp=share_link)
