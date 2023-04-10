@@ -85,11 +85,3 @@ Meanwhile, you can follow us on [Facebook](https://www.facebook.com/BukitViewPri
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mcETnz4sW4w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 **BVPS Corporate Video**
-
-#### **BVPS e-Newsletter**
-
-
-  
-&nbsp;[BVPS e Newsletter for Semester 1 2020.pdf](https://bukitviewpri.moe.edu.sg/qql/slot/u318/BVPS%20Experience/BVPS%20e-Newsletter%20for%20Semester%201%202020.pdf)&nbsp;  
-  
-&nbsp;[BVPS e Newsletter for Semester 2 2020.pdf](/files/Life%20in%20BVPS/BVPS%20e-Newsletter%20for%20Semester%202%202020.pdf)
