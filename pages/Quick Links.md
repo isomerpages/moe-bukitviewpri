@@ -9,7 +9,7 @@ description: ""
 
 *   [MOE Sexuality Education](https://www.bukitviewpri.moe.edu.sg/student/MOE-SEXUALITY-EDUCATION/)
 
-*   [STELLAR](http://www.stellarliteracy.sg/)
+*     [Parent Gateway](https://pg.moe.edu.sg/)
 
 
 #### **FOR PUPILS**
@@ -22,5 +22,4 @@ description: ""
 
 *    [MOE iCON](https://icon.moe.edu.sg/)
 *     [Resource Booking System](https://rbs.avero-tech.com/)
-*     [Parent Gateway](https://pg.moe.edu.sg/)
 *     [STP Wiki](https://go.gov.sg/stp)
