@@ -15,7 +15,7 @@ sections:
           url: /Highlights/
         - title: Announcements
           description: ""
-          url: /Announcements/
+          url: /announcements/
         - title: Quick Links
           description: ""
           url: /Quick-Links/
