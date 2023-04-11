@@ -10,6 +10,9 @@ sections:
   - hero:
       background: /images/Homepage/8combined.gif
       key_highlights:
+        - title: Highlights
+          description: ""
+          url: /Highlights
         - title: Announcements
           description: ""
           url: /Announcements/
