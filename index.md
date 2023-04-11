@@ -11,10 +11,10 @@ sections:
       background: /images/Homepage/8combined.gif
       key_highlights:
         - title: Announcements
-          description: Click here for Announcements
+          description: ""
           url: /Announcements/
         - title: Quick Links
-          description: Click here for Quick Links
+          description: ""
           url: /Quick-Links/
   - infopic:
       title: Open House 2023
