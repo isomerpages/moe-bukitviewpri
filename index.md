@@ -10,9 +10,6 @@ sections:
   - hero:
       background: /images/Homepage/8combined.gif
       key_highlights:
-        - title: Highlights
-          description: ""
-          url: /highlights/
         - title: Announcements
           description: ""
           url: https://www.bukitviewpri.moe.edu.sg/Announcements/
