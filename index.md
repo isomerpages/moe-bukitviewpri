@@ -12,7 +12,7 @@ sections:
       key_highlights:
         - title: Announcements
           description: ""
-          url: https://www.bukitviewpri.moe.edu.sg/Announcements/
+          url: /Announcements/
         - title: Quick Links
           description: ""
           url: /Quick-Links/
