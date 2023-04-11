@@ -101,8 +101,8 @@ third_nav_title: BVPS Staff
   </tr>
   <tr>
     <td class="tg-1b5h">2 Integrity </td>
-    <td class="tg-1b5h">Miss Chai Hui Min<br>Mdm Rahayu Bte Mohd Ali</td>
-    <td class="tg-1b5h">chai_hui_min<br>rahayu_mohamed_ali</td>
+    <td class="tg-1b5h">Miss Chai Hui Min<br>Miss Rachel Chew</td>
+    <td class="tg-1b5h">chai_hui_min<br>chew_hui_yi_rachel</td>
   </tr>
   <tr>
     <td class="tg-b5l7">2 Perseverance </td>
@@ -121,13 +121,13 @@ third_nav_title: BVPS Staff
   </tr>
   <tr>
     <td class="tg-1b5h">2 Harmony</td>
-    <td class="tg-b5l7">Mrs Florence Liew<br>Mr Muhammad Dzuhri Bin Juniwan</td>
-    <td class="tg-1b5h">loh_yian_wei<br>muhammad_dzuhri_juniwan<br></td>
+    <td class="tg-b5l7">Mrs Florence Liew<br>Miss Crystal Lim</td>
+    <td class="tg-1b5h">loh_yian_wei<br>lim_jia_hui_crystal<br></td>
   </tr>
   <tr>
     <td class="tg-1b5h">2 Resilience </td>
     <td class="tg-1b5h">Mdm Sheila Chua Huai Ling<br>Mdm Tan Sze-Hui Vanessa</td>
-    <td class="tg-b5l7"><span style="color:#000">chua_huai_ling_sheila</span><br>tan_sze_hui_vanessa </td>
+    <td class="tg-1b5h">chua_huai_ling_sheila<br>tan_sze_hui_vanessa </td>
   </tr>
 </tbody>
 </table>
@@ -165,8 +165,8 @@ third_nav_title: BVPS Staff
   </tr>
   <tr>
     <td class="tg-b5l7">3 Integrity</td>
-    <td class="tg-b5l7">Miss Lee Kit Beng<br></td>
-    <td class="tg-1b5h">lee_kit_beng<br></td>
+    <td class="tg-b5l7">Miss Lee Kit Beng<br>Miss Phan Wei En</td>
+    <td class="tg-1b5h">lee_kit_beng<br>phan_wei_en</td>
   </tr>
   <tr>
     <td class="tg-b5l7">3 Perseverance</td>
@@ -209,8 +209,8 @@ third_nav_title: BVPS Staff
 <tbody>
   <tr>
     <td class="tg-b5l7">4 Integrity</td>
-    <td class="tg-1b5h">Mr Lukman Umar Bin Zainal</td>
-    <td class="tg-1b5h">lukman_umar_umar<br></td>
+    <td class="tg-1b5h">Mr Lukman Umar Bin Zainal<br>Ms Wendy Yew</td>
+    <td class="tg-1b5h">lukman_umar_umar<br>yew_wei_xin_wendy</td>
   </tr>
   <tr>
     <td class="tg-b5l7">4 Perseverance</td>
@@ -273,8 +273,8 @@ third_nav_title: BVPS Staff
   </tr>
   <tr>
     <td class="tg-b5l7"><span style="color:#000">5 Perseverance</span><br></td>
-    <td class="tg-1b5h">Mdm Sheena Ho</td>
-    <td class="tg-1b5h">ho_shi_hui_sheena<br></td>
+    <td class="tg-1b5h">Mdm Sheena Ho<br> Miss Chua Yan Yan Esther</td>
+    <td class="tg-1b5h">ho_shi_hui_sheena<br>chua_yan_yan_esther_a</td>
   </tr>
   <tr>
     <td class="tg-1b5h">5 Respect</td>

@@ -8,13 +8,13 @@ notification: Welcome to Bukit View Primary!  - Scroll down to know more about
   our Open House 2023
 sections:
   - hero:
-      background: /images/Homepage/HomepageGIF.gif
+      background: /images/Homepage/8combined.gif
       key_highlights:
         - title: Announcements
-          description: Click here for Announcements
-          url: /Announcements/
+          description: ""
+          url: /announcements/
         - title: Quick Links
-          description: Click here for Quick Links
+          description: ""
           url: /Quick-Links/
   - infopic:
       title: Open House 2023

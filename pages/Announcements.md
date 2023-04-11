@@ -1,6 +1,6 @@
 ---
 title: Announcements
-permalink: /Announcements/
+permalink: /announcements/
 description: ""
 ---
 Information on the updated school canteen menu and price list can be found [here](/parents-and-partners/Info-for-Parents/Info-for-Parents/).
