@@ -1,6 +1,6 @@
 ---
 title: BVPS Publications
-permalink: /parents-and-partners/e-newsletter/
+permalink: /parents-and-partners/bvps-publications/
 description: ""
 ---
 #### **BVPS e-Newsletter**

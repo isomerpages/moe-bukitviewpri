@@ -9,7 +9,7 @@ description: ""
 
 *   [MOE Sexuality Education](https://www.bukitviewpri.moe.edu.sg/student/MOE-SEXUALITY-EDUCATION/)
 
-*     [Parent Gateway](https://pg.moe.edu.sg/)
+*   [Parent Gateway's](https://pg.moe.edu.sg/)
 
 
 #### **FOR PUPILS**

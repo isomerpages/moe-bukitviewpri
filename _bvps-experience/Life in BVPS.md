@@ -13,7 +13,7 @@ Calling all parents with children going on to primary school next year! Do join 
 
 Please register your interest using this form [here](https://go.gov.sg/bvpsopenhouse2023) .
 
-Meanwhile, you can follow us on [Facebook](https://www.facebook.com/BukitViewPrimary/)/[Instagram](https://instagram.com/bukitviewprimary?igshid=YmMyMTA2M2Y=) and check out our videos below to have a feel of Life in BVPS!
+Meanwhile, you can follow us on [Facebook](https://www.facebook.com/BukitViewPrimary/)/[Instagram](https://instagram.com/bukitviewprimary/) and check out our videos below to have a feel of Life in BVPS!
 
 <br>
 
