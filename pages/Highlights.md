@@ -7,4 +7,6 @@ description: ""
 **2022 VIDEOS** (click on the link to view)
 * 5CA 2022: Celebrating Diversity, Appreciating Interconnectedness
 * 5RT 2022: Coping With Exam Stress
+* 5GR 2022: Racial Harmony Day
+* 5RY 2022: Celebrating Success
 
