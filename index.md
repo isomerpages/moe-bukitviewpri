@@ -13,12 +13,12 @@ sections:
         - title: Announcements
           description: ""
           url: /announcements/
-        - title: Quick Links
-          description: ""
-          url: /Quick-Links/
         - title: Highlights
           description: ""
           url: /highlights/
+        - title: Quick Links
+          description: ""
+          url: /Quick-Links/
   - infopic:
       title: Open House 2023
       button: Let's go!
