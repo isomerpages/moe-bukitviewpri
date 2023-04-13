@@ -17,17 +17,17 @@ Meanwhile, you can follow us on [Facebook](https://www.facebook.com/BukitViewPri
 
 <br>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/t5hroFVMyIY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pHC5vE5U6Gg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 **Sharing on BVPS By Principal**
 <br>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rJLHzE0UP9s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XcjmDacqnPI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 **Getting to Know Our School Leaders**
 <br>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kuowDZR4mPY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/a-LYn0eanBs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 **What Parents Say About Bukit View Primary School**
 <br>
