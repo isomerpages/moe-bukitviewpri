@@ -3,12 +3,9 @@ title: Life in BVPS
 permalink: /bvps-experience/Life-in-BVPS/
 description: ""
 ---
-**<u>BVPS Open House 2023</u>**
+# BVPS Open House 2023
 
 ![](/images/BVPS%20Experience/Life%20in%20BVPS/combine.png)
-   
-<br>
-
 Calling all parents with children going on to primary school next year! Do join us for our Open House on 20 Apr 2023 (Thu) starting from 2.15pm.
 
 Please register your interest using this form [here](https://go.gov.sg/bvpsopenhouse2023) .
