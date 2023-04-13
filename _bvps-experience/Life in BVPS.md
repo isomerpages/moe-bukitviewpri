@@ -12,7 +12,6 @@ Please register your interest using this form [here](https://go.gov.sg/bvpsopenh
 
 Meanwhile, you can follow us on [Facebook](https://www.facebook.com/BukitViewPrimary/)/[Instagram](https://instagram.com/bukitviewprimary/) and check out our videos below to have a feel of Life in BVPS!
 
-<br>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pHC5vE5U6Gg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
