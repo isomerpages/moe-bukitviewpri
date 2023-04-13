@@ -4,7 +4,11 @@ permalink: /highlights/
 description: ""
 ---
 # **News & Views**
-*(click on the links to view)*
+For P5 and P6 students, drama provides a platform for students to hone their skills and showcase their talents as they collaborate with their peers to put up drama performances for the whole school. 
+
+![](/images/Homepage/News%20and%20Views/writeup%20image.jpg)
+
+Here are the links to some of our News and Views drama videos showcased in 2021 and 2022. Enjoy! *(click on the links below to view)*
 
 **2022 VIDEOS** 
 ![](/images/Homepage/News%20and%20Views/videosgrid2023.PNG)
