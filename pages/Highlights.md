@@ -20,7 +20,7 @@ Here are the links to some of our News and Views drama videos showcased in 2021 
 * 6CA 2022: [Responsible Learner](https://www.youtube.com/watch?v=KzgTMJE3N3E&t=38s)
 * 6IN 2022: [Overcoming The Odds Together](https://www.youtube.com/watch?v=somex-bYzXA&t=30s)
 * 6PE 2022: [News and Views @ BVPS](https://www.youtube.com/watch?v=C3ruc_OdMhw&t=1s)
-* 6RT 2022 - [News and Views on Innovation](https://www.youtube.com/watch?v=hO0eMlDJ0Ro&t=1s)
+* 6RT 2022: [News and Views on Innovation](https://www.youtube.com/watch?v=hO0eMlDJ0Ro&t=1s)
 
 
 **2021 VIDEOS**
