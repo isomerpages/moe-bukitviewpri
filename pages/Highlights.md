@@ -12,13 +12,13 @@ description: ""
 * 5GR 2022: [Racial Harmony Day](https://www.youtube.com/watch?v=Jf3RrSz68fw)
 * 5RY 2022: [Celebrating Success](https://www.youtube.com/watch?v=NeJfcnxfrOw)
 * 5HA 2022: [Effective Study Skills](https://www.youtube.com/watch?v=LnAB5296hB4&t=1s)
-* 6CA 2022: Responsible Learner
-* 6IN 2022: Overcoming The Odds Together
-* 6PE 2022: News and Views @ BVPS
-* 6RT 2022 - News and Views on Innovation
+* 6CA 2022: [Responsible Learner](https://www.youtube.com/watch?v=KzgTMJE3N3E&t=38s)
+* 6IN 2022: [Overcoming The Odds Together](https://www.youtube.com/watch?v=somex-bYzXA&t=30s)
+* 6PE 2022: [News and Views @ BVPS](https://www.youtube.com/watch?v=C3ruc_OdMhw&t=1s)
+* 6RT 2022 - [News and Views on Innovation](https://www.youtube.com/watch?v=hO0eMlDJ0Ro&t=1s)
 
 
 **2021 VIDEOS**
-* 6GR 2021: In the News
-* 6RT 2021: Spelling Strategies
-* 6RY 2021: International Friendship Day
+* 6GR 2021: [In the News](https://www.youtube.com/watch?v=qV48Gv10woA&t=1s)
+* 6RT 2021: [Spelling Strategies](https://www.youtube.com/watch?v=K7K2BjLY_W0&t=1s)
+* 6RY 2021: [International Friendship Day](https://www.youtube.com/watch?v=MYviqfPBdWs&t=102s)
