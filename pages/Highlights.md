@@ -11,7 +11,7 @@ For P5 and P6 students, drama provides a platform for students to hone their ski
 Here are the links to some of our News and Views drama videos showcased in 2021 and 2022. Enjoy! *(click on the links below to view)*
 
 **2022 VIDEOS** 
-![](/images/Homepage/News%20and%20Views/videosgrid2023.PNG)
+![](/images/Homepage/News%20and%20Views/videosgrid202301.PNG)
 * 5CA 2022: [Celebrating Diversity, Appreciating Interconnectedness](https://www.youtube.com/watch?v=GUyTsQml5Ws&t=1s)
 * 5RT 2022: [Coping With Exam Stress](https://www.youtube.com/watch?v=qhUZU5oJrwk&t=1s)
 * 5GR 2022: [Racial Harmony Day](https://www.youtube.com/watch?v=Jf3RrSz68fw)
