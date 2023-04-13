@@ -35,7 +35,6 @@ Meanwhile, you can follow us on [Facebook](https://www.facebook.com/BukitViewPri
 **e-Open House 2021 (Sharing on Facilities)** 
 <br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XQOyKe0otLg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-
 **e-Open House 2021 (Sharing on Programmes)**
 <br>
 
