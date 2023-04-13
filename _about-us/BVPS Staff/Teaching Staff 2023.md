@@ -111,8 +111,8 @@ third_nav_title: BVPS Staff
   </tr>
   <tr>
     <td class="tg-b5l7">2 Respect</td>
-    <td class="tg-1b5h">Mrs Karen Chan<br>Ms Noor Azniza Bte Abdul Aziz<br></td>
-    <td class="tg-1b5h">ng_hui_koon_karen<br>noor_azniza_abdul_aziz_a</td>
+    <td class="tg-1b5h">Mrs Karen Chan<br>Ms Noor Azniza Bte Abdul Aziz<br>Ms Emily Ng</td>
+    <td class="tg-1b5h">ng_hui_koon_karen<br>noor_azniza_abdul_aziz_a<br>ng_wan_ling_emily</td>
   </tr>
   <tr>
     <td class="tg-b5l7">2 Care</td>
@@ -170,8 +170,8 @@ third_nav_title: BVPS Staff
   </tr>
   <tr>
     <td class="tg-b5l7">3 Perseverance</td>
-    <td class="tg-1b5h">Miss Er Xin Hui<br></td>
-    <td class="tg-b5l7">er_xin_hui<br></td>
+    <td class="tg-1b5h">Miss Er Xin Hui<br>Ms Wong Po San</td>
+    <td class="tg-1b5h">er_xin_hui<br>wong_po_san</td>
   </tr>
   <tr>
     <td class="tg-1b5h">3 Respect</td>
@@ -180,8 +180,8 @@ third_nav_title: BVPS Staff
   </tr>
   <tr>
     <td class="tg-1b5h"> 3 Care</td>
-    <td class="tg-1b5h">Mr Zachariah Jayden Than Rui Sheng<br></td>
-    <td class="tg-b5l7">zachariah_jayden_than_rui</td>
+    <td class="tg-1b5h">Mr Zachariah Jayden Than Rui Sheng<br>Mrs Yeo Soon Foong</td>
+    <td class="tg-1b5h">zachariah_jayden_than_rui<br>yeo_soon_foong</td>
   </tr>
 </tbody>
 </table>
@@ -263,8 +263,8 @@ third_nav_title: BVPS Staff
   </tr>
   <tr>
     <td class="tg-1b5h">5 Responsibility</td>
-    <td class="tg-1b5h">Miss Ashley Boey <br></td>
-    <td class="tg-1b5h">sabrina_abdullahashley_boey_ching<br></td>
+    <td class="tg-1b5h">Mr Muhammad Dzuhri<br>Miss Ashley Boey</td>
+    <td class="tg-1b5h">muhammad_dzuhri_juniwan<br>sabrina_abdullahashley_boey_ching</td>
   </tr>
   <tr>
     <td class="tg-1b5h">5 Integrity</td>
