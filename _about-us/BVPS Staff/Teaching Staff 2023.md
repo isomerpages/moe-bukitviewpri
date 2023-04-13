@@ -538,12 +538,22 @@ third_nav_title: BVPS Staff
   <tr>
     <td class="tg-b5l7">LSM </td>
     <td class="tg-b5l7">Mrs Wendy Kwek</td>
-    <td class="tg-b5l7">chow_peck_yin_wendy</td>
+    <td class="tg-1b5h">chow_peck_yin_wendy</td>
+  </tr>
+	 <tr>
+    <td class="tg-b5l7">LSM </td>
+    <td class="tg-b5l7">Ms Kir Soo Kien</td>
+    <td class="tg-1b5h">kir_soo_kien</td>
+  </tr>
+	 <tr>
+    <td class="tg-b5l7">LSM </td>
+    <td class="tg-b5l7">Mdm Lee Lee Cheng</td>
+    <td class="tg-1b5h">lee_lee_cheng</td>
   </tr>
   <tr>
     <td class="tg-b5l7"><span style="color:#000">SDR </span> </td>
-    <td class="tg-b5l7"><span style="color:#000">Mrs Magdalene Sebastian</span> </td>
-    <td class="tg-b5l7"><span style="color:#000">magdalene_christina_sebastian</span></td>
+    <td class="tg-b5l7">Mrs Magdalene Sebastian</td>
+    <td class="tg-1b5h">magdalene_christina_sebastian</td>
   </tr>
   <tr>
     <td class="tg-1b5h">SDR</td>
@@ -563,7 +573,7 @@ third_nav_title: BVPS Staff
   <tr>
     <td class="tg-1b5h">SDR</td>
     <td class="tg-1b5h">Mdm Kong Su-Mei Monica</td>
-    <td class="tg-b5l7">kong_su_mei_monica<br></td>
+    <td class="tg-1b5h">kong_su_mei_monica<br></td>
   </tr>
   <tr>
     <td class="tg-1b5h">SDR</td>
