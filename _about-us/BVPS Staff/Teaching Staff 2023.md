@@ -111,8 +111,8 @@ third_nav_title: BVPS Staff
   </tr>
   <tr>
     <td class="tg-b5l7">2 Respect</td>
-    <td class="tg-1b5h">Mrs Karen Chan<br>Ms Noor Azniza Bte Abdul Aziz<br></td>
-    <td class="tg-1b5h">ng_hui_koon_karen<br>noor_azniza_abdul_aziz_a</td>
+    <td class="tg-1b5h">Mrs Karen Chan<br>Ms Noor Azniza Bte Abdul Aziz<br>Ms Emily Ng</td>
+    <td class="tg-1b5h">ng_hui_koon_karen<br>noor_azniza_abdul_aziz_a<br>ng_wan_ling_emily</td>
   </tr>
   <tr>
     <td class="tg-b5l7">2 Care</td>
@@ -170,8 +170,8 @@ third_nav_title: BVPS Staff
   </tr>
   <tr>
     <td class="tg-b5l7">3 Perseverance</td>
-    <td class="tg-1b5h">Miss Er Xin Hui<br></td>
-    <td class="tg-b5l7">er_xin_hui<br></td>
+    <td class="tg-1b5h">Miss Er Xin Hui<br>Ms Wong Po San</td>
+    <td class="tg-1b5h">er_xin_hui<br>wong_po_san</td>
   </tr>
   <tr>
     <td class="tg-1b5h">3 Respect</td>
@@ -180,8 +180,8 @@ third_nav_title: BVPS Staff
   </tr>
   <tr>
     <td class="tg-1b5h"> 3 Care</td>
-    <td class="tg-1b5h">Mr Zachariah Jayden Than Rui Sheng<br></td>
-    <td class="tg-b5l7">zachariah_jayden_than_rui</td>
+    <td class="tg-1b5h">Mr Zachariah Jayden Than Rui Sheng<br>Mrs Yeo Soon Foong</td>
+    <td class="tg-1b5h">zachariah_jayden_than_rui<br>yeo_soon_foong</td>
   </tr>
 </tbody>
 </table>
@@ -263,8 +263,8 @@ third_nav_title: BVPS Staff
   </tr>
   <tr>
     <td class="tg-1b5h">5 Responsibility</td>
-    <td class="tg-1b5h">Miss Ashley Boey <br></td>
-    <td class="tg-1b5h">sabrina_abdullahashley_boey_ching<br></td>
+    <td class="tg-1b5h">Mr Muhammad Dzuhri<br>Miss Ashley Boey</td>
+    <td class="tg-1b5h">muhammad_dzuhri_juniwan<br>sabrina_abdullahashley_boey_ching</td>
   </tr>
   <tr>
     <td class="tg-1b5h">5 Integrity</td>
@@ -424,6 +424,26 @@ third_nav_title: BVPS Staff
     <td class="tg-1b5h">Miss Fong Shi Men </td>
     <td class="tg-1b5h">fong_shi_men </td>
   </tr>
+	<tr>
+    <td class="tg-1b5h">CL </td>
+    <td class="tg-1b5h">Ms Phang Wei En </td>
+    <td class="tg-1b5h">phang_wei_en </td>
+  </tr>
+	<tr>
+    <td class="tg-1b5h">CL </td>
+    <td class="tg-1b5h">Ms Crystal Lim Jia Hui </td>
+    <td class="tg-1b5h">lim_jia_hui_crystal</td>
+  </tr>
+	<tr>
+    <td class="tg-1b5h">CL </td>
+    <td class="tg-1b5h">Ms Er Xin Hui </td>
+    <td class="tg-1b5h">er_xin_hui</td>
+  </tr>
+	<tr>
+    <td class="tg-1b5h">CL </td>
+    <td class="tg-1b5h">Mdm Grace</td>
+    <td class="tg-1b5h">grace_goh_yue_Lin</td>
+  </tr>
   <tr>
     <td class="tg-b5l7">ML</td>
     <td class="tg-b5l7">Mdm Suraya</td>
@@ -443,6 +463,17 @@ third_nav_title: BVPS Staff
     <td class="tg-1b5h">ML</td>
     <td class="tg-1b5h">Ms Noor Azniza Bte Abdul Aziz</td>
     <td class="tg-b5l7">noor_azniza_abdul_aziz_a<br></td>
+  </tr>
+	<tr>
+    <td class="tg-1b5h">ML </td>
+    <td class="tg-1b5h">Mdm Rahayu</td>
+    <td class="tg-1b5h">rahayu_mohamed_ali
+</td>
+  </tr>
+	<tr>
+    <td class="tg-1b5h">ML </td>
+    <td class="tg-1b5h">Ms Rose</td>
+    <td class="tg-1b5h">rose_aizashira_aineh</td>
   </tr>
   <tr>
     <td class="tg-b5l7">TL</td>
@@ -507,12 +538,22 @@ third_nav_title: BVPS Staff
   <tr>
     <td class="tg-b5l7">LSM </td>
     <td class="tg-b5l7">Mrs Wendy Kwek</td>
-    <td class="tg-b5l7">chow_peck_yin_wendy</td>
+    <td class="tg-1b5h">chow_peck_yin_wendy</td>
+  </tr>
+	 <tr>
+    <td class="tg-b5l7">LSM </td>
+    <td class="tg-b5l7">Ms Kir Soo Kien</td>
+    <td class="tg-1b5h">kir_soo_kien</td>
+  </tr>
+	 <tr>
+    <td class="tg-b5l7">LSM </td>
+    <td class="tg-b5l7">Mdm Lee Lee Cheng</td>
+    <td class="tg-1b5h">lee_lee_cheng</td>
   </tr>
   <tr>
     <td class="tg-b5l7"><span style="color:#000">SDR </span> </td>
-    <td class="tg-b5l7"><span style="color:#000">Mrs Magdalene Sebastian</span> </td>
-    <td class="tg-b5l7"><span style="color:#000">magdalene_christina_sebastian</span></td>
+    <td class="tg-b5l7">Mrs Magdalene Sebastian</td>
+    <td class="tg-1b5h">magdalene_christina_sebastian</td>
   </tr>
   <tr>
     <td class="tg-1b5h">SDR</td>
@@ -532,7 +573,7 @@ third_nav_title: BVPS Staff
   <tr>
     <td class="tg-1b5h">SDR</td>
     <td class="tg-1b5h">Mdm Kong Su-Mei Monica</td>
-    <td class="tg-b5l7">kong_su_mei_monica<br></td>
+    <td class="tg-1b5h">kong_su_mei_monica<br></td>
   </tr>
   <tr>
     <td class="tg-1b5h">SDR</td>
