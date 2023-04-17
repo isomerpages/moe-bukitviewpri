@@ -17,7 +17,7 @@ Thank you for visiting Bukit View Primary School official school website. By acc
 
 ### Privacy Policy
 
-4\. Click here to review this website [Privacy Statement]().
+4\. Click here to review this website [Privacy Statement](/privacy_statement).
 
 ### Restrictions on use of Materials
 
