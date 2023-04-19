@@ -12,6 +12,7 @@ We are excited about this new development as the new campus will have state of t
 ![](/images/sch%20map.JPG)
 
 You may read more about the school’s move [here](https://www.straitstimes.com/singapore/politics/bukit-view-primary-school-s-move-west-closer-to-tengah-is-to-meet-demand-there)
+
 In the upcoming 3 years, the school will involve current and past students and stakeholders, as we embark on this exciting journey of building a new school, appreciating our heritage, and creating a new legacy.
 
 Information on the updated school canteen menu and price list can be found [here](/parents-and-partners/Info-for-Parents/Info-for-Parents/).
