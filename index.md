@@ -19,10 +19,4 @@ sections:
         - title: Quick Links
           description: ""
           url: /Quick-Links/
-  - infopic:
-      title: Open House 2023
-      button: Let's go!
-      url: /bvps-experience/Life-in-BVPS/
-      image: /images/BVPS Experience/Life in BVPS/open house.jpg
-      alt: bvps open house 2023
 ---
