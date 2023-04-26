@@ -3,16 +3,6 @@ title: Life in BVPS
 permalink: /bvps-experience/Life-in-BVPS/
 description: ""
 ---
-# BVPS Open House 2023
-
-![](/images/BVPS%20Experience/Life%20in%20BVPS/combine.png)
-Calling all parents with children going on to primary school next year! Do join us for our Open House on 20 Apr 2023 (Thu) starting from 2.15pm.
-
-Please register your interest using this form [here](https://go.gov.sg/bvpsopenhouse2023) .
-
-Meanwhile, you can follow us on [Facebook](https://www.facebook.com/BukitViewPrimary/)/[Instagram](https://instagram.com/bukitviewprimary/) and check out our videos below to have a feel of Life in BVPS!
-
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pHC5vE5U6Gg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 Sharing on BVPS By Principal
 <br><br>
