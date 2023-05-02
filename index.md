@@ -23,4 +23,5 @@ sections:
         - title: Quick Links
           description: ""
           url: /Quick-Links/
+  - resources: {}
 ---
