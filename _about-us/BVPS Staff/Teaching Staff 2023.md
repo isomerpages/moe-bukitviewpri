@@ -400,11 +400,6 @@ third_nav_title: BVPS Staff
     <td class="tg-b5l7">chen_shimin</td>
   </tr>
   <tr>
-    <td class="tg-b5l7">CL </td>
-    <td class="tg-b5l7">Mdm Chua Xingrou </td>
-    <td class="tg-b5l7">chua_xingrou</td>
-  </tr>
-  <tr>
     <td class="tg-1b5h">CL </td>
     <td class="tg-b5l7">Mdm Tan You Mei </td>
     <td class="tg-b5l7">tan_you_mei</td>
@@ -439,12 +434,7 @@ third_nav_title: BVPS Staff
     <td class="tg-1b5h">Ms Er Xin Hui </td>
     <td class="tg-1b5h">er_xin_hui</td>
   </tr>
-	<tr>
-    <td class="tg-1b5h">CL </td>
-    <td class="tg-1b5h">Mdm Grace</td>
-    <td class="tg-1b5h">grace_goh_yue_Lin</td>
-  </tr>
-  <tr>
+	 <tr>
     <td class="tg-b5l7">ML</td>
     <td class="tg-b5l7">Mdm Suraya</td>
     <td class="tg-b5l7">suraya_rahmat</td>
