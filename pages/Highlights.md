@@ -6,10 +6,11 @@ description: ""
 # **News &amp; Views**
 For P5 and P6 students, drama provides a platform for students to hone their skills and showcase their talents as they collaborate with their peers to put up drama performances for the whole school. 
 
-![](/images/Homepage/News%20and%20Views/writeup%20image.jpg)
+Here are the links to some of our News and Views drama videos showcased in the recent years. Enjoy! *(click on the links below to view)*
 
-**6RY - Self-directedness**
-![](/images/Homepage/News%20and%20Views/6responsibility.jpg)
+**2023 Videos and Photos**
+**6CA - Cyberwellness theme**
+
 
 **6GR - Social Responsibility and Resilience**
 
@@ -17,18 +18,14 @@ For P5 and P6 students, drama provides a platform for students to hone their ski
 **6HA - Bullying Prevention Matters**
 ![](/images/Homepage/News%20and%20Views/6harmony.jpg)
 
-**6CA - Cyberwellness theme**
-
-
 **6RT - FTGP My Support Network: Care and Respect for Others**
 ![](/images/Homepage/News%20and%20Views/6respect.jpg)
 
+**6RY - Self-directedness**
+![](/images/Homepage/News%20and%20Views/6responsibility.jpg)
 
-<br>
 
-Here are the links to some of our News and Views drama videos showcased in the recent years. Enjoy! *(click on the links below to view)*
-
-**2022 VIDEOS** 
+**2022 Videos and Photos** 
 ![](/images/Homepage/News%20and%20Views/merged_2.jpg)
 * 5CA 2022: [Celebrating Diversity, Appreciating Interconnectedness](https://www.youtube.com/watch?v=GUyTsQml5Ws&amp;t=1s)
 * 5RT 2022: [Coping With Exam Stress](https://www.youtube.com/watch?v=qhUZU5oJrwk&amp;t=1s)
