@@ -11,7 +11,22 @@ For P5 and P6 students, drama provides a platform for students to hone their ski
 **6RY - Self-directedness**
 ![](/images/Homepage/News%20and%20Views/6responsibility.jpg)
 
-Here are the links to some of our News and Views drama videos showcased in the past years. Enjoy! *(click on the links below to view)*
+**6GR - Social Responsibility and Resilience**
+
+
+**6HA - Bullying Prevention Matters**
+![](/images/Homepage/News%20and%20Views/6harmony.jpg)
+
+**6CA - Cyberwellness theme**
+
+
+**6RT - FTGP My Support Network: Care and Respect for Others**
+![](/images/Homepage/News%20and%20Views/6respect.jpg)
+
+
+
+
+Here are the links to some of our News and Views drama videos showcased in the recent years. Enjoy! *(click on the links below to view)*
 
 **2022 VIDEOS** 
 ![](/images/Homepage/News%20and%20Views/merged_2.jpg)
