@@ -5,11 +5,11 @@ description: ""
 ---
 #### **FOR PARENTS**
 
-*   [School Bag](https://www.schoolbag.edu.sg//)
+*  [School Bag  website](https://www.schoolbag.edu.sg//)
 
-*   [MOE Sexuality Education](https://www.bukitviewpri.moe.edu.sg/student/MOE-SEXUALITY-EDUCATION/)
+*  [MOE Sexuality Education](https://www.bukitviewpri.moe.edu.sg/student/MOE-SEXUALITY-EDUCATION/)
 
-*   [Parent Gateway's](https://pg.moe.edu.sg/)
+*  [Parent Gateway's](https://pg.moe.edu.sg/)
 
 
 #### **FOR PUPILS**
