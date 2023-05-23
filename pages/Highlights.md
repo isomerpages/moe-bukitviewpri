@@ -8,7 +8,10 @@ For P5 and P6 students, drama provides a platform for students to hone their ski
 
 ![](/images/Homepage/News%20and%20Views/writeup%20image.jpg)
 
-Here are the links to some of our News and Views drama videos showcased in 2021 and 2022. Enjoy! *(click on the links below to view)*
+**6RY - Self-directedness**
+![](/images/Homepage/News%20and%20Views/6responsibility.jpg)
+
+Here are the links to some of our News and Views drama videos showcased in the past years. Enjoy! *(click on the links below to view)*
 
 **2022 VIDEOS** 
 ![](/images/Homepage/News%20and%20Views/merged_2.jpg)
