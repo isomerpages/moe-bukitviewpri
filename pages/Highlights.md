@@ -12,11 +12,9 @@ Here are the links to some of our News and Views drama videos showcased in the r
 
 **6CA - Cyberwellness theme**
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="6CA 2023 - Cyberwellness" src="https://www.youtube.com/embed/MZpqI26a2LI" height="393" width="699"></iframe>
-<br>
 
 **6GR - Social Responsibility and Resilience**
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="6GR 2023 - Save the whales" src="https://www.youtube.com/embed/SnTw8Uot4C0" height="393" width="699"></iframe>
-<br>
 
 **6HA - Bullying Prevention Matters**
 ![](/images/Homepage/News%20and%20Views/6harmony.jpg)
