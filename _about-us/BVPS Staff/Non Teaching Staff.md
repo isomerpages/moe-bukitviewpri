@@ -27,7 +27,7 @@ third_nav_title: BVPS Staff
   </tr>
   <tr>
     <td class="tg-5gxm">Administrative Executive</td>
-    <td class="tg-b5l7">Mdm Jessie Ang<br>Mdm Genevieve Loh Peili</td>
+    <td class="tg-b5l7">Mdm Jessie Ang</td>
   </tr>
   <tr>
     <td class="tg-5gxm">Corporate Support Officer </td>
@@ -43,7 +43,7 @@ third_nav_title: BVPS Staff
   </tr>
   <tr>
     <td class="tg-5gxm">Desktop Engineer</td>
-    <td class="tg-b5l7">Mdm Nur Ain Binti Adam<br>Mr Ng Long Xiang</td>
+    <td class="tg-b5l7">Mdm Nur Ain Binti Adam</td>
   </tr>
   <tr>
     <td class="tg-5gxm">Library Assistant</td>
