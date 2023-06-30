@@ -589,6 +589,11 @@ third_nav_title: BVPS Staff
     <td class="tg-1b5h">Mrs Alfred Shanthi<br></td>
     <td class="tg-1b5h">shanthi_n_magaiswaran</td>
   </tr>
+	<tr>
+    <td class="tg-1b5h">Adjunct School Counsellor</td>
+    <td class="tg-1b5h">Mrs Menon Juliana<br></td>
+    <td class="tg-1b5h">menon_juliana_nee_lai</td>
+  </tr>
   <tr>
     <td class="tg-1b5h">Senior Special Educational Needs Officer</td>
     <td class="tg-1b5h">Miss Lim Kim Geok Jessie </td>
