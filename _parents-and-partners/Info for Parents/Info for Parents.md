@@ -14,7 +14,7 @@ Please click [here](/files/Parents%20and%20Partners/Info%20for%20Parents/Info%2
 (With effect from Monday, 22 August 2022)  
   
 
-#### **2022 WE-STories** 
+#### **2023 WE-STories** 
 
 
   
