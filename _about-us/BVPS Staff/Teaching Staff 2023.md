@@ -209,8 +209,8 @@ third_nav_title: BVPS Staff
 <tbody>
   <tr>
     <td class="tg-b5l7">4 Integrity</td>
-    <td class="tg-1b5h">Mr Lukman Umar Bin Zainal<br>Ms Wendy Yew</td>
-    <td class="tg-1b5h">lukman_umar_umar<br>yew_wei_xin_wendy</td>
+    <td class="tg-1b5h">Mr Lukman Umar Bin Zainal</td>
+    <td class="tg-1b5h">lukman_umar_umar</td>
   </tr>
   <tr>
     <td class="tg-b5l7">4 Perseverance</td>
