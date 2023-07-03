@@ -209,8 +209,8 @@ third_nav_title: BVPS Staff
 <tbody>
   <tr>
     <td class="tg-b5l7">4 Integrity</td>
-    <td class="tg-1b5h">Mr Lukman Umar Bin Zainal<br>Ms Wendy Yew</td>
-    <td class="tg-1b5h">lukman_umar_umar<br>yew_wei_xin_wendy</td>
+    <td class="tg-1b5h">Mr Lukman Umar Bin Zainal</td>
+    <td class="tg-1b5h">lukman_umar_umar</td>
   </tr>
   <tr>
     <td class="tg-b5l7">4 Perseverance</td>
@@ -429,11 +429,6 @@ third_nav_title: BVPS Staff
     <td class="tg-1b5h">Ms Crystal Lim Jia Hui </td>
     <td class="tg-1b5h">lim_jia_hui_crystal</td>
   </tr>
-	<tr>
-    <td class="tg-1b5h">CL </td>
-    <td class="tg-1b5h">Ms Er Xin Hui </td>
-    <td class="tg-1b5h">er_xin_hui</td>
-  </tr>
 	 <tr>
     <td class="tg-b5l7">ML</td>
     <td class="tg-b5l7">Mdm Suraya</td>
@@ -459,11 +454,6 @@ third_nav_title: BVPS Staff
     <td class="tg-1b5h">Mdm Rahayu</td>
     <td class="tg-1b5h">rahayu_mohamed_ali
 </td>
-  </tr>
-	<tr>
-    <td class="tg-1b5h">ML </td>
-    <td class="tg-1b5h">Ms Rose</td>
-    <td class="tg-1b5h">rose_aizashira_aineh</td>
   </tr>
   <tr>
     <td class="tg-b5l7">TL</td>
@@ -599,6 +589,11 @@ third_nav_title: BVPS Staff
     <td class="tg-1b5h">Mrs Alfred Shanthi<br></td>
     <td class="tg-1b5h">shanthi_n_magaiswaran</td>
   </tr>
+	<tr>
+    <td class="tg-1b5h">Adjunct School Counsellor</td>
+    <td class="tg-1b5h">Mrs Menon Juliana<br></td>
+    <td class="tg-1b5h">menon_juliana_nee_lai</td>
+  </tr>
   <tr>
     <td class="tg-1b5h">Senior Special Educational Needs Officer</td>
     <td class="tg-1b5h">Miss Lim Kim Geok Jessie </td>
@@ -669,15 +664,15 @@ third_nav_title: BVPS Staff
   </tr>
   <tr>
     <td class="tg-1b5h">11</td>
-    <td class="tg-1b5h">Mdm Ruzana Saini</td>
+    <td class="tg-1b5h">Mdm Juliet Ang Shy Yunn</td>
   </tr>
   <tr>
     <td class="tg-1b5h">12 </td>
-    <td class="tg-1b5h">Mdm Juliet Ang Shy Yunn </td>
+    <td class="tg-1b5h">Mdm Siti Zubaidah </td>
   </tr>
   <tr>
     <td class="tg-1b5h">13</td>
-    <td class="tg-1b5h">Mdm Siti Zubaidah</td>
+    <td class="tg-1b5h">Mdm Kavitha</td>
   </tr>
 </tbody>
 </table>
