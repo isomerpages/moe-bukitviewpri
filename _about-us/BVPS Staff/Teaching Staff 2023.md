@@ -470,6 +470,11 @@ third_nav_title: BVPS Staff
     <td class="tg-b5l7">Mdm Nageswari</td>
     <td class="tg-b5l7">nageswari_olaganathan</td>
   </tr>
+	<tr>
+    <td class="tg-b5l7">TL</td>
+    <td class="tg-b5l7">Mr Prakash</td>
+    <td class="tg-b5l7">prakash_ramachandran</td>
+  </tr>
 </tbody>
 </table>
 
@@ -672,7 +677,7 @@ third_nav_title: BVPS Staff
   </tr>
   <tr>
     <td class="tg-1b5h">13</td>
-    <td class="tg-1b5h">Mdm Kavitha</td>
+    <td class="tg-1b5h">Ms Kavitha</td>
   </tr>
 </tbody>
 </table>
