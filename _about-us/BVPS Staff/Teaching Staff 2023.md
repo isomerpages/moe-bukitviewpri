@@ -209,8 +209,8 @@ third_nav_title: BVPS Staff
 <tbody>
   <tr>
     <td class="tg-b5l7">4 Integrity</td>
-    <td class="tg-1b5h">Mr Lukman Umar Bin Zainal</td>
-    <td class="tg-1b5h">lukman_umar_umar</td>
+    <td class="tg-1b5h">Mr Lukman Umar Bin Zainal<br>Ms Law Yu Jing</td>
+    <td class="tg-1b5h">lukman_umar_umar<br>law_yu_jing</td>
   </tr>
   <tr>
     <td class="tg-b5l7">4 Perseverance</td>
@@ -224,8 +224,8 @@ third_nav_title: BVPS Staff
   </tr>
   <tr>
     <td class="tg-1b5h">4 Care</td>
-    <td class="tg-b5l7">Mdm Kalashobini Chandrasaharan<br></td>
-    <td class="tg-1b5h">kalashobini_chandrasaharan</td>
+    <td class="tg-b5l7">Mdm Kalashobini Chandrasaharan<br>Mr Tan Shuen Keat</td>
+    <td class="tg-1b5h">kalashobini_chandrasaharan<br>tan_shuen_keat</td>
   </tr>
   <tr>
     <td class="tg-b5l7"><span style="color:#000">4 Harmony</span><br><br></td>
