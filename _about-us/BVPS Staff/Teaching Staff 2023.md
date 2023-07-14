@@ -111,8 +111,8 @@ third_nav_title: BVPS Staff
   </tr>
   <tr>
     <td class="tg-b5l7">2 Respect</td>
-    <td class="tg-1b5h">Mrs Karen Chan<br>Ms Noor Azniza Bte Abdul Aziz<br>Ms Emily Ng</td>
-    <td class="tg-1b5h">ng_hui_koon_karen<br>noor_azniza_abdul_aziz_a<br>ng_wan_ling_emily</td>
+    <td class="tg-1b5h">Mrs Karen Chan<br>Ms Nur Diana Ishak<br>Ms Emily Ng</td>
+    <td class="tg-1b5h">ng_hui_koon_karen<br>nur_diana_ishak<br>ng_wan_ling_emily</td>
   </tr>
   <tr>
     <td class="tg-b5l7">2 Care</td>
