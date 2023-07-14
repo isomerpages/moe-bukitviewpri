@@ -180,8 +180,8 @@ third_nav_title: BVPS Staff
   </tr>
   <tr>
     <td class="tg-1b5h"> 3 Care</td>
-    <td class="tg-1b5h">Mr Zachariah Jayden Than Rui Sheng<br>Mrs Yeo Soon Foong</td>
-    <td class="tg-1b5h">zachariah_jayden_than_rui<br>yeo_soon_foong</td>
+    <td class="tg-1b5h">Mr Prakash <br>Mrs Yeo Soon Foong</td>
+    <td class="tg-1b5h">prakash_ramachandran<br>yeo_soon_foong</td>
   </tr>
 </tbody>
 </table>
