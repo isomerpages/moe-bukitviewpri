@@ -376,8 +376,8 @@ third_nav_title: BVPS Staff
   </tr>
   <tr>
     <td class="tg-b5l7">CL</td>
-    <td class="tg-1b5h">Mdm Ng Siew Hong</td>
-    <td class="tg-1b5h">ng_siew_hong<br></td>
+    <td class="tg-1b5h">Ms Law Yu Jing</td>
+    <td class="tg-1b5h">law_yu_jing<br></td>
   </tr>
   <tr>
     <td class="tg-b5l7">CL</td>
@@ -451,8 +451,8 @@ third_nav_title: BVPS Staff
   </tr>
 	<tr>
     <td class="tg-1b5h">ML </td>
-    <td class="tg-1b5h">Mdm Rahayu</td>
-    <td class="tg-1b5h">rahayu_mohamed_ali
+    <td class="tg-1b5h">Ms Nur Diana Bte Ishak</td>
+    <td class="tg-1b5h">nur_diana_ishak
 </td>
   </tr>
   <tr>
