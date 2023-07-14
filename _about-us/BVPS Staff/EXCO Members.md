@@ -124,13 +124,7 @@ third_nav_title: BVPS Staff
     <td class="tg-1b5h">LH / English <br></td>
     <td class="tg-1b5h">eliana_mohamed<br></td>
   </tr>
-  <tr>
-    <td class="tg-1b5h">Mdm Evelyn Chia Sheng Nan</td>
-    <td class="tg-1b5h">LH/Mathematics</td>
-    <td class="tg-1b5h">chia_sheng_nan_evelyn</td>
-  </tr>
-  <tr>
-    <td class="tg-1b5h">Mdm Hazel Neo Hui Fen</td>
+    <tr><td class="tg-1b5h">Mdm Hazel Neo Hui Fen</td>
     <td class="tg-1b5h">SH / Science </td>
     <td class="tg-1b5h">neo_hui_fen</td>
   </tr>
