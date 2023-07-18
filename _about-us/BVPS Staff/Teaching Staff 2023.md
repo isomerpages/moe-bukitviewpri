@@ -111,8 +111,8 @@ third_nav_title: BVPS Staff
   </tr>
   <tr>
     <td class="tg-b5l7">2 Respect</td>
-    <td class="tg-1b5h">Mrs Karen Chan<br>Ms Noor Azniza Bte Abdul Aziz<br>Ms Emily Ng</td>
-    <td class="tg-1b5h">ng_hui_koon_karen<br>noor_azniza_abdul_aziz_a<br>ng_wan_ling_emily</td>
+    <td class="tg-1b5h">Mrs Karen Chan<br>Ms Nur Diana Ishak<br>Ms Emily Ng</td>
+    <td class="tg-1b5h">ng_hui_koon_karen<br>nur_diana_ishak<br>ng_wan_ling_emily</td>
   </tr>
   <tr>
     <td class="tg-b5l7">2 Care</td>
@@ -180,8 +180,8 @@ third_nav_title: BVPS Staff
   </tr>
   <tr>
     <td class="tg-1b5h"> 3 Care</td>
-    <td class="tg-1b5h">Mr Zachariah Jayden Than Rui Sheng<br>Mrs Yeo Soon Foong</td>
-    <td class="tg-1b5h">zachariah_jayden_than_rui<br>yeo_soon_foong</td>
+    <td class="tg-1b5h">Mr Prakash <br>Mrs Yeo Soon Foong</td>
+    <td class="tg-1b5h">prakash_ramachandran<br>yeo_soon_foong</td>
   </tr>
 </tbody>
 </table>
@@ -209,8 +209,8 @@ third_nav_title: BVPS Staff
 <tbody>
   <tr>
     <td class="tg-b5l7">4 Integrity</td>
-    <td class="tg-1b5h">Mr Lukman Umar Bin Zainal</td>
-    <td class="tg-1b5h">lukman_umar_umar</td>
+    <td class="tg-1b5h">Mr Lukman Umar Bin Zainal<br>Ms Law Yu Jing</td>
+    <td class="tg-1b5h">lukman_umar_umar<br>law_yu_jing</td>
   </tr>
   <tr>
     <td class="tg-b5l7">4 Perseverance</td>
@@ -224,8 +224,8 @@ third_nav_title: BVPS Staff
   </tr>
   <tr>
     <td class="tg-1b5h">4 Care</td>
-    <td class="tg-b5l7">Mdm Kalashobini Chandrasaharan<br></td>
-    <td class="tg-1b5h">kalashobini_chandrasaharan</td>
+    <td class="tg-b5l7">Mdm Kalashobini Chandrasaharan<br>Mr Tan Shuen Keat</td>
+    <td class="tg-1b5h">kalashobini_chandrasaharan<br>tan_shuen_keat</td>
   </tr>
   <tr>
     <td class="tg-b5l7"><span style="color:#000">4 Harmony</span><br><br></td>
@@ -376,8 +376,8 @@ third_nav_title: BVPS Staff
   </tr>
   <tr>
     <td class="tg-b5l7">CL</td>
-    <td class="tg-1b5h">Mdm Ng Siew Hong</td>
-    <td class="tg-1b5h">ng_siew_hong<br></td>
+    <td class="tg-1b5h">Ms Law Yu Jing</td>
+    <td class="tg-1b5h">law_yu_jing<br></td>
   </tr>
   <tr>
     <td class="tg-b5l7">CL</td>
@@ -451,8 +451,8 @@ third_nav_title: BVPS Staff
   </tr>
 	<tr>
     <td class="tg-1b5h">ML </td>
-    <td class="tg-1b5h">Mdm Rahayu</td>
-    <td class="tg-1b5h">rahayu_mohamed_ali
+    <td class="tg-1b5h">Ms Nur Diana Bte Ishak</td>
+    <td class="tg-1b5h">nur_diana_ishak
 </td>
   </tr>
   <tr>
@@ -469,6 +469,11 @@ third_nav_title: BVPS Staff
     <td class="tg-b5l7">TL</td>
     <td class="tg-b5l7">Mdm Nageswari</td>
     <td class="tg-b5l7">nageswari_olaganathan</td>
+  </tr>
+	<tr>
+    <td class="tg-b5l7">TL</td>
+    <td class="tg-b5l7">Mr Prakash</td>
+    <td class="tg-b5l7">prakash_ramachandran</td>
   </tr>
 </tbody>
 </table>
@@ -672,7 +677,7 @@ third_nav_title: BVPS Staff
   </tr>
   <tr>
     <td class="tg-1b5h">13</td>
-    <td class="tg-1b5h">Mdm Kavitha</td>
+    <td class="tg-1b5h">Ms Kavitha</td>
   </tr>
 </tbody>
 </table>
