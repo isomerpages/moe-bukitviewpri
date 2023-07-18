@@ -62,8 +62,8 @@ third_nav_title: BVPS Staff
   </tr>
   <tr>
     <td class="tg-1b5h">1 Resilience </td>
-    <td class="tg-b5l7">Mdm Kir Soo Kien<br>Miss Tan Peck Har<br></td>
-    <td class="tg-1b5h">kir_soo_kien<br>tan_peck_har </td>
+    <td class="tg-b5l7">Mdm Kir Soo Kien<br>Miss Tan Peck Har<br>Ms Nur Nabilah Farhana</td>
+    <td class="tg-1b5h">kir_soo_kien<br>tan_peck_har<br>nur_nabilah_farhana_taufiq </td>
   </tr>
 </tbody>
 </table>
@@ -180,8 +180,9 @@ third_nav_title: BVPS Staff
   </tr>
   <tr>
     <td class="tg-1b5h"> 3 Care</td>
-    <td class="tg-1b5h">Mr Prakash <br>Mrs Yeo Soon Foong</td>
-    <td class="tg-1b5h">prakash_ramachandran<br>yeo_soon_foong</td>
+    <td class="tg-1b5h">Mrs Yeo Soon Foong<br>
+Mr Prakash</td>
+    <td class="tg-1b5h">yeo_soon_foong<br>prakash_ramachandran</td>
   </tr>
 </tbody>
 </table>
@@ -678,6 +679,10 @@ third_nav_title: BVPS Staff
   <tr>
     <td class="tg-1b5h">13</td>
     <td class="tg-1b5h">Ms Kavitha</td>
+  </tr>
+	<tr>
+    <td class="tg-1b5h">14</td>
+    <td class="tg-1b5h">Mrs Selena Ang</td>
   </tr>
 </tbody>
 </table>

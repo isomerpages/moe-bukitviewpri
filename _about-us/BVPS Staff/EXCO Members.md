@@ -45,11 +45,6 @@ third_nav_title: BVPS Staff
     <td class="tg-1b5h">siti_liana_rosd<br></td>
   </tr>
   <tr>
-    <td class="tg-b5l7">Mrs Selena Ang<br></td>
-    <td class="tg-1b5h">HOD / Special Projects</td>
-    <td class="tg-1b5h">ang_selena</td>
-  </tr>
-  <tr>
     <td class="tg-b5l7">Miss Leong Sok Yee</td>
     <td class="tg-1b5h">HOD / English</td>
     <td class="tg-1b5h">leong_sok_yee</td>
