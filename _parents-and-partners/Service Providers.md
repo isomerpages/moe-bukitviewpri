@@ -51,7 +51,7 @@ BLK 4012 ANG MO KIO AVE 10 #01-09 TECHPLACE 1 SINGAPORE 569628
 Opening Hours:  
 Monday to Friday: 10 a.m. to 6 p.m.  
 Saturday: 10 a.m. to 2 p.m.  
-Closed on Sundays and Pubic Holidays 
+Closed on Sundays and Public Holidays 
 
   
 
