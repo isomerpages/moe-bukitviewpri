@@ -29,28 +29,30 @@ Tel: 6464 0111 / 6563 0889
 
 
 
-School uniform, P.E. attire and name tags are now available at Jeep Sing Fashion's online store via the URL https://jeepsinguniform.com/collections/bukit-view-primary-school
+School uniform, P.E. attire and name tags are now available at Jeep Sing Fashion's [online store](https://jeepsinguniform.com/collections/bukit-view-primary-school). 
+  
+
+You may walk-in for purchase, FAS collection and exchange at the outlet.
+Appointments are no longer required. 
+[Click here](https://jeepsinguniform.com/pages/appointment-booking) for more information.
 
   
 
-Walk-in purchase at retail outlet is strictly by appointment only, please be reminded to book your time slots via https://jeepsinguniform.com/pages/appointment-booking
-
-  
-
-Mode of Payment:  
+**Mode of Payment:**  
 Cash, Nets, PayNow, DBS Paylah!
 
   
 
-Retail address:  
-BLK 4012 ANG MO KIO AVE 10 #01-09 TECHPLACE 1 SINGAPORE 569628
+**Retail address:**  
+BLK 4012 ANG MO KIO AVE 10 
+#01-09 TECHPLACE 1 SINGAPORE 569628
 
   
 
-Opening Hours:  
+**Opening Hours:**  
 Monday to Friday: 10 a.m. to 6 p.m.  
 Saturday: 10 a.m. to 2 p.m.  
-Closed on Sundays and Pubic Holidays 
+Closed on Sundays and Public Holidays 
 
   
 
@@ -78,6 +80,6 @@ Tel: 91142631
 
 **LIM CHIN YONG SCHOOL BUS TRANSPORT**
 
-Contact Person: Mr Winson Lim  
+**Contact Person**: Mr Winson Lim  
 Tel: 9271 9234  
 **Email:  lcysbt@gmail.com**
