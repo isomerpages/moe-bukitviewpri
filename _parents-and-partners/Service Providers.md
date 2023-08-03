@@ -38,19 +38,19 @@ Appointments are no longer required.
 
   
 
-Mode of Payment:  
+**Mode of Payment:**  
 Cash, Nets, PayNow, DBS Paylah!
 
   
 
-Retail address:  
+**Retail address:**  
 BLK 4012 ANG MO KIO AVE 10 
 #01-09 TECHPLACE 1
 SINGAPORE 569628
 
   
 
-Opening Hours:  
+**Opening Hours:**  
 Monday to Friday: 10 a.m. to 6 p.m.  
 Saturday: 10 a.m. to 2 p.m.  
 Closed on Sundays and Public Holidays 
@@ -81,6 +81,6 @@ Tel: 91142631
 
 **LIM CHIN YONG SCHOOL BUS TRANSPORT**
 
-Contact Person: Mr Winson Lim  
+**Contact Person**: Mr Winson Lim  
 Tel: 9271 9234  
 **Email:  lcysbt@gmail.com**
