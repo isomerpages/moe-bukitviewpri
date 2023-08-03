@@ -32,7 +32,7 @@ Tel: 6464 0111 / 6563 0889
 School uniform, P.E. attire and name tags are now available at Jeep Sing Fashion's [online store](https://jeepsinguniform.com/collections/bukit-view-primary-school). 
   
 
-You may walk-in for purchase, FAS collection and exchange at retail outlet.
+You may walk-in for purchase, FAS collection and exchange at the outlet.
 Appointments are no longer required. 
 [Click here](https://jeepsinguniform.com/pages/appointment-booking) for more information.
 
