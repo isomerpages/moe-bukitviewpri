@@ -29,7 +29,7 @@ Tel: 6464 0111 / 6563 0889
 
 
 
-School uniform, P.E. attire and name tags are now available at Jeep Sing Fashion's [online store](https://jeepsinguniform.com/collections/bukit-view-primary-school). ([https://jeepsinguniform.com/collections/bukit-view-primary-school])(https://jeepsinguniform.com/collections/bukit-view-primary-school)
+School uniform, P.E. attire and name tags are now available at Jeep Sing Fashion's [online store](https://jeepsinguniform.com/collections/bukit-view-primary-school). 
 
   
 
