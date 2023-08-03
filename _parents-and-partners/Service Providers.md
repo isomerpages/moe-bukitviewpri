@@ -45,8 +45,7 @@ Cash, Nets, PayNow, DBS Paylah!
 
 **Retail address:**  
 BLK 4012 ANG MO KIO AVE 10 
-#01-09 TECHPLACE 1
-SINGAPORE 569628
+#01-09 TECHPLACE 1 SINGAPORE 569628
 
   
 
