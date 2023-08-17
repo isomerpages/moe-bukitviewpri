@@ -16,23 +16,23 @@ The diagram below presents the key features of the EL Syllabus 2020.
 ![](/images/BVPS%20Experience/Curriculum/English%20Department/E1.png)
 
 The intent of the ELS 2020 is to develop 21st century skills and emerging competencies in our students and nurture them to be empathetic communicators, discerning readers and creative inquirers.
-![[undefined](https://drive.google.com/file/d/1nqqnLwYsVZQ2ZsPIeK6FrK-kgj3ca0Wo/view)](/images/BVPS%20Experience/Curriculum/English%20Department/leaves.png)
+![](/images/BVPS%20Experience/Curriculum/English%20Department/picture11.jpg)
 
 ![](/images/BVPS%20Experience/Curriculum/English%20Department/3boxes.png)
 
 #### **Key EL Programmes in BVPS**  
 
+**Speaking @ BVPS**
+
+Oracy lessons are crucial to foster effective communication skills. Through structured activities and discussions, students learn to articulate thoughts, listen actively, and engage in meaningful dialogues. These skills extend beyond classrooms, preparing students for success in diverse real-world scenarios, developing them as empathetic communicators.
+
   **ACTION! Drama in the Curriculum**&nbsp;
 
-Drama is incorporated into the EL curriculum to teach oracy in BVPS. Students take on the role of different characters and learn critical inventive thinking skills such as articulating their thoughts clearly, looking at situations from different perspectives and formulating decisions. Additionally, their command of the language and social emotional learning are further enhanced through the use of thinking routines.  
+Drama is incorporated into the EL curriculum to teach oracy in BVPS. Students take on the role of different characters and learn critical inventive thinking skills such as articulating their thoughts clearly, looking at situations from different perspectives and formulating decisions. Additionally, their command of the language and social emotional learning are further enhanced through the use of thinking routines.  In our school, we explore various platforms to provide opportunities for our students to hone their drama skills. 
   
-For P1 and P2 students, the school uses talk moves in the drama lessons to develop empathetic communicators and creative inquirers.
+![](/images/BVPS%20Experience/Curriculum/English%20Department/picture3.jpg)
 
-![](/images/BVPS%20Experience/Curriculum/English%20Department/E2.png)
 
-For P5 and P6 students, drama provides a platform for students to hone their skills and showcase their talents as they collaborate with their peers to put up drama performances for the whole school.
-
-![](/images/BVPS%20Experience/Curriculum/English%20Department/E3.png)
 
 #### **Extensive Reading Programmes**&nbsp; &nbsp;&nbsp;  
 
