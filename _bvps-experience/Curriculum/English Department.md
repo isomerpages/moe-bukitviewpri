@@ -17,6 +17,7 @@ The diagram below presents the key features of the EL Syllabus 2020.
 
 The intent of the ELS 2020 is to develop 21st century skills and emerging competencies in our students and nurture them to be empathetic communicators, discerning readers and creative inquirers.
 ![](/images/BVPS%20Experience/Curriculum/English%20Department/testttt.jpg)
+[Click here to view a short video on Desired Learners Outcome](https://drive.google.com/file/d/1nqqnLwYsVZQ2ZsPIeK6FrK-kgj3ca0Wo/view)
 
 
 ![](/images/BVPS%20Experience/Curriculum/English%20Department/3boxes.png)
