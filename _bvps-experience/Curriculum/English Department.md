@@ -22,7 +22,7 @@ The intent of the ELS 2020 is to develop 21st century skills and emerging compet
 
 ![](/images/BVPS%20Experience/Curriculum/English%20Department/3boxes.png)
 
-#### **Key EL Programmes in BVPS**  
+#### **KEY EL Programmes in BVPS**  
 
 **Speaking @ BVPS**
 
@@ -36,61 +36,9 @@ Drama is incorporated into the EL curriculum to teach oracy in BVPS. Students ta
 
 
 
-#### **Extensive Reading Programmes**&nbsp; &nbsp;&nbsp;  
-
+#### **News and Views** 
+News and Views is one such platform in which our P5 and P6 classes showcase their talents through live drama and video performances. Through these performances, the classes will also be incorporating the learning of values and skills that will help them to be self-directed learners, confident leaders and caring citizens. To see more of our young stars in action, [click here](https://www.bukitviewpri.moe.edu.sg/highlights/)
   
-
-**Words-Go-Round**&nbsp;**Author’s Talk**&nbsp;
-
-  
-
-Words-Go-Round Author’s Talk is an outreach programme of the Singapore Writers Festival organised by the National Arts Council. For P3 and P4 students, they got to learn about the sheer variety of dinosaurs that lived in the Age of Reptiles with Andy Chua, the author of the Fossil Finders series. They also learnt how to include scientific facts in their stories and get to see Chua’s fossil collection up close. &nbsp;&nbsp;
-
-  
-
-**NLB Books-To-Go**
-
-![](/images/BVPS%20Experience/Curriculum/English%20Department/E4.png)
-
-**Read for Books at BVPS**&nbsp;  
-
-  
-
-Read for Books at BVPS is a charity book drive organised by National Library Board (NLB) National Reading Movement, aimed at celebrating and sharing the joy, and gift of reading with the less privileged. Our BVPS family has been a part of this worthy cause since 2017.
-
-![](/images/BVPS%20Experience/Curriculum/English%20Department/E5.png)
-
-**DEAR BVPS**  
-
-  
-
-DEAR means Drop Everything and Read. It is a pre-assembly activity done every morning before the start of morning assembly where students will read their English or Mother Tongue storybooks while waiting for school to start at 7.30 a.m. The English monitors of each class will be going around to encourage their classmates to read.
-
-![](/images/BVPS%20Experience/Curriculum/English%20Department/E6.png)
-
-**Library Activities**&nbsp; &nbsp; &nbsp;  
-
-  
-
-**Monthly Thematic Activities**&nbsp;
-
-  
-
-Each month, students get to explore different book genres and the activities associated with the theme on Student Learning Space (SLS) and their Reading Fun Journals. Some of the themes include ‘Fantasy Fun’, ‘Mystery is in the Air’, ‘Books to Movies’ and ‘Celebrating Friendships’.&nbsp;
-
-  
-
-**Mystery Storyteller**&nbsp;
-
-  
-
-Each term, a mystery storyteller is invited to share a part of a storybook from the school library, to invoke the interest of reading in students. We invited one of our beloved teachers, Mr Dzuhri, to take on the role of Gargamel from The Smurf Apprentice and act out a small part of the story as a recess activity. The children had a hearty laugh and were eager to find out the end of the story by borrowing the storybook.
-
-![](/images/BVPS%20Experience/Curriculum/English%20Department/E7.png)
-
-**Reading Journals**
-
-![](/images/BVPS%20Experience/Curriculum/English%20Department/E8.png)
 
 #### **ICT in English**  
 
