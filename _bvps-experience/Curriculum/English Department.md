@@ -41,8 +41,28 @@ News and Views is one such platform in which our P5 and P6 classes showcase thei
 
 ![](/images/BVPS%20Experience/Curriculum/English%20Department/picture5.jpg)
 
- 
+**Digital Storytelling**
 
+As part of our ongoing efforts to help our students acquire and develop oral
+communication skills; accurate pronunciation, appropriate intonation, read
+expressively and speak with confidence, our P1 to P3 students use a novel digital story book platform, Moo-O, that allows them to be the characters of the story they are reading. Students can record a video of them in action and the video clip can be easily shared with their teachers, classmates, friends and families. Not only does this help our students to have an interactive learning experience, they get to have fun reading, acting and performing as well. 
+
+![](/images/BVPS%20Experience/Curriculum/English%20Department/E9.png)
+
+**Reading @ BVPS** 
+
+
+In order to instil the love for reading and encourage reading widely, here at Bukit View, we have a range of activities to keep our students engaged. Our reading programme strives to foster a passion for reading by immersing students in captivating literary journeys through diverse text selections which prompts the exploration of worlds and perspectives as a discerning reader. Through interactive activities inspired by books, students embark on exciting real-life adventures, forging a profound connection with literature and igniting a lifelong love for reading.
+
+***DEAR BVPS***
+
+DEAR BVPS or Drop Everything and Read is a pre-assembly activity done every morning before the start of morning assembly where students will read their English or Mother Tongue storybooks while waiting for school to start at 7.30 a.m. DEAR empowers students with daily moments of immersive reading which not only enhances literacy skills, expands vocabulary, and nurtures imagination, but also cultivates a lifelong love for reading, improves focus, and provides a valuable escape into different worlds.
+
+| | | |
+
+|:-:|:-:|:-:|
+
+|<img src="/images/BVPS%20Experience/Curriculum/English%20Department/E6.png">| <img src="">
 
 In 2023, three of our Primary 3 students took part in the Moo-O Awards 2023 and won the Bronze Award.
 
