@@ -58,8 +58,8 @@ In order to instil the love for reading and encourage reading widely, here at Bu
 
 DEAR BVPS or Drop Everything and Read is a pre-assembly activity done every morning before the start of morning assembly where students will read their English or Mother Tongue storybooks while waiting for school to start at 7.30 a.m. DEAR empowers students with daily moments of immersive reading which not only enhances literacy skills, expands vocabulary, and nurtures imagination, but also cultivates a lifelong love for reading, improves focus, and provides a valuable escape into different worlds.
 
-| | | |
-|:-:|:-:|:-:|
+| | |
+|:-:|:-:|
 |<img style="width:700px" src="/images/BVPS%20Experience/Curriculum/English%20Department/E6.png">| <img style="width:700px" src="/images/BVPS%20Experience/Curriculum/English%20Department/picture14.jpg">
 
 In 2023, three of our Primary 3 students took part in the Moo-O Awards 2023 and won the Bronze Award. Click on the image below to watch.
