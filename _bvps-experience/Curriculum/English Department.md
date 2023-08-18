@@ -30,9 +30,9 @@ Oracy lessons are crucial to foster effective communication skills. Through stru
 
   ***ACTION!* Drama in the Curriculum**&nbsp;
 
-Drama is incorporated into the EL curriculum to teach oracy in BVPS. Students take on the role of different characters and learn critical inventive thinking skills such as articulating their thoughts clearly, looking at situations from different perspectives and formulating decisions. Additionally, their command of the language and social emotional learning are further enhanced through the use of thinking routines.  In our school, we explore various platforms to provide opportunities for our students to hone their drama skills. 
-  
-![](/images/BVPS%20Experience/Curriculum/English%20Department/picture3.jpg)
+Drama is incorporated into the EL curriculum to teach oracy in BVPS. Students take on the role of different characters and learn critical inventive thinking skills such as articulating their thoughts clearly, looking at situations from different perspectives and formulating decisions. Additionally, their command of the language and social emotional learning are further enhanced through the use of thinking routines.  In our school, we explore various platforms to provide opportunities for our students to hone their drama skills.
+
+<img style="width:300px" src="/images/BVPS%20Experience/Curriculum/English%20Department/picture3.jpg">
 
 
 
@@ -62,7 +62,7 @@ DEAR BVPS or Drop Everything and Read is a pre-assembly activity done every morn
 |:-:|:-:|:-:|
 |<img style="width:700px" src="/images/BVPS%20Experience/Curriculum/English%20Department/E6.png">| <img style="width:700px" src="/images/BVPS%20Experience/Curriculum/English%20Department/picture14.jpg">
 
-In 2023, three of our Primary 3 students took part in the Moo-O Awards 2023 and won the Bronze Award.
+In 2023, three of our Primary 3 students took part in the Moo-O Awards 2023 and won the Bronze Award. Click on the image below to watch.
 
 <a href="https://drive.google.com/file/d/1lZN184N2UoWSjuLcoVk9Ppz8Pnb95QjY/view?usp=sharing"><img width="200" src="/images/BVPS%20Experience/Curriculum/English%20Department/title-of-video.jpg" height="200" alt=""></a>
 Click on the image above to watch.
