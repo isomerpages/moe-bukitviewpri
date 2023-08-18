@@ -62,6 +62,6 @@ DEAR BVPS or Drop Everything and Read is a pre-assembly activity done every morn
 |:-:|:-:|
 |<img style="width:700px" src="/images/BVPS%20Experience/Curriculum/English%20Department/E6.png">| <img style="width:700px" src="/images/BVPS%20Experience/Curriculum/English%20Department/picture14.jpg">
 
-In 2023, three of our Primary 3 students took part in the Moo-O Awards 2023 and won the Bronze Award. Click on the image below to watch. Click on the image below to watch.
+In 2023, three of our Primary 3 students took part in the Moo-O Awards 2023 and won the Bronze Award. Click on the image below to watch. 
 
 <a href="https://drive.google.com/file/d/1lZN184N2UoWSjuLcoVk9Ppz8Pnb95QjY/view?usp=sharing"><img width="200" src="/images/BVPS%20Experience/Curriculum/English%20Department/title-of-video.jpg" height="200" alt=""></a>
