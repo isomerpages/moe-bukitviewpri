@@ -58,9 +58,30 @@ In order to instil the love for reading and encourage reading widely, here at Bu
 
 DEAR BVPS or Drop Everything and Read is a pre-assembly activity done every morning before the start of morning assembly where students will read their English or Mother Tongue storybooks while waiting for school to start at 7.30 a.m. DEAR empowers students with daily moments of immersive reading which not only enhances literacy skills, expands vocabulary, and nurtures imagination, but also cultivates a lifelong love for reading, improves focus, and provides a valuable escape into different worlds.
 
-| | |
+|||
 |:-:|:-:|
 |<img style="width:700px" src="/images/BVPS%20Experience/Curriculum/English%20Department/E6.png">| <img style="width:700px" src="/images/BVPS%20Experience/Curriculum/English%20Department/picture14.jpg">
+
+   
+**Read for Books at BVPS**
+
+Read for Books at BVPS is a charity book drive organised by National Library Board (NLB) National Reading Movement, aimed at celebrating and sharing the joy, and gift of reading with the less privileged. Our BVPS family has been a part of this worthy cause since 2017. Participating in this charity book drive imbues the act of reading with purpose. It connects our students’ passion for literature with a sense of community and empathy, creating a fulfilling and meaningful reading experience that contributes to a greater good.
+
+![](/images/BVPS%20Experience/Curriculum/English%20Department/picture15.jpg)
+
+
+**Recess Storytelling Time**
+
+Every term, our P4 to P6 English Monitors take turns to conduct storytelling sessions during recess to bring the stories to life for their schoolmates. The sessions give them a chance to express themselves creatively and confidently and allow their friends to experience an exciting life through the world of books. Apart from the student storytellers, our School Leaders and teachers also take on active roles as our Mystery Storytellers which never fail to leave our students in awe and excited to read the book!
+
+![](/images/picture16.jpg)
+
+**Morning Reading Programme**
+
+Our Morning Reading programme, conducted from Monday to Thursday mornings from 7.15 a.m. to 7.30 a.m., aims to guide and support a selected group of P1 and P2 students to be confident readers. Our young readers, who are paired with their P4 and P6 tutors, enjoy a variety of fun and interactive activities during the sessions to help build their reading skills and language proficiency. 
+
+
+
 
 In 2023, three of our Primary 3 students took part in the Moo-O Awards 2023 and won the Bronze Award. Click on the image below to watch. 
 
