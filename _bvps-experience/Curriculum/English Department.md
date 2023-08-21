@@ -22,9 +22,9 @@ The intent of the ELS 2020 is to develop 21st century skills and emerging compet
 
 ![](/images/BVPS%20Experience/Curriculum/English%20Department/3boxes.png)
 
-#### **KEY EL Programmes in BVPS**  
+## **KEY EL Programmes in BVPS**  
 
-**Speaking @ BVPS**
+#####  **Speaking @ BVPS**
 
 Oracy lessons are crucial to foster effective communication skills. Through structured activities and discussions, students learn to articulate thoughts, listen actively, and engage in meaningful dialogues. These skills extend beyond classrooms, preparing students for success in diverse real-world scenarios, developing them as empathetic communicators.
 
@@ -36,7 +36,8 @@ Drama is incorporated into the EL curriculum to teach oracy in BVPS. Students ta
 
 
 
-#### **News and Views** 
+**News and Views** 
+
 News and Views is one such platform in which our P5 and P6 classes showcase their talents through live drama and video performances. Through these performances, the classes will also be incorporating the learning of values and skills that will help them to be self-directed learners, confident leaders and caring citizens. To see more of our young stars in action, [click here](https://www.bukitviewpri.moe.edu.sg/highlights/)
 
 ![](/images/BVPS%20Experience/Curriculum/English%20Department/picture5.jpg)
@@ -49,7 +50,7 @@ expressively and speak with confidence, our P1 to P3 students use a novel digita
 
 ![](/images/BVPS%20Experience/Curriculum/English%20Department/E9.png)
 
-**Reading @ BVPS** 
+##### **Reading @ BVPS** 
 
 
 In order to instil the love for reading and encourage reading widely, here at Bukit View, we have a range of activities to keep our students engaged. Our reading programme strives to foster a passion for reading by immersing students in captivating literary journeys through diverse text selections which prompts the exploration of worlds and perspectives as a discerning reader. Through interactive activities inspired by books, students embark on exciting real-life adventures, forging a profound connection with literature and igniting a lifelong love for reading.
@@ -88,6 +89,19 @@ In Bukit View, we provide students with interesting, shared experiences that wil
 
 
 ![](/images/BVPS%20Experience/Curriculum/English%20Department/picture17.jpg)
+
+**Budding Writers Project**
+
+To encourage our young writers to keep their writing passion burning, we compile exemplary pieces of writing to give our students the opportunity to analyse and deconstruct well-crafted pieces of work. By gaining insights into effective writing techniques of their peers, such as structure, tone, and language use, our students are able to expand their writing repertoire as they evaluate and adapt these techniques to their own writing, producing higher-quality compositions they are proud of.
+
+**Talent Development in English @ BVPS**
+
+***BV ACEs***
+
+Our Bukit View Accomplished Communicators of English (BV ACEs) Programme aims to develop in students the proficiency to generate, analyse, organise, and express ideas coherently, creatively and critically with discernment. Our selected P4 and P5 students will acquire skills and techniques that will enable them to produce a variety of texts for different purposes, audiences, contexts and cultures, and develop positive dispositions which will enable them to engage effectively and confidently when communicating and collaborating with others. 
+
+
+
 
 In 2023, three of our Primary 3 students took part in the Moo-O Awards 2023 and won the Bronze Award. Click on the image below to watch. 
 
