@@ -119,4 +119,10 @@ Our student, Jayatra Panda (6 Care), emerged as one of the top 50 finalists for 
 
 ![](/images/BVPS%20Experience/Curriculum/English%20Department/picture13.jpg)
 
+[Jayatra's Creative Writing](/files/sota-p6-jayatra%20panda-bvps.pdf)
 
+**The Young Playwrights Present**
+
+To express his passion for writing and performing, our student, Nur Ezra (5 Integrity), worked on a 3-minute monologue and performed it as a staged performance. His performance was shortlisted in this year’s showcase. 
+
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="The Young Playwright Presents – Nur Ezra Bin Nur Rahman [SYF 2023 Celebrations]" src="https://www.youtube.com/embed/Hny_ToiBNNI?list=PLRGFo1hZVPDkDAxKaGHaLpGVbrHle9gC4" height="385" width="684"></iframe>
