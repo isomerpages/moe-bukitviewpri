@@ -82,6 +82,12 @@ Our Morning Reading programme, conducted from Monday to Thursday mornings from 7
 
 ![](/images/BVPS%20Experience/Curriculum/English%20Department/picture9.jpg)
 
+**Writing @ BVPS**
+
+In Bukit View, we provide students with interesting, shared experiences that will provide them with the content to engage in rich discussions before embarking on the writing process. These experiences serve as a practical context for students to apply acquired language skills to effectively use vocabulary, structure, and style to convey their thoughts in writing. 
+
+
+![](/images/BVPS%20Experience/Curriculum/English%20Department/picture17.jpg)
 
 In 2023, three of our Primary 3 students took part in the Moo-O Awards 2023 and won the Bronze Award. Click on the image below to watch. 
 
