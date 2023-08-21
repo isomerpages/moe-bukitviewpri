@@ -103,7 +103,20 @@ Our Bukit View Accomplished Communicators of English (BV ACEs) Programme aims to
 
 ![](/images/BVPS%20Experience/Curriculum/English%20Department/picture18.jpg)
 
+**Competitions Platforms in English**
+
+Competitions offer a dynamic platform to hone students' language skills as the competitive setting sharpens their critical thinking and encourages them to refine their grammar, vocabulary, and articulation which nurtures growth in the students’ English language proficiency. Thus, here at Bukit View, we provide students with the opportunity to hone their skills and unleash their creativity through various competition platforms for the different language skills.  
+
+**Moo-O**
 
 In 2023, three of our Primary 3 students took part in the Moo-O Awards 2023 and won the Bronze Award. Click on the image below to watch the Moo-O video. 
 
 <a href="https://drive.google.com/file/d/1lZN184N2UoWSjuLcoVk9Ppz8Pnb95QjY/view?usp=sharing"><img width="200" src="/images/BVPS%20Experience/Curriculum/English%20Department/title-of-video.jpg" height="200" alt=""></a>
+
+**SOTA Creative Writing Competition**
+
+Our student, Jayatra Panda (6 Care), emerged as one of the top 50 finalists for this year’s competition. Check out his entry below: 
+
+![](/images/BVPS%20Experience/Curriculum/English%20Department/picture13.jpg)
+
+
