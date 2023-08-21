@@ -83,7 +83,7 @@ Our Morning Reading programme, conducted from Monday to Thursday mornings from 7
 
 ![](/images/BVPS%20Experience/Curriculum/English%20Department/picture9.jpg)
 
-**Writing @ BVPS**
+##### **Writing @ BVPS**
 
 In Bukit View, we provide students with interesting, shared experiences that will provide them with the content to engage in rich discussions before embarking on the writing process. These experiences serve as a practical context for students to apply acquired language skills to effectively use vocabulary, structure, and style to convey their thoughts in writing. 
 
@@ -94,15 +94,16 @@ In Bukit View, we provide students with interesting, shared experiences that wil
 
 To encourage our young writers to keep their writing passion burning, we compile exemplary pieces of writing to give our students the opportunity to analyse and deconstruct well-crafted pieces of work. By gaining insights into effective writing techniques of their peers, such as structure, tone, and language use, our students are able to expand their writing repertoire as they evaluate and adapt these techniques to their own writing, producing higher-quality compositions they are proud of.
 
-**Talent Development in English @ BVPS**
+##### **Talent Development in English @ BVPS**
+
 
 ***BV ACEs***
 
 Our Bukit View Accomplished Communicators of English (BV ACEs) Programme aims to develop in students the proficiency to generate, analyse, organise, and express ideas coherently, creatively and critically with discernment. Our selected P4 and P5 students will acquire skills and techniques that will enable them to produce a variety of texts for different purposes, audiences, contexts and cultures, and develop positive dispositions which will enable them to engage effectively and confidently when communicating and collaborating with others. 
 
+![](/images/BVPS%20Experience/Curriculum/English%20Department/picture18.jpg)
 
 
-
-In 2023, three of our Primary 3 students took part in the Moo-O Awards 2023 and won the Bronze Award. Click on the image below to watch. 
+In 2023, three of our Primary 3 students took part in the Moo-O Awards 2023 and won the Bronze Award. Click on the image below to watch the Moo-O video. 
 
 <a href="https://drive.google.com/file/d/1lZN184N2UoWSjuLcoVk9Ppz8Pnb95QjY/view?usp=sharing"><img width="200" src="/images/BVPS%20Experience/Curriculum/English%20Department/title-of-video.jpg" height="200" alt=""></a>
