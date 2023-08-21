@@ -80,7 +80,7 @@ Every term, our P4 to P6 English Monitors take turns to conduct storytelling ses
 
 Our Morning Reading programme, conducted from Monday to Thursday mornings from 7.15 a.m. to 7.30 a.m., aims to guide and support a selected group of P1 and P2 students to be confident readers. Our young readers, who are paired with their P4 and P6 tutors, enjoy a variety of fun and interactive activities during the sessions to help build their reading skills and language proficiency. 
 
-
+![](/images/BVPS%20Experience/Curriculum/English%20Department/picture9.jpg)
 
 
 In 2023, three of our Primary 3 students took part in the Moo-O Awards 2023 and won the Bronze Award. Click on the image below to watch. 
