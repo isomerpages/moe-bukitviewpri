@@ -19,7 +19,11 @@ Tel: 8717 6766
   
 
 **Operating Hours:**  
-Mondays to Fridays : 11.30am to 12.30pm  &  2pm to 3pm  
+Mondays to Fridays : 8.00am to 3pm  
+
+***Walk-in sales timing***  for parents/guardian:
+Mondays to Fridays : 11.00am to 12.30pm & 2pm to 3pm
+
 Tel: 6464 0111 / 6563 0889  
   
 
