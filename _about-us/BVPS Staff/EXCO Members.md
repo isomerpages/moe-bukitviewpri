@@ -116,7 +116,7 @@ third_nav_title: BVPS Staff
   </tr>
   <tr>
     <td class="tg-1b5h">Mdm Eliana Bte Mohamed<br></td>
-    <td class="tg-1b5h">LH / English <br></td>
+    <td class="tg-1b5h">SH / English <br></td>
     <td class="tg-1b5h">eliana_mohamed<br></td>
   </tr>
     <tr><td class="tg-1b5h">Mdm Hazel Neo Hui Fen</td>
