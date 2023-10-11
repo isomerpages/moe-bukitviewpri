@@ -88,3 +88,5 @@ Tel: 91142631
 **Contact Person**: Mr Winson Lim  
 Tel: 9271 9234  
 **Email:  lcysbt@gmail.com**
+
+Please clink on the [link](/files/Parents%20and%20Partners/Info%20for%20Parents/Info%20for%20Parents/school%20bus%20fares%20applicable%20from%201%20jan%202024%20to%2031%20dec%202024.pdf) to view the School Bus fares applicable from 1 Jan 2024 to 31 Dec 2024. To arrange school bus service for your child/ward, please liaise with the bus operator directly.
