@@ -49,8 +49,8 @@ BVPS P4 Booklist [Here](/files/Pri_4_BVPS_Booklist_for_Year_2024.pdf)
 
 BVPS P5 Booklist [Here](/files/Pri_5_BVPS_Booklist_for_Year_2024.pdf)
 
-BVPS P5 Foundation Booklist 
+BVPS P5 Foundation Booklist [Here](/files/Pri_5_FDN_BVPS_Booklist_for_Year_2024.pdf)
 
-BVPS P6 Booklist 
+BVPS P6 Booklist [Here](/files/Pri_6_BVPS_Booklist_for_Year_2024.pdf)
 
-BVPS P6 Foundation Booklist 
+BVPS P6 Foundation Booklist [Here](/files/Pri_6_FDN_BVPS_Booklist_for_Year_2024.pdf)
