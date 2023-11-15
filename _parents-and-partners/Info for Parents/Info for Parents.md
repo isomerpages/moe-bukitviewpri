@@ -3,6 +3,7 @@ title: Info for Parents
 permalink: /parents-and-partners/Info-for-Parents/Info-for-Parents/
 description: ""
 third_nav_title: Info for Parents
+variant: markdown
 ---
 #### **Updated School Canteen menu and price list** 
 
@@ -36,20 +37,20 @@ The video aims to help parents and educators realise the importance of Social St
 Click [here](/files/Parents%20and%20Partners/Info%20for%20Parents/Info%20for%20Parents/Parents%20Tip%20Sheet_pdf.pdf) to learn more about how you can reinforce Cyber Wellness education at home.
 
 
-#### **2023 School Booklist (P1 to P6)**
+#### **2024 School Booklist (P1 to P6)**
 
-BVPS P1 Booklist [here.](/files/2023%20P1%20BVPS%20Booklist.pdf)
+BVPS P1 Booklist [Here](/files/Pri_1_BVPS_Booklist_for_Year_2024.pdf)
 
-BVPS P2 Booklist [here.](/files/2023%20P2%20BVPS%20booklist.pdf)
+BVPS P2 Booklist [Here](/files/Pri_2_BVPS_Booklist_for_Year_2024.pdf)
 
-BVPS P3 Booklist [here.](/files/2023%20P3%20BVPS%20Booklist.pdf)
+BVPS P3 Booklist [Here](/files/Pri_3_BVPS_Booklist_for_Year_2024.pdf)
 
-BVPS P4 Booklist [here.](/files/2023%20P4%20BVPS%20Booklist.pdf)
+BVPS P4 Booklist [Here](/files/Pri_4_BVPS_Booklist_for_Year_2024.pdf)
 
-BVPS P5 Booklist [here.](/files/2023%20P5%20BVPS%20Booklist.pdf)
+BVPS P5 Booklist [Here](/files/Pri_5_BVPS_Booklist_for_Year_2024.pdf)
 
-BVPS P5 Foundation Booklist [here.](/files/2023%20P5%20Fdn%20BVPS%20Booklist.pdf)
+BVPS P5 Foundation Booklist 
 
-BVPS P6 Booklist [here.](/files/2023%20P6%20BVPS%20Booklist.pdf)
+BVPS P6 Booklist 
 
-BVPS P6 Foundation Booklist [here.](/files/2023%20P6%20Fdn%20BVPS%20Booklist.pdf)
+BVPS P6 Foundation Booklist 
