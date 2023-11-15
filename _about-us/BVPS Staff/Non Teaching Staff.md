@@ -3,6 +3,7 @@ title: Non Teaching Staff
 permalink: /about-us/BVPS-Staff/Non-Teaching-Staff/
 description: ""
 third_nav_title: BVPS Staff
+variant: markdown
 ---
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -27,7 +28,7 @@ third_nav_title: BVPS Staff
   </tr>
   <tr>
     <td class="tg-5gxm">Administrative Executive</td>
-    <td class="tg-b5l7">Mdm Jessie Ang</td>
+				<td class="tg-b5l7">Mdm Jessie Ang<br>Mdm Aisha Begum</td>
   </tr>
   <tr>
     <td class="tg-5gxm">Corporate Support Officer </td>
@@ -37,13 +38,17 @@ third_nav_title: BVPS Staff
     <td class="tg-5gxm">Operation Support Officers</td>
     <td class="tg-b5l7">Mdm Veloo Manorangitham<br>Mdm Vellasamy Vijayaletchimi<br>Mr Cheong Wai Kit<br> Mr Toh Sin Lye<br></td>
   </tr>
+	  <tr>
+    <td class="tg-5gxm">ICT Manager</td>
+    <td class="tg-b5l7">Mr Khoo Kwan Liang</td>
+  </tr>
   <tr>
     <td class="tg-5gxm">ICT Associate</td>
-    <td class="tg-b5l7">Mr Khoo Kwan Liang<br>Ms Khairunnisa Bte Khalid</td>
+    <td class="tg-b5l7">Ms Khairunnisa Bte Khalid</td>
   </tr>
   <tr>
     <td class="tg-5gxm">Desktop Engineer</td>
-    <td class="tg-b5l7">Mdm Nur Ain Binti Adam</td>
+    <td class="tg-b5l7">Mdm Nur Ain Binti Adam<br> Mr Shahfiee Bin Irman</td>
   </tr>
   <tr>
     <td class="tg-5gxm">Library Assistant</td>

@@ -3,6 +3,7 @@ title: Teaching Staff 2023
 permalink: /about-us/BVPS-Staff/Teaching-Staff-2023/
 description: ""
 third_nav_title: BVPS Staff
+variant: markdown
 ---
 #### **PRIMARY 1 FORM TEACHERS**
 
@@ -62,8 +63,8 @@ third_nav_title: BVPS Staff
   </tr>
   <tr>
     <td class="tg-1b5h">1 Resilience </td>
-    <td class="tg-b5l7">Mdm Kir Soo Kien<br>Miss Tan Peck Har<br>Ms Nur Nabilah Farhana</td>
-    <td class="tg-1b5h">kir_soo_kien<br>tan_peck_har<br>nur_nabilah_farhana_taufiq </td>
+    <td class="tg-b5l7">Mdm Kir Soo Kien<br>Miss Tan Peck Har<br>Ms Nur Nabila Farhana</td>
+    <td class="tg-1b5h">kir_soo_kien<br>tan_peck_har<br>nur_nabila_farhana_taufiq </td>
   </tr>
 </tbody>
 </table>
