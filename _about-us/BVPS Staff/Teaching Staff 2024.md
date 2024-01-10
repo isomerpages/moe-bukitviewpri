@@ -1,6 +1,6 @@
 ---
-title: Teaching Staff 2023
-permalink: /about-us/BVPS-Staff/Teaching-Staff-2023/
+title: Teaching Staff 2024
+permalink: /about-us/bvps-staff/teaching-staff-2024/
 description: ""
 third_nav_title: BVPS Staff
 variant: tiptap
