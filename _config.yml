@@ -1,5 +1,5 @@
 title: Bukit View Primary School
-url: https://www.open.gov.sg
+url: https://bukitviewpri.moe.edu.sg
 favicon: /images/Homepage/Favicon.png
 colors:
   primary-color: "#f8a534"
@@ -56,3 +56,4 @@ is_government: false
 facebook-pixel: ""
 google_analytics: ""
 linkedin-insights: ""
+google_analytics_ga4: ""
