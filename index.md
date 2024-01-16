@@ -4,8 +4,7 @@ title: Bukit View Primary School
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: BVPS will not be offering Hindi as In-School Parallel Programme
-  for P1 students from 2024. Click on Announcements to read more.
+notification: ""
 sections:
   - hero:
       background: /images/Homepage/11combined.gif
