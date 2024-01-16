@@ -2,7 +2,13 @@
 title: Announcements
 permalink: /announcements/
 description: ""
+variant: markdown
 ---
+We are pleased to share with you that MOE will be setting up an MOE Kindergarten (MK) within Bukit View Primary School in 2028. This is 1 year after we move to Bukit Batok West in 2027, where we will be enjoying new facilities such as Indoor Sports Hall, Performing Arts Studio, Field and Band Room. The MK at Bukit View Primary School will enrol Kindergarten 1 (K1) children from January 2028. 
+You may read more about MK here (link here: www.moe.gov.sg/mk) 
+(put attached logo here)
+
+
 **Offering of Hindi as In-School Parallel Programme**
 -
  Please be informed that the school will <u>not</u> be offering Hindi as In-School Parallel Programme (ISPP) for P1 students from 2024. P1 students may offer Hindi at a nearby weekend centre (Beacon Primary, Rulang Primary or Lakeside Primary). For enquiries, please contact HOD/MTL Mdm Fong Mei Ying at 6566 1980 or bukitviewps@moe.edu.sg. 
