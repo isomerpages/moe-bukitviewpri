@@ -2,10 +2,11 @@
 title: Mission Vision and Motto
 permalink: /about-us/Mission-Vision-and-Motto/
 description: ""
+variant: markdown
 ---
 ### **Mission**
 
-We are committed to providing a learner-centric and values-driven education.  
+Nurturing and Empowering Learners to Create the Future   
   
 
 #### **Vision** 

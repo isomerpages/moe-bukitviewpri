@@ -2,21 +2,6 @@
 title: Our School Values
 permalink: /about-us/Our-School-Values/
 description: ""
+variant: markdown
 ---
-**Innovation** our Culture
-
-  
-
-**Graciousness** our Way of life
-
-  
-
-**Responsibility** our Duty
-
-  
-
-**Integrity** our Foundation
-
-  
-
-**Perseverance** our Spirit
+![](/images/About%20Us/Values___Gr2it.png)
