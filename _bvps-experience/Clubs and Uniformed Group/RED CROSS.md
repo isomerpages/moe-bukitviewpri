@@ -3,16 +3,17 @@ title: RED CROSS
 permalink: /bvps-experience/Clubs-and-Uniformed-Group/RED-CROSS/
 description: ""
 third_nav_title: Clubs and Uniformed Group
+variant: markdown
 ---
 ‘The CCA with lots of HEART’ – The BVPS Red Cross Links prides itself in being a CCA that not only develops students with the ability to provide care through essential basic first aid, but it also aspires to develop students to become caring, responsible and motivated leaders in the community.
 
-![](/images/BVPS%20Experience/Co%20Curricular%20Activities/Clubs%20&%20Uniformed%20Group/RED%20CROSS/R1.jpg)
+![](/images/BVPS%20Experience/Co%20Curricular%20Activities/Clubs%20&amp;%20Uniformed%20Group/RED%20CROSS/R1.jpg)
 
-![](/images/BVPS%20Experience/Co%20Curricular%20Activities/Clubs%20&%20Uniformed%20Group/RED%20CROSS/R2.jpg)
+![](/images/BVPS%20Experience/Co%20Curricular%20Activities/Clubs%20&amp;%20Uniformed%20Group/RED%20CROSS/R2.jpg)
 
-![](/images/BVPS%20Experience/Co%20Curricular%20Activities/Clubs%20&%20Uniformed%20Group/RED%20CROSS/R3.jpg)
+![](/images/BVPS%20Experience/Co%20Curricular%20Activities/Clubs%20&amp;%20Uniformed%20Group/RED%20CROSS/R3.jpg)
 
-![](/images/BVPS%20Experience/Co%20Curricular%20Activities/Clubs%20&%20Uniformed%20Group/RED%20CROSS/R4.jpg)
+![](/images/BVPS%20Experience/Co%20Curricular%20Activities/Clubs%20&amp;%20Uniformed%20Group/RED%20CROSS/R4.jpg)
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -36,7 +37,7 @@ third_nav_title: Clubs and Uniformed Group
   <tr>
     <td class="tg-1b5h">TUES</td>
     <td class="tg-1b5h">2 p.m. to 4 p.m. </td>
-    <td class="tg-1b5h">Mr A R Balamurugan (I/C)<br>Mdm Rohani Binte Ishak<br>Ms Phan Wei En</td>
+    <td class="tg-1b5h">Mdm Tay Xue Ling Cheri(IC)<br>Ms Florence Soh<br>Mdm Serene Ng Tse Ern</td>
     <td class="tg-1b5h">6 Harmony Classroom<br>(C4-11)</td>
   </tr>
 </tbody>
