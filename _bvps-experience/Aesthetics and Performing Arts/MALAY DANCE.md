@@ -3,8 +3,9 @@ title: MALAY DANCE
 permalink: /bvps-experience/Aesthetics-and-Performing-Arts/MALAY-DANCE/
 description: ""
 third_nav_title: Aesthetics and Performing Arts
+variant: markdown
 ---
-Malay Dance CCA believes that every member has the potential to develop their talent and build perseverance. We provide opportunities for every dancer to showcase their talents, develop leadership skills as well as to work in teams. 
+Malay Dance CCA believes that every member has the potential to develop their talent and build perseverance. We provide opportunities for every dancer to showcase their talents, develop leadership skills as well as to work in teams.&nbsp;
 
   
 
@@ -42,7 +43,7 @@ The team continued synergy and commitment in giving the best to their performanc
   <tr>
     <td class="tg-b5l7">TUES</td>
     <td class="tg-b5l7">2 p.m. to 4 p.m.</td>
-    <td class="tg-b5l7"> Mdm Suraya Rahmat (I/C)<br><br><span style="background-color:initial">Mdm Eddayana Bte Abdullah</span></td>
+    <td class="tg-b5l7"> Mdm Suraya Rahmat (I/C)<br><br><span style="background-color:initial">Mdm Eddayana Bte Abdullah<br>Mdm Siti Shahira Bte Sapade</span></td>
     <td class="tg-b5l7">Music Studio</td>
   </tr>
 </tbody>
