@@ -44,7 +44,7 @@ The team continued synergy and commitment in giving the best to their performanc
     <td class="tg-b5l7">TUES</td>
     <td class="tg-b5l7">2 p.m. to 4 p.m.</td>
     <td class="tg-b5l7"> Mdm Suraya Rahmat (I/C)<br><br><span style="background-color:initial">Mdm Eddayana Bte Abdullah<br>Mdm Siti Shahira Bte Sapade</span></td>
-    <td class="tg-b5l7">Music Studio</td>
+    <td class="tg-b5l7">PAL Room</td>
   </tr>
 </tbody>
 </table>
