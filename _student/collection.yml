@@ -1,0 +1,10 @@
+collections:
+  student:
+    output: true
+    order:
+      - School Rules.md
+      - Assessment Policy/Assessment Policy.md
+      - Assessment Policy/.keep
+      - Calendar of Events.md
+      - MOE Sexuality Education.md
+      - Student Learning Space.md
