@@ -45,7 +45,7 @@ students to become caring, responsible and motivated leaders in the community.</
 <p>2 p.m. to 4 p.m.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Cheri Lim (IC)
+<p>Mrs Cherie Lim (IC)
 <br>
 <br>Ms Florence Soh
 <br>Mdm Serene Ng Tse Ern</p>
