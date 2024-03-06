@@ -49,7 +49,7 @@ variant: tiptap
 <ol data-tight="true" class="tight">
 <li>
 <p>Download and complete the application form. You may also request for a
-hardcopy from the School’s General Office. (Application form)</p>
+hardcopy from the School’s General Office. (<a href="/files/Parents and Partners/Info for Parents/Info for Parents/canteen_stall_application.pdf" rel="noopener noreferrer nofollow" target="_blank">Application form</a>)</p>
 </li>
 </ol>
 <p></p>
