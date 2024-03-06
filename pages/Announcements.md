@@ -49,9 +49,75 @@ variant: tiptap
 <ol data-tight="true" class="tight">
 <li>
 <p>Download and complete the application form. You may also request for a
-hardcopy from the School’s General Office. (<a href="/files/Parents and Partners/Info for Parents/Info for Parents/canteen_stall_application.pdf" rel="noopener noreferrer nofollow" target="_blank">Application form</a>)</p>
+hardcopy from the School’s General Office. (<a href="/files/Parents and Partners/Info for Parents/Info for Parents/canteen_stall_application.pdf" rel="noopener noreferrer nofollow" target="_blank">Application form</a>)
+<br>
+</p>
+</li>
+<li>
+<p>Attach the following documents together with the application form:
+<br>* Photocopy of the NRIC (front and back)
+<br>* List of proposed menu and pricing for all items. You may refer to the
+current canteen pricing list at <a href="https://www.bukitviewpri.moe.edu.sg/parents-and-partners/Info-for-Parents/Info-for-Parents/" rel="noopener noreferrer nofollow" target="_blank">https://www.bukitviewpri.moe.edu.sg/parents-and-partners/Info-for-Parents/Info-for-Parents/</a>.
+<br>* Photocopy of relevant certificates such as Basic Food Hygiene Course,
+etc.
+<br>
+</p>
+</li>
+<li>
+<p>Submit the completed application form and documents by closing date via
+email OR to the School's General Office.
+<br>* Address: 18 Bukit Batok St 21 Singapore 659634
+<br>* Contact No: 65661980
+<br>* Email: <a href="mailto:bukitview_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">bukitview_ps@moe.edu.sg</a>
+<br>* Contact Person: Mdm Siti Liana / Mr Eric Yeo</p>
+<p></p>
+<blockquote>
+<p><strong>How to get there?</strong>
+</p>
+</blockquote>
+<p></p>
+<p>* Nearest MRT: Bukit Batok MRT – 15 minutes walking distance
+<br>* Public Bus services:
+<br>•173 (In front of BVPS at Bukit Batok St 21)
+<br>•66, 189, 990 (Behind BVPS, along Bukit Batok East Ave 6)
+<br>•61, 77, 106, 157, 174, 178, 852, 506, 963 (Near BVPS, along Bukit Batok
+East Ave 3)</p>
+<p></p>
+<blockquote>
+<p><strong>Interested applicants must meet the following criteria:</strong>
+<br>
+</p>
+</blockquote>
+<p></p>
+<p>* Singapore citizen or Singapore Permanent Resident (SPR) for stallholder
+and stall assistant.
+<br>* Able to provide good service and quality food with prices determined
+in consultation with the school.
+<br>* Able to provide cooked food that meets the health / nutritional standards
+set by the Health Promotion Board (HPB) under the "Healthy Meals in Schools
+Programme (HMSP)" guidelines at <a href="https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme" rel="noopener noreferrer nofollow" target="_blank">https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme</a>
+<br>* Able to maintain high standard of food safety and personal hygiene.
+<br>* Healthy and fit to operate the stall.</p>
+<p></p>
+<blockquote>
+<p><strong>Applicants should preferably fulfil the following criteria:</strong>
+</p>
+</blockquote>
+<p>* Successful applicant and stall assistant(s) must possess the WSQ Basic
+Food Hygiene Certificate.
+<br>* Possess catering experience or experience operating in a school environment.
+<br>* Successful applicant is required to apply for a food stall license from
+Singapore Food Agency (SFA).</p>
+<p></p>
+<p><em>Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant's own expense.</em>
+</p>
+<p></p>
+<p></p>
 </li>
 </ol>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
 <h2><strong>Setting up of MOE Kindergarten at Bukit View Primary in 2028</strong></h2>
 <p>We are pleased to share with you that MOE will be setting up an MOE Kindergarten
