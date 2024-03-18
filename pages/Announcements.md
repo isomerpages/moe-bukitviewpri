@@ -20,17 +20,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Malay Food Stall</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>18 March 2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Halal cooked food &amp; Rice stall</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Vegetarian Food Stall</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -68,7 +57,7 @@ etc.
 email OR to the School's General Office.
 <br>* Address: 18 Bukit Batok St 21 Singapore 659634
 <br>* Contact No: 65661980
-<br>* Email: <a href="mailto:bukitview_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">bukitview_ps@moe.edu.sg</a>
+<br>* Email: <a href="mailto:bukitview_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">bukitview_ps@moe.edu.sg</a> 
 <br>* Contact Person: Mdm Siti Liana / Mr Eric Yeo</p>
 <p></p>
 <blockquote>
@@ -84,7 +73,7 @@ email OR to the School's General Office.
 East Ave 3)</p>
 <p></p>
 <blockquote>
-<p><strong>Interested applicants must meet the following criteria:</strong>
+<p><strong>Interested applicants must meet the following criteria:</strong> 
 <br>
 </p>
 </blockquote>
@@ -95,7 +84,7 @@ and stall assistant.
 in consultation with the school.
 <br>* Able to provide cooked food that meets the health / nutritional standards
 set by the Health Promotion Board (HPB) under the "Healthy Meals in Schools
-Programme (HMSP)" guidelines at <a href="https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme" rel="noopener noreferrer nofollow" target="_blank">https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme</a>
+Programme (HMSP)" guidelines at <a href="https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme" rel="noopener noreferrer nofollow" target="_blank">https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme</a> 
 <br>* Able to maintain high standard of food safety and personal hygiene.
 <br>* Healthy and fit to operate the stall.</p>
 <p></p>
