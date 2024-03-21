@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Learn For Life Programmes
 variant: markdown
 ---
-[APPLIED LEARNING PROGRAM(ALP) - IRIS](/bvps-experience/Learn-For-Life-Programmes/applied-learning-program-iris/)
+[APPLIED LEARNING PROGRAM(ALP) - IRIS](/bvps-experience/learn-for-life-programmes/applied-learning-program-iris/)
   
 [ARTS ALIVE NURTURING CONFIDENT LEADERS THROUGH THE ARTS](/bvps-experience/Learn-For-Life-Programmes/ARTS-ALIVE-NURTURING-CONFIDENT-LEADERS-THROUGH-THE-ARTS/) 
 
