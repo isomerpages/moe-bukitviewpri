@@ -10,6 +10,20 @@ variant: tiptap
 </div>
 <p><a href="/bvps-experience/learn-for-life-programmes/applied-learning-program-iris/" rel="noopener noreferrer nofollow" target="_blank">APPLIED LEARNING PROGRAM(ALP) - IRIS</a>
 </p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.bukitviewpri.moe.edu.sg/bvps-experience/Learn-For-Life-Programmes/APPLIED-LEARNING-PROGRAM-IRIS" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/BVPS Experience/LEARN FOR LIFE PROGRAMMES/ALP_IRIS.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">APPLIED LEARNING PROGRAM(ALP) - IRIS</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">Click to view more</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.bukitviewpri.moe.edu.sg/bvps-experience/Learn-For-Life-Programmes/ARTS-ALIVE-NURTURING-CONFIDENT-LEADERS-THROUGH-THE-ARTS/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/BVPS Experience/LEARN FOR LIFE PROGRAMMES/arts_alive.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">ARTS ALIVE NURTURING CONFIDENT LEADERS THROUGH THE ARTS</div>
+<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+<div class="isomer-card-link">Click to view more</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://www.bukitviewpri.moe.edu.sg/bvps-experience/Learn-For-Life-Programmes/gracious-living-in-our-world/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">GRACIOUS LIVING IN OUR OWN WORLD(GLOW)</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">Click to view more</div></div></a>
+</div>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
