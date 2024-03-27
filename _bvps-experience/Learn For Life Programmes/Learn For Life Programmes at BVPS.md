@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Learn For Life Programmes
 variant: tiptap
 ---
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.bukitviewpri.moe.edu.sg/bvps-experience/Learn-For-Life-Programmes/applied-learning-program-iris/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/BVPS Experience/LEARN FOR LIFE PROGRAMMES/ALP_IRIS.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">APPLIED LEARNING PROGRAM(ALP) - IRIS</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">Click to view more</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.bukitviewpri.moe.edu.sg/bvps-experience/Learn-For-Life-Programmes/applied-learning-program-iris/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/BVPS Experience/LEARN FOR LIFE PROGRAMMES/ALP_IRIS.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">APPLIED LEARNING PROGRAM(ALP) - IRIS</div><div class="isomer-card-link">Click to view more</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.bukitviewpri.moe.edu.sg/bvps-experience/Learn-For-Life-Programmes/ARTS-ALIVE-NURTURING-CONFIDENT-LEADERS-THROUGH-THE-ARTS/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -14,9 +14,8 @@ variant: tiptap
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">ARTS ALIVE NURTURING CONFIDENT LEADERS THROUGH THE ARTS</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
 <div class="isomer-card-link">Click to view more</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.bukitviewpri.moe.edu.sg/bvps-experience/Learn-For-Life-Programmes/gracious-living-in-our-world/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/BVPS Experience/LEARN FOR LIFE PROGRAMMES/Gracious_living.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">GRACIOUS LIVING IN OUR OWN WORLD(GLOW)</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">Click to view more</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.bukitviewpri.moe.edu.sg/bvps-experience/Learn-For-Life-Programmes/gracious-living-in-our-world/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/BVPS Experience/LEARN FOR LIFE PROGRAMMES/Gracious_living.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">GRACIOUS LIVING IN OUR OWN WORLD(GLOW)</div><div class="isomer-card-link">Click to view more</div></div></a>
 </div>
 <p></p>
