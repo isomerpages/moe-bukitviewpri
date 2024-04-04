@@ -15,6 +15,6 @@ and digital platforms like the Student Learning Space (SLS), our programs
 are designed to cultivate young inquirers ready to tackle the questions
 of tomorrow.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/BVPS Experience/Curriculum/Science Department/Picture1.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/BVPS Experience/Curriculum/Science Department/Picture1.jpg">
 </div>
 <p></p>
