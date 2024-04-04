@@ -14,7 +14,23 @@ a love for science. From SPARKLE kits and lab activities to outdoor explorations
 and digital platforms like the Student Learning Space (SLS), our programs
 are designed to cultivate young inquirers ready to tackle the questions
 of tomorrow.</p>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/BVPS Experience/Curriculum/Science Department/Picture1.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/BVPS Experience/Curriculum/Science Department/Hands_on_activity_in_science_lab___03.jpg">
 </div>
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BVPS Experience/Curriculum/Science Department/Picture1.jpg">
+</div>
+<p></p>
+</th>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p></p>
