@@ -11,5 +11,5 @@ variant: markdown
 *   [Mother Tongue](/bvps-experience/Curriculum/Mother-Tongue-Department/)
 *   [Character and Citizenship Education](/bvps-experience/Curriculum/Character-And-Citizenship-Education)
 *   [Information and Communication Technology](/bvps-experience/Curriculum/Information-and-Communication-Technology/)
-*   [PE & CCA](/bvps-experience/Curriculum/PE-and-CCA/)
+*   [Physical Education & CCA](/bvps-experience/Curriculum/PE-and-CCA/)
 *   [Aesthetics](/bvps-experience/Curriculum/Aesthetics/)
