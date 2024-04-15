@@ -15,7 +15,7 @@ and digital platforms like the Student Learning Space (SLS), our programs
 are designed to cultivate young inquirers ready to tackle the questions
 of tomorrow.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/BVPS Experience/Curriculum/Science Department/hands_on.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/BVPS Experience/Curriculum/Science Department/hands_on.jpg">
 </div>
 <p></p>
 <h3><strong>KEY PROGRAMMES</strong></h3>
