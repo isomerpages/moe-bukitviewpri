@@ -31,7 +31,7 @@ their similarities and differences, students can gain a deeper understanding
 and appreciation of the diversity within our school and the world around
 us.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/BVPS Experience/Curriculum/Science Department/Picture2.jpg">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/BVPS Experience/Curriculum/Science Department/Picture2.jpg">
 </div>
 <p></p>
 <p><strong>Edible Greens</strong>
@@ -43,12 +43,20 @@ in the way of growing edible greens, and how growing greens contributes
 to food resilience. It also helps students understand their role in the
 ownership and stewardship of nature.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/BVPS Experience/Curriculum/Science Department/Growing_greens.jpg">
+</div>
+<p></p>
 <h3><strong>Nurturing Diverse Learners</strong></h3>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/BVPS Experience/Curriculum/Science Department/Hands_on_activity_in_science_lab___03.jpg">
+</div>
 <p><strong>Science remedials</strong>
 </p>
 <p>We provide after-school remedial program to offer targeted support to
 selected students, addressing individual learning needs in a nurturing,
 small-group setting.</p>
+<p></p>
 <p></p>
 <p><strong>Science Talent Development Programme</strong>
 </p>
@@ -67,7 +75,12 @@ We also provide support and follow up with the students to ensure their
 participation in these events. Some examples of such events include "STEM
 Playground," "Science Buskers," and "Abbott Learning Day," which are organized
 by the Singapore Science Centre, and the “Nobel Winter Workshop” organized
-by NUS High.</p>
+by NUS High.
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/BVPS Experience/Curriculum/Science Department/Picture4.jpg">
+</div>
 <p></p>
 <p><strong>Inspiring Young Minds</strong>
 </p>
