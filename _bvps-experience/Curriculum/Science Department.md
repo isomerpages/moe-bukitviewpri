@@ -77,12 +77,9 @@ publication designed to help students better understand the Science concepts
 and content that are part of the Lower Block themes in the latest Primary
 Science syllabus.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BVPS Experience/Curriculum/Science Department/Picture6.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BVPS Experience/Curriculum/Science Department/Picture5.jpg">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BVPS Experience/Curriculum/Science Department/combine.jpg">
+</div>
 <p></p>
 <p></p>
