@@ -51,8 +51,8 @@ different strategies to solve open-ended problems.</p>
 <p></p>
 <p></p>
 <h2>Key Programmes</h2>
-<p><u>Talent Development Programme (TDP) for Mathematics</u>
-<br><strong>1) Excellence 2000 (E2K) Mathematics Programme</strong>
+<p><u>Talent Development Programme (TDP) for Mathematics</u> 
+<br><strong>1) Excellence 2000 (E2K) Mathematics Programme</strong> 
 <br>
 <br>The E2K Mathematics Programme is for Primary 4 and Primary 5 students
 who demonstrate interest and ability in Mathematics.&nbsp; The programme
@@ -69,10 +69,10 @@ inventive thinking and communication skills.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/BVPS Experience/Curriculum/Mathematics Department/FIG_3.jpg">
 </div>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/BVPS Experience/Curriculum/Mathematics Department/FIG_4.jpg">
 </div>
-<p></p>
 <p><strong>2) Mathematical Olympiad Programme</strong>
 </p>
 <p>Mathematical Olympiad training programme is offered as an optional programme
@@ -86,7 +86,7 @@ skills and strengthen their strategies learnt.
 <br>c)&nbsp;&nbsp; &nbsp;to be adequately prepared for Maths Olympiad competitions.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BVPS Experience/Curriculum/Mathematics Department/FIG_5.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/BVPS Experience/Curriculum/Mathematics Department/FIG_5.jpg">
 </div>
 <p>Competition platforms for participation:</p>
 <ul data-tight="true" class="tight">
@@ -114,8 +114,8 @@ from a borderless classroom is the value of appreciating the subject. Tasks,
 within students’ abilities and achievable with effort, help students see
 the relevance of mathematics to their everyday life and in the real world.</p>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/BVPS Experience/Curriculum/Mathematics Department/FIG_6_7_8_9.jpg">
 </div>
+<p></p>
 <p></p>
