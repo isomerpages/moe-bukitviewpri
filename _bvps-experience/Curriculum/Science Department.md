@@ -51,7 +51,7 @@ ownership and stewardship of nature.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/BVPS Experience/Curriculum/Science Department/Hands_on_activity_in_science_lab___03.jpg">
 </div>
-<p><strong>Science remedials</strong>
+<p><strong>Science Remedials</strong>
 </p>
 <p>We provide after-school remedial program to offer targeted support to
 selected students, addressing individual learning needs in a nurturing,
