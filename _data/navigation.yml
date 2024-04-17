@@ -1,10 +1,10 @@
 logo: /images/Homepage/LOGO.png
 links:
   - title: About Us
-    url: /about-us/Mission-Vision-and-Motto/
+    url: /about-us/mvm/
     sublinks:
       - title: Mission, Vision and Motto
-        url: /about-us/Mission-Vision-and-Motto/
+        url: /about-us/mvm
       - title: Our School Values
         url: /about-us/Our-School-Values/
       - title: School Crest
