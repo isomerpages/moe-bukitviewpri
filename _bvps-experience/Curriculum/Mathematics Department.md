@@ -5,23 +5,22 @@ description: ""
 third_nav_title: Curriculum
 variant: tiptap
 ---
-<h2>Vision</h2>
-<p>Every Bukit Viewan wants to and can learn Mathematics.</p>
-<p>Aligned with our school vision, the Mathematics Department aims to create
+<p>We believe that every Bukit Viewan wants to and can learn Mathematics.
+Aligned with our school vision, the Mathematics Department aims to create
 a vibrant community of self-directed learners who not only acquire basic
 numeracy, but also enhance critical mathematical processes that support
-the development of 21<sup>st</sup> century competencies.</p>
-<h2><br>Mission</h2>
+the development of 21st century competencies.</p>
+<p>&nbsp;</p>
 <p>Our mission is to provide situated learning experiences for students to
-demonstrate:
-<br>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; understanding of concepts and skills
+demonstrate:</p>
+<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; understanding of concepts and skills
 through the use of Concrete-Pictorial-Abstract approach and various tools
-eg. ICT
-<br>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; application of concepts and skills
-learnt to solve problems in real-world contexts and solve non-routine problems.
-<br>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; reasoning and communicate connections
-of big ideas from metacognitive or exploratory activities
-<br>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; confidence and interest in the
+eg. ICT</p>
+<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; application of concepts and skills
+learnt to solve problems in real-world contexts and solve non-routine problems.</p>
+<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; reasoning and communicate connections
+of big ideas from metacognitive or exploratory activities</p>
+<p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; confidence and interest in the
 subject.</p>
 <p>&nbsp;</p>
 <h2>Curriculum Framework</h2>
