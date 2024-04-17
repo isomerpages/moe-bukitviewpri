@@ -12,15 +12,15 @@ numeracy, but also enhance critical mathematical processes that support
 the development of 21st century competencies.</p>
 <p></p>
 <p>Our mission is to provide situated learning experiences for students to
-demonstrate:</p>
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; understanding of concepts and skills
+demonstrate:
+<br>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; understanding of concepts and skills
 through the use of Concrete-Pictorial-Abstract approach and various tools
-eg. ICT</p>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; application of concepts and skills
-learnt to solve problems in real-world contexts and solve non-routine problems.</p>
-<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; reasoning and communicate connections
-of big ideas from metacognitive or exploratory activities</p>
-<p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; confidence and interest in the
+eg. ICT
+<br>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; application of concepts and skills
+learnt to solve problems in real-world contexts and solve non-routine problems.
+<br>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; reasoning and communicate connections
+of big ideas from metacognitive or exploratory activities
+<br>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; confidence and interest in the
 subject.</p>
 <p>&nbsp;</p>
 <h2>Curriculum Framework</h2>
