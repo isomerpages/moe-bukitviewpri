@@ -9,7 +9,7 @@ variant: markdown
 *   [Mathematics](/bvps-experience/Curriculum/Mathematics-Department/)
 *   [Science](/bvps-experience/Curriculum/Science-Department/) 
 *   [Mother Tongue](/bvps-experience/Curriculum/Mother-Tongue-Department/)
-*   [Character and Citizenship Education](/bvps-experience/Curriculum/Character-And-Citizenship-Education)
+*   [Character and Citizenship Education](/bvps-experience/Curriculum/cce)
 *   [Information and Communication Technology](/bvps-experience/Curriculum/Information-and-Communication-Technology/)
 *   [PE & CCA](/bvps-experience/Curriculum/PE-and-CCA/)
 *   [Aesthetics](/bvps-experience/Curriculum/Aesthetics/)
