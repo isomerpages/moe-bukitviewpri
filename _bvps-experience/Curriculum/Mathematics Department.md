@@ -10,7 +10,7 @@ Aligned with our school vision, the Mathematics Department aims to create
 a vibrant community of self-directed learners who not only acquire basic
 numeracy, but also enhance critical mathematical processes that support
 the development of 21st century competencies.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>Our mission is to provide situated learning experiences for students to
 demonstrate:</p>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; understanding of concepts and skills
