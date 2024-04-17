@@ -31,20 +31,20 @@ of tomorrow.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/BVPS Experience/Curriculum/Science Department/Hands_on_activity_in_science_lab___03.jpg">
 </div>
-<p><strong>Science Remedials</strong>
+<p><strong>Science Remedials</strong> 
 <br>We provide after-school remedial program to offer targeted support to
 selected students, addressing individual learning needs in a nurturing,
 small-group setting.</p>
 <p></p>
 <p></p>
-<p><strong>Science Talent Development Programme</strong>
+<p><strong>Science Talent Development Programme</strong> 
 <br>For students with a strong foundation in science, we offer specialized
 programs like the Excellence 2000 (E2K) Science Enrichment and the Science
 Olympiad, aimed at honing independent scientific inquiry, developing science
 process skills, and advanced science investigations that cover challenging
 scientific concepts.</p>
 <p></p>
-<p><strong>Engagement Beyond the Classroom</strong>
+<p><strong>Engagement Beyond the Classroom</strong> 
 <br>We provide opportunities to our students to showcase their abilities and
 nurture their talents. To this end, we actively look for external competitions
 organized by the Singapore Science Centre or other relevant organizations.
