@@ -90,7 +90,7 @@ the P1-P6 VIA projects through our VIA Learning Day. Through the VIA projects,
 our students have learned and applied important values and skills. Additionally,
 they have demonstrated active citizenship and worked towards our school’s
 vision of being Caring Citizens as they learned to serve in their family,
-<a rel="noopener noreferrer nofollow" target="_blank">school</a>and community.</p>
+school and community.</p>
 <p>Showcase of Primary 1 and Primary 2 VIA projects “I Love My Family” and
 “I Love My School”:</p>
 <div class="isomer-image-wrapper">
@@ -100,12 +100,12 @@ vision of being Caring Citizens as they learned to serve in their family,
 <p>Our Primary 3 students embarked on their VIA project “I am a Good Neighbour”.
 Collaborating with St Luke’s Hospital, our students gained interesting
 insights into the lives of the elderly. This meaningful project was a thoughtful
-lesson on empathy and in the power of small gestures to make <a rel="noopener noreferrer nofollow" target="_blank">a big difference</a>. Our students learnt
-the true essence of being good neighbours – giving back to the community
-in their own special ways. Together, they created an array of heartwarming
-videos, games, crafts, <a rel="noopener noreferrer nofollow" target="_blank">ornaments</a> and
-activities designed to bring joy and companionship to our elderly neighbours.
-You can admire the fruits of their labour and love here:</p>
+lesson on empathy and in the power of small gestures to mak a big difference.
+Our students learnt the true essence of being good neighbours – giving
+back to the community in their own special ways. Together, they created
+an array of heartwarming videos, games, crafts, ornaments and activities
+designed to bring joy and companionship to our elderly neighbours. You
+can admire the fruits of their labour and love here:</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">https://padlet.com/tan_sze_hui_vanessa/p3-via-2024-i-am-a-good-neighbour-lljl5t9x256hykdm</a>
 </p>
 <div class="isomer-image-wrapper">
@@ -114,7 +114,8 @@ You can admire the fruits of their labour and love here:</p>
 <p></p>
 <p>Our Primary 4 students learnt to champion a gracious and responsible heartland
 living and contribute to building a safe and caring community through their
-involvement in the “I am a Responsible Heartlander” Project.</p>
+involvement in the
+<br>“I am a Responsible Heartlander” Project.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture7.jpg">
 </div>
@@ -145,7 +146,7 @@ Fund.</p>
 <p>With the revised Primary School Leaving Examinations (PSLE) scoring system
 and diversity of secondary education pathways, students need to be guided
 to make informed school choices while considering their values, strengths,
-<a rel="noopener noreferrer nofollow" target="_blank">interests</a>and skills. ECG experiences in Primary schools (e.g. secondary
+interests and skills. ECG experiences in Primary schools (e.g. secondary
 school talks, career talks) are opportunities to build students’ self-awareness
 and knowledge of the different education and career pathways. Such experiences
 would be especially valuable for students in their primary school years,
@@ -193,11 +194,11 @@ use of contemporary content through Kindsville Times/A-Ok.</p>
 </p>
 <p>All students will experience at least one Cohort LJ per year from Primary
 4. Cohort LJs have been developed to provide students with opportunities
-to explore their Singaporean identity through the arts, <a rel="noopener noreferrer nofollow" target="_blank">culture</a> and heritage. These complement
-the Art, Character and Citizenship Education, Social Studies (SS) and History
-(HY) curricula.</p>
-<p>P4 Cohort Learning Journeys to Changi Airport, Kreta Ayer Heritage <a rel="noopener noreferrer nofollow" target="_blank">Gallery</a> and Geylang Serai Heritage
-Gallery</p>
+to explore their Singaporean identity through the arts, culture and heritage.
+These complement the Art, Character and Citizenship Education, Social Studies
+(SS) and History (HY) curricula.</p>
+<p>P4 Cohort Learning Journeys to Changi Airport, Kreta Ayer Heritage Gallery
+and Geylang Serai Heritage Gallery</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture16.jpg">
 </div>
