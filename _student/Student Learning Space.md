@@ -4,7 +4,7 @@ permalink: /student/Student-Learning-Space/
 description: ""
 variant: tiptap
 ---
-<h4><strong>Student Learning Space(SLS) LOGIN WEBSITE:</strong><br><a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">https://vle.learning.moe.edu.sg/login</a></h4>
+<h4><strong>Student Learning Space(SLS) Login website:</strong><br><a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">https://vle.learning.moe.edu.sg/login</a></h4>
 <p></p>
 <h4><strong>School Operating Hours</strong></h4>
 <p>During school operating hours, students should contact the&nbsp;School-based
