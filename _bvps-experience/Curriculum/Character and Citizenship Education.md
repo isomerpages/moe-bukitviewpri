@@ -76,7 +76,7 @@ it Out) in alignment with our school values of GR2IT.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture4.jpg">
 </div>
 <p>
-<br><strong><u>VIA</u></strong>
+<br><strong><u>Values In Action</u></strong>
 </p>
 <p>Values in Action is a learning experience in Character and Citizenship
 Education (CCE) that enhances students’ development as socially responsible
@@ -85,11 +85,11 @@ citizens through ownership of their contribution to the community.</p>
 believe will make a difference in the community. Being actively involved
 in learning about and appreciating the community develops their sense of
 commitment in playing their part to make it a better place.</p>
-<p>As part of our school’s Values in Action (VIA) programme, our school showcases
-the P1-P6 VIA projects through our VIA Learning Day. Through the VIA projects,
-our students have learned and applied important values and skills. Additionally,
+<p>As part of our school’s (VIA) programme, our school showcases the P1-P6
+VIA projects through our VIA Learning Day. Through the VIA projects, our
+students have learned and applied important values and skills. Additionally,
 they have demonstrated active citizenship and worked towards our school’s
-vision of being Caring Citizens as they learned to serve in their family,
+vision of being Caring Citizens as they learnt to serve in their family,
 school and community.</p>
 <p>Showcase of Primary 1 and Primary 2 VIA projects “I Love My Family” and
 “I Love My School”:</p>
@@ -100,7 +100,7 @@ school and community.</p>
 <p>Our Primary 3 students embarked on their VIA project “I am a Good Neighbour”.
 Collaborating with St Luke’s Hospital, our students gained interesting
 insights into the lives of the elderly. This meaningful project was a thoughtful
-lesson on empathy and in the power of small gestures to mak a big difference.
+lesson on empathy and in the power of small gestures to make a big difference.
 Our students learnt the true essence of being good neighbours – giving
 back to the community in their own special ways. Together, they created
 an array of heartwarming videos, games, crafts, ornaments and activities
@@ -130,7 +130,7 @@ BVPS in these activities.
 </div>
 <p></p>
 <p></p>
-<p>Our Primary 6 students learned to show care to others in the community
+<p>Our Primary 6 students learnt to show care to others in the community
 and spread the message of reducing wastage to protect the environment through
 their VIA Project, ‘BVPS Heartbeat’. They creatively repurposed materials
 around them into amazing craftworks such as bookmarks, keychains, stickers,
@@ -146,11 +146,11 @@ Fund.</p>
 <p>With the revised Primary School Leaving Examinations (PSLE) scoring system
 and diversity of secondary education pathways, students need to be guided
 to make informed school choices while considering their values, strengths,
-interests and skills. ECG experiences in Primary schools (e.g. secondary
-school talks, career talks) are opportunities to build students’ self-awareness
-and knowledge of the different education and career pathways. Such experiences
-would be especially valuable for students in their primary school years,
-which are a time for growth and discovery.</p>
+interests and skills. ECG experiences in (e.g. secondary school talks,
+career talks) are opportunities to build students’ self-awareness and knowledge
+of the different education and career pathways. Such experiences would
+be especially valuable for students in their primary school years, which
+are a time for growth and discovery.</p>
 <p>Children’s Day career sharing by parents</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture10.jpg">
@@ -184,12 +184,10 @@ use of contemporary content through Kindsville Times/A-Ok.</p>
 <p></p>
 <p>National Day</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture18.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture15.jpg">
 </div>
+<p></p>
+<p></p>
 <p><strong><u>Cohort Learning Journeys (LJs)</u></strong>
 </p>
 <p>All students will experience at least one Cohort LJ per year from Primary
