@@ -21,16 +21,17 @@ future readiness and active citizenship.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Picture1.jpg">
 </div>
-<p></p>
+<p><strong>Key CCE Programmes in BVPS </strong>
+</p>
 <p><strong><u>CCE lessons (CCE FTGP, CCE (MTL) and PAL)</u></strong>
 </p>
 <p><strong>CCE FTGP</strong> 
 <br>CCE FTGP lessons are conducted by all Form Teachers. We emphasise on the
-explicit teaching of social-emotional competencies in CCE(FTGP). This lays
+explicit teaching of social-emotional competencies in CCE FTGP. This lays
 the foundation for more complex conversations and discussions. Topics related
-to developing citizenship dispositions are also taught in CCE (FTGP) to
-foster inter-ethnic understanding and appreciation for one another’s culture
-in a multicultural classroom setting.</p>
+to developing citizenship dispositions are also taught in CCE FTGP to foster
+inter-ethnic understanding and appreciation for one another’s culture in
+a multicultural classroom setting.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture2.jpg">
 </div>
@@ -78,14 +79,14 @@ it Out) in alignment with our school values of GR2IT.</p>
 <p>
 <br><strong><u>Values In Action</u></strong>
 </p>
-<p>Values in Action is a learning experience in Character and Citizenship
-Education (CCE) that enhances students’ development as socially responsible
-citizens through ownership of their contribution to the community.</p>
+<p>VIA is a learning experience in Character and Citizenship Education (CCE)
+that enhances students’ development as socially responsible citizens through
+ownership of their contribution to the community.</p>
 <p>Students are given an opportunity to choose and have a voice in what they
 believe will make a difference in the community. Being actively involved
 in learning about and appreciating the community develops their sense of
 commitment in playing their part to make it a better place.</p>
-<p>As part of our school’s (VIA) programme, our school showcases the P1-P6
+<p>As part of our school’s VIA programme, our school showcases the P1-P6
 VIA projects through our VIA Learning Day. Through the VIA projects, our
 students have learned and applied important values and skills. Additionally,
 they have demonstrated active citizenship and worked towards our school’s
@@ -146,7 +147,7 @@ Fund.</p>
 <p>With the revised Primary School Leaving Examinations (PSLE) scoring system
 and diversity of secondary education pathways, students need to be guided
 to make informed school choices while considering their values, strengths,
-interests and skills. ECG experiences in (e.g. secondary school talks,
+interests and skills. ECG experiences in BVPS (e.g. secondary school talks,
 career talks) are opportunities to build students’ self-awareness and knowledge
 of the different education and career pathways. Such experiences would
 be especially valuable for students in their primary school years, which
