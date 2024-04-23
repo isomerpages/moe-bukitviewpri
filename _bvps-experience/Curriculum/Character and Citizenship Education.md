@@ -77,7 +77,7 @@ it Out) in alignment with our school values of GR2IT.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture4.jpg">
 </div>
 <p>
-<br><strong><u>Values In Action(VIA)</u></strong>
+<br><strong><u>Values In Action (VIA)</u></strong>
 </p>
 <p>VIA is a learning experience in Character and Citizenship Education (CCE)
 that enhances students’ development as socially responsible citizens through
