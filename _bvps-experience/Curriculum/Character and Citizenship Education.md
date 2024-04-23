@@ -21,7 +21,7 @@ future readiness and active citizenship.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Picture1.jpg">
 </div>
-<p><strong>Key CCE Programmes in BVPS </strong>
+<p><strong>Key CCE Programmes in BVPS</strong>
 </p>
 <p><strong><u>CCE lessons (CCE FTGP, CCE (MTL) and PAL)</u></strong>
 </p>
@@ -77,7 +77,7 @@ it Out) in alignment with our school values of GR2IT.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture4.jpg">
 </div>
 <p>
-<br><strong><u>Values In Action</u></strong>
+<br><strong><u>Values In Action(VIA)</u></strong>
 </p>
 <p>VIA is a learning experience in Character and Citizenship Education (CCE)
 that enhances students’ development as socially responsible citizens through
