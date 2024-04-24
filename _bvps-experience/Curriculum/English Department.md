@@ -5,13 +5,14 @@ description: ""
 third_nav_title: Curriculum
 variant: tiptap
 ---
-<h4><strong>Curriculum Framework</strong>&nbsp; &nbsp;&nbsp;</h4>
+<h4><strong>Curriculum Framework</strong></h4>
 <p>The English Language Syllabus 2020 for the Primary level focuses on the
 development, reinforcement and extension of language skills in the primary
 years through an enjoyment of the language and the promotion of extensive
 reading; and leveraging oracy, reading and writing skills to develop knowledge
-and independent use of the language.</p>
-<p>The diagram below presents the key features of the EL Syllabus 2020.</p>
+and independent use of the language.
+<br>
+<br>The diagram below presents the key features of the EL Syllabus 2020.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/BVPS%20Experience/Curriculum/English%20Department/E1.png">
 </div>
@@ -32,8 +33,8 @@ structured activities and discussions, students learn to articulate thoughts,
 listen actively, and engage in meaningful dialogues. These skills extend
 beyond classrooms, preparing students for success in diverse real-world
 scenarios, developing them as empathetic communicators.</p>
-<p><strong><em>ACTION!</em> Drama in the Curriculum</strong>&nbsp;</p>
-<p>Drama is incorporated into the EL curriculum to teach oracy in BVPS. Students
+<p><strong><em>ACTION!</em> Drama in the Curriculum</strong>&nbsp;
+<br>Drama is incorporated into the EL curriculum to teach oracy in BVPS. Students
 take on the role of different characters and learn critical inventive thinking
 skills such as articulating their thoughts clearly, looking at situations
 from different perspectives and formulating decisions. Additionally, their
@@ -45,8 +46,7 @@ skills.</p>
 <img style="width:300px" height="auto" width="100%" src="/images/BVPS%20Experience/Curriculum/English%20Department/picture3.jpg">
 </div>
 <p><strong>News and Views</strong>
-</p>
-<p>News and Views is one such platform in which our P5 and P6 classes showcase
+<br>News and Views is one such platform in which our P5 and P6 classes showcase
 their talents through live drama and video performances. Through these
 performances, the classes will also be incorporating the learning of values
 and skills that will help them to be self-directed learners, confident
@@ -57,8 +57,7 @@ leaders and caring citizens. To see more of our young stars in action,
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/BVPS%20Experience/Curriculum/English%20Department/picture5.jpg">
 </div>
 <p><strong>Digital Storytelling</strong>
-</p>
-<p>As part of our ongoing efforts to help our students acquire and develop
+<br>As part of our ongoing efforts to help our students acquire and develop
 oral communication skills; accurate pronunciation, appropriate intonation,
 read expressively and speak with confidence, our P1 to P3 students use
 a novel digital story book platform, Moo-O, that allows them to be the
@@ -80,8 +79,7 @@ as a discerning reader. Through interactive activities inspired by books,
 students embark on exciting real-life adventures, forging a profound connection
 with literature and igniting a lifelong love for reading.</p>
 <p><strong><em>DEAR BVPS</em></strong>
-</p>
-<p>DEAR BVPS or Drop Everything and Read is a pre-assembly activity done
+<br>DEAR BVPS or Drop Everything and Read is a pre-assembly activity done
 every morning before the start of morning assembly where students will
 read their English or Mother Tongue storybooks while waiting for school
 to start at 7.30 a.m. DEAR empowers students with daily moments of immersive
@@ -113,8 +111,7 @@ improves focus, and provides a valuable escape into different worlds.</p>
 </tbody>
 </table>
 <p><strong>Read for Books at BVPS</strong>
-</p>
-<p>Read for Books at BVPS is a charity book drive organised by National Library
+<br>Read for Books at BVPS is a charity book drive organised by National Library
 Board (NLB) National Reading Movement, aimed at celebrating and sharing
 the joy, and gift of reading with the less privileged. Our BVPS family
 has been a part of this worthy cause since 2017. Participating in this
@@ -126,8 +123,7 @@ to a greater good.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/BVPS%20Experience/Curriculum/English%20Department/picture15.jpg">
 </div>
 <p><strong>Recess Storytelling Time</strong>
-</p>
-<p>Every term, our P4 to P6 English Monitors take turns to conduct storytelling
+<br>Every term, our P4 to P6 English Monitors take turns to conduct storytelling
 sessions during recess to bring the stories to life for their schoolmates.
 The sessions give them a chance to express themselves creatively and confidently
 and allow their friends to experience an exciting life through the world
@@ -138,8 +134,7 @@ to leave our students in awe and excited to read the book!</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/picture16.jpg">
 </div>
 <p><strong>Morning Reading Programme</strong>
-</p>
-<p>Our Morning Reading programme, conducted from Monday to Thursday mornings
+<br>Our Morning Reading programme, conducted from Monday to Thursday mornings
 from 7.15 a.m. to 7.30 a.m., aims to guide and support a selected group
 of P1 and P2 students to be confident readers. Our young readers, who are
 paired with their P4 and P6 tutors, enjoy a variety of fun and interactive
@@ -150,8 +145,7 @@ proficiency.</p>
 </div>
 <p></p>
 <p><strong>Extensive Reading</strong>
-</p>
-<p>To promote extensive reading in English Language (EL), our students subscribe
+<br>To promote extensive reading in English Language (EL), our students subscribe
 to newspapers that are used by our teachers as additional reading resources
 during lessons to build on their language skills and general knowledge.
 Our P3 and P4 students subscribe to the Little Red Dot, while our P5 and
@@ -169,9 +163,9 @@ vocabulary, structure, and style to convey their thoughts in writing.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/BVPS%20Experience/Curriculum/English%20Department/picture17.jpg">
 </div>
-<p><strong>Budding Writers Project</strong>
-</p>
-<p>To encourage our young writers to keep their writing passion burning,
+<p>
+<br><strong>Budding Writers Project</strong>
+<br>To encourage our young writers to keep their writing passion burning,
 we compile exemplary pieces of writing to give our students the opportunity
 to analyse and deconstruct well-crafted pieces of work. By gaining insights
 into effective writing techniques of their peers, such as structure, tone,
@@ -181,8 +175,7 @@ higher-quality compositions they are proud of.</p>
 <p></p>
 <h5><strong>Nurturing Diverse Learners</strong></h5>
 <p><strong><em>Talent Development in English - BV ACEs</em></strong>
-</p>
-<p>Our Bukit View Accomplished Communicators of English (BV ACEs) Programme
+<br>Our Bukit View Accomplished Communicators of English (BV ACEs) Programme
 aims to develop in students the proficiency to generate, analyse, organise,
 and express ideas coherently, creatively and critically with discernment.
 Our selected P4 and P5 students will acquire skills and techniques that
@@ -195,7 +188,8 @@ and collaborating with others.</p>
 </div>
 <p></p>
 <h5><strong>Literacy Support Programmes</strong></h5>
-<p>Our Literacy Support Programmes, namely the Learning Support Programme
+<p>
+<br>Our Literacy Support Programmes, namely the Learning Support Programme
 for English (LSP), the School-based Dyslexia Remediation (SDR) programme,
 Reading Remediation Programme (RRP), as well as our after-school Remediation
 Programme aim to provide targeted intervention that addresses specific
@@ -211,12 +205,12 @@ growth in the students’ English language proficiency. Thus, here at Bukit
 View, we provide students with the opportunity to hone their skills and
 unleash their creativity through various competition platforms for the
 different language skills.</p>
-<p><strong>Moo-O</strong>
+<p><strong>Moo-O</strong> 
 <br>In 2023, three of our Primary 3 students took part in the Moo-O Awards
 2023 and won the Bronze Award. Click on the image below to watch the Moo-O
 video.</p>
 <p></p>
-<p><strong>SOTA Creative Writing Competition</strong>
+<p><strong>SOTA Creative Writing Competition</strong> 
 <br>Our student, Jayatra Panda (6 Care), emerged as one of the top 50 finalists
 for this year’s competition. Check out his entry below:</p>
 <div class="isomer-image-wrapper">
@@ -224,7 +218,7 @@ for this year’s competition. Check out his entry below:</p>
 </div>
 <p><a href="/files/sota-p6-jayatra%20panda-bvps.pdf" rel="noopener noreferrer nofollow" target="_blank">Jayatra's Creative Writing</a>
 </p>
-<p><strong>The Young Playwrights Present</strong>
+<p><strong>The Young Playwrights Present</strong> 
 <br>To express his passion for writing and performing, our student, Nur Ezra
 (5 Integrity), worked on a 3-minute monologue and performed it as a staged
 performance. His performance was shortlisted in this year’s showcase.</p>
