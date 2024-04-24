@@ -45,7 +45,7 @@ skills.</p>
 <div class="isomer-image-wrapper">
 <img style="width:300px" height="auto" width="100%" src="/images/BVPS%20Experience/Curriculum/English%20Department/picture3.jpg">
 </div>
-<p><strong>News and Views</strong>
+<p><strong>News and Views</strong> 
 <br>News and Views is one such platform in which our P5 and P6 classes showcase
 their talents through live drama and video performances. Through these
 performances, the classes will also be incorporating the learning of values
@@ -56,7 +56,7 @@ leaders and caring citizens. To see more of our young stars in action,
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/BVPS%20Experience/Curriculum/English%20Department/picture5.jpg">
 </div>
-<p><strong>Digital Storytelling</strong>
+<p><strong>Digital Storytelling</strong> 
 <br>As part of our ongoing efforts to help our students acquire and develop
 oral communication skills; accurate pronunciation, appropriate intonation,
 read expressively and speak with confidence, our P1 to P3 students use
@@ -78,7 +78,7 @@ text selections which prompts the exploration of worlds and perspectives
 as a discerning reader. Through interactive activities inspired by books,
 students embark on exciting real-life adventures, forging a profound connection
 with literature and igniting a lifelong love for reading.</p>
-<p><strong><em>DEAR BVPS</em></strong>
+<p><strong><em>DEAR BVPS</em></strong> 
 <br>DEAR BVPS or Drop Everything and Read is a pre-assembly activity done
 every morning before the start of morning assembly where students will
 read their English or Mother Tongue storybooks while waiting for school
@@ -110,7 +110,7 @@ improves focus, and provides a valuable escape into different worlds.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Read for Books at BVPS</strong>
+<p><strong>Read for Books at BVPS</strong> 
 <br>Read for Books at BVPS is a charity book drive organised by National Library
 Board (NLB) National Reading Movement, aimed at celebrating and sharing
 the joy, and gift of reading with the less privileged. Our BVPS family
@@ -122,7 +122,7 @@ to a greater good.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/BVPS%20Experience/Curriculum/English%20Department/picture15.jpg">
 </div>
-<p><strong>Recess Storytelling Time</strong>
+<p><strong>Recess Storytelling Time</strong> 
 <br>Every term, our P4 to P6 English Monitors take turns to conduct storytelling
 sessions during recess to bring the stories to life for their schoolmates.
 The sessions give them a chance to express themselves creatively and confidently
@@ -133,7 +133,7 @@ to leave our students in awe and excited to read the book!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/picture16.jpg">
 </div>
-<p><strong>Morning Reading Programme</strong>
+<p><strong>Morning Reading Programme</strong> 
 <br>Our Morning Reading programme, conducted from Monday to Thursday mornings
 from 7.15 a.m. to 7.30 a.m., aims to guide and support a selected group
 of P1 and P2 students to be confident readers. Our young readers, who are
@@ -144,7 +144,7 @@ proficiency.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/BVPS%20Experience/Curriculum/English%20Department/picture9.jpg">
 </div>
 <p></p>
-<p><strong>Extensive Reading</strong>
+<p><strong>Extensive Reading</strong> 
 <br>To promote extensive reading in English Language (EL), our students subscribe
 to newspapers that are used by our teachers as additional reading resources
 during lessons to build on their language skills and general knowledge.
@@ -164,7 +164,7 @@ vocabulary, structure, and style to convey their thoughts in writing.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/BVPS%20Experience/Curriculum/English%20Department/picture17.jpg">
 </div>
 <p>
-<br><strong>Budding Writers Project</strong>
+<br><strong>Budding Writers Project</strong> 
 <br>To encourage our young writers to keep their writing passion burning,
 we compile exemplary pieces of writing to give our students the opportunity
 to analyse and deconstruct well-crafted pieces of work. By gaining insights
@@ -174,7 +174,7 @@ as they evaluate and adapt these techniques to their own writing, producing
 higher-quality compositions they are proud of.</p>
 <p></p>
 <h5><strong>Nurturing Diverse Learners</strong></h5>
-<p><strong><em>Talent Development in English - BV ACEs</em></strong>
+<p><strong><em>Talent Development in English - BV ACEs</em></strong> 
 <br>Our Bukit View Accomplished Communicators of English (BV ACEs) Programme
 aims to develop in students the proficiency to generate, analyse, organise,
 and express ideas coherently, creatively and critically with discernment.
@@ -188,8 +188,7 @@ and collaborating with others.</p>
 </div>
 <p></p>
 <h5><strong>Literacy Support Programmes</strong></h5>
-<p>
-<br>Our Literacy Support Programmes, namely the Learning Support Programme
+<p>Our Literacy Support Programmes, namely the Learning Support Programme
 for English (LSP), the School-based Dyslexia Remediation (SDR) programme,
 Reading Remediation Programme (RRP), as well as our after-school Remediation
 Programme aim to provide targeted intervention that addresses specific
