@@ -21,13 +21,12 @@ of tomorrow.</p>
 <h3><strong>KEY PROGRAMMES</strong></h3>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BVPS Experience/Curriculum/Science Department/SGT.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BVPS Experience/Curriculum/Science Department/SGT3.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BVPS Experience/Curriculum/Science Department/EG.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BVPS Experience/Curriculum/Science Department/EG3.jpg">
 </div>
-<h3><strong>Nurturing Diverse Learners</strong></h3>
+<h3><br><strong>Nurturing Diverse Learners</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/BVPS Experience/Curriculum/Science Department/Hands_on_activity_in_science_lab___03.jpg">
 </div>
