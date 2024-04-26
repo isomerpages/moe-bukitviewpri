@@ -2,7 +2,7 @@ collections:
   bvps-experience:
     output: true
     order:
-      - CoCurricular Activities.md
+      - CCA.md
       - Visual and Performing Arts/ENGLISH DRAMA.md
       - Visual and Performing Arts/ART CLUB.md
       - Visual and Performing Arts/ANGKLUNG AND KULINTANG ENSEMBLE.md
