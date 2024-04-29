@@ -27,7 +27,6 @@ and being resilient.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 75%;" height="auto" width="100%" alt="" src="/images/BVPS%20Experience/Co%20Curricular%20Activities/Aesthetics%20and%20Performing%20Arts/INDIAN%20DANCE/I2.jpg">
 </div>
-<p></p>
 </th>
 </tr>
 <tr>
@@ -35,13 +34,11 @@ and being resilient.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/BVPS%20Experience/Co%20Curricular%20Activities/Aesthetics%20and%20Performing%20Arts/INDIAN%20DANCE/I3.jpg">
 </div>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/BVPS%20Experience/Co%20Curricular%20Activities/Aesthetics%20and%20Performing%20Arts/INDIAN%20DANCE/I4.jpg">
 </div>
-<p></p>
 </td>
 </tr>
 </tbody>
