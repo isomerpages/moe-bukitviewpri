@@ -21,7 +21,6 @@ and being resilient.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/BVPS%20Experience/Co%20Curricular%20Activities/Aesthetics%20and%20Performing%20Arts/INDIAN%20DANCE/I1.jpg">
 </div>
-<p></p>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
