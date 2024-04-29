@@ -19,7 +19,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/bvps-experience/Curriculum/Mother-Tongue-Department/" rel="noopener noreferrer nofollow" target="_blank">Mother Tongue</a>
+<p><a href="/bvps-experience/Curriculum/mt/" rel="noopener noreferrer nofollow" target="_blank">Mother Tongue</a>
 </p>
 </li>
 <li>
