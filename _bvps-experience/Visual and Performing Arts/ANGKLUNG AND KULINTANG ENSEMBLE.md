@@ -68,7 +68,7 @@ the community.</p>
 </td>
 <td rowspan="1" colspan="4">
 <p>Ms Chan Li Xin (I/C)
-<br>Mdm Jayanthi D/O Chandramohan
+<br>Mdm Jayanthi
 <br>Mdm Ng Sin Ee
 <br>Mr Thomas Ang
 <br>
