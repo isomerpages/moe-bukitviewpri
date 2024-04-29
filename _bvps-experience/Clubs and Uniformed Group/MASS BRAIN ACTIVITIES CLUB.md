@@ -14,18 +14,35 @@ and Othello.&nbsp;</p>
 and Reach Senior Centre, introduced and taught simple board games to parents
 and senior citizens respectively. MBA Club builds collaborative skills&nbsp;
 and challenges thinking while imparting the values of sharing and caring.</p>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/BVPS%20Experience/Co%20Curricular%20Activities/Clubs%20&amp;%20Uniformed%20Group/MASS%20BRAIN%20ACTIVITIES%20(MBA)/M1.jpg">
 </div>
+</th>
+<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/BVPS%20Experience/Co%20Curricular%20Activities/Clubs%20&amp;%20Uniformed%20Group/MASS%20BRAIN%20ACTIVITIES%20(MBA)/M2.jpg">
 </div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/BVPS%20Experience/Co%20Curricular%20Activities/Clubs%20&amp;%20Uniformed%20Group/MASS%20BRAIN%20ACTIVITIES%20(MBA)/M3.jpg">
 </div>
+</td>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/BVPS%20Experience/Co%20Curricular%20Activities/Clubs%20&amp;%20Uniformed%20Group/MASS%20BRAIN%20ACTIVITIES%20(MBA)/M4.jpg">
 </div>
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <table>
 <tbody>
 <tr>
