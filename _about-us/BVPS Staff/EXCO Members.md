@@ -131,7 +131,7 @@ variant: tiptap
 <p>Mdm Faith Chung</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD / Aesthetics</p>
+<p>HOD / Aesthetics and PE &amp; CCA</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>faith_chung_wai_teng</p>
@@ -282,9 +282,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH / PE &amp; CCA
-<br>
-</p>
+<p>SH / PE &amp; CCA</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>gary_teo_jiunn_shyan</p>
