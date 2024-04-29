@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/bvps-experience/Curriculum/eng" rel="noopener noreferrer nofollow" target="_blank">English Language</a>
+<p><a href="/bvps-experience/Curriculum/english-department" rel="noopener noreferrer nofollow" target="_blank">English Language</a>
 </p>
 </li>
 <li>
