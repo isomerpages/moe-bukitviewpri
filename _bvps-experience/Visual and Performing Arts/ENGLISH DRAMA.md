@@ -14,15 +14,29 @@ team camaraderie.</p>
 <p>Under the guidance of our passionate and dedicated instructor and teachers-in-charge,
 students hone their skills and talents and they perform for various school
 events and competitions.</p>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/BVPS%20Experience/Co%20Curricular%20Activities/Clubs%20&amp;%20Uniformed%20Group/ENGLISH%20DRAMA/E1.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/BVPS%20Experience/Co%20Curricular%20Activities/Clubs%20&amp;%20Uniformed%20Group/ENGLISH%20DRAMA/E1.jpg">
 </div>
+</th>
+<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/BVPS%20Experience/Co%20Curricular%20Activities/Clubs%20&amp;%20Uniformed%20Group/ENGLISH%20DRAMA/E2.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/BVPS%20Experience/Co%20Curricular%20Activities/Clubs%20&amp;%20Uniformed%20Group/ENGLISH%20DRAMA/E2.jpg">
 </div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/BVPS%20Experience/Co%20Curricular%20Activities/Clubs%20&amp;%20Uniformed%20Group/ENGLISH%20DRAMA/E3.jpg">
 </div>
+</td>
+</tr>
+</tbody>
+</table>
 <table>
 <tbody>
 <tr>
