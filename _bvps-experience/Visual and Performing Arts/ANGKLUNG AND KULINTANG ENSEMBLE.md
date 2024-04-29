@@ -52,7 +52,7 @@ the community.</p>
 <th rowspan="1" colspan="1">
 <p>TIME</p>
 </th>
-<th rowspan="1" colspan="3">
+<th rowspan="1" colspan="4">
 <p>TEACHERS IN-CHARGE</p>
 </th>
 <th rowspan="1" colspan="2">
@@ -66,7 +66,7 @@ the community.</p>
 <td rowspan="1" colspan="1">
 <p>2 p.m. to 4 p.m.</p>
 </td>
-<td rowspan="1" colspan="3">
+<td rowspan="1" colspan="4">
 <p>Ms Chan Li Xin (I/C)
 <br>Mdm Jayanthi D/O Chandramohan
 <br>Mdm Ng Sin Ee
