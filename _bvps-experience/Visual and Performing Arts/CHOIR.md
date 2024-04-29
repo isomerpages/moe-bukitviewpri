@@ -14,21 +14,46 @@ school choir performances.&nbsp;</p>
 of Voices of Singapore. To encourage students to be caring citizens, members
 performed at Seniors Café and brought joy to the senior citizens visiting
 the café.</p>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/BVPS%20Experience/Co%20Curricular%20Activities/Aesthetics%20and%20Performing%20Arts/CHOIR/C1.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/BVPS%20Experience/Co%20Curricular%20Activities/Aesthetics%20and%20Performing%20Arts/CHOIR/C1.jpg">
 </div>
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/BVPS%20Experience/Co%20Curricular%20Activities/Aesthetics%20and%20Performing%20Arts/CHOIR/C2.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/BVPS%20Experience/Co%20Curricular%20Activities/Aesthetics%20and%20Performing%20Arts/CHOIR/C2.jpg">
 </div>
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/BVPS%20Experience/Co%20Curricular%20Activities/Aesthetics%20and%20Performing%20Arts/CHOIR/C3.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/BVPS%20Experience/Co%20Curricular%20Activities/Aesthetics%20and%20Performing%20Arts/CHOIR/C3.jpg">
 </div>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/BVPS%20Experience/Co%20Curricular%20Activities/Aesthetics%20and%20Performing%20Arts/CHOIR/C4.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/BVPS%20Experience/Co%20Curricular%20Activities/Aesthetics%20and%20Performing%20Arts/CHOIR/C4.jpg">
 </div>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/BVPS%20Experience/Co%20Curricular%20Activities/Aesthetics%20and%20Performing%20Arts/CHOIR/C5.jpg">
 </div>
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <table>
 <tbody>
 <tr>
@@ -57,7 +82,6 @@ the café.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Chan Hai Yen (I/C)
-<br>
 <br>Miss Fong Shi Men
 <br>Ms Eunice Goh</p>
 </td>
