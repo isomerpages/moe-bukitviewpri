@@ -294,7 +294,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="2">
 <p>Mdm Tan Beng Choo
-<br>Miss Nurul Amirah B M A</p>
+<br>Miss Nurul Amirah Bte Muhd Azmy</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>tan_beng_choo
