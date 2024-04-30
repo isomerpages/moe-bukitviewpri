@@ -247,7 +247,7 @@ variant: tiptap
 <p>Mdm Ernita Bte Mohd Yazid</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head (Upper Pri / P5)</p>
+<p>Assistant Year Head (Upper Pri)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ernita_mohd_yazid</p>
