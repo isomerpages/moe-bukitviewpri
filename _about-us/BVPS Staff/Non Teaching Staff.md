@@ -5,7 +5,11 @@ description: ""
 third_nav_title: BVPS Staff
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -61,14 +65,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Khoo Kwan Liang</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>ICT Associate</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Khairunnisa Binti Khalid</p>
 </td>
 </tr>
 <tr>
