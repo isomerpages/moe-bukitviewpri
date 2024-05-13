@@ -2,14 +2,15 @@
 title: Quick Links
 permalink: /Quick-Links/
 description: ""
+variant: markdown
 ---
 #### **FOR PARENTS**
 
-*  [School Bag  website](https://www.schoolbag.edu.sg//)
+*  [School Bag Website](https://www.schoolbag.edu.sg//)
 
 *  [MOE Sexuality Education](https://www.bukitviewpri.moe.edu.sg/student/MOE-SEXUALITY-EDUCATION/)
 
-*  [Parent Gateway's](https://pg.moe.edu.sg/)
+*  [Parents Gateway](https://pg.moe.edu.sg/)
 
 
 #### **FOR PUPILS**
