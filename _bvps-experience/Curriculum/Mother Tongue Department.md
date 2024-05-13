@@ -1,8 +1,9 @@
 ---
 title: Mother Tongue Department
-permalink: /bvps-experience/Curriculum/Mother-Tongue-Department/
+permalink: /bvps-experience/curriculum/mt/
 description: ""
 third_nav_title: Curriculum
+variant: tiptap
 ---
 #### **Key Programmes** 
 
@@ -64,7 +65,3 @@ Trips for Internationalisation (TIE) programme, is in line with Bukit View Prima
 *   Deepening the students’ commitment and rootedness in Singapore. 
 
 Bukit View Primary School has twinned with Chengdu Xinhualu Primary School since 2011. Every year, a group of P5 students would visit Chengdu Xinhualu Primary School for Cultural Immersion. In 2016, the entire P5 level visited Penang for Immersion Programme for the first time in May.
-
-
-
-

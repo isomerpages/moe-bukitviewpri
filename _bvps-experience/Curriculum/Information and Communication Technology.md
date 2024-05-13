@@ -1,15 +1,15 @@
 ---
 title: Information and Communication Technology
-permalink: /bvps-experience/Curriculum/Information-and-Communication-Technology/
+permalink: /bvps-experience/curriculum/ict/
 description: ""
 third_nav_title: Curriculum
+variant: tiptap
 ---
-  
 #### **IT Skills Training for All Pupils** 
 
 
 
-In Bukit View Primary School, we want to prepare our students to be a future ready and responsible digital learner. To achieve that, we have 1:1 computing device for every student to learn to use ICT during their lessons. Every student is given the opportunity to work individually or collaborate with their peers on class work / project work.  
+In Bukit View Primary School, we want to prepare our students to be a future ready and responsible digital learner. To achieve that, we have 1:1 computing device for every student to learn to use ICT during their lessons. Every student is given the opportunity to work individually or collaborate with their peers on class work / project work. &nbsp;
 
   
 

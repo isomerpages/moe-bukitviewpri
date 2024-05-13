@@ -2,8 +2,8 @@ collections:
   about-us:
     output: true
     order:
-      - Mission Vision and Motto.md
-      - Our School Values.md
+      - Mission, Vision and Motto.md
+      - School Values.md
       - School Crest.md
       - School Song.md
       - School History.md
@@ -11,4 +11,4 @@ collections:
       - BVPS Staff/Teaching Staff 2024.md
       - BVPS Staff/Non Teaching Staff.md
       - BVPS Staff/.keep
-      - WZCOE for Aesthetics.md
+      - Centre of Excellence (Aesthetics).md

@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Info for Parents
 variant: markdown
 ---
-#### **Updated School Canteen menu and price list** 
+#### **Updated School Canteen Menu and Price List** 
 
 
   

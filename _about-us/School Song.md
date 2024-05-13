@@ -1,7 +1,8 @@
 ---
 title: School Song
-permalink: /about-us/School-Song/
+permalink: /about-us/schsong/
 description: ""
+variant: tiptap
 ---
 Bukit View Primary School  
 Our hope and treasured pride

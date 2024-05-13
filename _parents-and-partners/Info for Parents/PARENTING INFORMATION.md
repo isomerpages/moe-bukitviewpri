@@ -3,10 +3,11 @@ title: PARENTING INFORMATION
 permalink: /parents-and-partners/Info-for-Parents/PARENTING-INFORMATION/
 description: ""
 third_nav_title: Info for Parents
+variant: markdown
 ---
 **Parenting Support Programmes**  
   
-There is no hard and fast rule book for raising children, but it is surprising how many familiar parenting problems have very simple solutions. From anger outbursts, tantrums, defiance, unhealthy gaming habits to establishing a regular homework routine – the issues you face aren’t unique to your family. In fact, they are commonplace. That is why&nbsp;aren’t unique to your family. In fact, they are commonplace.&nbsp;That is why&nbsp;[Triple P Positive Parenting Programmes](https://www.triplep-parenting.net/global/triple-p/)&nbsp;can help.  
+There is no hard and fast rule book for raising children, but it is surprising how many familiar parenting problems have very simple solutions. From anger outbursts, tantrums, defiance, unhealthy gaming habits to establishing a regular homework routine – the issues you face aren’t unique to your family. In fact, they are commonplace. That is why&nbsp;[Triple P Positive Parenting Programmes](https://www.triplep-parenting.net/global/triple-p/)&nbsp;can help.  
   
 Triple P is one of the few parenting programmes in the world that is based on strategies proven by research. It is a multi-level strategy designed to suit various parenting needs as it aims to promote children and teens’ psychological, social, and emotional competence. Parents who attend the sessions will receive complimentary Triple P resources (subject to terms and conditions).  
   
@@ -19,7 +20,7 @@ Fei Yue Triple P Teaser&nbsp;[(https://youtu.be/OktQSOzQ0oY)](https://bukitviewp
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OktQSOzQ0oY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
-Fei Yue also organises various Family Life Education workshops for the community. You can check out their upcoming programmes and sign up to receive regular e-newsletters and updates about their programmes.&nbsp;[https://go.fycs.org/FLEsignup2023 ](https://go.fycs.org/FLEsignup2023 ).  
+Fei Yue also organises various Family Life Education workshops for the community. You can check out their upcoming programmes and sign up to receive regular e-newsletters and updates about their programmes here [FLE 2024](https://go.fycs.org/FLE2024)
   
 For enquiries, please contact Fei Yue’s staff, Ms Sheryl Palce Tan at 8869 4006 or fill in Fei Yue’s enquiry form at&nbsp;[https://go.fycs.org/PSS](https://go.fycs.org/PSS)
   
