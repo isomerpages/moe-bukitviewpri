@@ -14,8 +14,23 @@ peers to put up drama performances for the whole school.</p>
 <p>Here are the links to some of our News and Views drama videos showcased
 in the recent years. Enjoy! <em>(click on the links below to view)</em>
 </p>
+<p><strong>2024 Videos</strong>
+</p>
+<p></p>
+<p><strong>5TE - Towards an Inclusive Society</strong>
+</p>
+<div class="iframe-wrapper">
+<iframe height="393" width="699" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/xsBJjefo5ZA?si=bfWxP0hFlkg8mJbG"></iframe>
+</div>
+<p><strong>5RT - Towards a Greener Tomorrow</strong>
+</p>
+<div class="iframe-wrapper">
+<iframe height="393" width="699" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ARL4q_6hjDc?si=vR8V97TCtxW__tta"></iframe>
+</div>
+<p></p>
 <p><strong>2023 Videos and Photos</strong>
 </p>
+<p></p>
 <p><strong>6CA - Cyberwellness theme</strong>
 </p>
 <div class="iframe-wrapper">
