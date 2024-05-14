@@ -42,8 +42,7 @@ as they navigate the cyberspace.</p>
 <br>Language Input (Hansvision / Murasu Anjal)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Use of iPads for learning
-<br>- Digital Arts
+<p>- Digital Arts
 <br>- Moo-O (Electronic Story Book)
 <br>
 </p>
@@ -59,8 +58,7 @@ as they navigate the cyberspace.</p>
 <br>Introduction to MS Powerpoint (Pri Basic)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Use of iPads for learning</p>
-<p>- Moo-O (Electronic Story Book)</p>
+<p>Moo-O (Electronic Story Book)</p>
 </td>
 </tr>
 <tr>
@@ -72,8 +70,7 @@ as they navigate the cyberspace.</p>
 <br>Ms Powerpoint (Pri Intermediate)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Use of iPads for learning</p>
-<p>- Moo-O (Electronic Story Book)</p>
+<p>Moo-O (Electronic Story Book)</p>
 </td>
 </tr>
 <tr>
@@ -99,8 +96,7 @@ as they navigate the cyberspace.</p>
 <p>MS Excel (Pri Basic)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Use of iPads for learning
-<br>- Digital Arts</p>
+<p>Digital Arts</p>
 </td>
 </tr>
 <tr>
@@ -111,8 +107,7 @@ as they navigate the cyberspace.</p>
 <p>MS Excel (Pri Intermediate)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Use of iPads for learning
-<br>- Digital Arts</p>
+<p>Digital Arts</p>
 </td>
 </tr>
 </tbody>
