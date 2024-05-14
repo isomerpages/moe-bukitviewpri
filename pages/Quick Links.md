@@ -22,5 +22,5 @@ variant: markdown
 #### **FOR STAFF**
 
 *    [MOE iCON](https://icon.moe.edu.sg/)
-*     [Resource Booking System](https://rbs.avero-tech.com/)
-*     [STP Wiki](https://go.gov.sg/stp)
+*    [Resource Booking System](https://rbs.avero-tech.com/)
+*    [OPAL 2.0](https://go.gov.sg/stp)
