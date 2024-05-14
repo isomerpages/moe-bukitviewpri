@@ -53,4 +53,4 @@ BVPS P6 Foundation Booklist [Here](/files/Pri_6_FDN_BVPS_Booklist_for_Year_2024.
   
 For parents with children at the upper primary levels, we hope **WE-STories** will be a good resource for you to have conversation with your child on choosing Secondary Schools that can cater to his/her interests and strengths.  
   
-Please click [here](https://online.fliphtml5.com/obrr/qkde/#p=1) to access the book for your reading pleasure. 
+Please click [here](https://online.fliphtml5.com/obrr/qkde/#p=1) to access the book for your reading pleasure.
