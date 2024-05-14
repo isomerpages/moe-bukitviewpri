@@ -25,11 +25,8 @@ as they navigate the cyberspace.</p>
 <th rowspan="1" colspan="1">
 <p>Level</p>
 </th>
-<th rowspan="1" colspan="1">
-<p>ICT Curriculum</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Enrichment Programme within the Curriculum</p>
+<th rowspan="1" colspan="2">
+<p>ICT in Curriculum</p>
 </th>
 </tr>
 <tr>
@@ -42,8 +39,9 @@ as they navigate the cyberspace.</p>
 <br>Language Input (Hansvision / Murasu Anjal)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>- Digital Arts
-<br>- Moo-O (Electronic Story Book)
+<p>Use of iPads for learning</p>
+<p>Digital Arts
+<br>Moo-O (Electronic Story Book)
 <br>
 </p>
 </td>
@@ -59,6 +57,7 @@ as they navigate the cyberspace.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Moo-O (Electronic Story Book)</p>
+<p>Use of iPads for learning</p>
 </td>
 </tr>
 <tr>
@@ -71,6 +70,8 @@ as they navigate the cyberspace.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Moo-O (Electronic Story Book)</p>
+<p></p>
+<p>Use of iPads for learning</p>
 </td>
 </tr>
 <tr>
@@ -82,7 +83,8 @@ as they navigate the cyberspace.</p>
 <br>Ms Powerpoint (Pri Intermediate)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>- Quarky
+<p>Use of web2.0 tools for collaborative / self-directed learning</p>
+<p>Use of iPads for learning
 <br>
 </p>
 </td>
@@ -95,6 +97,8 @@ as they navigate the cyberspace.</p>
 <p>MS Excel (Pri Basic)</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Use of web2.0 tools for collaborative / self-directed learning</p>
+<p>Use of iPads for learning</p>
 <p>Digital Arts</p>
 </td>
 </tr>
@@ -106,6 +110,8 @@ as they navigate the cyberspace.</p>
 <p>MS Excel (Pri Intermediate)</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Use of web2.0 tools for collaborative / self-directed learning</p>
+<p>Use of iPads for learning</p>
 <p>Digital Arts</p>
 </td>
 </tr>
