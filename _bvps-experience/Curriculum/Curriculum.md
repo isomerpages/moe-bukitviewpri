@@ -35,7 +35,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/bvps-experience/curriculum/Aesthetics/" rel="noopener noreferrer nofollow" target="_blank">Aesthetics</a>
+<p><a href="/bvps-experience/curriculum/aesthetics/" rel="noopener noreferrer nofollow" target="_blank">Aesthetics</a>
 </p>
 </li>
 </ul>
