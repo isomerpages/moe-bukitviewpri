@@ -25,8 +25,11 @@ as they navigate the cyberspace.</p>
 <th rowspan="1" colspan="1">
 <p>Level</p>
 </th>
-<th rowspan="1" colspan="2">
-<p>ICT in Curriculum</p>
+<th rowspan="1" colspan="1">
+<p>ICT Curriculum</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Enrichment Programme within the Curriculum</p>
 </th>
 </tr>
 <tr>
