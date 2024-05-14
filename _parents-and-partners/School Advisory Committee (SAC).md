@@ -1,7 +1,8 @@
 ---
-title: School Advisory Committee SAC
-permalink: /parents-and-partners/School-Advisory-Committee-SAC/
+title: School Advisory Committee (SAC)
+permalink: /parents-and-partners/school-advisory-committee-sac/
 description: ""
+variant: tiptap
 ---
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}

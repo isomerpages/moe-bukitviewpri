@@ -1,6 +1,6 @@
 ---
-title: PARENTING INFORMATION
-permalink: /parents-and-partners/Info-for-Parents/PARENTING-INFORMATION/
+title: Parenting Information
+permalink: /parents-and-partners/info-for-parents/parenting-information/
 description: ""
 third_nav_title: Info for Parents
 variant: markdown

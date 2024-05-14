@@ -1,6 +1,6 @@
 ---
-title: ENGLISH DRAMA
-permalink: /bvps-experience/Clubs-and-Uniformed-Group/ENGLISH-DRAMA/
+title: English Drama
+permalink: /bvps-experience/clubs-and-uniformed-group/english-drama/
 description: ""
 third_nav_title: Visual and Performing Arts
 variant: tiptap

@@ -1,6 +1,6 @@
 ---
-title: BADMINTON
-permalink: /bvps-experience/Sports-and-Games/BADMINTON/
+title: Badminton
+permalink: /bvps-experience/sports-and-games/badminton/
 description: ""
 third_nav_title: Physical Sports
 variant: tiptap

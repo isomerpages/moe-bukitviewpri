@@ -1,6 +1,6 @@
 ---
-title: INDIAN DANCE
-permalink: /bvps-experience/Aesthetics-and-Performing-Arts/INDIAN-DANCE/
+title: Indian Dance
+permalink: /bvps-experience/aesthetics-and-performing-arts/indian-dance/
 description: ""
 third_nav_title: Visual and Performing Arts
 variant: tiptap

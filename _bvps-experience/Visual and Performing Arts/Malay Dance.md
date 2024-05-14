@@ -1,6 +1,6 @@
 ---
-title: MALAY DANCE
-permalink: /bvps-experience/Aesthetics-and-Performing-Arts/MALAY-DANCE/
+title: Malay Dance
+permalink: /bvps-experience/aesthetics-and-performing-arts/malay-dance/
 description: ""
 third_nav_title: Visual and Performing Arts
 variant: tiptap

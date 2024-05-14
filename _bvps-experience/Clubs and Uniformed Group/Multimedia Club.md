@@ -1,6 +1,6 @@
 ---
-title: MULTIMEDIA CLUB
-permalink: /bvps-experience/Clubs-and-Uniformed-Group/MULTIMEDIA-CLUB/
+title: Multimedia Club
+permalink: /bvps-experience/clubs-and-uniformed-group/multimedia-club/
 description: ""
 third_nav_title: Clubs and Uniformed Group
 variant: tiptap

@@ -1,6 +1,6 @@
 ---
-title: CHOIR
-permalink: /bvps-experience/Aesthetics-and-Performing-Arts/CHOIR/
+title: Choir
+permalink: /bvps-experience/aesthetics-and-performing-arts/choir/
 description: ""
 third_nav_title: Visual and Performing Arts
 variant: tiptap

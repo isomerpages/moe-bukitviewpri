@@ -1,6 +1,6 @@
 ---
-title: WUSHU
-permalink: /bvps-experience/Sports-and-Games/WUSHU/
+title: Wushu
+permalink: /bvps-experience/sports-and-games/wushu/
 description: ""
 third_nav_title: Physical Sports
 variant: tiptap

@@ -1,6 +1,6 @@
 ---
-title: ANGKLUNG AND KULINTANG ENSEMBLE
-permalink: /bvps-experience/Aesthetics-and-Performing-Arts/ANGKLUNG-AND-KULINTANG-ENSEMBLE/
+title: Angklung and Kulintang Ensemble
+permalink: /bvps-experience/aesthetics-and-performing-arts/angklung-and-kulintang-ensemble/
 description: ""
 third_nav_title: Visual and Performing Arts
 variant: tiptap

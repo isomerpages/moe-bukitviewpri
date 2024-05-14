@@ -1,6 +1,6 @@
 ---
-title: BEFRIENDERS CLUB
-permalink: /bvps-experience/Clubs-and-Uniformed-Group/BEFRIENDERS-CLUB/
+title: Befrienders Club
+permalink: /bvps-experience/clubs-and-uniformed-group/befrienders-club/
 description: ""
 third_nav_title: Clubs and Uniformed Group
 variant: tiptap

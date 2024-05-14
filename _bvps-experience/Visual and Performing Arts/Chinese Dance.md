@@ -1,6 +1,6 @@
 ---
-title: CHINESE DANCE
-permalink: /bvps-experience/Aesthetics-and-Performing-Arts/CHINESE-DANCE/
+title: Chinese Dance
+permalink: /bvps-experience/aesthetics-and-performing-arts/chinese-dance/
 description: ""
 third_nav_title: Visual and Performing Arts
 variant: tiptap

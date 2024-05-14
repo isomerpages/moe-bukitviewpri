@@ -1,6 +1,6 @@
 ---
-title: NETBALL
-permalink: /bvps-experience/Sports-and-Games/NETBALL/
+title: Netball
+permalink: /bvps-experience/sports-and-games/netball/
 description: ""
 third_nav_title: Physical Sports
 variant: tiptap

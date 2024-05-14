@@ -1,5 +1,5 @@
 ---
-title: MASS BRAIN ACTIVITIES CLUB
+title: Mass Brain Activities Club
 permalink: /bvps-experience/clubs-and-uniformed-group/mass-brain-activities-club/
 description: ""
 third_nav_title: Clubs and Uniformed Group

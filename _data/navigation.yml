@@ -6,7 +6,7 @@ links:
       - title: Mission, Vision and Motto
         url: /about-us/mvm
       - title: Our School Values
-        url: /about-us/osv/
+        url: /about-us/schvals/
       - title: School Crest
         url: /about-us/schcrest/
       - title: School Song
@@ -15,13 +15,13 @@ links:
         url: /about-us/schhistory/
       - title: BVPS Staff
         url: /about-us/BVPS-Staff/EXCO-Members/
-      - title: WZCOE for Aesthetics
+      - title: Centre of Excellence
         url: /about-us/wzcoea/
   - title: BVPS Experience
-    url: /bvps-experience/CoCurricular-Activities/
+    url: /bvps-experience/cocurricular-activities/
     sublinks:
       - title: Co-Curricular Activities
-        url: /bvps-experience/CoCurricular-Activities/
+        url: /bvps-experience/cocurricular-activities/
       - title: Curriculum
         url: /bvps-experience/Curriculum/Curriculum/
       - title: Learn For Life Programmes
@@ -33,12 +33,12 @@ links:
     sublinks:
       - title: Info for Parents
         url: /parents-and-partners/Info-for-Parents/Info-for-Parents/
-      - title: Subject-Based Banding Brochure
-        url: /parents-and-partners/Subject-Based-Banding-Brochure/
+      - title: Subject-Based Banding
+        url: /parents-and-partners/subject-based-banding/
       - title: BVPS Publications
         url: /parents-and-partners/bvps-publications/
-      - title: School Advisory Committee(SAC)
-        url: /parents-and-partners/School-Advisory-Committee-SAC/
+      - title: School Advisory Committee
+        url: /parents-and-partners/school-advisory-committee-sac/
       - title: Service Providers
         url: /parents-and-partners/Service-Providers/
   - title: Student
@@ -48,7 +48,7 @@ links:
         url: /student/School-Rules/
       - title: Assessment Policy
         url: /student/Assessment-Policy/Assessment-Policy/
-      - title: Student Learning Space
-        url: /student/Student-Learning-Space/
+      - title: Student Learning Space (SLS)
+        url: /student/student-learning-space/
   - title: Contact Us
     url: /Contact-Us/

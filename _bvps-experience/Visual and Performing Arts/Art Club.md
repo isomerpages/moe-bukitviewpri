@@ -1,6 +1,6 @@
 ---
-title: ART CLUB
-permalink: /bvps-experience/Clubs-and-Uniformed-Group/ART-CLUB/
+title: Art Club
+permalink: /bvps-experience/clubs-and-uniformed-group/art-club/
 description: ""
 third_nav_title: Visual and Performing Arts
 variant: tiptap

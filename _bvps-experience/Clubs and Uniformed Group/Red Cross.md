@@ -1,6 +1,6 @@
 ---
-title: RED CROSS
-permalink: /bvps-experience/Clubs-and-Uniformed-Group/RED-CROSS/
+title: Red Cross
+permalink: /bvps-experience/clubs-and-uniformed-group/red-cross/
 description: ""
 third_nav_title: Clubs and Uniformed Group
 variant: tiptap

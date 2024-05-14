@@ -1,6 +1,6 @@
 ---
-title: CREATIVE MEDIA CLUB
-permalink: /bvps-experience/Clubs-and-Uniformed-Group/CREATIVE-MEDIA-CLUB/
+title: Creative Media Club
+permalink: /bvps-experience/clubs-and-uniformed-group/creative-media-club/
 description: ""
 third_nav_title: Clubs and Uniformed Group
 variant: tiptap

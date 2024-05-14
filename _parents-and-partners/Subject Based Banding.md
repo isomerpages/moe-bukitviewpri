@@ -1,7 +1,8 @@
 ---
-title: Subject Based Banding Brochure
-permalink: /parents-and-partners/Subject-Based-Banding-Brochure/
+title: Subject Based Banding
+permalink: /parents-and-partners/subject-based-banding/
 description: ""
+variant: tiptap
 ---
 For more information on Subject-based Banding, please CLICK at any of the links below:  
   

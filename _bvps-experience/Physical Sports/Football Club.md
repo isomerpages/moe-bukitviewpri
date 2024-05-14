@@ -1,6 +1,6 @@
 ---
-title: FOOTBALL CLUB
-permalink: /bvps-experience/Sports-and-Games/FOOTBALL-CLUB/
+title: Football Club
+permalink: /bvps-experience/sports-and-games/football-club/
 description: ""
 third_nav_title: Physical Sports
 variant: tiptap

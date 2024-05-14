@@ -16,11 +16,11 @@ variant: markdown
 #### **FOR PUPILS**
 
 *   [MOE Website](https://moe.gov.sg/)
-*   [Student Learning Space](https://vle.learning.moe.edu.sg/login)
+*   [Student Learning Space (SLS)](https://vle.learning.moe.edu.sg/login)
 
 
 #### **FOR STAFF**
 
 *    [MOE iCON](https://icon.moe.edu.sg/)
-*     [Resource Booking System](https://rbs.avero-tech.com/)
-*     [STP Wiki](https://go.gov.sg/stp)
+*    [Resource Booking System](https://rbs.avero-tech.com/)
+*    [OPAL 2.0](https://go.gov.sg/stp)
