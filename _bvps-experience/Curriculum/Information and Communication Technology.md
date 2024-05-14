@@ -82,8 +82,7 @@ as they navigate the cyberspace.</p>
 <br>Ms Powerpoint (Pri Intermediate)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Use of iPads for learning
-<br>- Quarky
+<p>- Quarky
 <br>
 </p>
 </td>
