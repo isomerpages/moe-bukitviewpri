@@ -13,18 +13,7 @@ Parents may refer to the canteen stall menu and price list attached. This will g
   
 Please click [Here](/files/Parents%20and%20Partners/Info%20for%20Parents/Info%20for%20Parents/BVPS_Stall_Canteen_Menu_for_2024.pdf) to access canteen menu and price list.   (With effect from Tuesday, 2 Jan 2024 )  
   
-
-#### **2023 WE-STories** 
-
-
   
-**WE-STories** is a collection of stories from all the secondary schools in the West Zone to give primary students and parents fresh insights on the endeavours of each school in creating authentic learning experiences.  
-  
-For parents with children at the upper primary levels, we hope **WE-STories** will be a good resource for you to have conversation with your child on choosing Secondary Schools that can cater to his/her interests and strengths.  
-  
-Please click [here](https://online.fliphtml5.com/obrr/qkde/#p=1) to access the book for your reading pleasure.   
-  
-
 #### **Video for Social Studies Primary**
 
 
@@ -54,3 +43,14 @@ BVPS P5 Foundation Booklist [Here](/files/Pri_5_FDN_BVPS_Booklist_for_Year_2024.
 BVPS P6 Booklist [Here](/files/Pri_6_BVPS_Booklist_for_Year_2024.pdf)
 
 BVPS P6 Foundation Booklist [Here](/files/Pri_6_FDN_BVPS_Booklist_for_Year_2024.pdf)
+
+
+#### **2023 WE-STories** 
+
+
+  
+**WE-STories** is a collection of stories from all the secondary schools in the West Zone to give primary students and parents fresh insights on the endeavours of each school in creating authentic learning experiences.  
+  
+For parents with children at the upper primary levels, we hope **WE-STories** will be a good resource for you to have conversation with your child on choosing Secondary Schools that can cater to his/her interests and strengths.  
+  
+Please click [here](https://online.fliphtml5.com/obrr/qkde/#p=1) to access the book for your reading pleasure. 
