@@ -16,7 +16,7 @@ variant: markdown
 #### **FOR PUPILS**
 
 *   [MOE Website](https://moe.gov.sg/)
-*   [Student Learning Space](https://vle.learning.moe.edu.sg/login)
+*   [Student Learning Space (SLS)](https://vle.learning.moe.edu.sg/login)
 
 
 #### **FOR STAFF**
