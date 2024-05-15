@@ -59,9 +59,13 @@ as they navigate the cyberspace.</p>
 <td rowspan="1" colspan="2">
 <ul data-tight="true" class="tight">
 <li>
-<p>Introduction to Internet Explorer
-<br>MS Word (Pri Intermediate)
-<br>Introduction to MS Powerpoint (Pri Basic)</p>
+<p>Introduction to Web Browser</p>
+</li>
+<li>
+<p>MS Word (Intermediate)</p>
+</li>
+<li>
+<p>Introduction to MS Powerpoint Basic)</p>
 </li>
 <li>
 <p>Moo-O</p>
