@@ -37,7 +37,7 @@ as they navigate the cyberspace.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Touch typing
-<br>Introduction to MS Word (Pri Basic)
+<br>Introduction to MS Word (Basic)
 <br>Language Input (Hansvision / Murasu Anjal)</p>
 </li>
 <li>
@@ -65,7 +65,7 @@ as they navigate the cyberspace.</p>
 <p>MS Word (Intermediate)</p>
 </li>
 <li>
-<p>Introduction to MS Powerpoint Basic)</p>
+<p>Introduction to MS Powerpoint (Basic)</p>
 </li>
 <li>
 <p>Moo-O</p>
@@ -80,10 +80,10 @@ as they navigate the cyberspace.</p>
 <td rowspan="1" colspan="2">
 <ul data-tight="true" class="tight">
 <li>
-<p>MS Word (Pri Intermediate)</p>
+<p>MS Word (Intermediate)</p>
 </li>
 <li>
-<p>Ms Powerpoint (Pri Intermediate)</p>
+<p>Ms Powerpoint (Intermediate)</p>
 </li>
 <li>
 <p>Moo-O</p>
@@ -98,10 +98,10 @@ as they navigate the cyberspace.</p>
 <td rowspan="1" colspan="2">
 <ul data-tight="true" class="tight">
 <li>
-<p>MS Word (Pri Intermediate)</p>
+<p>MS Word (Intermediate)</p>
 </li>
 <li>
-<p>Ms Powerpoint (Pri Intermediate)</p>
+<p>Ms Powerpoint (Intermediate)</p>
 </li>
 <li>
 <p>Google Classroom</p>
@@ -119,7 +119,7 @@ as they navigate the cyberspace.</p>
 <td rowspan="1" colspan="2">
 <ul data-tight="true" class="tight">
 <li>
-<p>MS Excel (Pri Basic)</p>
+<p>MS Excel (Basic)</p>
 </li>
 <li>
 <p>Digital Arts</p>
@@ -137,7 +137,7 @@ as they navigate the cyberspace.</p>
 <td rowspan="1" colspan="2">
 <ul data-tight="true" class="tight">
 <li>
-<p>MS Excel (Pri Intermediate)</p>
+<p>MS Excel (Intermediate)</p>
 </li>
 <li>
 <p>Digital Arts</p>
