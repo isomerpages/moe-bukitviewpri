@@ -25,26 +25,29 @@ as they navigate the cyberspace.</p>
 <th rowspan="1" colspan="1">
 <p>Level</p>
 </th>
-<th rowspan="1" colspan="1">
-<p>ICT Curriculum</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Enrichment Programme within the Curriculum</p>
+<th rowspan="1" colspan="2">
+<p>ICT in Curriculum</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Primary 1</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
+<ul data-tight="true" class="tight">
+<li>
 <p>Touch typing
 <br>Introduction to MS Word (Pri Basic)
 <br>Language Input (Hansvision / Murasu Anjal)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Use of iPads for learning</p>
-<p>Digital Arts
-<br>Moo-O (Electronic Story Book)
+</li>
+<li>
+<p>Digital Arts</p>
+</li>
+<li>
+<p>Moo-O</p>
+</li>
+</ul>
+<p>
 <br>
 </p>
 </td>
@@ -53,41 +56,54 @@ as they navigate the cyberspace.</p>
 <td rowspan="1" colspan="1">
 <p>Primary 2</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
+<ul data-tight="true" class="tight">
+<li>
 <p>Introduction to Internet Explorer
 <br>MS Word (Pri Intermediate)
 <br>Introduction to MS Powerpoint (Pri Basic)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Moo-O (Electronic Story Book)</p>
-<p>Use of iPads for learning</p>
+</li>
+<li>
+<p>Moo-O</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Primary 3</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>MS Word (Pri Intermediate)
-<br>Ms Powerpoint (Pri Intermediate)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Moo-O (Electronic Story Book)</p>
-<p></p>
-<p>Use of iPads for learning</p>
+<td rowspan="1" colspan="2">
+<ul data-tight="true" class="tight">
+<li>
+<p>MS Word (Pri Intermediate)</p>
+</li>
+<li>
+<p>Ms Powerpoint (Pri Intermediate)</p>
+</li>
+<li>
+<p>Moo-O</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Primary 4</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>MS Word (Pri Intermediate)
-<br>Ms Powerpoint (Pri Intermediate)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Use of web2.0 tools for collaborative / self-directed learning</p>
-<p>Use of iPads for learning
+<td rowspan="1" colspan="2">
+<ul data-tight="true" class="tight">
+<li>
+<p>MS Word (Pri Intermediate)</p>
+</li>
+<li>
+<p>Ms Powerpoint (Pri Intermediate)</p>
+</li>
+<li>
+<p>Google Classroom</p>
+</li>
+</ul>
+<p>
 <br>
 </p>
 </td>
@@ -96,26 +112,36 @@ as they navigate the cyberspace.</p>
 <td rowspan="1" colspan="1">
 <p>Primary 5</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
+<ul data-tight="true" class="tight">
+<li>
 <p>MS Excel (Pri Basic)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Use of web2.0 tools for collaborative / self-directed learning</p>
-<p>Use of iPads for learning</p>
+</li>
+<li>
 <p>Digital Arts</p>
+</li>
+<li>
+<p>Google Classroom</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Primary 6</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
+<ul data-tight="true" class="tight">
+<li>
 <p>MS Excel (Pri Intermediate)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Use of web2.0 tools for collaborative / self-directed learning</p>
-<p>Use of iPads for learning</p>
+</li>
+<li>
 <p>Digital Arts</p>
+</li>
+<li>
+<p>Google Classroom</p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
