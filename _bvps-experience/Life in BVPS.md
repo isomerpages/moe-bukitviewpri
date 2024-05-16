@@ -21,4 +21,4 @@ variant: markdown
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mcETnz4sW4w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
-View our other videos at our YouTube channel https://www.youtube.com/@bukitviewpri2823
+View our other videos at our YouTube channel [https://www.youtube.com/@bukitviewprisch2823](https://www.youtube.com/@bukitviewprisch2823)
