@@ -5,7 +5,12 @@ description: ""
 third_nav_title: BVPS Staff
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -304,7 +309,7 @@ variant: tiptap
 <p>Mdm Ng Tse Ern Serene</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH / Mathematics (Internal)</p>
+<p>SH / Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ng_tse_ern</p>
