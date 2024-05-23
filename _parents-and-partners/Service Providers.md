@@ -2,6 +2,7 @@
 title: Service Providers
 permalink: /parents-and-partners/Service-Providers/
 description: ""
+variant: markdown
 ---
 ####  **STUDENT CARE CENTRE**  
 
@@ -25,7 +26,7 @@ Mondays to Fridays : 8.00am to 3pm
 
 Mondays to Fridays : 11.00am to 12.30pm & 2pm to 3pm
 
-Tel: 6464 0111 / 6563 0889  
+Tel: 6464 0111 (Main Office) / 94356245 (School Bookshop)  
   
 
   
