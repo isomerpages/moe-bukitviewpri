@@ -320,7 +320,7 @@ variant: tiptap
 <p>Ms Vanessa Tham</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH / Data Management (Internal)</p>
+<p>SH / Data Management</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>tham_wei_ting_vanessa</p>
@@ -335,17 +335,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>erh_xin_hui</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Quek Sin Ee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SH / 21st Century Competencies (Internal)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ng_sin_ee</p>
 </td>
 </tr>
 </tbody>
