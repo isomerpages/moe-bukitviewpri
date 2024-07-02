@@ -328,8 +328,7 @@ variant: tiptap
 <p>Mdm Nurdayana Binte Mohd Noor Mr Lim Wei Liang</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>nurdayana_mohd_noor</p>
-<p>lim_wei_liang_b</p>
+<p>nurdayana_mohd_noor lim_wei_liang_b</p>
 </td>
 </tr>
 <tr>
