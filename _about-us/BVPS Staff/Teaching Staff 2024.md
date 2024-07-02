@@ -227,7 +227,9 @@ variant: tiptap
 <p>Ms Tham Vanessa Miss Chen Miao Miao Mrs Lee-Chua Eileen</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>tham_wei_ting_vanessa chen_miaomiao chua_ee_wen_eileen</p>
+<p>tham_wei_ting_vanessa
+<br>chen_miaomiao
+<br>chua_ee_wen_eileen</p>
 </td>
 </tr>
 <tr>
