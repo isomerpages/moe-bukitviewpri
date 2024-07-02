@@ -16,7 +16,8 @@ variant: tiptap
 <p>Administration Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Siti Liana Rosd</p>
+<p>Mdm Siti Liana Rosd
+<br>Mdm Serene Kiew</p>
 </td>
 </tr>
 <tr>
@@ -55,8 +56,7 @@ variant: tiptap
 <br>Mdm Vellasamy Vijayaletchimi
 <br>Mr Cheong Wai Kit
 <br>Mr Toh Sin Lye
-<br>
-</p>
+<br>Mr Quek Choon Ho</p>
 </td>
 </tr>
 <tr>
