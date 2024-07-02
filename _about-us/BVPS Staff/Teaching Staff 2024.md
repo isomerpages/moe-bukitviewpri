@@ -1047,6 +1047,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Special Educational Needs Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Nurul Lyzati Binte Mustapha</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>nurul_lyzati_mustapha</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Student Welfare Officer</p>
 </td>
 <td rowspan="1" colspan="1">
