@@ -6,7 +6,12 @@ third_nav_title: BVPS Staff
 variant: tiptap
 ---
 <h4><strong>PRIMARY 1 FORM TEACHERS</strong></h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -129,7 +134,14 @@ variant: tiptap
 </tbody>
 </table>
 <h4><strong>PRIMARY 2 FORM TEACHERS</strong></h4>
-<table>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -239,17 +251,24 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="2">
 <p>Mdm Kir Soo Kien
-<br>Mdm Nur Nabila Farhana Taufiq</p>
+<br>Mdm Nina Farahain Binte Borhan</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>kir_soo_kien
-<br>nur_nabila_farhana_taufiq</p>
+<br>nina_farahain_borhan</p>
 </td>
 </tr>
 </tbody>
 </table>
 <h4><strong>PRIMARY 3 FORM TEACHERS</strong></h4>
-<table>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -343,7 +362,14 @@ variant: tiptap
 </tbody>
 </table>
 <h4><strong>PRIMARY 4 FORM TEACHERS</strong></h4>
-<table>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -439,7 +465,14 @@ variant: tiptap
 </tbody>
 </table>
 <h4><strong>PRIMARY 5 FORM TEACHERS</strong></h4>
-<table>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -524,7 +557,14 @@ variant: tiptap
 </tbody>
 </table>
 <h4><strong>PRIMARY 6 FORM TEACHERS</strong></h4>
-<table>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -605,7 +645,14 @@ variant: tiptap
 </tbody>
 </table>
 <h4><strong>MOTHER TONGUE TEACHERS</strong></h4>
-<table>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -896,7 +943,14 @@ variant: tiptap
 </tbody>
 </table>
 <h4><strong>LEARNING SUPPORT TEACHERS</strong></h4>
-<table>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -1143,7 +1197,12 @@ variant: tiptap
 </tbody>
 </table>
 <h4><strong>ALLIED EDUCATORS</strong></h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -1216,7 +1275,11 @@ variant: tiptap
 </tbody>
 </table>
 <h4><strong>ADJUNCT TEACHERS</strong></h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
