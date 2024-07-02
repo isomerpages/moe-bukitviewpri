@@ -160,11 +160,11 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="2">
 <p>Miss Lim Hwee Ching
-<br>Mrs Wendy Kwek</p>
+<br>Mrs Wendy Kwek Mrs Yeo Soon Foong</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>lim_hwee_ching
-<br>chow_peck_yin_wendy</p>
+<br>chow_peck_yin_wendy yeo_soon_foong</p>
 </td>
 </tr>
 <tr>
