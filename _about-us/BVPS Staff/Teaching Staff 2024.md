@@ -98,10 +98,12 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Rachel Chew
+<br>Ms Selvam Priyanga
 <br>Mrs Dinah Tan-Lim</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>chew_hui_yi_rachel
+<br>selvam_priyanga
 <br>dinah_lim_hong_buay</p>
 </td>
 </tr>
@@ -160,11 +162,13 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="2">
 <p>Miss Lim Hwee Ching
-<br>Mrs Wendy Kwek Mrs Yeo Soon Foong</p>
+<br>Mrs Wendy Kwek
+<br>Mrs Yeo Soon Foong</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>lim_hwee_ching
-<br>chow_peck_yin_wendy yeo_soon_foong</p>
+<br>chow_peck_yin_wendy
+<br>yeo_soon_foong</p>
 </td>
 </tr>
 <tr>
@@ -846,6 +850,17 @@ variant: tiptap
 <p>CL</p>
 </td>
 <td rowspan="1" colspan="2">
+<p>Miss Chen Miao Miao</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>chen_miaomiao</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CL</p>
+</td>
+<td rowspan="1" colspan="2">
 <p>Mdm Liu Huanqing</p>
 </td>
 <td rowspan="1" colspan="2">
@@ -909,6 +924,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>ML</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Mdm Nina Farahain Binte Borhan</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>nina_farhain_borhan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>TL</p>
 </td>
 <td rowspan="1" colspan="2">
@@ -940,262 +966,20 @@ variant: tiptap
 <p>selvarani_munusamy</p>
 </td>
 </tr>
-</tbody>
-</table>
-<h4><strong>LEARNING SUPPORT TEACHERS</strong></h4>
-<table style="minWidth: 125px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Support Area</p>
-</th>
-<th rowspan="1" colspan="2">
-<p>Teachers</p>
-</th>
-<th rowspan="1" colspan="2">
-<p>Email Address @moe.edu.sg</p>
-</th>
-</tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>P1 LSC</p>
+<p>TL</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Mdm Nor Aidah</p>
+<p>Selvam Priyanga</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>nor_aidah_duana</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>P1 LSC</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>Mdm Grace Goh</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>grace_goh_yue_lin</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>P1 &amp; P2 LSC</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>Mdm Rahayu</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>rahayu_mohamed_ali</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>P2 LSC</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>Ms Rose</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>rose_aizashira_aineh</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>P2 LSC</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>Ms Erh Xin Hui</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>erh_xin_hui</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>P1 LSM</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>Ms Chwa Bee Lian</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>chwa_bee_lian</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>P1 LSM</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>Ms Evelyn Yeo</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>yeo_li_shun_evelyn</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>P1 &amp; P2 LSM</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>Mrs Wendy Kwek</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>chow_peck_yin_wendy</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>P2 LSM</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>Ms Kir Soo Kien</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>kir_soo_kien</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>P2 LSM</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>Mdm Neo Hui Fen</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>neo_hui_fen</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>P3 LSM</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>Mdm Tan Beng Choo</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>tan_beng_choo</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>P3 LSM</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>Mdm Janice Goh</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>goh_chong_janice</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>P3 LSM</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>Mrs Quek Sin Ee</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>ng_sin_ee</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>P3 LSM</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>Mdm Tan Beng Choo</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>tan_beng_choo</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>P4 LSM</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>Mdm Kavitha</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>kavitha_alagrusamy</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>SDR</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>Mrs Magdalene Sebastian</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>magdalene_christina_sebastian</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>SDR</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>Miss Chua Si Ai</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>chua_si_ai</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>SDR</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>Miss Ashley Boey</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>sabrina_abdullahashley_boey_ching</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>SDR</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>Mdm Lam Hui Li Narcissus</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>lam_hui_li_narcissus</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>SDR</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>Mdm Kong Su-Mei Monica</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>kong_su_mei_monica</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>SDR</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>Mdm Tan Sze-Hui Vanessa</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>tan_sze_hui_vanessa</p>
+<p>selvam_priyanga</p>
 </td>
 </tr>
 </tbody>
 </table>
+<h4><strong>LEARNING SUPPORT TEACHERS</strong></h4>
 <h4><strong>ALLIED EDUCATORS</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
