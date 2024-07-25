@@ -80,7 +80,7 @@ variant: tiptap
 <p>Administration Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>kiew_wan_xin</p>
+<p>kiew_wanxin</p>
 </td>
 </tr>
 <tr>
