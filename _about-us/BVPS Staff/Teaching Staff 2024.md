@@ -977,6 +977,17 @@ variant: tiptap
 <p>selvam_priyanga</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TL</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Mdm Savarimuthu Amala</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>savarimuthu_amala</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h4><strong>LEARNING SUPPORT TEACHERS</strong></h4>
