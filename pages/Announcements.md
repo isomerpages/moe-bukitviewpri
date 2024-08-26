@@ -22,7 +22,7 @@ Procedure below.</p>
 </p>
 </li>
 <li>
-<p><a href="/Files/Bus_Services/1__Call_for_Proposals_BVPS_2024.pdf" target="_blank">Hello</a>
+<p><a target="_blank" href="/Files/Bus_Services/1__Call_for_Proposals_BVPS_2024.pdf">Hello</a>
 </p>
 </li>
 </ol>
