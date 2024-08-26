@@ -4,6 +4,73 @@ permalink: /announcements/
 description: ""
 variant: tiptap
 ---
+<h2><strong>School Bus Advertisement</strong></h2>
+<p>To apply, please refer to the Service Requirements and the Application
+Procedure below.</p>
+<h4><strong>Service Requirements</strong></h4>
+<ol data-tight="true" class="tight">
+<li>
+<p><a href="1__Call_for_Proposals_BVPS_2024" rel="noopener nofollow" target="_blank">Call for Proposal</a>
+</p>
+</li>
+<li>
+<p><a href="3__T_C_for_School_Bus_Operator_to_Provide_School_Bus_Services_BVPS_2024" rel="noopener nofollow" target="_blank">Terms and Conditions for School Bus Operator to Provide School Bus Services</a>
+</p>
+</li>
+<li>
+<p><a href="4__Request_for_School_Bus_Service_and_T_C_Governing_the_Requests_for_Services_BVPS_2024" rel="noopener nofollow" target="_blank">Request for School Bus Services</a>
+</p>
+</li>
+</ol>
+<h4><strong>Application Procedure</strong></h4>
+<p>1. Complete the <a href="2__Information_from_Vendor_BVPS_2024" rel="noopener nofollow" target="_blank">Call for Proposal – Annex A</a>&nbsp;(Information
+Required from Vendor)</p>
+<p>2. Submit the completed Call for Proposal – Annex A by closing date, 11
+September 2024, to the School’s General Office.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Address: 18 Bukit Batok Street 21 Singapore 659634</p>
+</li>
+<li>
+<p>Contact No: 6566 1980</p>
+</li>
+<li>
+<p>Email: <a rel="noopener noreferrer nofollow" target="_blank">bukitview_ps@moe.edu.sg</a>
+</p>
+</li>
+<li>
+<p>Contact Person: Mdm Siti Liana Rosd / Mdm Serene Kiew</p>
+</li>
+</ul>
+<ol start="3" data-tight="true" class="tight">
+<li>
+<p>Please be informed that Bukit View Primary School will be relocating to
+Bukit Batok West in January 2027. Bus operators are requested to take this
+into account when determining the bus fare during the option period in
+2027. For additional details, kindly refer to the announcement on the school’s
+website: Bukit View Primary School - Announcements.</p>
+</li>
+</ol>
+<p><strong>How to get there?</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Nearest MRT: Bukit Batok MRT (NS2 line) – 10 minutes walking distance</p>
+</li>
+<li>
+<p>Bus number: 173 (In front of BVPS at Bukit Batok Street 21)</p>
+</li>
+<li>
+<p>Bus number: 66, 189, 990&nbsp;(Behind BVPS, along Bukit Batok East Ave
+6)</p>
+</li>
+<li>
+<p>Bus number: 61, 77, 106, 157, 174, 178, 852, 506, 963&nbsp;(Near BVPS,
+along Bukit Batok East Ave 3)</p>
+</li>
+</ul>
+<p></p>
+<hr>
 <h2><strong>Setting up of MOE Kindergarten at Bukit View Primary in 2028</strong></h2>
 <p>We are pleased to share with you that MOE will be setting up an MOE Kindergarten
 (MK) within Bukit View Primary School in 2028. This is 1 year after we
