@@ -10,7 +10,7 @@ Procedure below.</p>
 <h4><strong>Service Requirements</strong></h4>
 <ol data-tight="true" class="tight">
 <li>
-<p><a rel="noopener noreferrer nofollow" target="_blank" href="/files/Bus_Services/1__Call_for_Proposals_BVPS_2024.pdf">Call for Proposal</a>
+<p>[Call for Proposal] (/files/Bus_Services/1__Call_for_Proposals_BVPS_2024.pdf)
 </p>
 </li>
 <li>
