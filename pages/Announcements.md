@@ -10,7 +10,7 @@ Procedure below.</p>
 <h4><strong>Service Requirements</strong></h4>
 <ol data-tight="true" class="tight">
 <li>
-<p><a href="/Files/Bus_Services/1__Call_for_Proposals_BVPS_2024.pdf/" rel="noopener nofollow" target="_blank">Call for Proposal</a>
+<p><a href="/files/Bus_Services/1__Call_for_Proposals_BVPS_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Call for Proposal</a>
 </p>
 </li>
 <li>
@@ -19,10 +19,6 @@ Procedure below.</p>
 </li>
 <li>
 <p><a href="Files/Bus_Services/4__Request_for_School_Bus_Service_and_T_C_Governing_the_Requests_for_Services_BVPS_2024.pdf" rel="noopener nofollow" target="_blank">Request for School Bus Services</a>
-</p>
-</li>
-<li>
-<p><a href="/Files/Bus_Services/1__Call_for_Proposals_BVPS_2024.pdf" target="_blank">Hello</a>
 </p>
 </li>
 </ol>
