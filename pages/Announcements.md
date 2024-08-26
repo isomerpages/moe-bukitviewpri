@@ -54,7 +54,8 @@ Required from Vendor)</p>
 Bukit Batok West in January 2027. Bus operators are requested to take this
 into account when determining the bus fare during the option period in
 2027. For additional details, kindly refer to the announcement on the school’s
-website: Bukit View Primary School - Announcements.</p>
+website: <a href="https://www.bukitviewpri.moe.edu.sg/announcements/" rel="noopener nofollow" target="_blank">Bukit View Primary School - Announcements.</a>
+</p>
 </li>
 </ol>
 <p><strong>How to get there?</strong>
