@@ -41,7 +41,7 @@ Required from Vendor)</p>
 <p>Contact No: 6566 1980</p>
 </li>
 <li>
-<p>Email: <a rel="noopener noreferrer nofollow" target="_blank">bukitview_ps@moe.edu.sg</a>
+<p>Email: <a href="mailto:bukitview_ps@moe.edu.sg" rel="noopener nofollow" target="_blank">bukitview_ps@moe.edu.sg</a>
 </p>
 </li>
 <li>
