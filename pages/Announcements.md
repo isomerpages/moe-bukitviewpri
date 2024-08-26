@@ -20,10 +20,6 @@ Procedure below.</p>
 <li>
 <p><a href="/files/Bus_Services/4__Request_for_School_Bus_Service_and_T_C_Governing_the_Requests_for_Services_BVPS_2024.pdf" rel="noopener nofollow" target="_blank">Request for School Bus Services</a>
 </p>
-</li>
-<li>
-<p><a href="/files/sota-p6-jayatra panda-bvps.pdf" rel="noopener noreferrer nofollow" target="_blank">test</a>
-</p>
 <p></p>
 </li>
 </ol>
