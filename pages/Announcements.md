@@ -25,10 +25,6 @@ Procedure below.</p>
 <p><a href="/files/Bus_Services/1__Call_for_Proposals_BVPS_2024.pdf" target="_blank">hello</a>
 </p>
 </li>
-<li>
-<p><a href="(/files/Parents%20and%20Partners/Info%20for%20Parents/Info%20for%20Parents/BVPS_Stall_Canteen_Menu_for_2024.pdf)" rel="noopener nofollow" target="_blank">test</a>
-</p>
-</li>
 </ol>
 <h4><strong>Application Procedure</strong></h4>
 <ol data-tight="true" class="tight">
