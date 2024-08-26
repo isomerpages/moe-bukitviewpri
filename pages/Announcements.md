@@ -10,23 +10,29 @@ Procedure below.</p>
 <h4><strong>Service Requirements</strong></h4>
 <ol data-tight="true" class="tight">
 <li>
-<p><a href="1__Call_for_Proposals_BVPS_2024" rel="noopener nofollow" target="_blank">Call for Proposal</a>
+<p><a href="Bus_Services\1__Call_for_Proposals_BVPS_2024" rel="noopener nofollow" target="_blank">Call for Proposal</a>
 </p>
 </li>
 <li>
-<p><a href="3__T_C_for_School_Bus_Operator_to_Provide_School_Bus_Services_BVPS_2024" rel="noopener nofollow" target="_blank">Terms and Conditions for School Bus Operator to Provide School Bus Services</a>
+<p><a href="Bus_Services\3__T_C_for_School_Bus_Operator_to_Provide_School_Bus_Services_BVPS_2024" rel="noopener nofollow" target="_blank">Terms and Conditions for School Bus Operator to Provide School Bus Services</a>
 </p>
 </li>
 <li>
-<p><a href="4__Request_for_School_Bus_Service_and_T_C_Governing_the_Requests_for_Services_BVPS_2024" rel="noopener nofollow" target="_blank">Request for School Bus Services</a>
+<p><a href="Bus_Services\4__Request_for_School_Bus_Service_and_T_C_Governing_the_Requests_for_Services_BVPS_2024" rel="noopener nofollow" target="_blank">Request for School Bus Services</a>
 </p>
 </li>
 </ol>
 <h4><strong>Application Procedure</strong></h4>
-<p>1. Complete the <a href="2__Information_from_Vendor_BVPS_2024" rel="noopener nofollow" target="_blank">Call for Proposal – Annex A</a>&nbsp;(Information
+<ol data-tight="true" class="tight">
+<li>
+<p>Complete the <a href="Bus_Services\2__Information_from_Vendor_BVPS_2024" rel="noopener nofollow" target="_blank">Call for Proposal – Annex A</a>&nbsp;(Information
 Required from Vendor)</p>
-<p>2. Submit the completed Call for Proposal – Annex A by closing date, 11
-September 2024, to the School’s General Office.</p>
+</li>
+<li>
+<p>Submit the completed Call for Proposal – Annex A by closing date, 11 September
+2024, to the School’s General Office.</p>
+</li>
+</ol>
 <ul data-tight="true" class="tight">
 <li>
 <p>Address: 18 Bukit Batok Street 21 Singapore 659634</p>
