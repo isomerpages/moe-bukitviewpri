@@ -12,7 +12,8 @@ variant: markdown
 Parents may refer to the canteen stall menu and price list attached. This will give you and your child greater flexibility to plan and buy his/her food for breakfast, recess and/or lunch on days he/she has school activities (e.g. CCAs and remedial lessons) in the afternoon.  
   
 Please click [Here](/files/Parents%20and%20Partners/Info%20for%20Parents/Info%20for%20Parents/BVPS_Stall_Canteen_Menu_for_2024.pdf) to access canteen menu and price list.   (With effect from Tuesday, 2 Jan 2024 )  
-  
+test[test](/files/Bus_Services/1__Call_for_Proposals_BVPS_2024.pdf)
+[test canteen](/files/Parents%20and%20Partners/Info%20for%20Parents/Info%20for%20Parents/bvps%20stall%20canteen%20menu%20revised%203%20jul%2023.pdf)test canteen
   
 #### **Video for Social Studies Primary**
 
