@@ -331,10 +331,11 @@ variant: tiptap
 <p>3 Respect</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Mdm Nurdayana Binte Mohd Noor Mr Lim Wei Liang</p>
+<p>Mdm Nurdayana Binte Mohd Noor Ms Jennifer Lau Pei Shi</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>nurdayana_mohd_noor lim_wei_liang_b</p>
+<p>nurdayana_mohd_noor</p>
+<p>jennifer_lau_pei shi</p>
 </td>
 </tr>
 <tr>
@@ -649,10 +650,8 @@ variant: tiptap
 </tbody>
 </table>
 <h4><strong>MOTHER TONGUE TEACHERS</strong></h4>
-<table style="minWidth: 125px">
+<table style="minWidth: 75px">
 <colgroup>
-<col>
-<col>
 <col>
 <col>
 <col>
@@ -662,10 +661,10 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p>MTL</p>
 </th>
-<th rowspan="1" colspan="2">
+<th rowspan="1" colspan="1">
 <p>MT Teachers</p>
 </th>
-<th rowspan="1" colspan="2">
+<th rowspan="1" colspan="1">
 <p>Email Address@ moe.edu.sg</p>
 </th>
 </tr>
@@ -673,10 +672,10 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>CL</p>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>Mdm Fong Mei Ying</p>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>fong_mei_ying</p>
 </td>
 </tr>
@@ -684,10 +683,10 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>CL</p>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>Mdm Peh Hui Min, Kimberley</p>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>peh_hui_min_kimberley</p>
 </td>
 </tr>
@@ -695,10 +694,10 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>CL</p>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>Mdm Winnie Ho</p>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>ho_yee_hin_winnie</p>
 </td>
 </tr>
@@ -706,10 +705,10 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>CL</p>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>Mdm Lee Geok Puay</p>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>lee_geok_puay</p>
 </td>
 </tr>
@@ -717,10 +716,10 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>CL</p>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>Ms Law Yu Jing</p>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>law_yu_jing</p>
 </td>
 </tr>
@@ -728,10 +727,10 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>CL</p>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>Mdm Tan Ya Xin</p>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>tan_ya_xin</p>
 </td>
 </tr>
@@ -739,10 +738,10 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>CL</p>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>Miss Lim Hwee Ching</p>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>lim_hwee_ching</p>
 </td>
 </tr>
@@ -750,10 +749,10 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>CL</p>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>Mdm Eileen Chua</p>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>chua_ee_wen_eileen</p>
 </td>
 </tr>
@@ -761,10 +760,10 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>CL</p>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>Mdm Tan You Mei</p>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>tan_you_mei</p>
 </td>
 </tr>
@@ -772,10 +771,10 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>CL</p>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>Mdm Tan Ming Say</p>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>tan_ming_say</p>
 </td>
 </tr>
@@ -783,10 +782,10 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>CL</p>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>Miss Chai Hui Min</p>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>chai_hui_min</p>
 </td>
 </tr>
@@ -794,10 +793,10 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>CL</p>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>Miss Fong Shi Men</p>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>fong_shi_men</p>
 </td>
 </tr>
@@ -805,10 +804,10 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>CL</p>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>Mdm Tan See Hwa</p>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>tan_see_hwa</p>
 </td>
 </tr>
@@ -816,10 +815,10 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>CL</p>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>Ms Ng Xue Li</p>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>ng_xue_li_a</p>
 </td>
 </tr>
@@ -827,10 +826,10 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>CL</p>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>Ms Florence Soh</p>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>chia_po_kwang</p>
 </td>
 </tr>
@@ -838,10 +837,10 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>CL</p>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>Mr Thomas Ang</p>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>ang_tiong_wei</p>
 </td>
 </tr>
@@ -849,10 +848,10 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>CL</p>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>Miss Chen Miao Miao</p>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>chen_miaomiao</p>
 </td>
 </tr>
@@ -860,21 +859,32 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>CL</p>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>Mdm Liu Huanqing</p>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>liu_huanqing</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Huang Jingyao</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>huang_jingyao</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>ML</p>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>Mdm Suraya Binte Rahmat</p>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>suraya_rahmat</p>
 </td>
 </tr>
@@ -882,10 +892,10 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>ML</p>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>Mdm Eddayana Binte Abdullah</p>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>eddayana_abdullah</p>
 </td>
 </tr>
@@ -893,10 +903,10 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>ML</p>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>Ms Nurdayana Binte Mohd Noor</p>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>nurdayana_mohd_noor</p>
 </td>
 </tr>
@@ -904,10 +914,10 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>ML</p>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>Ms Nur Diana Bte Ishak</p>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>nur_diana_ishak</p>
 </td>
 </tr>
@@ -915,10 +925,10 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>ML</p>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>Ms Nurul Amirah Binte Muhd Azmy</p>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>nurul_amirah_muhammad_azmy</p>
 </td>
 </tr>
@@ -926,10 +936,10 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>ML</p>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>Mdm Nina Farahain Binte Borhan</p>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>nina_farhain_borhan</p>
 </td>
 </tr>
@@ -937,10 +947,10 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>TL</p>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>Mdm Jayanthi</p>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>jayanthi_chandramohan</p>
 </td>
 </tr>
@@ -948,10 +958,10 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>TL</p>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>Mdm Nages</p>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>nageswari_olaganathan</p>
 </td>
 </tr>
@@ -959,10 +969,10 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>TL</p>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>Miss M Selvarani</p>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>selvarani_munusamy</p>
 </td>
 </tr>
@@ -970,10 +980,10 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>TL</p>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>Ms Selvam Priyanga</p>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>selvam_priyanga</p>
 </td>
 </tr>
@@ -981,10 +991,10 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>TL</p>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>Mdm Savarimuthu Amala</p>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>savarimuthu_amala</p>
 </td>
 </tr>
