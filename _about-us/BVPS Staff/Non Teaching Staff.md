@@ -73,7 +73,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Nur Ain Binti Adam
-<br>Mr Shahfiee Bin Irman</p>
+<br>Miss Tharrsinee Krishnan</p>
 </td>
 </tr>
 <tr>
