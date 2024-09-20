@@ -4,8 +4,6 @@ permalink: /privacy/
 description: ""
 variant: tiptap
 ---
-<p><strong>PRIVACY STATEMENT</strong>
-</p>
 <p><strong>BUKIT VIEW PRIMARY SCHOOL PRIVACY STATEMENT</strong>
 </p>
 <p>1.&nbsp; This is a Bukit View Primary School website. Thank you for examining
