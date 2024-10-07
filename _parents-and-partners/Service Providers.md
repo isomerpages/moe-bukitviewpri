@@ -10,7 +10,7 @@ variant: tiptap
 <p>Tel: 8717 6766
 <br><strong>Email:&nbsp;&nbsp;bukitview@pro-teach.com</strong>
 </p>
-<p><strong>( From 2025 onwards)NASCANS TAU PTE. LTD.</strong>
+<p><strong>( From 2025 onwards) NASCANS TAU PTE. LTD.</strong>
 </p>
 <p>Tel: 6653 8008
 <br><strong>Email:&nbsp;&nbsp;bvscc@nascans.com</strong>
@@ -47,7 +47,7 @@ school if you need more information.</p>
 <br>Friday:&nbsp; 8am to 5pm
 <br>Tel:&nbsp;91142631</p>
 <h4><strong>TRANSPORT</strong></h4>
-<p><strong>LIM CHIN YONG SCHOOL BUS TRANSPORT</strong>
+<p><strong>LIM CHIN YONG SCHOOL BUS TRANSPORT (Till 31 Dec 2024)</strong>
 </p>
 <p><strong>Contact Person</strong>: Mr Winson Lim
 <br>Tel: 9271 9234
