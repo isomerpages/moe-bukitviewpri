@@ -59,7 +59,7 @@ arrange school bus service for your child/ward, please liaise with the
 bus operator directly.</p>
 <p><strong>(From 2025 onwards) Chang Chen Pte. Ltd.</strong>
 </p>
-<p>Please contact Mr Grif Lim, respresentive on School Bus transport matters.</p>
+<p>Please contact Mr Grif Lim, representative on School Bus transport matters.</p>
 <p>Contact No: 6760 4835
 <br><strong>Email:&nbsp;&nbsp;griflim@hotmail.com</strong>
 </p>
