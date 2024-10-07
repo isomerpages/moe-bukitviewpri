@@ -57,7 +57,7 @@ school if you need more information.</p>
 view the School Bus fares applicable from 1 Jan 2024 to 31 Dec 2024. To
 arrange school bus service for your child/ward, please liaise with the
 bus operator directly.</p>
-<p><strong>(From 2025 onwards) Chang Chen Pte. Ltd.</strong>
+<p><strong>(From 2025 onwards) CHANG CHEN PTE. LTD.</strong>
 </p>
 <p>Please contact Mr Grif Lim, representative on School Bus transport matters.</p>
 <p>Contact No: 6760 4835
