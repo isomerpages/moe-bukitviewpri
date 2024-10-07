@@ -32,7 +32,7 @@ more information.</p>
 <p><strong>Mode of Payment:</strong>
 <br>Cash, Nets, PayNow, DBS Paylah!</p>
 <p><strong>Retail address:</strong>
-<br>BLK 4012 ANG MO KIO AVE 10 #01-09 TECHPLACE 1 SINGAPORE 569628</p>
+<br>Blk 4012 Ang Mo Kio Ave 10 #01-09 Techplace 1 Singapore569628</p>
 <p><strong>Opening Hours:</strong>
 <br>Monday to Friday: 10am to 6pm
 <br>Saturday: 10am to 2pm
