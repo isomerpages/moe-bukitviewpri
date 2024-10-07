@@ -12,8 +12,8 @@ variant: tiptap
 </p>
 <p><strong>( From 2025 onwards)NASCANS TAU PTE. LTD.</strong>
 </p>
-<p>Tel: 6653 8008</p>
-<p><strong>Email:&nbsp;bvscc@nascans.com</strong>
+<p>Tel: 6653 8008
+<br><strong>Email:&nbsp;&nbsp;bvscc@nascans.com</strong>
 </p>
 <h4><strong>SCHOOL BOOKSHOP</strong></h4>
 <p><strong>PACIFIC BOOKSTORES PTE LTD</strong>
@@ -59,8 +59,8 @@ arrange school bus service for your child/ward, please liaise with the
 bus operator directly.</p>
 <p><strong>(From 2025 onwards) CHANG CHEN PTE. LTD.</strong>
 </p>
-<p>Please contact Mr Grif Lim, representative on School Bus transport matters.</p>
-<p>Contact No: 6760 4835
+<p>Please contact Mr Grif Lim, representative on School Bus transport matters.
+<br>Contact No: 6760 4835
 <br><strong>Email:&nbsp;&nbsp;griflim@hotmail.com</strong>
 </p>
 <p>Period: 1 Jan 2025 to 31 Dec 2026</p>
