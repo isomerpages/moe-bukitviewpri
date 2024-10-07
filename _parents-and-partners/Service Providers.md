@@ -19,10 +19,10 @@ variant: tiptap
 <p><strong>PACIFIC BOOKSTORES PTE LTD</strong>
 </p>
 <p><strong>Operating Hours:</strong>
-<br>Mondays to Fridays :&nbsp;8.00am to 3pm</p>
-<p><strong><em>Walk-in sales timing</em></strong> for parents/guardian:</p>
-<p>Mondays to Fridays :&nbsp;11.00am to 12.30pm &amp; 2pm to 3pm</p>
-<p>Tel:&nbsp;6464 0111 (Main Office) / 94356245 (School Bookshop)</p>
+<br>Monday to Friday:&nbsp;8am to 3pm</p>
+<p><strong>Walk-in sales timing </strong>for parents/guardian:
+<br>Monday to Friday: 11am to 1230pm &amp; 2pm to 3pm
+<br>Tel: 6464 0111 (Main office) / 94356245 (School Bookshop)</p>
 <h4><strong>SCHOOL UNIFORM</strong></h4>
 <p>School uniform, P.E. attire and name tags are now available at Jeep Sing
 Fashion's <a href="https://jeepsinguniform.com/collections/bukit-view-primary-school" rel="noopener noreferrer nofollow" target="_blank">online store</a>.</p>
@@ -34,16 +34,16 @@ more information.</p>
 <p><strong>Retail address:</strong>
 <br>BLK 4012 ANG MO KIO AVE 10 #01-09 TECHPLACE 1 SINGAPORE 569628</p>
 <p><strong>Opening Hours:</strong>
-<br>Monday to Friday: 10 a.m. to 6 p.m.
-<br>Saturday: 10 a.m. to 2 p.m.
+<br>Monday to Friday: 10am to 6pm
+<br>Saturday: 10am to 2pm
 <br>Closed on Sundays and Public Holidays</p>
-<p>Lunch Break and Sanitising of Store: 1 p.m. to 2 p.m.
+<p>Lunch Break and Sanitising of Store: 1pm to 2pm
 <br>Tel: 3163 6074</p>
 <h4><strong>DENTAL CLINIC</strong></h4>
 <p>Dental clinic will only be opened on alternate weeks. Please contact the
 school if you need more information.</p>
 <p><strong>Operating Hours:</strong>&nbsp;&nbsp;
-<br>Mondays to Thursdays :&nbsp;8am - 5.30pm
+<br>Mondays to Thursdays :&nbsp;8am to 530pm
 <br>Friday:&nbsp; 8am to 5pm
 <br>Tel:&nbsp;91142631</p>
 <h4><strong>TRANSPORT</strong></h4>
