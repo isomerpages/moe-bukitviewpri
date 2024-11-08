@@ -96,8 +96,7 @@ thus pushing their limits and demonstrating excellent sportsmanship.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SCHOOL TEAM
-<br>2 p.m. to 4 p.m<strong>.</strong>
-</p>
+<br>2pm to 4pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Marso Mohammed Dil'shad (I/C)
@@ -114,7 +113,7 @@ thus pushing their limits and demonstrating excellent sportsmanship.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>RECREATIONAL
-<br>2 p.m. to 4 p.m.</p>
+<br>2pm to 4pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Marso Mohammed Dil'shad (I/C)
