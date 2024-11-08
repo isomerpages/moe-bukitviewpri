@@ -14,8 +14,20 @@ school choir performances.&nbsp;</p>
 of Voices of Singapore. To encourage students to be caring citizens, members
 performed at Seniors Café and brought joy to the senior citizens visiting
 the café.</p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
+<tr>
+<td rowspan="1" colspan="2">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/CCA Formal Group Picture/choir_2.jpg">
+</div>
+</td>
+</tr>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -54,7 +66,13 @@ the café.</p>
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -75,7 +93,7 @@ the café.</p>
 <p>THU</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2.p.m. to 4 p.m.
+<p>2pm to 4pm
 <br>
 <br>
 </p>

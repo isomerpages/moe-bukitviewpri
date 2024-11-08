@@ -15,6 +15,12 @@ training sessions, as well as competitions.</p>
 believe in not just imparting a greater understanding of the sport but
 also to guide students to becoming good sportsmen and supportive team members.</p>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/CCA Formal Group Picture/basketball_school_team_2.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/CCA Formal Group Picture/basketball_2.jpg">
+</div>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/BVPS%20Experience/Co%20Curricular%20Activities/Sports%20&amp;%20Games/BASKETBALL/B1.jpeg">
 </div>
 <div class="isomer-image-wrapper">
@@ -26,7 +32,13 @@ also to guide students to becoming good sportsmen and supportive team members.</
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/BVPS%20Experience/Co%20Curricular%20Activities/Sports%20&amp;%20Games/BASKETBALL/B4.jpeg">
 </div>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -47,13 +59,11 @@ also to guide students to becoming good sportsmen and supportive team members.</
 <p>TUES</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2 p.m. to 4 p.m.</p>
+<p>2pm to 4pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Mohammad Abdul Halim
-<br>Bin Rosli (I/C)
-<br>
-</p>
+<br>Bin Rosli (I/C)</p>
 <p>Miss Diana Bte Ishak
 <br>Mr Gary Lin Wen'an
 <br>Mr Sean Chua Wei Quan</p>

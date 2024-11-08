@@ -15,8 +15,20 @@ Asian Civilisation Museum and National Archives of Singapore. Through these
 invaluable opportunities, our members have demonstrated perseverance and
 are ever enthusiastic to share their passion with other schoolmates and
 the community.</p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
+<tr>
+<td rowspan="1" colspan="2">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/CCA Formal Group Picture/angklung_and_kulintang_ensemble_2.jpg">
+</div>
+</td>
+</tr>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -43,7 +55,14 @@ the community.</p>
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -64,7 +83,7 @@ the community.</p>
 <p>THU</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2 p.m. to 4 p.m.</p>
+<p>2pm to 4pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Chan Li Xin (I/C)

@@ -12,8 +12,20 @@ teamwork during the training sessions, as well as competitions. Together
 with a team of committed teachers and coaches, we believe in not just imparting
 a greater understanding of the sport but also to nurture students into
 advocates of good sportsmanship and effective communicators.</p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
+<tr>
+<td rowspan="1" colspan="2">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/CCA Formal Group Picture/football_2.jpg">
+</div>
+</td>
+</tr>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -44,7 +56,13 @@ advocates of good sportsmanship and effective communicators.</p>
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -65,7 +83,7 @@ advocates of good sportsmanship and effective communicators.</p>
 <p>THU</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2 p.m. to 4 p.m.
+<p>2pm to 4pm
 <br>
 </p>
 </td>
