@@ -14,7 +14,11 @@ team camaraderie.</p>
 <p>Under the guidance of our passionate and dedicated instructor and teachers-in-charge,
 students hone their skills and talents and they perform for various school
 events and competitions.</p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -37,7 +41,16 @@ events and competitions.</p>
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 175px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -58,7 +71,7 @@ events and competitions.</p>
 <p>TUES</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>2 p.m. to 4 p.m.</p>
+<p>2pm to 4pm</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>Mrs Kumutha Selvan (I/C)
