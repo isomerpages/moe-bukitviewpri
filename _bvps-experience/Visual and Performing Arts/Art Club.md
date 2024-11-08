@@ -81,7 +81,7 @@ presentations.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ceramics
-<br>2 p.m. to 4 p.m.
+<br>2pm to 4pm
 <br>
 <br>
 </p>
@@ -103,7 +103,7 @@ presentations.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Drawing and Painting
-<br>2 p.m. to 4 p.m.</p>
+<br>2pm to 4pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Chwa Bee Lian (I/C)
