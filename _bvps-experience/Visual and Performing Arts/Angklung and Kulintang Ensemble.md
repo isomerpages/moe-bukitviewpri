@@ -83,7 +83,7 @@ the community.</p>
 <p>THU</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2 p.m. to 4 p.m.</p>
+<p>2pm to 4pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Chan Li Xin (I/C)
