@@ -14,8 +14,20 @@ and love for the art form.&nbsp;</p>
 <p>Our dancers develop strong friendships and bond as they learn from one
 another. They also learn to overcome challenges through strong team spirit
 and being resilient.</p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
+<tr>
+<td rowspan="1" colspan="2">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/CCA Formal Group Picture/indian_dance_2.jpg">
+</div>
+</td>
+</tr>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -42,7 +54,13 @@ and being resilient.</p>
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -63,7 +81,7 @@ and being resilient.</p>
 <p>THU</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2 p.m. to 4 p.m.</p>
+<p>2pm to 4pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Nageswari (I/C)
