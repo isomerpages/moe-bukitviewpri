@@ -12,8 +12,21 @@ the sport through their coaches in a fun and engaging way, but they also
 gain confidence and develop resilience. Upon mastery of the sport, there
 are opportunities for students to showcase their skills competitively,
 thus pushing their limits and demonstrating excellent sportsmanship.</p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
+<tr>
+<td rowspan="1" colspan="3">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/CCA Formal Group Picture/badminton_1.jpg">
+</div>
+</td>
+</tr>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -55,7 +68,13 @@ thus pushing their limits and demonstrating excellent sportsmanship.</p>
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
