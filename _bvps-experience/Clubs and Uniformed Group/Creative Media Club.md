@@ -14,8 +14,20 @@ communication.</p>
 digital art drawing, animation, photography and videography. They will
 also learn to solve problems collaboratively as a team as they take on
 various projects.</p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
+<tr>
+<td rowspan="1" colspan="2">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/CCA Formal Group Picture/creative_media_club_2.jpg">
+</div>
+</td>
+</tr>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -42,7 +54,13 @@ various projects.</p>
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -63,7 +81,7 @@ various projects.</p>
 <p>TUES</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2 p.m. to 4 p.m.</p>
+<p>2pm to 4pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Tan Beng Choo (I/C)
