@@ -13,8 +13,20 @@ in visual arts.&nbsp;</p>
 <p>The Art Club also provides a platform for students to showcase their talents
 beyond the curriculum when they take part in various art competitions and
 presentations.</p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
+<tr>
+<td rowspan="1" colspan="2">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/CCA Formal Group Picture/art_club_2.jpg">
+</div>
+</td>
+</tr>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -41,7 +53,13 @@ presentations.</p>
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
