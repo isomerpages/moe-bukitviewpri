@@ -11,8 +11,21 @@ make friends and learn how to work with others.</p>
 <p>Students will learn character values such as Responsibility and Empathy
 and practise these values&nbsp; when they interact with one another during
 the activities.</p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
+<tr>
+<td rowspan="1" colspan="3">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/CCA Formal Group Picture/befrienders__club_2.jpg">
+</div>
+</td>
+</tr>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -34,7 +47,13 @@ the activities.</p>
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -57,7 +76,7 @@ the activities.</p>
 <p>THU</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2. p.m. to 4 p.m.</p>
+<p>2pm to 4pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Lee Geok Puay (I/C)
