@@ -74,8 +74,7 @@ hard work and talent and instil in them a sense of pride.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SCHOOL TEAM
-<br><u>2pm to 4pm</u>
-</p>
+<br>2pm to 4pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Tan Shuen Keat Elvin (I/C)
