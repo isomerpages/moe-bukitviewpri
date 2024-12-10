@@ -42,7 +42,7 @@ school if you need more information.</p>
 <br>Friday:&nbsp; 8am to 5pm
 <br>Tel:&nbsp;91142631</p>
 <h4><strong>TRANSPORT</strong></h4>
-<p><strong>(From 2025 onwards) CHANG CHEN PTE. LTD.</strong>
+<p><strong>CHANG CHEN PTE. LTD.</strong>
 </p>
 <p>Please contact Mr Grif Lim, representative on School Bus transport matters.
 <br>Contact No: 6760 4835
