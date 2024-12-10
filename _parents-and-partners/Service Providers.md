@@ -5,14 +5,9 @@ description: ""
 variant: tiptap
 ---
 <h4><strong>STUDENT CARE CENTRE</strong></h4>
-<p><strong>PRO-TEACH EDUCATION GROUP PTE LTD (Till 31 Dec 2024)</strong>
+<p><strong>NASCANS TAU PTE. LTD.</strong>
 </p>
-<p>Tel: 8717 6766
-<br><strong>Email:&nbsp;&nbsp;bukitview@pro-teach.com</strong>
-</p>
-<p><strong>( From 2025 onwards) NASCANS TAU PTE. LTD.</strong>
-</p>
-<p>Tel: 6653 8008
+<p>Tel: 6653 8008 / 8157 5287
 <br><strong>Email:&nbsp;&nbsp;bvscc@nascans.com</strong>
 </p>
 <h4><strong>SCHOOL BOOKSHOP</strong></h4>
@@ -32,7 +27,7 @@ more information.</p>
 <p><strong>Mode of Payment:</strong>
 <br>Cash, Nets, PayNow, DBS Paylah!</p>
 <p><strong>Retail address:</strong>
-<br>Blk 4012 Ang Mo Kio Ave 10 #01-09 Techplace 1 Singapore569628</p>
+<br>Blk 4012 Ang Mo Kio Ave 10 #01-09 Techplace 1 Singapore 569628</p>
 <p><strong>Opening Hours:</strong>
 <br>Monday to Friday: 10am to 6pm
 <br>Saturday: 10am to 2pm
@@ -47,17 +42,7 @@ school if you need more information.</p>
 <br>Friday:&nbsp; 8am to 5pm
 <br>Tel:&nbsp;91142631</p>
 <h4><strong>TRANSPORT</strong></h4>
-<p><strong>LIM CHIN YONG SCHOOL BUS TRANSPORT (Till 31 Dec 2024)</strong>
-</p>
-<p><strong>Contact Person</strong>: Mr Winson Lim
-<br>Tel: 9271 9234
-<br><strong>Email:&nbsp;&nbsp;lcysbt@gmail.com</strong>
-</p>
-<p>Please clink on the <a href="/files/Parents%20and%20Partners/Info%20for%20Parents/Info%20for%20Parents/school%20bus%20fares%20applicable%20from%201%20jan%202024%20to%2031%20dec%202024.pdf" rel="noopener noreferrer nofollow" target="_blank">link</a> to
-view the School Bus fares applicable from 1 Jan 2024 to 31 Dec 2024. To
-arrange school bus service for your child/ward, please liaise with the
-bus operator directly.</p>
-<p><strong>(From 2025 onwards) CHANG CHEN PTE. LTD.</strong>
+<p><strong>CHANG CHEN PTE. LTD.</strong>
 </p>
 <p>Please contact Mr Grif Lim, representative on School Bus transport matters.
 <br>Contact No: 6760 4835
