@@ -158,7 +158,7 @@ variant: tiptap
 <p>Mdm Faith Chung</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD / Aesthetics and PE &amp; CCA</p>
+<p>HOD / Aesthetics and Partnership</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>faith_chung_wai_teng</p>
@@ -181,13 +181,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Fong Mei Ying</p>
+<p>Mdm Peh Hui Min, Kimberley</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD / Mother Tongue</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>fong_mei_ying</p>
+<p>peh_hui_min_kimberley</p>
 </td>
 </tr>
 <tr>
@@ -199,17 +199,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>tan_eng_wee</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Peh Hui Min, Kimberley</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HOD / Curriculum (Internal)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>peh_hui_min_kimberley</p>
 </td>
 </tr>
 <tr>
@@ -228,7 +217,7 @@ variant: tiptap
 <p>Mdm Eliana Bte Mohamed</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD / English Language (Internal)</p>
+<p>HOD / English Language</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>eliana_mohamed</p>
@@ -309,7 +298,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH / PE &amp; CCA</p>
+<p>SH / PE &amp; CCA (Internal)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>gary_teo_jiunn_shyan</p>
