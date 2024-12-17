@@ -228,7 +228,7 @@ variant: tiptap
 <p>Mdm Cheng Joo Hiang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Year Head(Lower Pri)</p>
+<p>Year Head (Lower Pri)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>cheng_joo_hiang</p>
