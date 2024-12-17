@@ -331,7 +331,7 @@ variant: tiptap
 <p>Ms Vanessa Tham</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH / Data Management</p>
+<p>SH / ICT &amp; Data Management</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>tham_wei_ting_vanessa</p>
