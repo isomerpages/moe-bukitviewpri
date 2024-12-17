@@ -50,6 +50,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mrs Lee Jun Wen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vice-Principal (Academic)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>bukitview_ps</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Goh Gin Howe</p>
 </td>
 <td rowspan="1" colspan="1">
