@@ -107,6 +107,28 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mdm Eliana Bte Mohamed</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD / English Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>eliana_mohamed</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Peh Hui Min, Kimberley</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD / Mother Tongue</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>peh_hui_min_kimberley</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Ng Kay Joo</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -118,7 +140,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Chloe Wong</p>
+<p>Ms Chloe Wong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Lead Teacher- Mathematics</p>
@@ -181,17 +203,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Peh Hui Min, Kimberley</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HOD / Mother Tongue</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>peh_hui_min_kimberley</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Tan Eng Wee</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -199,28 +210,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>tan_eng_wee</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Tan Sze-Hui Vanessa</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HOD / CCE (Internal)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>tan_sze_hui_vanessa</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Eliana Bte Mohamed</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HOD / English Language</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>eliana_mohamed</p>
 </td>
 </tr>
 <tr>
@@ -245,6 +234,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>tan_ming_say</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Tan Sze-Hui Vanessa</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Assistant Year Head</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>tan_sze_hui_vanessa</p>
 </td>
 </tr>
 <tr>
@@ -328,7 +328,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Vanessa Tham</p>
+<p>Mdm Vanessa Tham</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SH / ICT &amp; Data Management</p>
