@@ -241,7 +241,7 @@ variant: tiptap
 <p>Mdm Tan Sze-Hui Vanessa</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head</p>
+<p>HOD / CCE (Internal)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>tan_sze_hui_vanessa</p>
