@@ -225,6 +225,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Gary Teo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD / PE &amp; CCA (Internal)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>gary_teo_jiunn_shyan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Tan Ming Say</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -333,17 +344,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>erh_xin_hui</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Gary Teo</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SH / PE &amp; CCA (Internal)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>gary_teo_jiunn_shyan</p>
 </td>
 </tr>
 </tbody>
