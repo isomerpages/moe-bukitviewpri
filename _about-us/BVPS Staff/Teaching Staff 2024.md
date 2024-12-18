@@ -674,17 +674,6 @@ variant: tiptap
 <p>CL</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Fong Mei Ying</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>fong_mei_ying</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>CL</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mdm Peh Hui Min, Kimberley</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -744,17 +733,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>lim_hwee_ching</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>CL</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Eileen Chua</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>chua_ee_wen_eileen</p>
 </td>
 </tr>
 <tr>
