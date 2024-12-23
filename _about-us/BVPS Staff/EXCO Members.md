@@ -293,6 +293,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Ghanim Bin Salim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Assistant Year Head (Lower Pri) (Internal)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ghanim_salim</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Hazel Neo Hui Fen</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -344,6 +355,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>erh_xin_hui</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Tho Lee Kian Diana</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH / Educational Support</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
