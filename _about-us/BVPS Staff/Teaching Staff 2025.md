@@ -612,28 +612,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>6 Graciousness</p>
+<p>6 Tenacity</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Mdm Serene Ng Tse Ern
-<br>Miss Rose Aizashira Bte Aineh</p>
+<p>Ms Yong Li Ying Jayce</p>
+<p>Miss Chan Li Xin</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>ng_tse_ern
-<br>rose_aizashira_aineh</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>6 Responsibility</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>Mr Muhammad Dzuhri
-<br>Miss Ashley Boey</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>muhammad_dzuhri_juniwan
-<br>sabrina_abdullahashley_boey_ching</p>
+<p>yong_li_ying_jayce</p>
+<p>chan_li_xin</p>
 </td>
 </tr>
 <tr>
@@ -641,12 +628,38 @@ variant: tiptap
 <p>6 Respect</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Mdm Suraya Bte Rahmat
-<br>Mdm Ang Siok Kuwan, Dominique</p>
+<p>Mrs Eunice Goh Suat Ling</p>
+<p>Mr Tan Shuen Keat Elvin</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>suraya_rahmat
-<br>ang_siok_kuwan_dominique</p>
+<p>suat_ling_eunice_kho</p>
+<p>tan_shuen_keat</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6 Graciousness</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Mdm Nageswari D/O Olaganathan
+<br>Mdm Esther Chua Yan Yan</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>nageswari_olaganathan</p>
+<p>chua_yan_yan_esther_a</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6 Responsibility</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Ms C. Grace Lenora.
+<br>Mdm Ernita Bte Yazid</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>cornelius_grace_lenora</p>
+<p>ernita_mohd_yazid</p>
 </td>
 </tr>
 <tr>
@@ -654,25 +667,12 @@ variant: tiptap
 <p>6 Integrity</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Mdm Tan You Mei
-<br>Miss Leong Sok Yee</p>
+<p>Mr Lukman Umar Bin Zainal
+<br>Mrs Kumutha Selvan</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>tan_you_mei
-<br>leong_sok_yee</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>6 Perseverance</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>Mrs Kumutha Selvan
-<br>Mdm Sheena Ho</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>kumutha_silvamany
-<br>ho_shi_hui_sheena</p>
+<p>lukman_umar_umar</p>
+<p>kumutha_silvamany</p>
 </td>
 </tr>
 </tbody>
