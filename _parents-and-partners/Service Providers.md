@@ -22,8 +22,7 @@ variant: tiptap
 <p>School uniform, P.E. attire and name tags are now available at Jeep Sing
 Fashion's <a href="https://jeepsinguniform.com/collections/bukit-view-primary-school" rel="noopener noreferrer nofollow" target="_blank">online store</a>.</p>
 <p>You may walk-in for purchase, FAS collection and exchange at the outlet.
-Appointments are no longer required. <a href="https://jeepsinguniform.com/pages/appointment-booking" rel="noopener noreferrer nofollow" target="_blank">Click here</a> for
-more information.</p>
+<a href="https://jeepsinguniform.com/pages/appointment-booking" rel="noopener noreferrer nofollow" target="_blank">Click here</a>to make appointment.</p>
 <p><strong>Mode of Payment:</strong>
 <br>Cash, Nets, PayNow, DBS Paylah!</p>
 <p><strong>Retail address:</strong>
