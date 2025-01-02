@@ -42,7 +42,18 @@ variant: tiptap
 <p>Mrs Chia-Lai Seow Poh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Vice-Principal (Academic)</p>
+<p>Vice-Principal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>bukitview_ps</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Lee Jun Wen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vice-Principal</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>bukitview_ps</p>
@@ -96,6 +107,28 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mdm Eliana Bte Mohamed</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD / English Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>eliana_mohamed</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Peh Hui Min, Kimberley</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD / Mother Tongue (Internal)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>peh_hui_min_kimberley</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Ng Kay Joo</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -107,7 +140,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Chloe Wong</p>
+<p>Ms Chloe Wong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Lead Teacher- Mathematics</p>
@@ -147,7 +180,7 @@ variant: tiptap
 <p>Mdm Faith Chung</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD / Aesthetics and PE &amp; CCA</p>
+<p>HOD / Aesthetics &amp; Partnership</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>faith_chung_wai_teng</p>
@@ -170,17 +203,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Fong Mei Ying</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HOD / Mother Tongue</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>fong_mei_ying</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Tan Eng Wee</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -192,18 +214,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Peh Hui Min, Kimberley</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HOD / Curriculum (Internal)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>peh_hui_min_kimberley</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Tan Sze-Hui Vanessa</p>
+<p>Mdm Tan Sze-Hui Vanessa</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD / CCE (Internal)</p>
@@ -214,24 +225,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Eliana Bte Mohamed</p>
+<p>Mr Gary Teo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD / English Language (Internal)</p>
+<p>HOD / PE &amp; CCA (Internal)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>eliana_mohamed</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Cheng Joo Hiang</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Year Head(Lower Pri)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>cheng_joo_hiang</p>
+<p>gary_teo_jiunn_shyan</p>
 </td>
 </tr>
 <tr>
@@ -239,7 +239,7 @@ variant: tiptap
 <p>Mdm Tan Ming Say</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Year Head (Middle Pri)
+<p>Year Head (Upper Pri)
 <br>
 </p>
 </td>
@@ -249,13 +249,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Ho Shi Hui Sheena</p>
+<p>Mdm Cheng Joo Hiang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head (Upper Pri)</p>
+<p>Year Head (Lower Pri)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ho_shi_hui_sheena</p>
+<p>cheng_joo_hiang</p>
 </td>
 </tr>
 <tr>
@@ -271,6 +271,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mdm Ho Shi Hui Sheena</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Assistant Year Head (Middle Pri)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ho_shi_hui_sheena</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Nur Liyanna Maznin</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -282,6 +293,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Ghanim Bin Salim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Assistant Year Head (Lower Pri) (Internal)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ghanim_salim</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Hazel Neo Hui Fen</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -289,19 +311,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>neo_hui_fen</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Gary Teo
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SH / PE &amp; CCA</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>gary_teo_jiunn_shyan</p>
 </td>
 </tr>
 <tr>
@@ -328,10 +337,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Vanessa Tham</p>
+<p>Mdm Vanessa Tham</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH / Data Management</p>
+<p>SH / ICT &amp; Data Management</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>tham_wei_ting_vanessa</p>
@@ -346,6 +355,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>erh_xin_hui</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Tho Lee Kian Diana</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH / Educational Support</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
 </td>
 </tr>
 </tbody>
