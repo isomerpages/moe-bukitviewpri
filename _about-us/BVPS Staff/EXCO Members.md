@@ -365,7 +365,7 @@ variant: tiptap
 <p>SH / Educational Support</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>-</p>
 </td>
 </tr>
 </tbody>
