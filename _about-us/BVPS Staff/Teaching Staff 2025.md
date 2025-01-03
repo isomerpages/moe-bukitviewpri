@@ -148,7 +148,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Chen Miao Miao
-<br>Ms Vanessa Tham</p>
+<br>Mdm Tham Wei Ting, Vanessa</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>chen_miaomiao
@@ -341,7 +341,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="2">
 <p>marso_mohammed_dilshad
-<br>chia_po_kwang</p>
+<br>chia_poh_kwang</p>
 </td>
 </tr>
 <tr>
