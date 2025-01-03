@@ -337,7 +337,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Vanessa Tham</p>
+<p>Mdm Tham Wei Ting, Vanessa</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SH / ICT &amp; Data Management</p>
