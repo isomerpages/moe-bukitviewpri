@@ -9,9 +9,49 @@ third_nav_title: Student Leadership
 to Emotionally Intelligent Leadership model, catering to the different
 tiers of student leaders. The alignment helps to standardize leadership
 training while addressing the unique needs of each leadership tier, fostering
-a consistent and impactful leadership culture across the school.
+a consistent and impactful leadership culture across the school.</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BVPS Experience/Student Leadership/Student_s_voice.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BVPS Experience/Student Leadership/Tier_2_Leadership_Workshop.jpg">
+</div>
+<table style="width: 0px">
+<colgroup></colgroup>
+<tbody>
+<tr></tr>
+</tbody>
+</table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BVPS Experience/Student Leadership/Tier_3_Leadership_Workshop.jpg">
+</div>
+<table style="width: 0px">
+<colgroup></colgroup>
+<tbody>
+<tr></tr>
+</tbody>
+</table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BVPS Experience/Student Leadership/P3_Cohort_Leadership_Workshop.jpg">
+</div>
+<table style="width: 0px">
+<colgroup></colgroup>
+<tbody>
+<tr></tr>
+</tbody>
+</table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BVPS Experience/Student Leadership/P5_Cohort_Leadership_Workshop.jpg">
+</div>
 <table style="minWidth: 50px">
-<tbody><tr>
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
 <td rowspan="1" colspan="2">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/BVPS Experience/Student Leadership/Student_s_voice.jpg">
@@ -25,7 +65,6 @@ a consistent and impactful leadership culture across the school.
 </div>
 </th>
 <th rowspan="1" colspan="1">
-
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/BVPS Experience/Student Leadership/Tier_3_Leadership_Workshop.jpg">
 </div>
@@ -40,8 +79,9 @@ a consistent and impactful leadership culture across the school.
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/BVPS Experience/Student Leadership/Tier_2_Leadership_Workshop.jpg">
-	</div>
+</div>
 </td>
 </tr>
 </tbody>
-</table></p>
+</table>
+<p></p>
