@@ -2,6 +2,7 @@ collections:
   bvps-experience:
     output: true
     order:
+      - Belif and Vision/Student Leadership.md
       - Belif and Vision/.keep
       - CCA.md
       - Visual and Performing Arts/English Drama.md
