@@ -2,7 +2,6 @@ collections:
   bvps-experience:
     output: true
     order:
-      - Student Leadership/.keep
       - CCA.md
       - Visual and Performing Arts/.keep
       - Visual and Performing Arts/English Drama.md
