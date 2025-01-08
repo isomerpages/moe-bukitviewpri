@@ -2,12 +2,12 @@ collections:
   bvps-experience:
     output: true
     order:
+      - Student Leadership/.keep
+      - Student Leadership/Belif and Vision.md
+      - Student Leadership/Leadership Structure.md
       - Student Leadership/Student Leaders Week.md
       - Student Leadership/Trainings and Development.md
       - Student Leadership/Rewards & Recognition.md
-      - Student Leadership/Leadership Structure.md
-      - Student Leadership/Belif and Vision.md
-      - Student Leadership/.keep
       - CCA.md
       - Visual and Performing Arts/.keep
       - Visual and Performing Arts/English Drama.md
