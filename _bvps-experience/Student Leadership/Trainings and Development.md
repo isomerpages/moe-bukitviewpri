@@ -49,7 +49,7 @@ a consistent and impactful leadership culture across the school.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/BVPS Experience/Student Leadership/Tier_2_Leadership_Workshop.jpg">
-</div>
+	</div>
 </td>
 </tr>
 </tbody>
