@@ -2,6 +2,7 @@ collections:
   bvps-experience:
     output: true
     order:
+      - Student Leadership/Trainings and Development.md
       - Student Leadership/Rewards & Recognition.md
       - Student Leadership/Leadership Structure.md
       - Student Leadership/Belif and Vision.md
