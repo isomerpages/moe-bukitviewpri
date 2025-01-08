@@ -2,7 +2,6 @@ collections:
   bvps-experience:
     output: true
     order:
-      - Leadership Structure/.keep
       - Belif and Vision/.keep
       - Belif and Vision/Student Leadership.md
       - CCA.md
