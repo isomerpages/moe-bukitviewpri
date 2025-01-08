@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Student Leadership
 ---
-<p><em>Every Bukit Viewan, A Confident Leader</em>
+<p><strong><em>Every Bukit Viewan, A Confident Leader</em></strong>
 </p>
 <p>To align to our school vision on developing confident leaders, we adopt
 the Emotional Intelligent Leadership&nbsp;model (Shankman et al, 2015)&nbsp;for
