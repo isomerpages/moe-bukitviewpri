@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Belif and Vision/.keep
-      - Student Leadership.md
       - CCA.md
       - Visual and Performing Arts/English Drama.md
       - Visual and Performing Arts/Art Club.md
