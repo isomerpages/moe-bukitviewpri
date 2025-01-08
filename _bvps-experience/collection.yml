@@ -2,7 +2,6 @@ collections:
   bvps-experience:
     output: true
     order:
-      - Leadership Structure/Life in BVPS.md
       - Leadership Structure/.keep
       - Belif and Vision/Student Leadership.md
       - Belif and Vision/.keep
