@@ -2,6 +2,7 @@ collections:
   bvps-experience:
     output: true
     order:
+      - Student Leadership/Student Leaders Week.md
       - Student Leadership/Trainings and Development.md
       - Student Leadership/Rewards & Recognition.md
       - Student Leadership/Leadership Structure.md
