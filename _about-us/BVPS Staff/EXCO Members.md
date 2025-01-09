@@ -362,7 +362,7 @@ variant: tiptap
 <p>Ms Tho Lee Kian Diana</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH / Educational Support</p>
+<p>SH / Educational Support &amp; Partnership (Internal)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>tho_lee_kian_diana</p>
