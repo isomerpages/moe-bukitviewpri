@@ -93,8 +93,7 @@ advocates of good sportsmanship and effective communicators.</p>
 <p>Mr Lim Jia Ying</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>BVSS Field
+<p>BVSS Field
 <br>
 </p>
 </td>
