@@ -65,9 +65,9 @@ also to guide students to becoming good sportsmen and supportive team members.</
 <p>Mr Mohammad Abdul Halim
 <br>Bin Rosli (I/C)
 <br>Mr Gary Lin Wen'an
-<br>Mr Idris Bin Lekiman</p>
-<p>Ms Law Yu Jing</p>
-</td>
+<br>Mr Idris Bin Lekiman
+<br>Ms Law Yu Jing
+</p></td>
 <td rowspan="1" colspan="1">
 <p>Basketball Court</p>
 </td>
