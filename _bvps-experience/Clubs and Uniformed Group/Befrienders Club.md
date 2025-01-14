@@ -80,8 +80,8 @@ the activities.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Lee Geok Puay (I/C)
-<br>Miss Lim Hwee Ching</p>
-<p>Ms Tho Lee Kian Diana</p>
+<br>Miss Lim Hwee Ching
+<br>Ms Tho Lee Kian Diana</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Classroom</p>
