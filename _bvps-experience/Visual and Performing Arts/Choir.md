@@ -16,13 +16,10 @@ performed at Seniors Café and brought joy to the senior citizens visiting
 the café.</p>
 <table style="minWidth: 50px">
 <colgroup>
-<col>
-<col>
 </colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/CCA Formal Group Picture/choir_2.jpg">
 </div>
@@ -101,9 +98,9 @@ the café.</p>
 <td rowspan="1" colspan="1">
 <p>Mdm Chan Hai Yen (I/C)
 <br>Miss Fong Shi Men
-<br>Mdm Nurul Haiyu Rosli</p>
-<p>Miss Tessa Suprapmo</p>
-</td>
+<br>Mdm Nurul Haiyu Rosli
+<br>Miss Tessa Suprapmo
+</p></td>
 <td rowspan="1" colspan="1">
 <p>Performing Arts Studio (PAS)</p>
 </td>
