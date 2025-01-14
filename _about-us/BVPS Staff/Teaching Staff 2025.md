@@ -69,7 +69,7 @@ variant: tiptap
 <p>1 Integrity (1IN)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Goh Wang Jia
+<p>Mrs Goh-Wang Jia
 <br>Mdm Nurul Haiyu Rosli</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -349,7 +349,7 @@ variant: tiptap
 <p>3 Integrity (3IN)</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Ms Oh Wan Ling
+<p>Ms Oh Wan Ling Chloe
 <br>Mdm Savarimuthu Amala</p>
 </td>
 <td rowspan="1" colspan="2">
