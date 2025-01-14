@@ -82,9 +82,10 @@ perseverance and leadership skills.</p>
 <p>2pm to 4pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Tan Ya Xin (I/C)
-<br>Miss Vanessa Tham Wei Ting
-<br>Mdm Brenda Chong Wei-Lin</p>
+<p>Mdm Mdm Ng Sin Ee (I/C)
+<br>Mdm Brenda Chong</p>
+<p>Mdm Tan Ya Xin</p>
+<p>Mdm Tham Wei Ting, Vanessa</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Computer Labs 1 and 2</p>
