@@ -101,7 +101,8 @@ the café.</p>
 <td rowspan="1" colspan="1">
 <p>Mdm Chan Hai Yen (I/C)
 <br>Miss Fong Shi Men
-<br>Ms Eunice Goh</p>
+<br>Mdm Nurul Haiyu Rosli</p>
+<p>Miss Tessa Suprapmo</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Performing Arts Studio (PAS)</p>
