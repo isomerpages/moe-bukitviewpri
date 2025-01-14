@@ -6,12 +6,12 @@ third_nav_title: Physical Sports
 variant: markdown
 ---
 <p>In Bukit View Primary School, many boys and girls are excited to join
-the school’s Badminton Club annually.
-<br>As members of the Badminton CCA , students not only learn the basics of
+the school’s Badminton Club annually.</p>
+<p>As members of the Badminton CCA , students not only learn the basics of
 the sport through their coaches in a fun and engaging way, but they also
 gain confidence and develop resilience. Upon mastery of the sport, there
 are opportunities for students to showcase their skills competitively,
-thus pushing their limits and demonstrating excellent sportsmanship.
+thus pushing their limits and demonstrating excellent sportsmanship.</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -109,4 +109,4 @@ thus pushing their limits and demonstrating excellent sportsmanship.
 </tr>
 </tbody>
 </table>
-</p><p></p>
+<p></p><p></p>
