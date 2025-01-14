@@ -51,7 +51,6 @@ advocates of good sportsmanship and effective communicators.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/BVPS%20Experience/Co%20Curricular%20Activities/Sports%20&amp;%20Games/FOOTBALL%20CLUB/F4.jpg">
 </div>
-<p></p>
 </td>
 </tr>
 </tbody>
@@ -89,9 +88,9 @@ advocates of good sportsmanship and effective communicators.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Lukman Umar(I/C)
-<br>Miss Sheena Ho
 <br>Mr Muhammad Dzuhri
-<br>Mr Shamsudin</p>
+<br>Mr Shamsudin Hashim</p>
+<p>Mr Lim Jia Ying</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>
