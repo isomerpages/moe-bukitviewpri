@@ -21,7 +21,6 @@ presentations.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/CCA Formal Group Picture/art_club_2.jpg">
 </div>
@@ -54,12 +53,6 @@ presentations.</p>
 </tbody>
 </table>
 <table style="minWidth: 100px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
