@@ -89,9 +89,7 @@ presentations.</p>
 <td rowspan="1" colspan="1">
 <p>Miss Chwa Bee Lian (I/C)
 <br>Miss Lee Kit Beng
-<br>Miss Chai Hui Min
-<br>
-</p>
+<br>Miss Chai Hui Min</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Art Room</p>
