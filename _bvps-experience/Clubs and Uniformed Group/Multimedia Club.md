@@ -83,10 +83,10 @@ perseverance and leadership skills.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Mdm Ng Sin Ee (I/C)
-<br>Mdm Brenda Chong</p>
-<p>Mdm Tan Ya Xin</p>
-<p>Mdm Tham Wei Ting, Vanessa</p>
-</td>
+<br>Mdm Brenda Chong
+<br>Mdm Tan Ya Xin
+<br>Mdm Tham Wei Ting, Vanessa
+</p></td>
 <td rowspan="1" colspan="1">
 <p>Computer Labs 1 and 2</p>
 </td>
