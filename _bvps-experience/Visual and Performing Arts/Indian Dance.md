@@ -16,8 +16,6 @@ another. They also learn to overcome challenges through strong team spirit
 and being resilient.</p>
 <table style="minWidth: 50px">
 <colgroup>
-<col>
-<col>
 </colgroup>
 <tbody>
 <tr>
@@ -85,8 +83,8 @@ and being resilient.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Nageswari (I/C)
-<br>Mdm Savarimuthu Amala</p>
-<p>Miss M Selvarani
+<br>Mdm Savarimuthu Amala
+<br>Miss M Selvarani
 <br>
 </p>
 </td>
