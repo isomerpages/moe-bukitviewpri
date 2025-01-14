@@ -60,8 +60,8 @@ hard work and talent and instil in them a sense of pride.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Tan Shuen Keat Elvin (I/C)
-<br>Mrs Florence Liew
-<br>Mdm Kir Soo Kien
+<br>Mdm Kir Soo Kien</p>
+<p>Miss Chen Miao Miao
 <br>Mdm Hazel Neo</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -78,11 +78,9 @@ hard work and talent and instil in them a sense of pride.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Tan Shuen Keat Elvin (I/C)
-<br>Mrs Florence Liew
-<br>Mdm Kir Soo Kien
-<br>Mdm Hazel Neo
-<br>
-</p>
+<br>Mdm Kir Soo Kien</p>
+<p>Miss Chen Miao Miao
+<br>Mdm Hazel Neo</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Courtyard &amp; (outside Tinker room)</p>
