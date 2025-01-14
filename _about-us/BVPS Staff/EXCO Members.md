@@ -85,7 +85,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Kiew Wanxin</p>
+<p>Mdm Serene Kiew</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Administration Manager</p>
