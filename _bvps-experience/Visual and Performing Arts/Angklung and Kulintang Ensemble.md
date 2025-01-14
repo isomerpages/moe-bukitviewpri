@@ -88,8 +88,8 @@ the community.</p>
 <td rowspan="1" colspan="1">
 <p>Ms Chan Li Xin (I/C)
 <br>Mdm Jayanthi
-<br>Mdm Ng Sin Ee
-<br>Mr Thomas Ang
+<br>Miss Rachel Chew
+<br>Ms Nurul ‘Aqilah Binte Dahlan
 <br>
 </p>
 </td>
