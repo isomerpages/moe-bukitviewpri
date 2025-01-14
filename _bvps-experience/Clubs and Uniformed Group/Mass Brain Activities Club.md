@@ -86,8 +86,9 @@ and challenges thinking while imparting the values of sharing and caring.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Jayce Yong Li Ying (I/C)
-<br>Mrs Goh-Wang Jia
-<br>Ms Yak Mui Mui</p>
+<br>Mrs Goh-Wang Jia</p>
+<p>Ms Oh Wan Ling Chloe
+<br>Mr Thomas Ang</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mind Bistro,
