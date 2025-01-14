@@ -80,8 +80,8 @@ students to become caring, responsible and motivated leaders in the community.</
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Cherie Lim (IC)
-<br>Ms Florence Soh
-<br>Mdm Serene Ng Tse Ern</p>
+<br>Mdm Norbi Binte Mohd Salleh
+<br>Mdm Lim Su Ru</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>4 Respect Classroom</p>
