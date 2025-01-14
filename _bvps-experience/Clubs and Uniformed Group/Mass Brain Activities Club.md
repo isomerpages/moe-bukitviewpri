@@ -85,11 +85,11 @@ and challenges thinking while imparting the values of sharing and caring.</p>
 <p>2pm to 4pm</p>
 </td>
 <td rowspan="1" colspan="1">
-Mdm Jayce Yong Li Ying (I/C)
+<p>Mdm Jayce Yong Li Ying (I/C)
 <br>Mrs Goh-Wang Jia
 <br>Ms Oh Wan Ling Chloe
 <br>Mr Thomas Ang
-</td>
+</p></td>
 <td rowspan="1" colspan="1">
 <p>Mind Bistro,
 <br>Library</p>
