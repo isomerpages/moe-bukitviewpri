@@ -102,6 +102,7 @@ thus pushing their limits and demonstrating excellent sportsmanship.</p>
 <p>Mr Marso Mohammed Dil'shad (I/C)
 <br>Mdm Grace Goh Yue Lin
 <br>Mdm Esther Chua</p>
+<p>Ms Natalie Ng Jia Ern</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>School Hall</p>
@@ -118,7 +119,8 @@ thus pushing their limits and demonstrating excellent sportsmanship.</p>
 <td rowspan="1" colspan="1">
 <p>Mr Marso Mohammed Dil'shad (I/C)
 <br>Mdm Grace Goh Yue Lin
-<br>Mdm Esther Chua
+<br>Mdm Esther Chua</p>
+<p>Ms Natalie Ng Jia Ern
 <br>
 </p>
 </td>
