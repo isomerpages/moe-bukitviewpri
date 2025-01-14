@@ -63,10 +63,10 @@ also to guide students to becoming good sportsmen and supportive team members.</
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Mohammad Abdul Halim
-<br>Bin Rosli (I/C)</p>
-<p>Miss Diana Bte Ishak
+<br>Bin Rosli (I/C)
 <br>Mr Gary Lin Wen'an
-<br>Mr Sean Chua Wei Quan</p>
+<br>Mr Idris Bin Lekiman</p>
+<p>Ms Law Yu Jing</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Basketball Court</p>
