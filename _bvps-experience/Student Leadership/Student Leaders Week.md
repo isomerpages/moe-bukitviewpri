@@ -29,7 +29,6 @@ to play an active role in their leadership development.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/BVPS Experience/Student Leadership/Annual_Appt_of_Student_Leaders.jpg">
 </div>
@@ -44,4 +43,3 @@ to play an active role in their leadership development.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
