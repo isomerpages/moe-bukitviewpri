@@ -29,17 +29,28 @@ to play an active role in their leadership development.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BVPS Experience/Student Leadership/Annual_Appt_of_Student_Leaders.jpg">
-</div>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BVPS Experience/Student Leadership/Leaders_Badge.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BVPS Experience/Student Leadership/Annual_Appt_of_Student_Leaders_3.jpg">
 </div>
 </td>
 </tr>
 </tbody>
 </table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BVPS Experience/Student Leadership/Annual_Appt_of_Student_Leaders.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BVPS Experience/Student Leadership/Annual_Appt_of_Student_Leaders_2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BVPS Experience/Student Leadership/Annual_Appt_of_Student_Leaders_4.jpg">
+</div>
+<p></p>
