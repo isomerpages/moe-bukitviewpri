@@ -32,6 +32,7 @@ to play an active role in their leadership development.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/BVPS Experience/Student Leadership/Annual_Appt_of_Student_Leaders_3.jpg">
+	<p></p>
 </div>
 </td>
 </tr>
