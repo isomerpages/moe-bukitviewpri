@@ -49,7 +49,11 @@ links:
       - title: School Rules
         url: /student/School-Rules/
       - title: Assessment Policy
-        url: /student/Assessment-Policy/Assessment-Policy/
+        url: /student/assessment-policy/
+      - title: Calendar of Events
+        url: /student/calendar-of-events/
+      - title: MOE Sexuality Education
+        url: /student/moe-sexuality-education/
       - title: Student Learning Space (SLS)
         url: /student/student-learning-space/
   - title: Contact Us
