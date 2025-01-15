@@ -247,7 +247,7 @@ and learn to behave maturely towards each other.</p>
 and/or supplementary Sexuality Education programmes by MOE-approved external
 providers.</p>
 <p>9. If you would like to withdraw your child out of The Sexuality Education
-Programme in 2025, please complete the Opt-out Form <a href="https://go.gov.sg/bvpssed2025" rel="noopener noreferrer nofollow" target="_blank">here</a> by <strong>24/01/2025</strong>.</p>
+Programme in 2025, please complete the Opt-out Form via <a href="https://go.gov.sg/bvpssed2025" rel="noopener noreferrer nofollow" target="_blank">FormSG</a> by <strong>24/01/2025</strong>.</p>
 <p>10. Parents can contact the school at <strong>bukitview_ps@moe.edu.sg</strong> for
 discussion or to seek clarification about the school’s Sexuality Education
 programme.</p>
