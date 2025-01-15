@@ -22,8 +22,8 @@ changes as they grow up and develop safe and healthy relationships.
 sexuality matters.
 <br>(c) Help students develop a moral compass and respect for themselves and
 others by having positive mainstream values and attitudes about sexuality
-that are premised on the family as the basic unit of society.
-</p><p>3. The&nbsp;<strong>Key Messages</strong>&nbsp;of Sexuality Education
+that are premised on the family as the basic unit of society.</p>
+<p>3. The&nbsp;<strong>Key Messages</strong>&nbsp;of Sexuality Education
 are:
 <br>(a)&nbsp;&nbsp;&nbsp;Love and respect yourself as you love and respect
 others;
@@ -37,26 +37,27 @@ you and your loved ones.</p>
 <p>You may click&nbsp;<strong><a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here </a></strong>for
 more information on MOE Sexuality Education.</p>
 <h5><strong>OVERVIEW OF BUKIT VIEW PRIMARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2025</strong></h5>
-<p>4. &nbsp;Sexuality Education is delivered in a holistic manner through
-the school curriculum. The content for Sexuality Education is grouped into
-five main themes: Human Development, Interpersonal Relationships, Sexual
-Health, Sexual Behaviour, and, Culture, Society and Law. <br>You may click <strong><a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener noreferrer nofollow" target="_blank">here </a></strong>for
+<p>4. Sexuality Education is delivered in a holistic manner through the school
+curriculum. The content for Sexuality Education is grouped into five main
+themes: Human Development, Interpersonal Relationships, Sexual Health,
+Sexual Behaviour, and, Culture, Society and Law.
+<br>You may click <strong><a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener noreferrer nofollow" target="_blank">here </a></strong>for
 more information on the scope of Sexuality Education in the school curriculum.</p>
-<p>5. &nbsp; The subjects that incorporate topics on sexuality include:
+<p>5. The subjects that incorporate topics on sexuality include:
 <br>a.&nbsp; Science
 <br>b.&nbsp;Character and Citizenship Education (CCE)</p>
 <p><strong>Sexuality Education</strong>:&nbsp;
-<br>6. &nbsp;The upper primary years mark the onset of puberty. With better
-nutrition and improved health care, children are reaching puberty at a
-younger age and have to grapple with physical, emotional and psychological
-changes in themselves. The implication is that our children are becoming
-biologically ready for sexual activity sooner without necessarily having
-the corresponding cognitive or emotional maturity to modulate their behaviours.
-Furthermore, our young are also exposed to a wide range of influences that
-could endanger health and undermine the integrity of the family. Our students
-require close guidance so that they can respond with discernment to the
-sexual messages in the media and other sources.</p>
-<p>7. &nbsp;Sexuality Education (SEd) lessons are taught as part of CCE (FTGP)
+<br>6. The upper primary years mark the onset of puberty. With better nutrition
+and improved health care, children are reaching puberty at a younger age
+and have to grapple with physical, emotional and psychological changes
+in themselves. The implication is that our children are becoming biologically
+ready for sexual activity sooner without necessarily having the corresponding
+cognitive or emotional maturity to modulate their behaviours. Furthermore,
+our young are also exposed to a wide range of influences that could endanger
+health and undermine the integrity of the family. Our students require
+close guidance so that they can respond with discernment to the sexual
+messages in the media and other sources.</p>
+<p>7. Sexuality Education (SEd) lessons are taught as part of CCE (FTGP)
 at Primary 5 and 6. Through these lessons, students will learn healthy
 ways to manage the physiological, social and emotional changes in their
 growing years. They learn to build healthy and rewarding relationships
@@ -245,9 +246,9 @@ and learn to behave maturely towards each other.</p>
 <h4><strong>INFORMATION FOR PARENTS</strong></h4>
 <p>8. Parents may opt their children out of Sexuality Education lessons,
 and/or supplementary Sexuality Education programmes by MOE-approved external
-providers.</p>
-<p>9. If you would like to withdraw your child out of The Sexuality Education
-Programme in 2025, please complete the Opt-out Form via <a href="https://go.gov.sg/bvpssed2025" rel="noopener noreferrer nofollow" target="_blank">FormSG</a> by <strong>24/01/2025</strong>.</p>
-<p>10. Parents can contact the school at <strong>bukitview_ps@moe.edu.sg</strong> for
+providers. If you would like to withdraw your child out of The Sexuality
+Education Programme in 2025, please complete the online Sexuality Education
+Parent Opt-out Form via <a href="https://go.gov.sg/bvpssed2025" rel="noopener noreferrer nofollow" target="_blank">FormSG</a> by <strong>24/01/2025</strong>.</p>
+<p>9. Parents can contact the school at <strong>bukitview_ps@moe.edu.sg</strong> for
 discussion or to seek clarification about the school’s Sexuality Education
 programme.</p>
