@@ -3,7 +3,7 @@ title: Multimedia Club
 permalink: /bvps-experience/clubs-and-uniformed-group/multimedia-club/
 description: ""
 third_nav_title: Clubs and Uniformed Group
-variant: tiptap
+variant: markdown
 ---
 <p>Multimedia Club supports the development of students’ computational thinking.
 It also provides them with perspectives to solve problems through the use
@@ -82,10 +82,11 @@ perseverance and leadership skills.</p>
 <p>2pm to 4pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Tan Ya Xin (I/C)
-<br>Miss Vanessa Tham Wei Ting
-<br>Mdm Brenda Chong Wei-Lin</p>
-</td>
+<p>Mdm Mdm Ng Sin Ee (I/C)
+<br>Mdm Brenda Chong
+<br>Mdm Tan Ya Xin
+<br>Mdm Tham Wei Ting, Vanessa
+</p></td>
 <td rowspan="1" colspan="1">
 <p>Computer Labs 1 and 2</p>
 </td>

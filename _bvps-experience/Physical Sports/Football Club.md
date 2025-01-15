@@ -3,7 +3,7 @@ title: Football Club
 permalink: /bvps-experience/sports-and-games/football-club/
 description: ""
 third_nav_title: Physical Sports
-variant: tiptap
+variant: markdown
 ---
 <p>The Football CCA comprises young, dedicated players with a strong passion
 for football and a drive to hone their skills.&nbsp;</p>
@@ -20,7 +20,6 @@ advocates of good sportsmanship and effective communicators.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/CCA Formal Group Picture/football_2.jpg">
 </div>
@@ -51,21 +50,13 @@ advocates of good sportsmanship and effective communicators.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/BVPS%20Experience/Co%20Curricular%20Activities/Sports%20&amp;%20Games/FOOTBALL%20CLUB/F4.jpg">
 </div>
-<p></p>
 </td>
 </tr>
 </tbody>
 </table>
 <table style="minWidth: 100px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
 <tbody>
-<tr>
-<th rowspan="1" colspan="1">
+<tr><th rowspan="1" colspan="1">
 <p>Day</p>
 </th>
 <th rowspan="1" colspan="1">
@@ -89,17 +80,15 @@ advocates of good sportsmanship and effective communicators.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Lukman Umar(I/C)
-<br>Miss Sheena Ho
 <br>Mr Muhammad Dzuhri
-<br>Mr Shamsudin</p>
-</td>
+<br>Mr Shamsudin Hashim
+<br>Mr Lim Jia Ying
+</p></td>
 <td rowspan="1" colspan="1">
-<p>
-<br>BVSS Field
+<p>BVSS Field
 <br>
 </p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>

@@ -3,7 +3,7 @@ title: Art Club
 permalink: /bvps-experience/clubs-and-uniformed-group/art-club/
 description: ""
 third_nav_title: Visual and Performing Arts
-variant: tiptap
+variant: markdown
 ---
 <p>The Art Club aims to inspire and nurture budding artists&nbsp; in the
 school. Students are given opportunities to explore different art forms
@@ -21,7 +21,6 @@ presentations.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/CCA Formal Group Picture/art_club_2.jpg">
 </div>
@@ -54,12 +53,6 @@ presentations.</p>
 </tbody>
 </table>
 <table style="minWidth: 100px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -89,9 +82,7 @@ presentations.</p>
 <td rowspan="1" colspan="1">
 <p>Miss Chwa Bee Lian (I/C)
 <br>Miss Lee Kit Beng
-<br>Miss Chai Hui Min
-<br>
-</p>
+<br>Miss Chai Hui Min</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Art Room</p>

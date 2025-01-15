@@ -86,7 +86,7 @@ various projects.</p>
 <td rowspan="1" colspan="1">
 <p>Mdm Tan Beng Choo (I/C)
 <br>Mdm Dominique Ang
-<br>Mrs Eunice Goh-Kho Suat Ling</p>
+<br>Mrs Eunice Goh Suat Ling</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Computer Labs 1 &amp; 2</p>

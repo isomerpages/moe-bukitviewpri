@@ -3,7 +3,7 @@ title: Badminton
 permalink: /bvps-experience/sports-and-games/badminton/
 description: ""
 third_nav_title: Physical Sports
-variant: tiptap
+variant: markdown
 ---
 <p>In Bukit View Primary School, many boys and girls are excited to join
 the school’s Badminton Club annually.</p>
@@ -21,7 +21,6 @@ thus pushing their limits and demonstrating excellent sportsmanship.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="3">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/CCA Formal Group Picture/badminton_1.jpg">
 </div>
@@ -52,29 +51,9 @@ thus pushing their limits and demonstrating excellent sportsmanship.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/BVPS%20Experience/Co%20Curricular%20Activities/Sports%20&amp;%20Games/BADMINTON/B4.jpg">
 </div>
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
+</td></tr></tbody>
 </table>
 <table style="minWidth: 100px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -101,8 +80,9 @@ thus pushing their limits and demonstrating excellent sportsmanship.</p>
 <td rowspan="1" colspan="1">
 <p>Mr Marso Mohammed Dil'shad (I/C)
 <br>Mdm Grace Goh Yue Lin
-<br>Mdm Esther Chua</p>
-</td>
+<br>Mdm Esther Chua Yan Yan
+<br>Ms Natalie Ng Jia Ern
+</p></td>
 <td rowspan="1" colspan="1">
 <p>School Hall</p>
 </td>
@@ -118,7 +98,8 @@ thus pushing their limits and demonstrating excellent sportsmanship.</p>
 <td rowspan="1" colspan="1">
 <p>Mr Marso Mohammed Dil'shad (I/C)
 <br>Mdm Grace Goh Yue Lin
-<br>Mdm Esther Chua
+<br>Mdm Esther Chua Yan Yan
+<br>Ms Natalie Ng Jia Ern
 <br>
 </p>
 </td>
@@ -128,4 +109,4 @@ thus pushing their limits and demonstrating excellent sportsmanship.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
+<p></p><p></p>

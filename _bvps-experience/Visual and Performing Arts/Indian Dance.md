@@ -3,7 +3,7 @@ title: Indian Dance
 permalink: /bvps-experience/aesthetics-and-performing-arts/indian-dance/
 description: ""
 third_nav_title: Visual and Performing Arts
-variant: tiptap
+variant: markdown
 ---
 <p>Indian Dance in BVPS serves as a platform for students to appreciate the
 fine aesthetics of dance. Students are exposed to different genres of dance,
@@ -16,13 +16,10 @@ another. They also learn to overcome challenges through strong team spirit
 and being resilient.</p>
 <table style="minWidth: 50px">
 <colgroup>
-<col>
-<col>
 </colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/CCA Formal Group Picture/indian_dance_2.jpg">
 </div>
@@ -85,7 +82,8 @@ and being resilient.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Nageswari (I/C)
-<br>Mdm Nur Liyanna Bte Maznin
+<br>Mdm Savarimuthu Amala
+<br>Miss M Selvarani
 <br>
 </p>
 </td>

@@ -3,8 +3,7 @@ collections:
     output: true
     order:
       - School Rules.md
-      - Assessment Policy/Assessment Policy.md
-      - Assessment Policy/.keep
+      - Assessment Policy.md
       - Calendar of Events.md
       - MOE Sexuality Education.md
       - Student Learning Space (SLS).md

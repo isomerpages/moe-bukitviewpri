@@ -53,11 +53,10 @@ Games.</p>
 <p>2pm to 4pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Norezan(I/C)
-<br>Mdm Nurdayana
-<br>Mdm Nur Nabila
-<br>Mdm Siti Raihana
-<br>Ms Law Yu Jing</p>
+<p>Mdm Norezan Bte Saim (I/C)
+<br>Mdm Nurdayana Binte Mohd Noor
+<br>Mdm Siti Raihana Bte Suleiman
+<br>Mdm Chong Wei Sea</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>School hall</p>
