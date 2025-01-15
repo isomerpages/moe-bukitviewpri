@@ -1256,30 +1256,6 @@ variant: tiptap
 <p>Mrs Priscilla Ng</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>16</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Norhayati bte Ahmad</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>17</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Miss Goh Xue Yi</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>18</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Singaram Devi</p>
-</td>
-</tr>
 </tbody>
 </table>
 <p></p>
