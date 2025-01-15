@@ -39,9 +39,11 @@ to play an active role in their leadership development.</p>
 </table>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/BVPS Experience/Student Leadership/Annual_Appt_of_Student_Leaders_2.jpg">
+	<p></p>
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/BVPS Experience/Student Leadership/Annual_Appt_of_Student_Leaders.jpg">
+	<p></p>
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/BVPS Experience/Student Leadership/Annual_Appt_of_Student_Leaders_4.jpg">
