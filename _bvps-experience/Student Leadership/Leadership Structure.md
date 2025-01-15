@@ -5,12 +5,12 @@ variant: markdown
 description: ""
 third_nav_title: Student Leadership
 ---
-<div class="isomer-image-wrapper">
+<div class="isr>omer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/BVPS Experience/Student Leadership/Leadership_Structure_updated.jpg">
 </div>
-<p>The 3-tiered student leadership structure is adopted with reference from
+<br>The 3-tiered student leadership structure is adopted with reference from
 Emotionally Intelligent Leadership Model (Shankman et al, 2015). Developmental
-training and opportunities are set in place for each tier.</p>
+training and opportunities are set in place for each tier.
 <p><strong>Tier 1: Leading Self</strong>
 <br>The first step to leadership is to be a leader to self - aware of his/her
 abilities, emotions, attitude and mindset. Every Bukit Viewan will form
