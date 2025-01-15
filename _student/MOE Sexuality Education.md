@@ -17,14 +17,13 @@ the values and beliefs of the different ethnic and religious communities
 in Singapore on sexuality issues.</p>
 <p>2. The&nbsp;<strong>Goals</strong>&nbsp;of Sexuality Education are:
 <br>(a) Support students in managing their physiological, social and emotional
-changes as they grow up and develop safe and healthy relationships.</p>
-<p>(b) Guide students to make wise, informed and responsible decisions on
-sexuality matters.</p>
-<p>(c) Help students develop a moral compass and respect for themselves and
+changes as they grow up and develop safe and healthy relationships.
+<br>(b) Guide students to make wise, informed and responsible decisions on
+sexuality matters.
+<br>(c) Help students develop a moral compass and respect for themselves and
 others by having positive mainstream values and attitudes about sexuality
-that are premised on the family as the basic unit of society.</p>
-<p></p>
-<p>3. The&nbsp;<strong>Key Messages</strong>&nbsp;of Sexuality Education
+that are premised on the family as the basic unit of society.
+</p><p>3. The&nbsp;<strong>Key Messages</strong>&nbsp;of Sexuality Education
 are:
 <br>(a)&nbsp;&nbsp;&nbsp;Love and respect yourself as you love and respect
 others;
@@ -125,7 +124,6 @@ so that the students will feel more comfortable during the discussions.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Did You Know?
-<br>
 <br>(60 min)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -149,7 +147,8 @@ so that the students will feel more comfortable during the discussions.</p>
 <p>Growing Years</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Keeping Myself Self(60 min)</p>
+<p>Keeping Myself Safe
+<br>(60 min)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>In this lesson, students will learn about sexual abuse, how it can happen
