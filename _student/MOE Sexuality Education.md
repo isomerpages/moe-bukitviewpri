@@ -40,7 +40,7 @@ more information on MOE Sexuality Education.</p>
 <p>4. &nbsp;Sexuality Education is delivered in a holistic manner through
 the school curriculum. The content for Sexuality Education is grouped into
 five main themes: Human Development, Interpersonal Relationships, Sexual
-Health, Sexual Behaviour, and, Culture, Society and Law. You may click <strong><a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener noreferrer nofollow" target="_blank">here </a></strong>for
+Health, Sexual Behaviour, and, Culture, Society and Law. <br>You may click <strong><a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener noreferrer nofollow" target="_blank">here </a></strong>for
 more information on the scope of Sexuality Education in the school curriculum.</p>
 <p>5. &nbsp; The subjects that incorporate topics on sexuality include:
 <br>a.&nbsp; Science
