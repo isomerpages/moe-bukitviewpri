@@ -89,7 +89,8 @@ and challenges thinking while imparting the values of sharing and caring.</p>
 <br>Mrs Goh-Wang Jia
 <br>Ms Oh Wan Ling Chloe
 <br>Mr Thomas Ang
-</p></td>
+<br>Miss Cassia Chang</p>
+</td>
 <td rowspan="1" colspan="1">
 <p>Mind Bistro,
 <br>Library</p>
