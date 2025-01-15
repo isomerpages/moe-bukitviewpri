@@ -2,6 +2,7 @@ collections:
   student:
     output: true
     order:
+      - Assessment Policy.md
       - School Rules.md
       - Assessment Policy/Assessment Policy.md
       - Assessment Policy/.keep
