@@ -3,7 +3,7 @@ title: Mass Brain Activities Club
 permalink: /bvps-experience/clubs-and-uniformed-group/mass-brain-activities-club/
 description: ""
 third_nav_title: Clubs and Uniformed Group
-variant: markdown
+variant: tiptap
 ---
 <p>In Mass Brain Activities (MBA) Club, our members explore different board
 games that develop their thinking and collaborative skills . They also
@@ -89,7 +89,8 @@ and challenges thinking while imparting the values of sharing and caring.</p>
 <br>Mrs Goh-Wang Jia
 <br>Ms Oh Wan Ling Chloe
 <br>Mr Thomas Ang
-</p></td>
+<br>Miss Cassia Chang</p>
+</td>
 <td rowspan="1" colspan="1">
 <p>Mind Bistro,
 <br>Library</p>
