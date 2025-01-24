@@ -375,7 +375,7 @@ variant: tiptap
 <p>3 Care (3CA)</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Mdm Lam Lam Hui Li Narcissus
+<p>Mdm Lam Hui Li Narcissus
 <br>Mdm Sheena Ho</p>
 </td>
 <td rowspan="1" colspan="2">
