@@ -81,7 +81,7 @@ variant: tiptap
 <p>Library Assistant</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Felicia Ann Martin</p>
+<p>Mdm Kelly Teo</p>
 </td>
 </tr>
 <tr>
