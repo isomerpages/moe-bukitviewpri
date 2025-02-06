@@ -52,12 +52,12 @@ variant: markdown
 <p>Operation Support Officers</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Oh Geok Cheng</p>
-<p>Mdm Veloo Manorangitham
+<p>Mdm Oh Geok Cheng
+<br>Mdm Veloo Manorangitham
 <br>Mdm Vellasamy Vijayaletchimi
 <br>Mr Cheong Wai Kit
 <br>Mr Toh Sin Lye
-<br>Mr Quek Choon Ho</p>
+	<br>Mr Quek Choon Ho</p>
 </td>
 </tr>
 <tr>
