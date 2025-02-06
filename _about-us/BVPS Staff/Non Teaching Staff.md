@@ -52,6 +52,7 @@ variant: tiptap
 <p>Operation Support Officers</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mdm Oh Geok Cheng</p>
 <p>Mdm Veloo Manorangitham
 <br>Mdm Vellasamy Vijayaletchimi
 <br>Mr Cheong Wai Kit
