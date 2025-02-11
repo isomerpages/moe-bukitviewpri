@@ -1,9 +1,9 @@
 ---
 title: Non Teaching Staff
-permalink: /about-us/BVPS-Staff/Non-Teaching-Staff/
+permalink: /about-us/bvps-staff/non-teaching-staff/
 description: ""
 third_nav_title: BVPS Staff
-variant: tiptap
+variant: markdown
 ---
 <table style="minWidth: 50px">
 <colgroup>
@@ -52,11 +52,12 @@ variant: tiptap
 <p>Operation Support Officers</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Veloo Manorangitham
+<p>Mdm Oh Geok Cheng
+<br>Mdm Veloo Manorangitham
 <br>Mdm Vellasamy Vijayaletchimi
 <br>Mr Cheong Wai Kit
 <br>Mr Toh Sin Lye
-<br>Mr Quek Choon Ho</p>
+	<br>Mr Quek Choon Ho</p>
 </td>
 </tr>
 <tr>
@@ -81,7 +82,7 @@ variant: tiptap
 <p>Library Assistant</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Felicia Ann Martin</p>
+<p>Mdm Kelly Teo</p>
 </td>
 </tr>
 <tr>
