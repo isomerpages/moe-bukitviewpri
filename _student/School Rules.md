@@ -18,7 +18,7 @@ All Bukit Viewans are expected to uphold our school values within and beyond sch
 
 6.  Students are not allowed to wear jewellery or accessories in school. Only a pair of simple ear studs are allowed for girls. Hair band or other hair accessories must be simple and in black or dark blue. 
  
-7.  Cheating during school assessment is an offence. Any student who is caught cheating will face severe consequences. 
+7.  Cheating during school assessment is an offence. Any student who is caught cheating will face serious consequences. 
  
 8.  The school takes bullying seriously. Any act of bullying or intimidation can lead to immediate suspension even if it is a first offence.  
 
