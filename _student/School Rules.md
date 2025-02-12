@@ -14,7 +14,7 @@ All Bukit Viewans are expected to uphold our school values within and beyond sch
 
 4.  All students are to report to school by 7.30am and be punctual for all school activities.
 
-5. Students' hair should be kept neat. Hair colouring, tinted hair, permed hair, hair extension or outlandish hairstyle is not permitted in school. Students are not allowed to put on nail varnish or any make-up. All fingernails are to be trimmed and kept clean.
+5\. Students' hair should be kept neat. Hair colouring, tinted hair, permed hair, hair extension or outlandish hairstyle is not permitted in school. Students are not allowed to put on nail varnish or any make-up. All fingernails are to be trimmed and kept clean.
 
 6.  Students are not allowed to wear jewellery or accessories in school. Only a pair of simple ear studs are allowed for girls. Hair band or other hair accessories must be simple and in black or dark blue. 
  
