@@ -10,7 +10,7 @@ All Bukit Viewans are expected to uphold our school values within and beyond sch
 
 2.   Students are to wear the prescribed school uniform and modification to the uniform is not allowed.
 
-3.   Students should be clean-shaven with no facial hair.
+3.   Students should be clean shaven with no facial hair.
 
 4.  All students are to report to school by 7.30am and be punctual for all school activities.
 
