@@ -362,7 +362,7 @@ variant: tiptap
 <p>3 Tenacity (3TE)</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Ms Tho Lee Kian Diana
+<p>Mrs Diana Wan
 <br>Mdm Eddayana Binte Abdullah</p>
 </td>
 <td rowspan="1" colspan="2">

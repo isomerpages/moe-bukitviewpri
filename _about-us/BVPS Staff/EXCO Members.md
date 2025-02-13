@@ -381,7 +381,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Tho Lee Kian Diana</p>
+<p>Mrs Diana Wan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SH / Educational Support &amp; Partnership (Internal)</p>
