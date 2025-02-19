@@ -36,89 +36,108 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<strong><u>Application Procedure</u></strong>
+<p><strong><u>Application Procedure</u></strong>
+</p>
 <p>1. Download and complete the application form. You may also request for
 a hardcopy from the School’s General Office.
 <br><a href="/files/School_Canteen_Application_Form.pdf" rel="noopener noreferrer nofollow" target="_blank">Application Form</a>
-</p><p>2. Attach the following documents together with the application form:</p>
+</p>
+<p>2. Attach the following documents together with the application form:</p>
 <ul data-tight="true" class="tight">
 <li>
-Photocopy of the NRIC (front and back)
+<p>Photocopy of the NRIC (front and back)</p>
 </li>
 <li>
-List of proposed menu and pricing for all items. You may refer to the
-current canteen pricing list at <a rel="noopener noreferrer nofollow" target="_blank">https://www.bukitviewpri.moe.edu.sg/parents-and-partners/Info-for-Parents/Info-for-Parents/</a>.
+<p>List of proposed menu and pricing for all items. You may refer to the
+current canteen pricing list at <a rel="noopener noreferrer nofollow" target="_blank">https://www.bukitviewpri.moe.edu.sg/parents-and-partners/Info-for-Parents/Info-for-Parents/</a>.</p>
 </li>
 <li>
-Photocopy of relevant certificates such as Basic Food Hygiene Course,
-etc.
+<p>Photocopy of relevant certificates such as Basic Food Hygiene Course,
+etc.</p>
 </li>
 </ul>
 <p>3. Submit the completed application form and documents by closing date
 via email OR to the School's General Office.</p>
 <ul data-tight="true" class="tight">
 <li>
-Address: 18 Bukit Batok St 21 Singapore 659634
+<p>Address: 18 Bukit Batok St 21 Singapore 659634</p>
 </li>
 <li>
-Contact No: 65661980
+<p>Contact No: 65661980</p>
 </li>
 <li>
-Email: <a rel="noopener noreferrer nofollow" target="_blank">bukitview_ps@moe.edu.sg</a>
+<p>Email: <a rel="noopener noreferrer nofollow" target="_blank">bukitview_ps@moe.edu.sg</a>
+</p>
 </li>
 <li>
-Contact Person: Mdm Siti Liana / Mr Eric Yeo
+<p>Contact Person: Mdm Siti Liana / Mr Eric Yeo</p>
 </li>
 </ul>
 <p><strong><u>How to get there?</u></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-Nearest MRT: Bukit Batok MRT&nbsp; – 15 minutes walking distance
+<p>Nearest MRT: Bukit Batok MRT&nbsp; – 15 minutes walking distance</p>
 </li>
 <li>
-Public Bus services:
+<p>Public Bus services:
 <br>173 (In front of BVPS at Bukit Batok St 21)
 <br>66, 189, 990 (Behind BVPS, along Bukit Batok East Ave 6)
-<br> 61, 77, 106, 157, 174, 178, 506, 852, 871, 963, 990 (Near BVPS, along Bukit Batok East Ave 3)
+<br>61, 77, 106, 157, 174, 178, 506, 852, 871, 963, 990 (Near BVPS, along
+Bukit Batok East Ave 3)</p>
+</li>
+</ul>
 <p><strong><u>Interested applicants must meet the following criteria:</u></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-Singapore citizen or Singapore Permanent Resident (SPR) for stallholder
-and stall assistant.
+<p>Singapore citizen or Singapore Permanent Resident (SPR) for stallholder
+and stall assistant.</p>
 </li>
 <li>
-Able to provide good service and quality food with prices determined in
-consultation with the school.
+<p>Able to provide good service and quality food with prices determined in
+consultation with the school.</p>
 </li>
 <li>
-Able to provide cooked food that meets the health / nutritional standards
+<p>Able to provide cooked food that meets the health / nutritional standards
 set by the Health Promotion Board (HPB) under the "Healthy Meals in Schools
 Programme (HMSP)" guidelines at <a rel="noopener noreferrer nofollow" target="_blank">https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme</a>
+</p>
 </li>
 <li>
-Able to maintain high standard of food safety and personal hygiene.
+<p>Able to maintain high standard of food safety and personal hygiene.</p>
 </li>
 <li>
-Healthy and fit to operate the stall.
+<p>Healthy and fit to operate the stall.</p>
 </li>
 </ul>
 <p><strong><u>Applicants should preferably fulfil the following criteria</u>:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-Successful applicant and stall assistant(s) must possess the WSQ Basic
-Food Hygiene Certificate.
+<p>Nearest MRT: Bukit Batok MRT&nbsp; – 15 minutes walking distance</p>
 </li>
 <li>
-Possess catering experience or experience operating in a school environment.
-</li>
-<li>
-Successful applicant is required to apply for a food stall license from
-Singapore Food Agency (SFA).
+<p>Public Bus services:
+<br>173 (In front of BVPS at Bukit Batok St 21)
+<br>66, 189, 990 (Behind BVPS, along Bukit Batok East Ave 6)
+<br>61, 77, 106, 157, 174, 178, 506, 852, 871, 963, 990 (Near BVPS, along
+Bukit Batok East Ave 3)</p>
 </li>
 </ul>
+<p><strong><u>Applicants should preferably fulfill the following criteria:</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Successful applicant and stall assistant(s) must possess the WSQ Basic
+Food Hygiene Certificate.</p>
+</li>
+<li>
+<p>Possess catering experience or experience operating in a school environment.</p>
+</li>
+<li>
+<p>Successful applicant is required to apply for a food stall license from
+Singapore Food Agency (SFA).</p>
 <p></p>
 <p></p>
 <p><em>*Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant's own expense.</em>
@@ -160,4 +179,7 @@ and stakeholders, as we embark on this exciting journey of building a new
 school, appreciating our heritage, and creating a new legacy.</p>
 <h2><strong>Update of School Canteen &amp; Price List</strong></h2>
 <p>Information on the updated school canteen menu and price list can be found
-<a href="/parents-and-partners/Info-for-Parents/Info-for-Parents/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p></li></ul>
+<a href="/parents-and-partners/Info-for-Parents/Info-for-Parents/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+</li>
+</ul>
+<p></p>
