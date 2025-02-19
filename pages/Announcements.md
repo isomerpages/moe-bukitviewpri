@@ -114,20 +114,6 @@ Programme (HMSP)" guidelines <a href="https://www.hpb.gov.sg/schools/school-prog
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Nearest MRT: Bukit Batok MRT&nbsp; – 15 minutes walking distance</p>
-</li>
-<li>
-<p>Public Bus services:
-<br>173 (In front of BVPS at Bukit Batok St 21)
-<br>66, 189, 990 (Behind BVPS, along Bukit Batok East Ave 6)
-<br>61, 77, 106, 157, 174, 178, 506, 852, 871, 963, 990 (Near BVPS, along
-Bukit Batok East Ave 3)</p>
-</li>
-</ul>
-<p><strong>Applicants should preferably fulfill the following criteria:</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
 <p>Successful applicant and stall assistant(s) must possess the WSQ Basic
 Food Hygiene Certificate.</p>
 </li>
