@@ -2,6 +2,7 @@
 title: Contact Us
 permalink: /Contact-Us/
 description: ""
+variant: markdown
 ---
 ### **PERSONALLY AT:**
 
@@ -13,7 +14,7 @@ description: ""
 **Public Bus Services:**  
 **173 _(In front of BVPS at Bukit Batok St 21)_**  
 **66, 189, 990 _(Behind BVPS, along Bukit Batok East Ave 6)_**    
-**61, 77, 106, 157, 174, 178, 852, 506, 963 _(Near BVPS, along Bukit Batok East Ave 3)_**  
+**61, 77, 106, 157, 174, 178, 506, 852, 871, 963, 990 _(Near BVPS, along Bukit Batok East Ave 3)_**  
 
   
 
@@ -26,11 +27,8 @@ description: ""
 
 ### **THROUGH PHONE AT:**
 
-  
 
 **Tel: 6566 1980**  
 **Fax: 6563 5015**
-
-  
 
 **You can send in your enquiries or suggestions using our** [online feedback form](https://forms.cwp.gov.sg/bukitviewpri/FormP361U). **Alternatively, you can also drop us an email at** [bukitview\_ps@moe.edu.sg](mailto:bukitview_ps@moe.edu.sg)
