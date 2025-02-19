@@ -36,7 +36,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p><strong><u>Application Procedure</u></strong>
+<p><strong>Application Procedure</strong>
 </p>
 <p>1. Download and complete the application form. You may also request for
 a hardcopy from the School’s General Office.
@@ -73,7 +73,7 @@ via email OR to the School's General Office.</p>
 <p>Contact Person: Mdm Siti Liana / Mr Eric Yeo</p>
 </li>
 </ul>
-<p><strong><u>How to get there?</u></strong>
+<p><strong>How to get there?</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -87,7 +87,7 @@ via email OR to the School's General Office.</p>
 Bukit Batok East Ave 3)</p>
 </li>
 </ul>
-<p><strong><u>Interested applicants must meet the following criteria:</u></strong>
+<p><strong>Interested applicants must meet the following criteria:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -111,7 +111,7 @@ Programme (HMSP)" guidelines at <a rel="noopener noreferrer nofollow" target="_b
 <p>Healthy and fit to operate the stall.</p>
 </li>
 </ul>
-<p><strong><u>Applicants should preferably fulfil the following criteria</u>:</strong>
+<p><strong>Applicants should preferably fulfil the following criteria:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -125,7 +125,7 @@ Programme (HMSP)" guidelines at <a rel="noopener noreferrer nofollow" target="_b
 Bukit Batok East Ave 3)</p>
 </li>
 </ul>
-<p><strong><u>Applicants should preferably fulfill the following criteria:</u></strong>
+<p><strong>Applicants should preferably fulfill the following criteria:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
