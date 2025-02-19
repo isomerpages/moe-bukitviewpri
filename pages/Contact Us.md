@@ -19,9 +19,8 @@ variant: markdown
   
 
 **Operating Hours:**  
-**Mondays to Fridays: 7.30am to 5.30pm**  
-**Saturdays: Closed**  
-**Sundays and Public Holidays: Closed**
+**Monday to Friday: 7.30am to 5.30pm**  
+**Saturday, Sunday and Public Holiday: Closed**
 
   
 
