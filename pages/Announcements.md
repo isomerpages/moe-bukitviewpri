@@ -40,7 +40,7 @@ variant: tiptap
 </p>
 <p>1. Download and complete the application form. You may also request for
 a hardcopy from the School’s General Office.</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">Application Form</a>
+<p><a href="/files/School_Canteen_Application_Form.pdf" rel="noopener noreferrer nofollow" target="_blank">Application Form</a>
 </p>
 <p></p>
 <p>2. Attach the following documents together with the application form:</p>
