@@ -49,7 +49,7 @@ a hardcopy from the School’s General Office.
 </li>
 <li>
 <p>List of proposed menu and pricing for all items. You may refer to the
-current canteen pricing list at <a rel="noopener noreferrer nofollow" target="_blank">https://www.bukitviewpri.moe.edu.sg/parents-and-partners/Info-for-Parents/Info-for-Parents/</a>.</p>
+current canteen pricing list <a href="https://www.bukitviewpri.moe.edu.sg/parents-and-partners/Info-for-Parents/Info-for-Parents/" rel="noopener nofollow" target="_blank">here</a>.</p>
 </li>
 <li>
 <p>Photocopy of relevant certificates such as Basic Food Hygiene Course,
@@ -101,8 +101,7 @@ consultation with the school.</p>
 <li>
 <p>Able to provide cooked food that meets the health / nutritional standards
 set by the Health Promotion Board (HPB) under the "Healthy Meals in Schools
-Programme (HMSP)" guidelines at <a rel="noopener noreferrer nofollow" target="_blank">https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme</a>
-</p>
+Programme (HMSP)" guidelines <a href="https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme" rel="noopener nofollow" target="_blank">here</a>.</p>
 </li>
 <li>
 <p>Able to maintain high standard of food safety and personal hygiene.</p>
