@@ -1,5 +1,5 @@
 ---
-title: Belif and Vision
+title: Belief and Vision
 permalink: /belif-and-vision/
 variant: tiptap
 description: ""
