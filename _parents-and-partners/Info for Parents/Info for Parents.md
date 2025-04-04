@@ -58,9 +58,9 @@ Please click [here](https://online.fliphtml5.com/obrr/qkde/#p=1) to access the
 
 Dear Primary 4 Parents,
 
-You can now access your child’s SwimSafer 2.0 certificate via the web-based ActiveSG portal once he/she passes both the practical assessment and the online quiz on [https://members.myactivesg.com/swimsafer](http://members.myactivesg.com/swimsafer).
+You can now access your child’s SwimSafer 2.0 certificate via [ActiveSG portal](https://activesg.gov.sg/home) once he/she passes both the practical assessment and the online quiz.
 
-You will need to sign up as a member (if you have not already done so) at the ActiveSG portal via [https://members.myactivesg.com/auth](https://members.myactivesg.com/auth) and tag your child as a supplementary member. 
+You will need to sign up as a member (if you have not already done so) at the [ActiveSG portal](https://activesg.gov.sg/home) and tag your child as a supplementary member. 
 
 The user guide is attached for your reference. 
 
