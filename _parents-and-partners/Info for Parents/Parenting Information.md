@@ -9,7 +9,7 @@ variant: markdown
   
 There is no hard and fast rule book for raising children, but it is surprising how many familiar parenting problems have very simple solutions. From anger outbursts, tantrums, defiance, unhealthy gaming habits to establishing a regular homework routine – the issues you face aren’t unique to your family. In fact, they are commonplace. That is why&nbsp;[Triple P Positive Parenting Programmes](https://www.triplep-parenting.net/global/triple-p/)&nbsp;can help.  
   
-Triple P is one of the few parenting programmes in the world that is based on strategies proven by research. It is a multi-level strategy designed to suit various parenting needs as it aims to promote children and teens’ psychological, social, and emotional competence. Parents who attend the sessions will receive complimentary Triple P resources (subject to terms and conditions).  
+Triple P is one of the few parenting programmes in the world that are based on strategies proven by research. It is a multi-level strategy designed to suit various parenting needs as it aims to promote children and teens’ psychological, social, and emotional competence. Parents who attend the sessions will receive complimentary Triple P resources (subject to terms and conditions).  
   
 
 Bukit View Primary School has partnered with Fei Yue Community Services, the appointed Parenting Support Provider (PSP) for the Bukit Batok/ Bukit Panjang/ Choa Chu Kang region to support you in your parenting journey. Parents can indicate their interest in Triple P at&nbsp;[https://go.fycs.org/PSS](https://go.fycs.org/PSS).
