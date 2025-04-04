@@ -53,3 +53,17 @@ BVPS P6 Foundation Booklist [Here](/files/Parents%20and%20Partners/Info%20for%20
 For parents with children at the upper primary levels, we hope **WE-STories** will be a good resource for you to have conversation with your child on choosing Secondary Schools that can cater to his/her interests and strengths.  
   
 Please click [here](https://online.fliphtml5.com/obrr/qkde/#p=1) to access the book for your reading pleasure.
+
+#### **Primary 4: Swimsafer 2.0 Certifcate**
+
+Dear Primary 4 Parents,
+
+You can now access your child’s SwimSafer 2.0 certificate via the web-based ActiveSG portal once he/she passes both the practical assessment and the online quiz on [https://members.myactivesg.com/swimsafer](http://members.myactivesg.com/swimsafer).
+
+You will need to sign up as a member (if you have not already done so) at the ActiveSG portal via [https://members.myactivesg.com/auth](https://members.myactivesg.com/auth) and tag your child as a supplementary member. 
+
+The user guide is attached for your reference. 
+
+[Guidelines to access SwimSafer Quiz](https://www.bukitviewpri.moe.edu.sg/files/Parents%20and%20Partners/Info%20for%20Parents/PARENTS%20GATEWAY/Guidelines%20to%20access%20SwimSafer%2020%20quiz.pdf)
+
+[Swimsafer E-Certificate User Guide](https://www.bukitviewpri.moe.edu.sg/files/Parents%20and%20Partners/Info%20for%20Parents/PARENTS%20GATEWAY/SwimSafer%20E-Certificate%20User%20Guide.pdf)
