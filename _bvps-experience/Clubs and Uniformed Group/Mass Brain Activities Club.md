@@ -6,10 +6,9 @@ third_nav_title: Clubs and Uniformed Group
 variant: tiptap
 ---
 <p>In Mass Brain Activities (MBA) Club, our members explore different board
-games that develop their thinking and collaborative skills . They also
-learn to be innovative by revising the games rule or designing new games.
-Members participate in different competitions such as in Scrabble, Sudoku
-and Othello.&nbsp;</p>
+games that develop their thinking and collaborative skills. They also learn
+to be innovative by revising the games rule or designing new games. Members
+participate in different competitions such as in Scrabble, Sudoku and Othello.&nbsp;</p>
 <p>To widen our community outreach, our members visited nearby preschool
 and Reach Senior Centre, introduced and taught simple board games to parents
 and senior citizens respectively. MBA Club builds collaborative skills&nbsp;
