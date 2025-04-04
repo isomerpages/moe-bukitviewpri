@@ -12,7 +12,7 @@ the complete routines, they will have the opportunity to participate in
 the National School Games. Besides instilling sportsmanship, students will
 also be more disciplined and resilient through regular training sessions.</p>
 <p>Students are also involved actively in performances both in school and
-beyond school which provide platforms for students to showcase their hard
+beyond school, which provide platforms for students to showcase their hard
 work and talent and instill in them a sense of pride.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/CCA Formal Group Picture/wushu_2.jpg">
