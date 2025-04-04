@@ -5,12 +5,12 @@ description: ""
 third_nav_title: Physical Sports
 variant: tiptap
 ---
-<p>Basketball is the latest sport CCA to be introduced in BVPS. It is a unique
-CCA that comprises both young girls and boys with a strong passion to pick
-up one of Singapore’s most participated sport.&nbsp; Apart from acquiring
-and mastering skills and knowledge of the sport, our young players develop
-resilience, practise self-discipline and demonstrate teamwork during the
-training sessions, as well as competitions.</p>
+<p>Basketball is the latest sports CCA to be introduced in BVPS. It is a
+unique CCA that comprises both young girls and boys with a strong passion
+to pick up one of Singapore’s most participated sports.&nbsp; Apart from
+acquiring and mastering skills and knowledge of the sport, our young players
+develop resilience, practise self-discipline and demonstrate teamwork during
+the training sessions, as well as competitions.</p>
 <p>Together with a team of committed teachers and an experienced coach, we
 believe in not just imparting a greater understanding of the sport but
 also to guide students to becoming good sportsmen and supportive team members.</p>
@@ -66,8 +66,8 @@ also to guide students to becoming good sportsmen and supportive team members.</
 <br>Bin Rosli (I/C)
 <br>Mr Gary Lin Wen'an
 <br>Mr Idris Bin Lekiman
-<br>Ms Law Yu Jing
-</p></td>
+<br>Ms Law Yu Jing</p>
+</td>
 <td rowspan="1" colspan="1">
 <p>Basketball Court</p>
 </td>
