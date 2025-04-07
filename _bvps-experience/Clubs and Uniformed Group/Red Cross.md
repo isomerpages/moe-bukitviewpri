@@ -33,7 +33,6 @@ students to become caring, responsible and motivated leaders in the community.</
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/BVPS Experience/Co Curricular Activities/Clubs &amp; Uniformed Group/RED CROSS/SportDay_First_aid_duty.jpg">
 </div>
