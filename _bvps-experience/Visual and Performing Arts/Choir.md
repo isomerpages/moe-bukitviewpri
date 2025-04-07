@@ -16,6 +16,8 @@ performed at Seniors Café and brought joy to the senior citizens visiting
 the café.</p>
 <table style="minWidth: 50px">
 <colgroup>
+<col>
+<col>
 </colgroup>
 <tbody>
 <tr>
@@ -26,39 +28,31 @@ the café.</p>
 </td>
 </tr>
 <tr>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/BVPS%20Experience/Co%20Curricular%20Activities/Aesthetics%20and%20Performing%20Arts/CHOIR/C1.jpg">
-</div>
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/BVPS%20Experience/Co%20Curricular%20Activities/Aesthetics%20and%20Performing%20Arts/CHOIR/C2.jpg">
-</div>
-<p></p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/BVPS%20Experience/Co%20Curricular%20Activities/Aesthetics%20and%20Performing%20Arts/CHOIR/C3.jpg">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BVPS Experience/Co Curricular Activities/Aesthetics and Performing Arts/CHOIR/2025_choir02.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/BVPS%20Experience/Co%20Curricular%20Activities/Aesthetics%20and%20Performing%20Arts/CHOIR/C4.jpg">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BVPS Experience/Co Curricular Activities/Aesthetics and Performing Arts/CHOIR/2025_choir03.jpg">
+</div>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/BVPS%20Experience/Co%20Curricular%20Activities/Aesthetics%20and%20Performing%20Arts/CHOIR/C5.jpg">
-</div>
+<td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BVPS Experience/Co Curricular Activities/Aesthetics and Performing Arts/CHOIR/2025_choir01.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BVPS Experience/Co Curricular Activities/Aesthetics and Performing Arts/CHOIR/2025_choir04_2.jpg">
+</div>
 </td>
 </tr>
 </tbody>
@@ -99,8 +93,8 @@ the café.</p>
 <p>Mdm Chan Hai Yen (I/C)
 <br>Miss Fong Shi Men
 <br>Mdm Nurul Haiyu Rosli
-<br>Miss Tessa Suprapmo
-</p></td>
+<br>Miss Tessa Suprapmo</p>
+</td>
 <td rowspan="1" colspan="1">
 <p>Performing Arts Studio (PAS)</p>
 </td>
