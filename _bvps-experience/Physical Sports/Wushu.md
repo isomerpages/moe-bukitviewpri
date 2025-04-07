@@ -23,18 +23,6 @@ work and talent and instill in them a sense of pride.</p>
 <tr></tr>
 </tbody>
 </table>
-<table style="width: 0px">
-<colgroup></colgroup>
-<tbody>
-<tr></tr>
-</tbody>
-</table>
-<table style="width: 0px">
-<colgroup></colgroup>
-<tbody>
-<tr></tr>
-</tbody>
-</table>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -43,13 +31,11 @@ work and talent and instill in them a sense of pride.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/BVPS Experience/Co Curricular Activities/Sports &amp; Games/WUSHU/2025_wushu01.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/BVPS Experience/Co Curricular Activities/Sports &amp; Games/WUSHU/2025_wushu02.jpg">
 </div>
@@ -57,13 +43,12 @@ work and talent and instill in them a sense of pride.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/BVPS Experience/Co Curricular Activities/Sports &amp; Games/WUSHU/2025_wushu03.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/BVPS Experience/Co Curricular Activities/Sports &amp; Games/WUSHU/2025_wushu04.jpg">
 </div>
