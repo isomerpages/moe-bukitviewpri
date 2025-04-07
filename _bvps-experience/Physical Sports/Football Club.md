@@ -35,7 +35,6 @@ advocates of good sportsmanship and effective communicators.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/BVPS Experience/Co Curricular Activities/Sports &amp; Games/FOOTBALL CLUB/2025_football01.jpg">
 </div>
