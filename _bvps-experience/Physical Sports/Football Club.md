@@ -25,33 +25,6 @@ advocates of good sportsmanship and effective communicators.</p>
 </div>
 </td>
 </tr>
-<tr>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BVPS%20Experience/Co%20Curricular%20Activities/Sports%20&amp;%20Games/FOOTBALL%20CLUB/F1.jpg">
-</div>
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BVPS%20Experience/Co%20Curricular%20Activities/Sports%20&amp;%20Games/FOOTBALL%20CLUB/F2.jpg">
-</div>
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BVPS%20Experience/Co%20Curricular%20Activities/Sports%20&amp;%20Games/FOOTBALL%20CLUB/F3.jpg">
-</div>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/BVPS%20Experience/Co%20Curricular%20Activities/Sports%20&amp;%20Games/FOOTBALL%20CLUB/F4.jpg">
-</div>
-</td>
-</tr>
 </tbody>
 </table>
 <table style="minWidth: 50px">
@@ -89,10 +62,7 @@ advocates of good sportsmanship and effective communicators.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p></p>
 </td>
 </tr>
@@ -130,7 +100,7 @@ advocates of good sportsmanship and effective communicators.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lukman Umar(I/C)
+<p>Mr Lukman Umar (I/C)
 <br>Mr Muhammad Dzuhri
 <br>Mr Shamsudin Hashim
 <br>Mr Lim Jia Ying</p>
