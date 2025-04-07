@@ -20,15 +20,6 @@ also to guide students to becoming good sportsmen and supportive team members.</
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/CCA Formal Group Picture/basketball_2.jpg">
 </div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BVPS%20Experience/Co%20Curricular%20Activities/Sports%20&amp;%20Games/BASKETBALL/B1.jpeg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BVPS%20Experience/Co%20Curricular%20Activities/Sports%20&amp;%20Games/BASKETBALL/B2.jpeg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BVPS%20Experience/Co%20Curricular%20Activities/Sports%20&amp;%20Games/BASKETBALL/B3.jpeg">
-</div>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
