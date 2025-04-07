@@ -23,27 +23,12 @@ work and talent and instill in them a sense of pride.</p>
 <tr></tr>
 </tbody>
 </table>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BVPS Experience/Co Curricular Activities/Sports &amp; Games/WUSHU/2025_wushu01.jpg">
-</div>
 <table style="width: 0px">
 <colgroup></colgroup>
 <tbody>
 <tr></tr>
 </tbody>
 </table>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BVPS Experience/Co Curricular Activities/Sports &amp; Games/WUSHU/2025_wushu02.jpg">
-</div>
-<table style="width: 0px">
-<colgroup></colgroup>
-<tbody>
-<tr></tr>
-</tbody>
-</table>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BVPS Experience/Co Curricular Activities/Sports &amp; Games/WUSHU/2025_wushu03.jpg">
-</div>
 <table style="width: 0px">
 <colgroup></colgroup>
 <tbody>
