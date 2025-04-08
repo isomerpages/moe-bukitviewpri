@@ -17,6 +17,7 @@ also to guide students to becoming good sportsmen and supportive team members.</
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/CCA Formal Group Picture/basketball_school_team_2.jpg">
 </div>
+<br>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/CCA Formal Group Picture/basketball_2.jpg">
 </div>
