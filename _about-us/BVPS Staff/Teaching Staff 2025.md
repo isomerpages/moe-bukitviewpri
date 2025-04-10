@@ -412,13 +412,13 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="2">
 <p>Mdm Ng Sin Ee
-<br>Miss Ashley Boey</p>
-<p>Miss Rajeshree D/O Rajanthiran</p>
+<br>Miss Ashley Boey
+<br>Miss Rajeshree D/O Rajanthiran</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>ng_sin_ee
-<br>sabrina_abdullahashley_boey_ching</p>
-<p>rajeshree_rajanthiran</p>
+<br>sabrina_abdullahashley_boey_ching
+<br>rajeshree_rajanthiran</p>
 </td>
 </tr>
 <tr>
