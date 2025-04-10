@@ -43,17 +43,6 @@ BVPS P6 Booklist [Here](/files/Parents%20and%20Partners/Info%20for%20Parents/Inf
 
 BVPS P6 Foundation Booklist [Here](/files/Parents%20and%20Partners/Info%20for%20Parents/Info%20for%20Parents/Pri_6_FDN_Booklist_For_Year_2025.pdf)
 
-
-#### **2023 WE-STories** 
-
-
-  
-**WE-STories** is a collection of stories from all the secondary schools in the West Zone to give primary students and parents fresh insights on the endeavours of each school in creating authentic learning experiences.  
-  
-For parents with children at the upper primary levels, we hope **WE-STories** will be a good resource for you to have conversation with your child on choosing Secondary Schools that can cater to his/her interests and strengths.  
-  
-Please click [here](https://online.fliphtml5.com/obrr/qkde/#p=1) to access the book for your reading pleasure.
-
 #### **Primary 4: Swimsafer 2.0 Certifcate**
 
 Dear Primary 4 Parents,
@@ -67,3 +56,12 @@ The user guide is attached for your reference. 
 [Guidelines to access SwimSafer Quiz](https://www.bukitviewpri.moe.edu.sg/files/Parents%20and%20Partners/Info%20for%20Parents/PARENTS%20GATEWAY/Guidelines%20to%20access%20SwimSafer%2020%20quiz.pdf)
 
 [Swimsafer E-Certificate User Guide](https://www.bukitviewpri.moe.edu.sg/files/Parents%20and%20Partners/Info%20for%20Parents/PARENTS%20GATEWAY/SwimSafer%20E-Certificate%20User%20Guide.pdf)
+
+#### **2023 WE-STories** 
+
+**WE-STories** is a collection of stories from all the secondary schools in the West Zone to give primary students and parents fresh insights on the endeavours of each school in creating authentic learning experiences.  
+  
+For parents with children at the upper primary levels, we hope **WE-STories** will be a good resource for you to have conversation with your child on choosing Secondary Schools that can cater to his/her interests and strengths.  
+  
+Please click [here](https://online.fliphtml5.com/obrr/qkde/#p=1) to access the book for your reading pleasure.
+
