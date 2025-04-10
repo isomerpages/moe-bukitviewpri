@@ -24,7 +24,7 @@ in these specialised areas. Opportunities such as participating in competitions
 allow our students to develop their information, communication and technical
 skills.</p>
 <p>The Visual and Performing Arts like our Angklung and Kulintang Ensemble,
-Choir, Chinese, Malay and Indian dances instil values in students such
+Choir, Chinese, Malay and Indian dances instill values in students such
 as perseverance and a sense of graciousness, promotes their confidence
 and resilience, as well as develops in them an appreciation for the rich
 culture and heritage of a multi-racial society. Singapore Youth Festival

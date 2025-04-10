@@ -1,6 +1,6 @@
 ---
 title: Info for Parents
-permalink: /parents-and-partners/Info-for-Parents/Info-for-Parents/
+permalink: /parents-and-partners/info-for-parents/info-for-parents/
 description: ""
 third_nav_title: Info for Parents
 variant: markdown
@@ -43,13 +43,25 @@ BVPS P6 Booklist [Here](/files/Parents%20and%20Partners/Info%20for%20Parents/Inf
 
 BVPS P6 Foundation Booklist [Here](/files/Parents%20and%20Partners/Info%20for%20Parents/Info%20for%20Parents/Pri_6_FDN_Booklist_For_Year_2025.pdf)
 
+#### **Primary 4: Swimsafer 2.0 Certifcate**
+
+Dear Primary 4 Parents,
+
+You can now access your child’s SwimSafer 2.0 certificate via [ActiveSG portal](https://activesg.gov.sg/home) once he/she passes both the practical assessment and the online quiz.
+
+You will need to sign up as a member (if you have not already done so) at the [ActiveSG portal](https://activesg.gov.sg/home) and tag your child as a supplementary member. 
+
+The user guide is attached for your reference. 
+
+[Guidelines to access SwimSafer Quiz](https://www.bukitviewpri.moe.edu.sg/files/Parents%20and%20Partners/Info%20for%20Parents/PARENTS%20GATEWAY/Guidelines%20to%20access%20SwimSafer%2020%20quiz.pdf)
+
+[Swimsafer E-Certificate User Guide](https://www.bukitviewpri.moe.edu.sg/files/Parents%20and%20Partners/Info%20for%20Parents/PARENTS%20GATEWAY/SwimSafer%20E-Certificate%20User%20Guide.pdf)
 
 #### **2023 WE-STories** 
 
-
-  
 **WE-STories** is a collection of stories from all the secondary schools in the West Zone to give primary students and parents fresh insights on the endeavours of each school in creating authentic learning experiences.  
   
 For parents with children at the upper primary levels, we hope **WE-STories** will be a good resource for you to have conversation with your child on choosing Secondary Schools that can cater to his/her interests and strengths.  
   
 Please click [here](https://online.fliphtml5.com/obrr/qkde/#p=1) to access the book for your reading pleasure.
+

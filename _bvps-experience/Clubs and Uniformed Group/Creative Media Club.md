@@ -29,26 +29,24 @@ various projects.</p>
 </td>
 </tr>
 <tr>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/BVPS%20Experience/Co%20Curricular%20Activities/Clubs%20&amp;%20Uniformed%20Group/CREATIVE%20MEDIA%20CLUB/C1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BVPS Experience/Co Curricular Activities/Clubs &amp; Uniformed Group/CREATIVE MEDIA CLUB/2025_CMC_01.jpg">
 </div>
-</th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 95%;" height="auto" width="100%" alt="" src="/images/BVPS%20Experience/Co%20Curricular%20Activities/Clubs%20&amp;%20Uniformed%20Group/CREATIVE%20MEDIA%20CLUB/C2.jpg">
-</div>
-</th>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/BVPS%20Experience/Co%20Curricular%20Activities/Clubs%20&amp;%20Uniformed%20Group/CREATIVE%20MEDIA%20CLUB/C3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BVPS Experience/Co Curricular Activities/Clubs &amp; Uniformed Group/CREATIVE MEDIA CLUB/2025_CMC_03.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/BVPS%20Experience/Co%20Curricular%20Activities/Clubs%20&amp;%20Uniformed%20Group/CREATIVE%20MEDIA%20CLUB/C4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BVPS Experience/Co Curricular Activities/Clubs &amp; Uniformed Group/CREATIVE MEDIA CLUB/2025_CMC_02.jpg">
 </div>
 </td>
 </tr>

@@ -28,7 +28,7 @@ variant: tiptap
 <p>Vegetarian Food Stall</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>29 March 2025</p>
+<p>30 Jun 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Open to proposal</p>
