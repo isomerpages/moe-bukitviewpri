@@ -868,17 +868,6 @@ variant: tiptap
 <p>CL</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Liu Huanqing</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>liu_huanqing</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>CL</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Miss Huang Jingyao</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1022,17 +1011,6 @@ variant: tiptap
 <p>TL</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Selvam Priyanga</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>selvam_priyanga</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>TL</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mdm Savarimuthu Amala</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1116,6 +1094,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>nurul_lyzati_mustapha</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Special Educational Needs Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Long Hian Kim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>long_hian_kim</p>
 </td>
 </tr>
 <tr>
