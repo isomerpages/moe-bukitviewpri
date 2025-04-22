@@ -5,18 +5,10 @@ description: ""
 variant: tiptap
 ---
 <h1><strong>Get in Touch with Bukit View Pri School</strong></h1>
-<h5><strong>Main Office</strong></h5>
-<br>18 Bukit Batok Street 21
-<br>Singapore 659634&gt;
-<br><a href="https://www.google.com/maps?q=18+Bukit+Batok+Street+21+Singapore+659634+" rel="noopener nofollow" target="_blank">VIEW MAP →</a>
+<h5><strong>Main Office</strong><br>18 Bukit Batok Street 21 <br>Singapore 659634&gt; <br><a href="https://www.google.com/maps?q=18+Bukit+Batok+Street+21+Singapore+659634+" rel="noopener nofollow" target="_blank">VIEW MAP →</a></h5>
+<h5><strong>Operating Hours</strong><br><strong>Office Hours</strong>:&nbsp;7.30am - 5.30pm <br>Saturdays, Sundays and Public Holidays: Closed</h5>
+<h5><strong>Contact Us</strong><br>+65 65661980 <br><a href="mailto:bukitview_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>bukitview_ps@moe.edu.sg</u></a></h5>
 <p></p>
-<h5><strong>Operating Hours</strong></h5>
-<br><strong>Office Hours</strong>:&nbsp;7.30am - 5.30pm
-<br>Saturdays, Sundays and Public Holidays: Closed
-<h5><strong>Contact Us</strong></h5>
-<br>+65 65661980
-<br><a href="mailto:bukitview_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>bukitview_ps@moe.edu.sg</u></a>
-<p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -57,7 +49,8 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-</p><p><strong>18 Bukit Batok St 21</strong>
+<p></p>
+<p><strong>18 Bukit Batok St 21</strong>
 <br><strong>Singapore 659634</strong>
 </p>
 <p><strong>Public Bus Services:</strong>
