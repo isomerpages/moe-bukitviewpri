@@ -1,33 +1,11 @@
 ---
 title: Contact Us
-permalink: /Contact-Us/
+permalink: /contactus/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-### **PERSONALLY AT:**
-
-  
-
-**18 Bukit Batok St 21**  
-**Singapore 659634**
-
-**Public Bus Services:**  
-**173 _(In front of BVPS at Bukit Batok St 21)_**  
-**66, 189, 990 _(Behind BVPS, along Bukit Batok East Ave 6)_**    
-**61, 77, 106, 157, 174, 178, 506, 852, 871, 963, 990 _(Near BVPS, along Bukit Batok East Ave 3)_**  
-
-  
-
-**Operating Hours:**  
-**Monday to Friday: 7.30am to 5.30pm**  
-**Saturday, Sunday and Public Holiday: Closed**
-
-  
-
-### **THROUGH PHONE AT:**
-
-
-**Tel: 6566 1980**  
-**Fax: 6563 5015**
-
-**You can send in your enquiries or suggestions using our** [online feedback form](https://forms.cwp.gov.sg/bukitviewpri/FormP361U). **Alternatively, you can also drop us an email at** [bukitview\_ps@moe.edu.sg](mailto:bukitview_ps@moe.edu.sg)
+<h1><strong>Get in Touch with Bukit View Pri School</strong></h1>
+<h5><strong>Main Office</strong><br>18 Bukit Batok Street 21 <br>Singapore 659634&gt; <br><a href="https://www.google.com/maps?q=18+Bukit+Batok+Street+21+Singapore+659634+" rel="noopener nofollow" target="_blank">VIEW MAP</a></h5>
+<h5><strong>Operating Hours</strong><br>Office Hours:&nbsp;7.30am - 5.30pm <br>Saturday, Sunday and Public Holiday: Closed</h5>
+<h5><strong>Contact Us</strong><br>+65 65661980 <br><a href="mailto:bukitview_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>bukitview_ps@moe.edu.sg</u></a></h5>
+<p></p>

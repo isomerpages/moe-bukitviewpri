@@ -31,7 +31,7 @@ links:
       - title: Life in BVPS
         url: /bvps-experience/Life-in-BVPS/
   - title: Parents & Partners
-    url: /parents-and-partners/Info-for-Parents/Info-for-Parents/
+    url: /parents-and-partners/info-for-parents/info-for-parents/
     sublinks:
       - title: Info for Parents
         url: /parents-and-partners/info-for-parents/info-for-parents/
@@ -44,7 +44,7 @@ links:
       - title: Service Providers
         url: /parents-and-partners/Service-Providers/
   - title: Student
-    url: /student/School-Rules/
+    url: /student/school-rules/
     sublinks:
       - title: School Rules
         url: /student/school-rules/
@@ -57,4 +57,4 @@ links:
       - title: Student Learning Space (SLS)
         url: /student/student-learning-space/
   - title: Contact Us
-    url: /Contact-Us/
+    url: /contactus/
