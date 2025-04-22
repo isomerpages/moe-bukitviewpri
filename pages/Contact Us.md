@@ -5,6 +5,22 @@ description: ""
 variant: tiptap
 ---
 <h2><strong>Get in Touch with Bukit View Pri School</strong></h2>
+<h5><strong>Main Office</strong></h5>
+<p>18 Bukit Batok Street 21
+<br>Singapore 659634
+<br><a href="https://www.google.com/maps?q=18+Bukit+Batok+Street+21+Singapore+659634+" rel="noopener nofollow" target="_blank">VIEW MAP →</a>
+</p>
+<p></p>
+<h5><strong>Operating Hours</strong></h5>
+<p><strong>Office Hours</strong>:&nbsp;7.30am - 5.30pm</p>
+<p>Saturdays, Sundays and Public Holidays: Closed</p>
+<p></p>
+<h5><strong>Contact Us</strong></h5>
+<p><a href="tel:+6565661980" rel="noopener noreferrer nofollow" target="_blank"><u>+65 6566 1980</u></a>
+</p>
+<p><a href="mailto:bukitview_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>bukitview_ps@moe.edu.sg</u></a>
+</p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
