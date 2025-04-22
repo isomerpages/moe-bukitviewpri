@@ -5,11 +5,11 @@ permalink: /contact-us/
 agency_name: Bukit View Pri School
 locations:
   - address:
-      - 18 Bukit Batok
-      - Street 21
+      - 18 Bukit Batok Street 21
       - Singapore 659634
+      - ""
     operating_hours:
-      - days: Mon - Fri
+      - days: Office Hours
         time: 7.30am - 5.30pm
         description: "Saturdays,  Sundays and Public Holidays: Closed"
     maps_link: ""
