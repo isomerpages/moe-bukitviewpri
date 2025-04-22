@@ -12,7 +12,7 @@ locations:
       - days: Office Hours
         time: 7.30am - 5.30pm
         description: "Saturdays,  Sundays and Public Holidays: Closed"
-    maps_link: ""
+    maps_link: https://www.google.com/maps?q=18+Bukit+Batok+Street+21+Singapore+659634
     title: Main Office
 contacts:
   - content:
