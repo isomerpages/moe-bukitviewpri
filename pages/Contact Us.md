@@ -16,7 +16,7 @@ variant: markdown
 <h5><strong>Main Office</strong></h5>
 </td>
 <th rowspan="1" colspan="1">
-<h3>Operating Hours</h3>
+	<h5><strong>Operating Hours</strong></h5>
 </th>
 </tr>
 <tr>
@@ -28,14 +28,6 @@ variant: markdown
 <td rowspan="1" colspan="1">
 <p><strong>Office Hours</strong>:&nbsp;7.30am - 5.30pm</p>
 <p>Saturdays, Sundays and Public Holidays: Closed</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
