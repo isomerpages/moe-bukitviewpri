@@ -4,7 +4,7 @@ permalink: /contactus/
 description: ""
 variant: markdown
 ---
-<h2><strong>Get in Touch with Bukit View Pri School</strong></h2>
+<h1><strong>Get in Touch with Bukit View Pri School</strong></h1>
 <h5><strong>Main Office</strong></h5>
 <br>18 Bukit Batok Street 21
 <br>Singapore 659634&gt;
