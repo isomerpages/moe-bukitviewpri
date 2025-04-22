@@ -21,9 +21,9 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>18 Bukit Batok Street 21</p>
-<p>Singapore 659634</p>
-<p><a href="https://www.google.com/maps?q=18+Bukit+Batok+Street+21+Singapore+659634+" rel="noopener nofollow" target="_blank">VIEW MAP →</a>
+<p>18 Bukit Batok Street 21
+<br>Singapore 659634
+<br><a href="https://www.google.com/maps?q=18+Bukit+Batok+Street+21+Singapore+659634+" rel="noopener nofollow" target="_blank">VIEW MAP →</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
