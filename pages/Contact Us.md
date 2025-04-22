@@ -16,14 +16,15 @@ variant: tiptap
 <h5><strong>Main Office</strong></h5>
 </td>
 <th rowspan="1" colspan="1">
-	<h5><strong>Operating Hours</strong></h5>
+<h5><strong>Operating Hours</strong></h5>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>18 Bukit Batok Street 21</p>
 <p>Singapore 659634</p>
-<p>VIEW MAP →</p>
+<p><a href="https://www.google.com/maps?q=18+Bukit+Batok+Street+21+Singapore+659634+" rel="noopener nofollow" target="_blank">VIEW MAP →</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Office Hours</strong>:&nbsp;7.30am - 5.30pm</p>
