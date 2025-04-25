@@ -27,8 +27,8 @@ password reset and unlocking of accounts, as well as queries about lesson
 assignments.</p>
 <p>School-based Helpline</p>
 <p>Email:&nbsp;bukitview_ps@moe.edu.sg</p>
-<p>Tel:&nbsp; &nbsp;6566 1980</p>
-<p>Mondays - Fridays: 8:00 am - 4:00 pm</p>
+<p>Tel: 6566 1980</p>
+<p>Monday - Friday: 8:00am - 4:00pm</p>
 <p>For other matters, students can email the SLS Helpdesk at&nbsp;<a href="mailto:helpdesk@sls.ufinity.com" rel="noopener noreferrer nofollow" target="_blank">helpdesk@sls.ufinity.com</a>.&nbsp;When
 emailing the SLS Helpdesk,&nbsp;they should include their full name, name
 of school and form class.</p>
@@ -36,9 +36,9 @@ of school and form class.</p>
 <p>Students&nbsp;can&nbsp;only&nbsp;contact the&nbsp;SLS Helpdesk&nbsp;outside
 the school operating hours.</p>
 <p>SLS Helpdesk: 6702 6513</p>
-<p>Mondays - Fridays: 4:00 pm - 9:00 pm</p>
-<p>Saturdays: 9:00 am -&nbsp;9:00 pm</p>
-<p>*Closed on Sundays &amp; Public Holidays</p>
+<p>Monday - Friday: 4:00pm - 9:00pm</p>
+<p>Saturday: 9:00am -&nbsp;9:00pm</p>
+<p>*Closed on Sunday &amp; Public Holiday</p>
 <p>Alternatively, students can email the SLS Helpdesk at&nbsp;<a href="mailto:helpdesk@sls.ufinity.com" rel="noopener noreferrer nofollow" target="_blank">helpdesk@sls.ufinity.com</a>.
 When emailing the SLS Helpdesk,&nbsp;<strong>they should include their full name, name of school and form class.</strong>
 </p>
