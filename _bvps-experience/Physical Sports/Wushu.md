@@ -88,9 +88,9 @@ work and talent and instill in them a sense of pride.</p>
 <p>Mr Tan Shuen Keat Elvin (I/C)
 <br>Mdm Kir Soo Kien
 <br>Miss Chen Miao Miao
-<br>Mdm Hazel Neo</p>
-<p>Miss Rajeshree D/O Rajanthiran</p>
-</td>
+<br>Mdm Hazel Neo
+<br>Miss Rajeshree D/O Rajanthiran
+</p></td>
 <td rowspan="1" colspan="1">
 <p>Courtyard (outside Tinker room)</p>
 </td>
@@ -107,9 +107,9 @@ work and talent and instill in them a sense of pride.</p>
 <p>Mr Tan Shuen Keat Elvin (I/C)
 <br>Mdm Kir Soo Kien
 <br>Miss Chen Miao Miao
-<br>Mdm Hazel Neo</p>
-<p>Miss Rajeshree D/O Rajanthiran</p>
-</td>
+<br>Mdm Hazel Neo
+<br>Miss Rajeshree D/O Rajanthiran
+</p></td>
 <td rowspan="1" colspan="1">
 <p>Courtyard (outside Tinker room)</p>
 </td>
