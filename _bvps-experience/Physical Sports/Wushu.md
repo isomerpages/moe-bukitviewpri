@@ -43,7 +43,6 @@ work and talent and instill in them a sense of pride.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/BVPS Experience/Co Curricular Activities/Sports &amp; Games/WUSHU/2025_wushu03.jpg">
 </div>
@@ -90,6 +89,7 @@ work and talent and instill in them a sense of pride.</p>
 <br>Mdm Kir Soo Kien
 <br>Miss Chen Miao Miao
 <br>Mdm Hazel Neo</p>
+<p>Miss Rajeshree D/O Rajanthiran</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Courtyard (outside Tinker room)</p>
@@ -108,6 +108,7 @@ work and talent and instill in them a sense of pride.</p>
 <br>Mdm Kir Soo Kien
 <br>Miss Chen Miao Miao
 <br>Mdm Hazel Neo</p>
+<p>Miss Rajeshree D/O Rajanthiran</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Courtyard (outside Tinker room)</p>
