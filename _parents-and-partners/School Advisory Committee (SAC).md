@@ -4,53 +4,90 @@ permalink: /parents-and-partners/school-advisory-committee-sac/
 description: ""
 variant: tiptap
 ---
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-b5l7{background-color:rgba(255, 255, 255, 0.6);color:#333;text-align:left;vertical-align:top}
-.tg .tg-c8qn{background-color:#ffffff;color:#333333;font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-c8qn">No</th>
-    <th class="tg-c8qn">Appointment</th>
-    <th class="tg-c8qn">Name</th>
-  </tr>
-</thead>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-    <td class="tg-b5l7">1</td>
-    <td class="tg-b5l7">Chairman</td>
-    <td class="tg-b5l7">Mr Tommi Toh</td>
-  </tr>
-  <tr>
-    <td class="tg-b5l7">2</td>
-    <td class="tg-b5l7">Vice-Chairman</td>
-    <td class="tg-b5l7">Mr Sonny Yuen</td>
-  </tr>
-  <tr>
-    <td class="tg-b5l7">3</td>
-    <td class="tg-b5l7">Member</td>
-    <td class="tg-b5l7"> Mr Don Tay</td>
-  </tr>
-  <tr>
-    <td class="tg-b5l7">4</td>
-    <td class="tg-b5l7"> Member</td>
-    <td class="tg-b5l7"> Mr Benedict Lim</td>
-  </tr>
-  <tr>
-    <td class="tg-b5l7">5</td>
-    <td class="tg-b5l7">Member</td>
-    <td class="tg-b5l7"> Mr Terence Chen</td>
-  </tr>
-  <tr>
-    <td class="tg-b5l7">6</td>
-    <td class="tg-b5l7">Member </td>
-    <td class="tg-b5l7">Mr Kelvin Wong</td>
-  </tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>No</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Appointment</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chairman</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Tommi Toh</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vice-Chairman</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Sonny Yuen</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Don Tay</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Benedict Lim</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Terence Chen</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Kelvin Wong</p>
+</td>
+</tr>
 </tbody>
 </table>
+<p></p>
