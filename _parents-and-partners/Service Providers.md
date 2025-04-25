@@ -30,14 +30,14 @@ Fashion's <a href="https://jeepsinguniform.com/collections/bukit-view-primary-sc
 <p><strong>Opening Hours:</strong>
 <br>Monday to Friday: 10am to 6pm
 <br>Saturday: 10am to 2pm
-<br>Closed on Sundays and Public Holidays</p>
+<br>Closed on Sunday and Public Holiday</p>
 <p>Lunch Break and Sanitising of Store: 1pm to 2pm
 <br>Tel: 3163 6074</p>
 <h4><strong>DENTAL CLINIC</strong></h4>
 <p>Dental clinic will only be opened on alternate weeks. Please contact the
 school if you need more information.</p>
 <p><strong>Operating Hours:</strong>&nbsp;&nbsp;
-<br>Mondays to Thursdays :&nbsp;8am to 530pm
+<br>Monday to Thursday :&nbsp;8am to 530pm
 <br>Friday:&nbsp; 8am to 5pm
 <br>Tel:&nbsp;91142631</p>
 <h4><strong>TRANSPORT</strong></h4>
