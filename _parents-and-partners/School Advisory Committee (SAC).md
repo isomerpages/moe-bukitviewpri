@@ -38,10 +38,10 @@ variant: tiptap
 <p>2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Vice-Chairman</p>
+<p>Member</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Sonny Yuen</p>
+<p>Mr Benedict Andrew Lim</p>
 </td>
 </tr>
 <tr>
@@ -52,7 +52,7 @@ variant: tiptap
 <p>Member</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Don Tay</p>
+<p>Mr Terence Chen</p>
 </td>
 </tr>
 <tr>
@@ -63,7 +63,7 @@ variant: tiptap
 <p>Member</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Benedict Lim</p>
+<p>Mr Cho Jae Kyung</p>
 </td>
 </tr>
 <tr>
@@ -74,7 +74,7 @@ variant: tiptap
 <p>Member</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Terence Chen</p>
+<p>Mr John Tan</p>
 </td>
 </tr>
 <tr>
