@@ -143,8 +143,8 @@ from January 2028. You may read more about MK here
 <p>Please be informed that the school will <u>not</u> be offering Hindi as
 In-School Parallel Programme (ISPP) for P1 students from 2024. P1 students
 may offer Hindi at a nearby weekend centre (Beacon Primary, Rulang Primary
-or Lakeside Primary). For enquiries, please contact HOD/MTL Mdm Fong Mei
-Ying at 6566 1980 or bukitviewps@moe.edu.sg.</p>
+or Lakeside Primary). For enquiries, please contact HOD/MTL Mdm Kimberley
+Peh at 6566 1980 or bukitviewps@moe.edu.sg.</p>
 <h2><strong>Relocation of Bukit View Primary School to Bukit Batok West in January 2027</strong></h2>
 <p>The Ministry of Education has announced on 9 Feb 2023 that Bukit View
 Primary School will relocate to a new campus at the junction of Bukit Batok
