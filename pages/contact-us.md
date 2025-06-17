@@ -17,7 +17,7 @@ locations:
 contacts:
   - content:
       - phone: +65 6566 1980
-      - email: ""
+      - email: bukitview_ps@moe.edu.sg
       - other: ""
     title: General Enquiries & Feedback
   - content:
