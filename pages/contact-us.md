@@ -20,10 +20,5 @@ contacts:
       - email: bukitview_ps@moe.edu.sg
       - other: ""
     title: General Enquiries & Feedback
-  - content:
-      - phone: +65 9637 2606
-      - email: bukitview_ps@moe.edu.sg
-      - other: ""
-    title: General Enquiries & Feedback
 feedback: ""
 ---
