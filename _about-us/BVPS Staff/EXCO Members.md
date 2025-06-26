@@ -392,7 +392,7 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Mohammad Abdul Halim Bin Rosli</strong>
+<p>Mr Mohammad Abdul Halim Bin Rosli
 </p>
 </td>
 <td rowspan="1" colspan="1">
