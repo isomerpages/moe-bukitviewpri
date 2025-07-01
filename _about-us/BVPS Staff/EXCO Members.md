@@ -118,7 +118,7 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Peh Hui Min, Kimberley</p>
+<p> Mrs Kimberley Lin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD / Mother Tongue (Internal)</p>
