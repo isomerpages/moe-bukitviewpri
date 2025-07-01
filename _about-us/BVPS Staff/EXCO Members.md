@@ -121,7 +121,7 @@ variant: markdown
 <p> Mrs Kimberley Lin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD / Mother Tongue (Internal)</p>
+<p>HOD / Mother Tongue</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>peh_hui_min_kimberley</p>
