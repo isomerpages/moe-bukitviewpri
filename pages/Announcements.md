@@ -16,12 +16,10 @@ students’ learning experiences</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/sch%20map.JPG">
 </div>
-<ul data-tight="true" class="tight">
-<li>
 <p>You may read more about the school’s move <a href="https://www.straitstimes.com/singapore/politics/bukit-view-primary-school-s-move-west-closer-to-tengah-is-to-meet-demand-there" rel="noopener noreferrer nofollow" target="_blank">here</a>
 </p>
-<p>These are the updates shared with our parents on 26 June 2025.</p>
-<p>We are excited to share that construction of our new school campus at
+<p>These are the updates shared with our parents on 26 June 2025.
+<br>We are excited to share that construction of our new school campus at
 101 Bukit Batok West Ave 8 has begun since Mar 2025. We are all looking
 forward to our brand-new campus in the vibrant and growing estate in 2027.
 This move marks a significant milestone in our school’s journey and promises
@@ -56,6 +54,6 @@ Peh at 6566 1980 or bukitviewps@moe.edu.sg.</p>
 <h2><strong>Update of School Canteen &amp; Price List</strong></h2>
 <p>Information on the updated school canteen menu and price list can be found
 <a href="/parents-and-partners/Info-for-Parents/Info-for-Parents/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
-</li>
-</ul>
+
+
 <p></p>
