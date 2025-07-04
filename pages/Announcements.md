@@ -16,7 +16,7 @@ students’ learning experiences.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/sch%20map.JPG">
 </div>
-<p>You may read more about the school’s move <a href="https://www.straitstimes.com/singapore/politics/bukit-view-primary-school-s-move-west-closer-to-tengah-is-to-meet-demand-there" rel="noopener noreferrer nofollow" target="_blank">here</a>
+<p>You may read more about the school’s move <a href="https://www.straitstimes.com/singapore/politics/bukit-view-primary-school-s-move-west-closer-to-tengah-is-to-meet-demand-there" rel="noopener noreferrer nofollow" target="_blank">here.</a>
 </p>
 <p>These are the updates shared with our parents on 26 June 2025.
 <br>We are excited to share that construction of our new school campus at
