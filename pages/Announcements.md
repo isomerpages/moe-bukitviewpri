@@ -12,7 +12,7 @@ West Avenue 5 and 8, in January 2027. <a href="https://www.moe.gov.sg/news/press
 <p>We are excited about this new development as the new campus will have
 state of the art design and provide new educational facilities, such as
 a band room, dance studio, and an indoor sports hall, to further enhance
-students’ learning experiences</p>
+students’ learning experiences.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/sch%20map.JPG">
 </div>
