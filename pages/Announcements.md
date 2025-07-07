@@ -47,8 +47,8 @@ from January 2028. You may read more about MK here
 <p>Please be informed that the school will <u>not</u> be offering Hindi as
 In-School Parallel Programme (ISPP) for P1 students from 2024. P1 students
 may offer Hindi at a nearby weekend centre (Beacon Primary, Rulang Primary
-or Lakeside Primary). For enquiries, please contact HOD/MTL Mdm Kimberley
-Peh at 6566 1980 or bukitviewps@moe.edu.sg.</p>
+or Lakeside Primary). For enquiries, please contact HOD/MTL Mrs Kimberley
+Lin at 6566 1980 or bukitview_ps@moe.edu.sg.</p>
 <p></p>
 <p></p>
 <h2><strong>Update of School Canteen &amp; Price List</strong></h2>
