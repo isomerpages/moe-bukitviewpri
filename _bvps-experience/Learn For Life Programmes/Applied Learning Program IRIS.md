@@ -19,12 +19,11 @@ variant: markdown
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>The first component of the Bukit View Learn for Life programme is its
+The first component of the Bukit View Learn for Life programme is its
 Applied Learning Programme (ALP) ---- Inspiring Reflective and Innovative
 Self-directed learner (IRIS). Aligned to the first student outcome of the
 school vision, IRIS aims to develop students to be Self-Directed Learners
-who have strong</p>
-<p>foundations, are motivated in learning, and being reflective and innovative.</p>
+who have strong foundations, are motivated in learning, and being reflective and innovative.<br>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -35,12 +34,12 @@ who have strong</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>This is achieved through the development of BVPS Learning Dispositions:
+This is achieved through the development of BVPS Learning Dispositions:
 Adaptability, Reflectiveness and Curiosity, as well as the emerging 21st
 Century Competencies, through the BVPS learning experiences, with activities
 such as Mass Brain Activities (MBA) and CodeIT! A common set of learning
 protocol Play-Reflect-Ideate-Innovate (PRI2), derived from Kolb’s Experiential
-Learning cycle and Design Thinking (DT) process, guides the learning experiences.</p>
+Learning cycle and Design Thinking (DT) process, guides the learning experiences.<br>
 </td>
 </tr>
 <tr>
