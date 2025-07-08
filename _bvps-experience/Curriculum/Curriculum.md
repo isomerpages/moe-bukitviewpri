@@ -24,11 +24,11 @@ variant: tiptap
 and co-curricular programmes. The Total Curriculum in BVPS is guided by
 the principles of Care, Choice and Challenge, as we nurture and empower
 Bukit Viewans steeped in the GR<sup>2</sup>IT school values and ARC learning
-dispositions. Through the BVPS learning experiences of Borderless learning,
-Values-driven curriculum, Positive behavioural support system, and Strengths-based
-approach, we aim to achieve our vision of developing Self-Directed Learners,
-Confident Leaders and Caring Citizens equipped with 21<sup>st</sup> Century
-Competencies.</p>
+dispositions. Through the BVPS learning experiences of <strong>B</strong>orderless
+learning, <strong>V</strong>alues-driven curriculum, <strong>P</strong>ositive
+behavioural support system, and <strong>S</strong>trengths-based approach,
+we aim to achieve our vision of developing Self-Directed Learners, Confident
+Leaders and Caring Citizens equipped with 21<sup>st</sup> Century Competencies.</p>
 </td>
 </tr>
 <tr>
