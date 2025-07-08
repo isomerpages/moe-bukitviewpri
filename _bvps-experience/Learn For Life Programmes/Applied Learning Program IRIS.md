@@ -23,7 +23,7 @@ and innovative.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BVPS Experience/LEARN FOR LIFE PROGRAMMES/ALP_IRIS.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BVPS Experience/LEARN FOR LIFE PROGRAMMES/Applied Learning Program IRIS/Applied_learning_1.jpg">
 </div>
 </td>
 </tr>
@@ -42,7 +42,7 @@ the learning experiences.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BVPS Experience/LEARN FOR LIFE PROGRAMMES/Applied_learning_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BVPS Experience/LEARN FOR LIFE PROGRAMMES/Applied Learning Program IRIS/Applied_learning_2.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -56,7 +56,7 @@ continue to refine, improve and innovate on the games.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>CodeIT! develops computational thinking in students using different technological
 tools. Through the six years in BVPS, students will start with pre-coding
 skills and button-based programming, where they play with simple robots
@@ -66,10 +66,12 @@ or Micro:bit and also learn about artificial intelligence. They then innovate
 and apply critical, adaptive and inventive thinking when they identify
 problems and develop solutions or products. Students will also reflect
 on the strategies used and how they can improve on their solutions.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BVPS Experience/LEARN FOR LIFE PROGRAMMES/Applied_learning_3.jpg">
-</div>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BVPS Experience/LEARN FOR LIFE PROGRAMMES/Applied Learning Program IRIS/Applied_learning_3.jpg">
+</div>
 </td>
 </tr>
 <tr>
