@@ -44,7 +44,6 @@ such as Mass Brain Activities (MBA) and CodeIT! A common set of learning
 protocol <strong>Play-Reflect-Ideate-Innovate (PRI2)</strong>, derived from
 Kolb’s Experiential Learning cycle and Design Thinking (DT) process, guides
 the learning experiences.
-<br>
 </p>
 </td>
 </tr>
@@ -56,37 +55,18 @@ the learning experiences.
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>MBA uses board games as the main</p>
-<p>medium for students to go through the</p>
-<p>PRI2 process. In this age of technology,</p>
-<p>offline board games are still valuable as</p>
-<p>they offer learning and entertainment</p>
-<p>beyond screen time. In the PRI2 process, students apply adaptive thinking
-through play and deploying strategies to win. They will also be given opportunities
-to ideate on modifications to the games by applying critical and inventive
-thinking, as they will continue to refine, improve and innovate on the
-games.</p>
+MBA uses board games as the main medium for students to go through the PRI2 process. In this age of technology, offline board games are still valuable as they offer learning and entertainment beyond screen time. In the PRI2 process, students apply adaptive thinking through play and deploying strategies to win. They will also be given opportunities to ideate on modifications to the games by applying critical and inventive thinking, as they will continue to refine, improve and innovate on the
+games.<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>CodeIT! develops computational thinking in students using different technological
-tools.</p>
-<p>Through the six years in BVPS, students will start with pre-coding skills
-and button-based</p>
-<p>programming, where they play with simple robots such as the Blue-Bot,
-and then progress to</p>
-<p>basic and advanced block-based and text coding skills through play with
-robots such as Vex</p>
+CodeIT! develops computational thinking in students using different technological tools. Through the six years in BVPS, students will start with pre-coding skills and button-based programming, where they play with simple robots such as the Blue-Bot, and then progress to basic and advanced block-based and text coding skills through play with robots such as Vex<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Go, Stick’EM or Micro:bit and also learn about artificial intelligence.
-They then innovate and apply critical, adaptive and inventive thinking
-when they identify problems and develop solutions or products. Students
-will also reflect on the strategies used and how they can improve on their
-solutions.</p>
+<p>Go, Stick’EM or Micro:bit and also learn about artificial intelligence. They then innovate and apply critical, adaptive and inventive thinking when they identify problems and develop solutions or products. Students will also reflect on the strategies used and how they can improve on their solutions.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -97,11 +77,7 @@ solutions.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Opportunities are given to all students at Tier 1 to learn the above during
-school hours. For students who are more inclined to these areas, they can
-be involved in Tier 2 programmes such as the Thinker Week Programmes, CCAs
-of MBA Club and Multimedia Club (Coding &amp; Robotics), as well as participation
-in external competitions.</p>
+<p>Opportunities are given to all students at Tier 1 to learn the above during school hours. For students who are more inclined to these areas, they can be involved in Tier 2 programmes such as the Thinker Week Programmes, CCAs of MBA Club and Multimedia Club (Coding &amp; Robotics), as well as participation in external competitions.</p>
 </td>
 </tr>
 </tbody>
