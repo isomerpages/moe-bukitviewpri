@@ -34,22 +34,9 @@ Leaders and Caring Citizens equipped with 21st Century Competencies.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>BVPS Learn for Life Programme</strong>
-</p>
-<p></p>
-<p>A signature of the BVPS experience is our</p>
-<p>flagship BVPS Learn for Life Programme</p>
-<p>which comprises different components such</p>
-<p>as the ALP-IRIS (CodeIT and MBA), LLP-Arts</p>
-<p>Alive! and GLOW, as well as other lifeskills</p>
-<p>and learning experiences such as Values in</p>
-<p>Action (VIA), Conversational Chinese and</p>
-<p>Malay (CCM) and TechWiz. Guided by the</p>
-<p>PRI2 process, students experience learning</p>
-<p>through Play-Reflect-Ideate-Innovate to</p>
-<p>develop learning dispositions and 21st</p>
-<p>Century Competencies.</p>
-</td>
+<p><strong>BVPS Learn for Life Programme</strong><br>
+A signature of the BVPS experience is our flagship BVPS Learn for Life Programme which comprises different components such as the ALP-IRIS (CodeIT and MBA), LLP-Arts Alive! and GLOW, as well as other lifeskills and learning experiences such as Values in Action (VIA), Conversational Chinese and Malay (CCM) and TechWiz. Guided by the PRI2 process, students experience learning through Play-Reflect-Ideate-Innovate to develop learning dispositions and 21stCentury Competencies.
+</p></td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
@@ -59,9 +46,10 @@ Leaders and Caring Citizens equipped with 21st Century Competencies.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
-<h4><a href="/bvps-experience/curriculum/english" rel="noopener noreferrer nofollow" target="_blank">English Language</a></h4>
 <ul data-tight="true" class="tight">
+	<li>
+<a href="/bvps-experience/curriculum/english" rel="noopener noreferrer nofollow" target="_blank">English Language</a>
+</li>
 <li>
 <p><a href="/bvps-experience/curriculum/maths" rel="noopener noreferrer nofollow" target="_blank">Mathematics</a>
 </p>
