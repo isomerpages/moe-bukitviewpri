@@ -19,10 +19,8 @@ variant: markdown
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>BVPS Total Curriculum</strong>
-</p>
-<p></p>
-<p>The school has drawn up a Total Curriculum Framework to guide its curricular
+<p><strong>BVPS Total Curriculum</strong><br>
+The school has drawn up a Total Curriculum Framework to guide its curricular
 and co-curricular programmes. The Total Curriculum in BVPS is guided by
 the principles of Care, Choice and Challenge, as we nurture and empower
 Bukitp&gt;Viewans steeped in the GR2IT school values and ARC learning dispositions.
