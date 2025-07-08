@@ -16,23 +16,17 @@ variant: markdown
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BVPS Experience/Curriculum/Total_Curriculum.jpg">
+<img style="width: 200%" height="auto" width="200%" alt="" src="/images/BVPS Experience/Curriculum/Total_Curriculum.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
-<p>The school has drawn up a Total Curriculum</p>
-<p>Framework to guide its curricular and co-curricular</p>
-<p>programmes. The Total Curriculum in BVPS is</p>
-<p>guided by the principles of Care, Choice and</p>
-<p>Challenge, as we nurture and empower Bukit</p>
-<p>Viewans steeped in the GR2IT school values and</p>
-<p>ARC learning dispositions. Through the BVPS</p>
-<p>learning experiences of Borderless learning,</p>
-<p>Values-driven curriculum, Positive behavioural</p>
-<p>support system, and Strengths-based approach,</p>
-<p>we aim to achieve our vision of developing Self-</p>
-<p>Directed Learners, Confident Leaders and Caring</p>
-<p>Citizens equipped with 21st Century Competencies</p>
+The school has drawn up a Total Curriculum Framework to guide its curricular and co-curricular
+programmes. The Total Curriculum in BVPS is guided by the principles of Care, Choice and
+Challenge, as we nurture and empower Bukitp&gt;Viewans steeped in the GR2IT school values and
+ARC learning dispositions. Through the BVPS learning experiences of Borderless learning,
+Values-driven curriculum, Positive behavioural support system, and Strengths-based approach,
+we aim to achieve our vision of developing Self-Directed Learners, Confident Leaders and Caring
+Citizens equipped with 21st Century Competencies.
 </th>
 </tr>
 </tbody>
