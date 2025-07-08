@@ -83,4 +83,17 @@ in external competitions.</p>
 </tr>
 </tbody>
 </table>
+<p>The first component of the Bukit View Learn for Life programme is its
+Applied Learning Programme (ALP) ---- Inspiring Reflective and Innovative
+Self-directed learner (IRIS). Aligned to the first student outcome of the
+school vision, IRIS aims to develop students to be Self-Directed Learners
+who have strong foundations, are motivated in learning, and being reflective
+and innovative.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BVPS Experience/LEARN FOR LIFE PROGRAMMES/Applied_learning_1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BVPS Experience/LEARN FOR LIFE PROGRAMMES/ALP_IRIS.png">
+</div>
 <p></p>
