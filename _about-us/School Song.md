@@ -26,3 +26,5 @@ Team up together , always together
 Together we stand working happily  
 As one united family   
 As one united family
+
+To play school song, please click [here](https://drive.google.com/file/d/1LpupjUP5r3FaVQdTChH9olJ8IcgqtFa6/view?usp=drive_link) 
