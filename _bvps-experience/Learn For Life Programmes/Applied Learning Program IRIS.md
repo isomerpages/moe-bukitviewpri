@@ -18,7 +18,7 @@ variant: markdown
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="1"><br>
 <p>The first component of the Bukit View Learn for Life programme is its
 Applied Learning Programme (ALP) ---- Inspiring Reflective and Innovative
 Self-directed learner (IRIS). Aligned to the first student outcome of the
@@ -59,7 +59,6 @@ the PRI2 process, students apply adaptive thinking through play and deploying
 strategies to win. They will also be given opportunities to ideate on modifications
 to the games by applying critical and inventive thinking, as they will
 continue to refine, improve and innovate on the games.</p>
-<p></p>
 </td>
 </tr>
 <tr>
