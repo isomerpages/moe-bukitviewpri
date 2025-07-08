@@ -5,12 +5,6 @@ description: ""
 third_nav_title: Learn For Life Programmes
 variant: tiptap
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BVPS%20Experience/LEARN%20FOR%20LIFE%20PROGRAMMES/INSPIRING%20REFLECTIVE/I1.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BVPS%20Experience/LEARN%20FOR%20LIFE%20PROGRAMMES/INSPIRING%20REFLECTIVE/I2.jpg">
-</div>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -18,7 +12,7 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1"><br>
+<td rowspan="1" colspan="1">
 <p>The first component of the Bukit View Learn for Life programme is its
 Applied Learning Programme (ALP) ---- Inspiring Reflective and Innovative
 Self-directed learner (IRIS). Aligned to the first student outcome of the
