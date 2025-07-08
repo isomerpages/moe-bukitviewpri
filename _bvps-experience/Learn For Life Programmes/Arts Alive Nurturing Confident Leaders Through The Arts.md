@@ -5,12 +5,6 @@ description: ""
 third_nav_title: Learn For Life Programmes
 variant: markdown
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BVPS%20Experience/LEARN%20FOR%20LIFE%20PROGRAMMES/ARTS%20ALIVE%20NURTURING%20CONFIDENT/A1.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BVPS%20Experience/LEARN%20FOR%20LIFE%20PROGRAMMES/ARTS%20ALIVE%20NURTURING%20CONFIDENT/A2.jpg">
-</div>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
