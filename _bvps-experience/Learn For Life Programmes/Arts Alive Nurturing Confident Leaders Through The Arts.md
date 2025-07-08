@@ -54,4 +54,3 @@ Dance, Choir or Angklung Kulintang Ensemble.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
