@@ -26,13 +26,13 @@ The second component of the Bukit View Learn for Life programme is the Learning 
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BVPS Experience/LEARN FOR LIFE PROGRAMMES/ARTS ALIVE NURTURING CONFIDENT/Art_Alive_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BVPS Experience/LEARN FOR LIFE PROGRAMMES/ARTS ALIVE NURTURING CONFIDENT/Art_Alive_2.jpg"><p></p>
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BVPS Experience/LEARN FOR LIFE PROGRAMMES/ARTS ALIVE NURTURING CONFIDENT/Art_Alive_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BVPS Experience/LEARN FOR LIFE PROGRAMMES/ARTS ALIVE NURTURING CONFIDENT/Art_Alive_3.jpg"><p></p>
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BVPS Experience/LEARN FOR LIFE PROGRAMMES/ARTS ALIVE NURTURING CONFIDENT/Art_Alive_4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BVPS Experience/LEARN FOR LIFE PROGRAMMES/ARTS ALIVE NURTURING CONFIDENT/Art_Alive_4.jpg"><p></p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
