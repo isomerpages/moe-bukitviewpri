@@ -38,9 +38,9 @@ Competencies.</p>
 Programme which comprises different components such as the ALP-IRIS (CodeIT
 and MBA), LLP-Arts Alive! and GLOW, as well as other lifeskills and learning
 experiences such as Values in Action (VIA), Conversational Chinese and
-Malay (CCM) and TechWiz. Guided by the PRI2 process, students experience
-learning through Play-Reflect-Ideate-Innovate to develop learning dispositions
-and 21<sup>st</sup> Century Competencies.</p>
+Malay (CCM) and TechWiz. Guided by the PRI<sup>2</sup> process, students
+experience learning through Play-Reflect-Ideate-Innovate to develop learning
+dispositions and 21<sup>st</sup> Century Competencies.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
