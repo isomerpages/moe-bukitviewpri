@@ -19,8 +19,8 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>BVPS Total Curriculum</strong><br>
-The school has drawn up a Total Curriculum Framework to guide its curricular
+<p><strong>BVPS Total Curriculum</strong>
+<br>The school has drawn up a Total Curriculum Framework to guide its curricular
 and co-curricular programmes. The Total Curriculum in BVPS is guided by
 the principles of Care, Choice and Challenge, as we nurture and empower
 Bukitp&gt;Viewans steeped in the GR2IT school values and ARC learning dispositions.
@@ -32,9 +32,15 @@ Leaders and Caring Citizens equipped with 21st Century Competencies.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>BVPS Learn for Life Programme</strong><br>
-A signature of the BVPS experience is our flagship BVPS Learn for Life Programme which comprises different components such as the ALP-IRIS (CodeIT and MBA), LLP-Arts Alive! and GLOW, as well as other lifeskills and learning experiences such as Values in Action (VIA), Conversational Chinese and Malay (CCM) and TechWiz. Guided by the PRI2 process, students experience learning through Play-Reflect-Ideate-Innovate to develop learning dispositions and 21stCentury Competencies.
-</p></td>
+<p><strong>BVPS Learn for Life Programme</strong>
+<br>A signature of the BVPS experience is our flagship BVPS Learn for Life
+Programme which comprises different components such as the ALP-IRIS (CodeIT
+and MBA), LLP-Arts Alive! and GLOW, as well as other lifeskills and learning
+experiences such as Values in Action (VIA), Conversational Chinese and
+Malay (CCM) and TechWiz. Guided by the PRI2 process, students experience
+learning through Play-Reflect-Ideate-Innovate to develop learning dispositions
+and 21stCentury Competencies.</p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
@@ -42,11 +48,20 @@ A signature of the BVPS experience is our flagship BVPS Learn for Life Programme
 </div>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <ul data-tight="true" class="tight">
-	<li>
-<a href="/bvps-experience/curriculum/english" rel="noopener noreferrer nofollow" target="_blank">English Language</a>
+<li>
+<p><a href="/bvps-experience/curriculum/english" rel="noopener noreferrer nofollow" target="_blank">English Language</a>
+</p>
 </li>
 <li>
 <p><a href="/bvps-experience/curriculum/maths" rel="noopener noreferrer nofollow" target="_blank">Mathematics</a>
