@@ -1022,7 +1022,7 @@ variant: tiptap
 <p>TL</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Latheefa Beevi</p>
+<p>Mdm Latheefa Beevi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>latheefa_beevi</p>
