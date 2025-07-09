@@ -29,25 +29,6 @@ and innovative.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BVPS Experience/LEARN FOR LIFE PROGRAMMES/Applied Learning Program IRIS/Applied_learning_3.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BVPS Experience/LEARN FOR LIFE PROGRAMMES/Applied Learning Program IRIS/Applied_learning_2.jpg">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
 <p>This is achieved through the development of BVPS Learning Dispositions:
 Adaptability, Reflectiveness and Curiosity, as well as the emerging 21st
 Century Competencies, through the BVPS learning experiences, with activities
@@ -58,13 +39,10 @@ the learning experiences.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="2">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/BVPS Experience/LEARN FOR LIFE PROGRAMMES/Applied Learning Program IRIS/Applied_learning_2.jpg">
 </div>
-</td>
-<td rowspan="1" colspan="1">
 <p>MBA uses board games as the main medium for students to go through the
 PRI2 process. In this age of technology, offline board games are still
 valuable as they offer learning and entertainment beyond screen time. In
@@ -75,7 +53,11 @@ continue to refine, improve and innovate on the games.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BVPS Experience/LEARN FOR LIFE PROGRAMMES/Applied Learning Program IRIS/Applied_learning_3.jpg">
+</div>
 <p>CodeIT! develops computational thinking in students using different technological
 tools. Through the six years in BVPS, students will start with pre-coding
 skills and button-based programming, where they play with simple robots
@@ -85,12 +67,6 @@ or Micro:bit and also learn about artificial intelligence. They then innovate
 and apply critical, adaptive and inventive thinking when they identify
 problems and develop solutions or products. Students will also reflect
 on the strategies used and how they can improve on their solutions.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BVPS Experience/LEARN FOR LIFE PROGRAMMES/Applied Learning Program IRIS/Applied_learning_3.jpg">
-</div>
 </td>
 </tr>
 <tr>
