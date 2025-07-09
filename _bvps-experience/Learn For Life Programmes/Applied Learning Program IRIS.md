@@ -29,6 +29,14 @@ and innovative.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BVPS Experience/LEARN FOR LIFE PROGRAMMES/Applied Learning Program IRIS/Applied_learning_2.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
 <p>This is achieved through the development of BVPS Learning Dispositions:
 Adaptability, Reflectiveness and Curiosity, as well as the emerging 21st
 Century Competencies, through the BVPS learning experiences, with activities
