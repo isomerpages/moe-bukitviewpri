@@ -54,7 +54,6 @@ continue to refine, improve and innovate on the games.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/BVPS Experience/LEARN FOR LIFE PROGRAMMES/Applied Learning Program IRIS/Applied_learning_3.jpg">
 </div>
@@ -80,6 +79,4 @@ in external competitions.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
-<p></p>
 <p></p>
