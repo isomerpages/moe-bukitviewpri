@@ -25,9 +25,6 @@ to the community, and actively support Singapore’s sustainability efforts.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BVPS Experience/LEARN FOR LIFE PROGRAMMES/Gracious_living.png">
-</div>
-<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/BVPS Experience/LEARN FOR LIFE PROGRAMMES/Gracious living in our world/Gracious_Living_1.jpg">
 </div>
 </td>
