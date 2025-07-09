@@ -39,12 +39,12 @@ external partners like the Southwest CDC for the Green Schools Project
 and the National Environment Agency (NEA) for environmental programmes.
 Through the school programmes, students are educated and empowered to make
 responsible choices, fostering habits that lead to positive environmental
-change and contribute to building a more sustainable nation. The GLOW programme
-is delivered through tiered experiences:</p>
+change and contribute to building a more sustainable nation.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>The GLOW programme is delivered through tiered experiences:</p>
 <p><strong>• Tier 1: School-Wide Environmental Awareness</strong>
 <br>All students are introduced to environmental issues through programmes
 such as assembly talks, recycling drives, food waste reduction campaigns,
