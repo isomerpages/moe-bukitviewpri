@@ -41,11 +41,11 @@ change and contribute to building a more sustainable nation.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>The GLOW programme is delivered through tiered experiences:</p><br>
-<strong>• Tier 1: School-Wide Environmental Awareness</strong>
+<p>The GLOW programme is delivered through tiered experiences:</p>
+	<p><strong>• Tier 1: School-Wide Environmental Awareness</strong>
 <br>All students are introduced to environmental issues through programmes
 such as assembly talks, recycling drives, food waste reduction campaigns,
-and digital learning platforms like the Student Learning Space (SLS).<p></p>
+		and digital learning platforms like the Student Learning Space (SLS).</p>
 <p><strong>• Tier 2: Environment Champions (ECs) as Influencers</strong>
 <br>ECs play an active role in promoting environmental sustainability. They
 participate in school events, competitions, and lead initiatives such as
