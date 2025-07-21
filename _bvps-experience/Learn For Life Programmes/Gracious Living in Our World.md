@@ -67,12 +67,9 @@ together.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BVPS Experience/LEARN FOR LIFE PROGRAMMES/Gracious living in our world/Heartbeat.jpg">
-</div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BVPS Experience/LEARN FOR LIFE PROGRAMMES/Gracious living in our world/sustainability_art.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BVPS Experience/LEARN FOR LIFE PROGRAMMES/Gracious living in our world/Heartbeat__E_.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -80,8 +77,14 @@ together.</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BVPS Experience/LEARN FOR LIFE PROGRAMMES/Gracious living in our world/WED_RECESS_5_E_.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/BVPS Experience/LEARN FOR LIFE PROGRAMMES/Gracious living in our world/vegepod.jpg">
 </div>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
