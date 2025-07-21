@@ -13,8 +13,8 @@ Applied Learning Programme (ALP) ---- Inspiring Reflective and Innovative
 Self-directed learner (IRIS). Aligned to the first student outcome of the
 school vision, IRIS aims to develop students to be Self-Directed Learners
 who have strong foundations, are motivated in learning, and being reflective
-and innovative.</p>
-<p>This is achieved through the development of BVPS Learning Dispositions:
+and innovative.
+This is achieved through the development of BVPS Learning Dispositions:
 Adaptability, Reflectiveness and Curiosity, as well as the emerging 21st
 Century Competencies, through the BVPS learning experiences, with activities
 such as Mass Brain Activities (MBA) and CodeIT! A common set of learning
