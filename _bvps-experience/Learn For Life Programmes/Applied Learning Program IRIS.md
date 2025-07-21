@@ -20,7 +20,7 @@ Century Competencies, through the BVPS learning experiences, with activities
 such as Mass Brain Activities (MBA) and CodeIT! A common set of learning
 protocol <strong>Play-Reflect-Ideate-Innovate (PRI2)</strong>, derived from
 Kolb’s Experiential Learning cycle and Design Thinking (DT) process, guides
-the learning experiences</p>
+the learning experiences.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/BVPS Experience/LEARN FOR LIFE PROGRAMMES/Applied Learning Program IRIS/Applied_learning_2.jpg">
 </div>
