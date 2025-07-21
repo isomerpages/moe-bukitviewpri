@@ -25,7 +25,7 @@ to the community, and actively support Singapore’s sustainability efforts.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BVPS Experience/LEARN FOR LIFE PROGRAMMES/Gracious living in our world/Gracious_Living_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BVPS Experience/LEARN FOR LIFE PROGRAMMES/Gracious living in our world/2a__GLOW_framework.png">
 </div>
 </td>
 </tr>
@@ -42,10 +42,10 @@ change and contribute to building a more sustainable nation.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>The GLOW programme is delivered through tiered experiences:</p>
-	<p><strong>• Tier 1: School-Wide Environmental Awareness</strong>
+<p><strong>• Tier 1: School-Wide Environmental Awareness</strong>
 <br>All students are introduced to environmental issues through programmes
 such as assembly talks, recycling drives, food waste reduction campaigns,
-		and digital learning platforms like the Student Learning Space (SLS).</p>
+and digital learning platforms like the Student Learning Space (SLS).</p>
 <p><strong>• Tier 2: Environment Champions (ECs) as Influencers</strong>
 <br>ECs play an active role in promoting environmental sustainability. They
 participate in school events, competitions, and lead initiatives such as
@@ -66,20 +66,20 @@ Singapore and achieving the aim of Gracious Living in Our World (GLOW)
 together.</p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BVPS Experience/LEARN FOR LIFE PROGRAMMES/Gracious living in our world/Gracious_Living_2.jpg">
-</div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BVPS Experience/LEARN FOR LIFE PROGRAMMES/Gracious living in our world/Gracious_Living_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BVPS Experience/LEARN FOR LIFE PROGRAMMES/Gracious living in our world/Heartbeat.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BVPS Experience/LEARN FOR LIFE PROGRAMMES/Gracious living in our world/sustainability_art.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BVPS Experience/LEARN FOR LIFE PROGRAMMES/Gracious living in our world/WED_RECESS_5.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BVPS Experience/LEARN FOR LIFE PROGRAMMES/Gracious living in our world/vegepod.jpg">
 </div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BVPS Experience/LEARN FOR LIFE PROGRAMMES/Gracious living in our world/Gracious_Living_4.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BVPS Experience/LEARN FOR LIFE PROGRAMMES/Gracious living in our world/Gracious_Living_5.jpg">
-</div>
 </td>
 </tr>
 </tbody>
