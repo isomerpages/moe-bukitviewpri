@@ -5,14 +5,9 @@ description: ""
 third_nav_title: Learn For Life Programmes
 variant: tiptap
 ---
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BVPS Experience/LEARN FOR LIFE PROGRAMMES/Gracious living in our world/GLOW_2.png">
+</div>
 <p>The third component of the Bukit View Learn for Life programme, the GLOW
 (Gracious Living in Our World) programme, seeks to nurture students into
 active, responsible, and gracious citizens who are committed to sustainability.
@@ -21,24 +16,18 @@ Respect, Integrity, Tenacity), GLOW empowers students to find their voice
 and demonstrate care for the environment. This aligns with the school’s
 vision of developing Caring Citizens—individuals who show empathy, contribute
 to the community, and actively support Singapore’s sustainability efforts.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BVPS Experience/LEARN FOR LIFE PROGRAMMES/Gracious living in our world/GLOW_2.png">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
 <p>To amplify its green initiatives, Bukit View Primary collaborates with
 external partners like the Southwest CDC for the Green Schools Project
 and the National Environment Agency (NEA) for environmental programmes.
 Through the school programmes, students are educated and empowered to make
 responsible choices, fostering habits that lead to positive environmental
 change and contribute to building a more sustainable nation.</p>
-</td>
-</tr>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <p>The GLOW programme is delivered through tiered experiences:</p>
