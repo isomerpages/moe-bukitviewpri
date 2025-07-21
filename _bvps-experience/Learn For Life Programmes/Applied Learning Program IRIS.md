@@ -23,7 +23,7 @@ and innovative.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BVPS Experience/LEARN FOR LIFE PROGRAMMES/Applied Learning Program IRIS/Applied_learning_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BVPS Experience/LEARN FOR LIFE PROGRAMMES/Applied Learning Program IRIS/Applied_learning_1_E_.png">
 </div>
 </td>
 </tr>
