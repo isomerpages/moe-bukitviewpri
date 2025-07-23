@@ -2,11 +2,11 @@
 title: BVPS Publications
 permalink: /parents-and-partners/bvps-publications/
 description: ""
+variant: markdown
 ---
 #### **BVPS e-Newsletter**
 
-[ BVPS Connection Newsletter 2022.pdf](/files/BVPS%20Connection%20Newsletter%202022.pdf)
-
+[ BVPS Connection Newsletter 2022.pdf](/files/Life%20in%20BVPS/BVPS%20Connection%20Newsletter%202022.pdf)
   
 [BVPS e Newsletter for Semester 1 2020.pdf](https://drive.google.com/file/d/1da49iNwuAfaZnlgBicls3O1JWvkyfiaK/view)
   
