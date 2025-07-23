@@ -14,7 +14,6 @@ through the Arts. Aligned to the second student outcome of the school vision,
 Arts Alive! aims to develop students to be Confident Leaders who are role
 models of good character, value teamwork and show initiative with can-do
 attitude.</p>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
