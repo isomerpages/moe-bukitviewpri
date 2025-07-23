@@ -47,7 +47,12 @@ environmental awareness and promote sustainable living, empowering students
 to take action for the environment and enhance our green efforts within
 and beyond the school. By providing meaningful learning experiences, we
 aim to develop students into caring citizens who understand the impact
-of their lifestyle choices on the environment.</p>
+of their lifestyle choices on the environment. With this awareness, students
+are guided to make responsible decisions that lead to positive environmental
+change. By fostering good habits, we help them see how they can actively
+reduce or offset their carbon footprint, contributing to a more sustainable
+Singapore and achieving the aim of Gracious Living in Our World (GLOW)
+together.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
