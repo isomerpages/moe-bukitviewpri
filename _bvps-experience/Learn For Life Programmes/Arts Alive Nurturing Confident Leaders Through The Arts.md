@@ -15,7 +15,7 @@ Arts Alive! aims to develop students to be Confident Leaders who are role
 models of good character, value teamwork and show initiative with can-do
 attitude.</p>
 <p></p>
-<table style="minWidth: 50px">
+<table style="minWidth: 200px">
 <colgroup>
 <col>
 <col>
@@ -25,15 +25,15 @@ attitude.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 200%" height="auto" width="200%" alt="" src="/images/BVPS Experience/LEARN FOR LIFE PROGRAMMES/Arts Alive Nurturing Confident/Art_Alive_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BVPS Experience/LEARN FOR LIFE PROGRAMMES/Arts Alive Nurturing Confident/Art_Alive_2.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 200%" height="auto" width="200%" alt="" src="/images/BVPS Experience/LEARN FOR LIFE PROGRAMMES/Arts Alive Nurturing Confident/Art_Alive_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BVPS Experience/LEARN FOR LIFE PROGRAMMES/Arts Alive Nurturing Confident/Art_Alive_3.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 200%" height="auto" width="200%" alt="" src="/images/BVPS Experience/LEARN FOR LIFE PROGRAMMES/Arts Alive Nurturing Confident/Art_Alive_4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BVPS Experience/LEARN FOR LIFE PROGRAMMES/Arts Alive Nurturing Confident/Art_Alive_4.jpg">
 </div>
 <p></p>
 <p></p>
