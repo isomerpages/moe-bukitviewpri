@@ -14,6 +14,48 @@ through the Arts. Aligned to the second student outcome of the school vision,
 Arts Alive! aims to develop students to be Confident Leaders who are role
 models of good character, value teamwork and show initiative with can-do
 attitude.</p>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BVPS Experience/LEARN FOR LIFE PROGRAMMES/Arts Alive Nurturing Confident/Art_Alive_2.jpg">
+</div>
+</th>
+<th rowspan="3" colspan="1">
+<p><strong>This is developed over the six years in BVPS where students will be provided with authentic experiences to learn different art forms. For example, students will learn 3 instruments - recorder, ukulele and keyboard for music, and a range of visual arts medium such as water-colour, printmaking, batik painting, and ceramics.</strong>
+</p>
+<p>This is developed over the six years in BVPS where students will be provided
+with authentic experiences to learn different art forms. For example, students
+will learn 3 instruments - recorder, ukulele and keyboard for music, and
+a range of visual arts medium such as water-colour, printmaking, batik
+painting, and ceramics.</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BVPS Experience/LEARN FOR LIFE PROGRAMMES/Arts Alive Nurturing Confident/Art_Alive_3.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BVPS Experience/LEARN FOR LIFE PROGRAMMES/Arts Alive Nurturing Confident/Art_Alive_4.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
