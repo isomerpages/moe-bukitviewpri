@@ -74,8 +74,4 @@ together.</p>
 </tr>
 </tbody>
 </table>
-<p>With this awareness, students are guided to make responsible decisions
-that lead to positive environmental change. By fostering good habits, we
-help them see how they can actively reduce or offset their carbon footprint,
-contributing to a more sustainable Singapore and achieving the aim of Gracious
-Living in Our World (GLOW) together.</p>
+<p></p>
