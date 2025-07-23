@@ -5,28 +5,21 @@ description: ""
 third_nav_title: Learn For Life Programmes
 variant: tiptap
 ---
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BVPS Experience/LEARN FOR LIFE PROGRAMMES/Arts Alive Nurturing Confident/Art_Alive_1.jpg">
+</div>
 <p>The second component of the Bukit View Learn for Life programme is the
 Learning for Life Programme (LLP)---- Arts Alive! Nurturing Confident Leaders
 through the Arts. Aligned to the second student outcome of the school vision,
 Arts Alive! aims to develop students to be Confident Leaders who are role
 models of good character, value teamwork and show initiative with can-do
 attitude.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BVPS Experience/LEARN FOR LIFE PROGRAMMES/Arts Alive Nurturing Confident/Art_Alive_1.jpg">
-</div>
-</td>
-</tr>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
