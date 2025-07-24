@@ -23,9 +23,8 @@ and the National Environment Agency (NEA) for environmental programmes.
 Through the school programmes, students are educated and empowered to make
 responsible choices, fostering habits that lead to positive environmental
 change and contribute to building a more sustainable nation.</p>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
@@ -38,28 +37,13 @@ change and contribute to building a more sustainable nation.</p>
 such as assembly talks, recycling drives, food waste reduction campaigns,
 and digital learning platforms like the Student Learning Space (SLS).</p>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/BVPS Experience/LEARN FOR LIFE PROGRAMMES/Gracious living in our world/Heartbeat__E_.png">
 </div>
 <p></p>
 <p></p>
 <p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BVPS Experience/LEARN FOR LIFE PROGRAMMES/Gracious living in our world/sustainability_art__E_.png">
-</div>
-<p></p>
-</td>
-<td rowspan="1" colspan="2">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BVPS Experience/LEARN FOR LIFE PROGRAMMES/Gracious living in our world/WED_RECESS_5_E_.png">
-</div>
 </td>
 </tr>
 <tr>
@@ -73,15 +57,24 @@ global environmental challenges and inspire their peers to adopt more sustainabl
 lifestyles. These experiences help develop their self-leadership and ability
 to influence others to reduce carbon footprints.</p>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BVPS Experience/LEARN FOR LIFE PROGRAMMES/Gracious living in our world/sustainability_art__E_.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BVPS Experience/LEARN FOR LIFE PROGRAMMES/Gracious living in our world/WED_RECESS_5_E_.png">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/BVPS Experience/LEARN FOR LIFE PROGRAMMES/Gracious living in our world/vegepod__E_.png">
 </div>
 </td>
-</tr>
-<tr>
-<td rowspan="1" colspan="3">
+<td rowspan="1" colspan="1">
 <p>Through GLOW, we raise environmental awareness and promote sustainable
 living, empowering students to take action for the environment and enhance
 our green efforts within and beyond the school. By providing meaningful
