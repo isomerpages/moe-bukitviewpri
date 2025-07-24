@@ -28,14 +28,6 @@ attitude.</p>
 </div>
 <p></p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BVPS Experience/LEARN FOR LIFE PROGRAMMES/Arts Alive Nurturing Confident/Art_Alive_3_E_.png">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BVPS Experience/LEARN FOR LIFE PROGRAMMES/Arts Alive Nurturing Confident/Art_Alive_4_E_.png">
-</div>
-<p></p>
 <p></p>
 <p></p>
 <p></p>
@@ -51,6 +43,10 @@ offers an additional dance curriculum where students learn different dances
 and techniques such as Jazz dance, turns, balance, flow. The range of experiences
 broaden students’ cultural perspectives and develop their confidence in
 expressions.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>There are 3 levels of experiences in Arts Alive! Starting with engaging
 students through gaining of values, skills and knowledge in the curriculum.
 Following which students will be excited with opportunities to share their
@@ -61,6 +57,16 @@ in Action project.</p>
 Arts Alive! Programme, while those with more interests and talents in the
 arts may join the CCAs of Art Club, Chinese Dance, Malay Dance, Indian
 Dance, Choir or Angklung Kulintang Ensemble.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BVPS Experience/LEARN FOR LIFE PROGRAMMES/Arts Alive Nurturing Confident/Art_Alive_3_E_.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BVPS Experience/LEARN FOR LIFE PROGRAMMES/Arts Alive Nurturing Confident/Art_Alive_4_E_.png">
+</div>
 </td>
 </tr>
 </tbody>
