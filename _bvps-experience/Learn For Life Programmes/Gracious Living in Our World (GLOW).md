@@ -5,9 +5,8 @@ description: ""
 third_nav_title: Learn For Life Programmes
 variant: tiptap
 ---
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BVPS Experience/LEARN FOR LIFE PROGRAMMES/Gracious living in our world/Glow_logo.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BVPS Experience/LEARN FOR LIFE PROGRAMMES/Gracious living in our world/GLOW_2.png">
 </div>
 <p>The third component of the Bukit View Learn for Life programme, the GLOW
 (Gracious Living in Our World) programme, seeks to nurture students into
