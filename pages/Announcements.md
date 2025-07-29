@@ -7,7 +7,7 @@ variant: markdown
 <h2><strong>Relocation of Bukit View Primary School to Bukit Batok West in January 2027</strong></h2>
 <p>The Ministry of Education has announced on 9 Feb 2023 that Bukit View
 Primary School will relocate to a new campus at the junction of Bukit Batok
-West Avenue 5 and 8, in January 2027. <a href="https://www.moe.gov.sg/news/press-releases/20230209-new-schools-to-meet-demand-in-the-west-and-north-east-of-singapore" rel="noopener noreferrer nofollow" target="_blank">(Press Release)</a>
+West Avenue 5 and 8, in January 2027. <a href="https://www.moe.gov.sg/news/press-releases/20230209-new-schools-to-meet-demand-in-the-west-and-north-east-of-singapore" rel="noopener noreferrer nofollow" target="_blank">(Press Release)</a> Please note that registration (or balloting, if any) for 2026 P1 will still be based on distance to current site at 18, Bukit Batok St 21.
 </p>
 <p>We are excited about this new development as the new campus will have
 state of the art design and provide new educational facilities, such as
