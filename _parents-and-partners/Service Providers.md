@@ -1,8 +1,8 @@
 ---
 title: Service Providers
-permalink: /parents-and-partners/Service-Providers/
+permalink: /parents-and-partners/service-providers/
 description: ""
-variant: tiptap
+variant: markdown
 ---
 <h4><strong>STUDENT CARE CENTRE</strong></h4>
 <p><strong>NASCANS TAU PTE. LTD.</strong>
@@ -20,9 +20,8 @@ variant: tiptap
 <br>Tel: 6464 0111 (Main office) / 94356245 (School Bookshop)</p>
 <h4><strong>SCHOOL UNIFORM</strong></h4>
 <p>School uniform, P.E. attire and name tags are now available at Jeep Sing
-Fashion's <a href="https://jeepsinguniform.com/collections/bukit-view-primary-school" rel="noopener noreferrer nofollow" target="_blank">online store</a>.</p>
-<p>You may walk-in for purchase, FAS collection and exchange at the outlet.
-<a href="https://jeepsinguniform.com/pages/appointment-booking" rel="noopener noreferrer nofollow" target="_blank">Click here</a>to make appointment.</p>
+Fashion's <a href="https://jeepsinguniform.com/collections/bukit-view-primary-school" rel="noopener noreferrer nofollow" target="_blank">online store</a>.
+<br>You may walk-in for purchase, FAS collection or exchange at the outlet.</p>
 <p><strong>Mode of Payment:</strong>
 <br>Cash, Nets, PayNow, DBS Paylah!</p>
 <p><strong>Retail address:</strong>
