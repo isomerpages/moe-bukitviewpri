@@ -21,7 +21,7 @@ thus pushing their limits and demonstrating excellent sportsmanship.</p>
 <tr>
 <td rowspan="1" colspan="2">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/CCA Formal Group Picture/badminton_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/CCA Formal Group Picture/badminton.jpg">
 </div>
 </td>
 </tr>
