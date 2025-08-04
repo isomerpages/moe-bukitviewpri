@@ -20,9 +20,8 @@ perseverance and leadership skills.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/CCA Formal Group Picture/multimedia_club_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/CCA Formal Group Picture/multimedia_club.jpg">
 </div>
 </td>
 </tr>
@@ -85,8 +84,8 @@ perseverance and leadership skills.</p>
 <p>Mdm Mdm Ng Sin Ee (I/C)
 <br>Mdm Brenda Chong
 <br>Mdm Tan Ya Xin
-<br>Mdm Tham Wei Ting, Vanessa
-</p></td>
+<br>Mdm Tham Wei Ting, Vanessa</p>
+</td>
 <td rowspan="1" colspan="1">
 <p>Computer Labs 1 and 2</p>
 </td>
