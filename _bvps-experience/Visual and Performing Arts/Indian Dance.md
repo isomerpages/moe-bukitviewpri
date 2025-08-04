@@ -22,7 +22,6 @@ and being resilient.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/CCA Formal Group Picture/indian_dance.jpg">
 </div>
