@@ -17,20 +17,11 @@ students to become caring, responsible and motivated leaders in the community.</
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/CCA Formal Group Picture/red_cross_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/CCA Formal Group Picture/red_cross.jpg">
 </div>
 </td>
 </tr>
-</tbody>
-</table>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
 <tr>
 <td rowspan="1" colspan="2">
 <div class="isomer-image-wrapper">
