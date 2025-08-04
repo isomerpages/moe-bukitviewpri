@@ -22,3 +22,12 @@ while the second tier deepens their understanding and experience through
 hands-on roles and responsibilities. Finally, the third tier empowers students
 to take on advanced leadership positions, enabling them to apply their
 skills and inspire others in the school community.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/CCA Formal Group Picture/prefectorial_board.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/CCA Formal Group Picture/peer_support_leaders_2.jpg">
+</div>
+<p></p>
