@@ -18,7 +18,6 @@ events and competitions.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/CCA Formal Group Picture/english_drama.jpg">
 </div>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
