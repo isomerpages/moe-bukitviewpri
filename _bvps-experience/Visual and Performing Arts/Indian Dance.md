@@ -16,12 +16,15 @@ another. They also learn to overcome challenges through strong team spirit
 and being resilient.</p>
 <table style="minWidth: 50px">
 <colgroup>
+<col>
+<col>
 </colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/CCA Formal Group Picture/indian_dance_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/CCA Formal Group Picture/indian_dance.jpg">
 </div>
 </td>
 </tr>
@@ -84,8 +87,7 @@ and being resilient.</p>
 <p>Mdm Nageswari (I/C)
 <br>Mdm Savarimuthu Amala
 <br>Miss M Selvarani
-<br>Miss Latheefa Beevi
-</p>
+<br>Miss Latheefa Beevi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Dance Studio</p>
