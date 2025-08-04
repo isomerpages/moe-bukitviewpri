@@ -22,15 +22,13 @@ various projects.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/CCA Formal Group Picture/creative_media_club_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/CCA Formal Group Picture/creative_media_club.jpg">
 </div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/BVPS Experience/Co Curricular Activities/Clubs &amp; Uniformed Group/CREATIVE MEDIA CLUB/2025_CMC_01.jpg">
 </div>
