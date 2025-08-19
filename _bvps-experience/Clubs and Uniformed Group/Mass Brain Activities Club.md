@@ -21,9 +21,8 @@ and challenges thinking while imparting the values of sharing and caring.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/CCA Formal Group Picture/mass_brain_activities_club_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/CCA Formal Group Picture/mass_brain_activity_club.jpg">
 </div>
 </td>
 </tr>

@@ -3,7 +3,7 @@ title: Befrienders Club
 permalink: /bvps-experience/clubs-and-uniformed-group/befrienders-club/
 description: ""
 third_nav_title: Clubs and Uniformed Group
-variant: markdown
+variant: tiptap
 ---
 <p>The Befrienders Club hopes to forge close and lasting relationships among
 the students. Through fun-filled activities and exciting excursions, students
@@ -20,9 +20,8 @@ the activities.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="3">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/CCA Formal Group Picture/befrienders__club_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/CCA Formal Group Picture/befrienders_club.jpg">
 </div>
 </td>
 </tr>
@@ -81,7 +80,7 @@ the activities.</p>
 <td rowspan="1" colspan="1">
 <p>Mdm Lee Geok Puay (I/C)
 <br>Miss Lim Hwee Ching
-<br>Ms Tho Lee Kian Diana</p>
+<br>Mrs Diana Wan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Classroom</p>

@@ -3,7 +3,7 @@ title: Basketball
 permalink: /bvps-experience/sports-and-games/basketball/
 description: ""
 third_nav_title: Physical Sports
-variant: markdown
+variant: tiptap
 ---
 <p>Basketball is the latest sports CCA to be introduced in BVPS. It is a
 unique CCA that comprises both young girls and boys with a strong passion
@@ -14,18 +14,19 @@ the training sessions, as well as competitions.</p>
 <p>Together with a team of committed teachers and an experienced coach, we
 believe in not just imparting a greater understanding of the sport but
 also to guide students to becoming good sportsmen and supportive team members.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/CCA Formal Group Picture/basketball_school_team_2.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/CCA Formal Group Picture/basketball_2.jpg">
-</div>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
 <col>
 </colgroup>
 <tbody>
+<tr>
+<td rowspan="1" colspan="2">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/CCA Formal Group Picture/basketball.jpg">
+</div>
+</td>
+</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>

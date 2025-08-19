@@ -3,7 +3,7 @@ title: Angklung and Kulintang Ensemble
 permalink: /bvps-experience/aesthetics-and-performing-arts/angklung-and-kulintang-ensemble/
 description: ""
 third_nav_title: Visual and Performing Arts
-variant: markdown
+variant: tiptap
 ---
 <p>In the Angklung and Kulintang Ensemble, members appreciate and experience
 the joy of making music in every performance. The Ensemble has participated
@@ -17,12 +17,15 @@ are ever enthusiastic to share their passion with other schoolmates and
 the community.</p>
 <table style="minWidth: 50px">
 <colgroup>
+<col>
+<col>
 </colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/CCA Formal Group Picture/angklung_and_kulintang_ensemble_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/CCA Formal Group Picture/angklung_and_kulintang_ensemble.jpg">
 </div>
 </td>
 </tr>
@@ -54,6 +57,11 @@ the community.</p>
 </table>
 <table style="minWidth: 125px">
 <colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
 </colgroup>
 <tbody>
 <tr>
