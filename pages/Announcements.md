@@ -50,10 +50,3 @@ may offer Hindi at a nearby weekend centre (Beacon Primary, Rulang Primary
 or Lakeside Primary). For enquiries, please contact HOD/MTL Mrs Kimberley
 Lin at 6566 1980 or bukitview_ps@moe.edu.sg.</p>
 <p></p>
-<p></p>
-<h2><strong>Update of School Canteen &amp; Price List</strong></h2>
-<p>Information on the updated school canteen menu and price list can be found
-<a href="/parents-and-partners/Info-for-Parents/Info-for-Parents/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
-
-
-<p></p>
