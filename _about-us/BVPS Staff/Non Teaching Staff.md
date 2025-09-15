@@ -82,7 +82,7 @@ variant: markdown
 <p>Library Assistant</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Nur Isnani Binte Mohd Shariff </p>
+<p>Ms Nur Qamarina Binti Abas </p>
 </td>
 </tr>
 <tr>
