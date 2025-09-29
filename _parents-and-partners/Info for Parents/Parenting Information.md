@@ -17,8 +17,7 @@ Bukit View Primary School has partnered with Fei Yue Community Services, the app
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OktQSOzQ0oY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
   
-For enquiries, please contact Fei Yue’s staff member Kristel Mendoza via email at [kristelmendoza@fycs.org](kristelmendoza@fycs.org) or  WhatsApp at 96400428. <br>
-Alternatively, you may submit your enquiry through [Fei Yue’s enquiry form](https://go.fycs.org/PSS).
+For enquiries, please contact Fei Yue’s staff member Kristel Mendoza via email at [kristelmendoza@fycs.org](kristelmendoza@fycs.org) or  WhatsApp at 96400428. Alternatively, you may submit your enquiry through [Fei Yue’s enquiry form](https://go.fycs.org/PSS).
   
   
 Click&nbsp;[here](/files/Parents%20and%20Partners/Info%20for%20Parents/PARENTING%20INFORMATION/1%20Write-up%20on%20Fei%20Yue%20ServicesFor%20Website.pdf)&nbsp;to find out more about the services provided by Fei Yue.
