@@ -670,7 +670,7 @@ variant: markdown
 <p>6 Responsibility (6RY)</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Ms C. Grace Lenora.
+<p>Ms C. Grace Lenora
 <br>Mdm Ernita Bte Yazid</p>
 </td>
 <td rowspan="1" colspan="2">
