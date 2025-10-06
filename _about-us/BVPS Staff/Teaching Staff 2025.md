@@ -1078,6 +1078,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>School Counsellor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Cristien Oh Chui Har</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>oh_chui_har_a</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Adjunct School Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">
