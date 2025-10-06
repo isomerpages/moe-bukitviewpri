@@ -1126,10 +1126,10 @@ variant: markdown
 <p>Special Educational Needs Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Long Hian Kim</p>
+<p>Ms Leong Xin Yue</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>long_hian_kim</p>
+<p>leong_xin_yue</p>
 </td>
 </tr>
 <tr>
