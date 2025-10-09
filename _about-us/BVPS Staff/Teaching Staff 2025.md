@@ -57,11 +57,13 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Magdalene Christina Sebastian
-<br>Miss Ng Xue Li</p>
+<br>Miss Ng Xue Li
+<br>Mdm Yeo Hui Ting Jocelyn</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>magdalene_christina_sebastian
-<br>ng_xue_li_a</p>
+<br>ng_xue_li_a
+<br>yeo_hui_ting_jocelyn</p>
 </td>
 </tr>
 <tr>
@@ -223,11 +225,13 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="2">
 <p>Mrs Florence Liew
-<br>Mdm Siti Shahira</p>
+<br>Mdm Siti Shahira
+<br>Mr Rozali Bin Ibrahim</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>loh_yian_wei
-<br>siti_shahira_sapade</p>
+<br>siti_shahira_sapade
+<br>rozali_ibrahim</p>
 </td>
 </tr>
 <tr>
@@ -275,11 +279,13 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="2">
 <p>Mdm Nor Aidah Duana
-<br>Mdm Tay Xue Ling Cherie</p>
+<br>Mdm Tay Xue Ling Cherie
+<br>Mr Mohamed Syahmi Sudhan</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>nor_aidah_duana
-<br>tay_xue_ling_cherie</p>
+<br>tay_xue_ling_cherie
+<br>mohamed_syahmi_sudhan_mohamed</p>
 </td>
 </tr>
 </tbody>
@@ -324,11 +330,13 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="2">
 <p>Miss Lim Hwee Ching
-<br>Ms Nurul ‘Aqilah Binte Dahlan</p>
+<br>Ms Nurul ‘Aqilah Binte Dahlan
+<br>Miss Wong Po San</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>lim_hwee_ching
-<br>nurul_aqilah_dahlan</p>
+<br>nurul_aqilah_dahlan
+<br>wong_po_san</p>
 </td>
 </tr>
 <tr>
@@ -376,11 +384,13 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="2">
 <p>Mdm Lam Hui Li Narcissus
-<br>Mdm Sheena Ho</p>
+<br>Mdm Sheena Ho
+<br>Miss Fang Pingping</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>lam_hui_li_narcissus
-<br>ho_shi_hui_sheena</p>
+<br>ho_shi_hui_sheena
+<br>fang_pingping</p>
 </td>
 </tr>
 </tbody>
@@ -466,11 +476,13 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="2">
 <p>Mdm Nurdayana Binte Mohd Noor
-<br>Mdm Nur Liyanna Binte Maznin</p>
+<br>Mdm Nur Liyanna Binte Maznin
+<br>Miss Tessa Suprapmo</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>nurdayana_mohd_noor
-<br>nur_liyanna_maznin</p>
+<br>nur_liyanna_maznin
+<br>tessa_suprapmo</p>
 </td>
 </tr>
 <tr>
@@ -528,11 +540,13 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="2">
 <p>Mdm Norbi Binte Mohd Salleh
-<br>Mdm Serene Ng Tse Ern</p>
+<br>Mdm Serene Ng Tse Ern
+<br>Mdm Latheefa Beevi</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>norbi_mohd_salleh
-<br>ng_tse_ern</p>
+<br>ng_tse_ern
+<br>latheefa_beevi</p>
 </td>
 </tr>
 <tr>
@@ -656,7 +670,7 @@ variant: tiptap
 <p>6 Responsibility (6RY)</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Ms C. Grace Lenora.
+<p>Ms C. Grace Lenora
 <br>Mdm Ernita Bte Yazid</p>
 </td>
 <td rowspan="1" colspan="2">
@@ -1064,6 +1078,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>School Counsellor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Cristin Oh Chui Har</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>oh_chui_har_a</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Adjunct School Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1112,10 +1137,10 @@ variant: tiptap
 <p>Special Educational Needs Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Long Hian Kim</p>
+<p>Ms Leong Xin Yue</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>long_hian_kim</p>
+<p>leong_xin_yue</p>
 </td>
 </tr>
 <tr>
@@ -1123,7 +1148,7 @@ variant: tiptap
 <p>Student Welfare Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Muhammad Firdaus bin Madi</p>
+<p>Mr Muhammad Firdaus bin Madi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>muhammad_firdaus_madi</p>
