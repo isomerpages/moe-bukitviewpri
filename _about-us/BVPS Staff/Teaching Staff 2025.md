@@ -383,13 +383,13 @@ variant: markdown
 <p>3 Care (3CA)</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Mdm Lam Hui Li Narcissus</p>
-<p>Mdm Sheena Ho
+<p>Mdm Lam Hui Li Narcissus
+<br>Mdm Sheena Ho
 <br>Miss Fang Pingping</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>lam_hui_li_narcissus</p>
-<p>ho_shi_hui_sheena
+<p>lam_hui_li_narcissus
+<br>ho_shi_hui_sheena
 <br>fang_pingping</p>
 </td>
 </tr>
