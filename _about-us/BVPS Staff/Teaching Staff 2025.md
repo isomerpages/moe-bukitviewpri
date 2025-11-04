@@ -383,11 +383,13 @@ variant: tiptap
 <p>3 Care (3CA)</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Mdm Lam Hui Li Narcissus
+<p>Mdm Lam Hui Li Narcissus</p>
+<p>Mdm Sheena Ho
 <br>Miss Fang Pingping</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>lam_hui_li_narcissus
+<p>lam_hui_li_narcissus</p>
+<p>ho_shi_hui_sheena
 <br>fang_pingping</p>
 </td>
 </tr>
