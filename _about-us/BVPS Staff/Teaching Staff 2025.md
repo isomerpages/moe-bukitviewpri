@@ -384,12 +384,10 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="2">
 <p>Mdm Lam Hui Li Narcissus
-<br>Mdm Sheena Ho
 <br>Miss Fang Pingping</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>lam_hui_li_narcissus
-<br>ho_shi_hui_sheena
 <br>fang_pingping</p>
 </td>
 </tr>
