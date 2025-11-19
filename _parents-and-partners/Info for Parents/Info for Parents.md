@@ -25,23 +25,23 @@ The video aims to help parents and educators realise the importance of Social St
 Click [here](/files/Parents%20and%20Partners/Info%20for%20Parents/Info%20for%20Parents/Parents%20Tip%20Sheet_pdf.pdf) to learn more about how you can reinforce Cyber Wellness education at home.
 
 
-#### **2025 School Booklist (P1 to P6)**
+#### **2026 School Booklist (P1 to P6)**
 
-BVPS P1 Booklist [Here](/files/Parents%20and%20Partners/Info%20for%20Parents/Info%20for%20Parents/Pri_1_Booklist_For_Year_2025.pdf)
+BVPS P1 Booklist [Here](/files/Parents%20and%20Partners/Info%20for%20Parents/Info%20for%20Parents/Pri_1_Booklist_For_Year_2026.pdf)
 
-BVPS P2 Booklist [Here](/files/Parents%20and%20Partners/Info%20for%20Parents/Info%20for%20Parents/Pri_2_Booklist_For_Year_2025.pdf)
+BVPS P2 Booklist [Here](/files/Parents%20and%20Partners/Info%20for%20Parents/Info%20for%20Parents/Pri_2_Booklist_For_Year_2026.pdf)
 
-BVPS P3 Booklist [Here](/files/Parents%20and%20Partners/Info%20for%20Parents/Info%20for%20Parents/Pri_3_Booklist_For_Year_2025.pdf)
+BVPS P3 Booklist [Here](/files/Parents%20and%20Partners/Info%20for%20Parents/Info%20for%20Parents/Pri_3_Booklist_For_Year_2026.pdf)
 
-BVPS P4 Booklist [Here](/files/Parents%20and%20Partners/Info%20for%20Parents/Info%20for%20Parents/Pri_4_Booklist_For_Year_2025.pdf)
+BVPS P4 Booklist [Here](/files/Parents%20and%20Partners/Info%20for%20Parents/Info%20for%20Parents/Pri_4_Booklist_For_Year_2026.pdf)
 
 BVPS P5 Booklist [Here](/files/Parents%20and%20Partners/Info%20for%20Parents/Info%20for%20Parents/Pri_5_Booklist_For_Year_2025.pdf)
 
-BVPS P5 Foundation Booklist [Here](/files/Parents%20and%20Partners/Info%20for%20Parents/Info%20for%20Parents/Pri_5_FDN_Booklist_For_Year_2025.pdf)
+BVPS P5 Foundation Booklist [Here](/files/Parents%20and%20Partners/Info%20for%20Parents/Info%20for%20Parents/Pri_5_FDN_Booklist_For_Year_2026.pdf)
 
-BVPS P6 Booklist [Here](/files/Parents%20and%20Partners/Info%20for%20Parents/Info%20for%20Parents/Pri_6_Booklist_For_Year_2025.pdf)
+BVPS P6 Booklist [Here](/files/Parents%20and%20Partners/Info%20for%20Parents/Info%20for%20Parents/Pri_6_Booklist_For_Year_2026.pdf)
 
-BVPS P6 Foundation Booklist [Here](/files/Parents%20and%20Partners/Info%20for%20Parents/Info%20for%20Parents/Pri_6_FDN_Booklist_For_Year_2025.pdf)
+BVPS P6 Foundation Booklist [Here](/files/Parents%20and%20Partners/Info%20for%20Parents/Info%20for%20Parents/Pri_6_FDN_Booklist_For_Year_2026.pdf)
 
 #### **Primary 4: Swimsafer 2.0 Certifcate**
 
@@ -64,4 +64,3 @@ The user guide is attached for your reference. 
 For parents with children at the upper primary levels, we hope **WE-STories** will be a good resource for you to have conversation with your child on choosing Secondary Schools that can cater to his/her interests and strengths.  
   
 Please click [here](https://online.fliphtml5.com/obrr/qkde/#p=1) to access the book for your reading pleasure.
-
