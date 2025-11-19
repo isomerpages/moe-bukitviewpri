@@ -3,7 +3,7 @@ title: EXCO Members
 permalink: /about-us/bvps-staff/exco-members/
 description: ""
 third_nav_title: BVPS Staff
-variant: markdown
+variant: tiptap
 ---
 <table style="minWidth: 75px">
 <colgroup>
@@ -118,7 +118,7 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p> Mrs Kimberley Lin</p>
+<p>Mrs Kimberley Lin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD / Mother Tongue</p>
@@ -293,6 +293,17 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Tan Shuen Keat Elvin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Assistant Year Head (Middle Pri) (Internal)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>tan_shuen_keat</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Ghanim Bin Salim</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -392,8 +403,7 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Mohammad Abdul Halim Bin Rosli
-</p>
+<p>Mr Mohammad Abdul Halim Bin Rosli</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SH / Student Management (Internal)</p>

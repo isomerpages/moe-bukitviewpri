@@ -3,7 +3,7 @@ title: Teaching Staff 2025
 permalink: /about-us/bvps-staff/teaching-staff-2025/
 description: ""
 third_nav_title: BVPS Staff
-variant: tiptap
+variant: markdown
 ---
 <h4><strong>PRIMARY 1 FORM TEACHERS</strong></h4>
 <table style="minWidth: 75px">
