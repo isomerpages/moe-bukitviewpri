@@ -35,7 +35,7 @@ BVPS P3 Booklist [Here](/files/Parents%20and%20Partners/Info%20for%20Parents/Inf
 
 BVPS P4 Booklist [Here](/files/Parents%20and%20Partners/Info%20for%20Parents/Info%20for%20Parents/Pri_4_Booklist_For_Year_2026.pdf)
 
-BVPS P5 Booklist [Here](/files/Parents%20and%20Partners/Info%20for%20Parents/Info%20for%20Parents/Pri_5_Booklist_For_Year_2025.pdf)
+BVPS P5 Booklist [Here](/files/Parents%20and%20Partners/Info%20for%20Parents/Info%20for%20Parents/Pri_5_Booklist_For_Year_2026.pdf)
 
 BVPS P5 Foundation Booklist [Here](/files/Parents%20and%20Partners/Info%20for%20Parents/Info%20for%20Parents/Pri_5_FDN_Booklist_For_Year_2026.pdf)
 
