@@ -5,6 +5,23 @@ description: ""
 third_nav_title: Info for Parents
 variant: tiptap
 ---
+<h4><strong>2026 School Booklist (P1 to P6)</strong></h4>
+<p>BVPS P1 Booklist <a href="/files/Parents and Partners/Info for Parents/Info for Parents/Pri_1_Booklist_for_Year_2026.pdf" rel="noopener nofollow" target="_blank">Here</a>
+</p>
+<p>BVPS P2 Booklist <a href="/files/Parents and Partners/Info for Parents/Info for Parents/Pri_2_Booklist_for_Year_2026.pdf" rel="noopener nofollow" target="_blank">Here</a>
+</p>
+<p>BVPS P3 Booklist <a href="/files/Parents and Partners/Info for Parents/Info for Parents/Pri_3_Booklist_for_Year_2026.pdf" rel="noopener nofollow" target="_blank">Here</a>
+</p>
+<p>BVPS P4 Booklist <a href="/files/Parents and Partners/Info for Parents/Info for Parents/Pri_4_Booklist_for_Year_2026.pdf" rel="noopener nofollow" target="_blank">Here</a>
+</p>
+<p>BVPS P5 Booklist <a href="/files/Parents and Partners/Info for Parents/Info for Parents/Pri_5_Booklist_for_Year_2026.pdf" rel="noopener nofollow" target="_blank">Here</a>
+</p>
+<p>BVPS P5 Foundation Booklist <a href="/files/Parents and Partners/Info for Parents/Info for Parents/Pri_5_FDN_Booklist_for_Year_2026.pdf" rel="noopener nofollow" target="_blank">Here</a>
+</p>
+<p>BVPS P6 Booklist <a href="/files/Parents and Partners/Info for Parents/Info for Parents/Pri_6_Booklist_for_Year_2026.pdf" rel="noopener nofollow" target="_blank">Here</a>
+</p>
+<p>BVPS P6 Foundation Booklist <a href="/files/Parents and Partners/Info for Parents/Info for Parents/Pri_6_FDN_Booklist_for_Year_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Here</a>
+</p>
 <h4><strong>Updated School Canteen Menu and Price List</strong></h4>
 <p>Parents may refer to the canteen stall menu and price list attached. This
 will give you and your child greater flexibility to plan and buy his/her
@@ -23,23 +40,6 @@ our region and beyond. The link to the video can be found&nbsp;<a href="https://
 <h4><strong>Cyberwellness Education at Home</strong></h4>
 <p>Click&nbsp;<a href="/files/Parents%20and%20Partners/Info%20for%20Parents/Info%20for%20Parents/Parents%20Tip%20Sheet_pdf.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to
 learn more about how you can reinforce Cyber Wellness education at home.</p>
-<h4><strong>2026 School Booklist (P1 to P6)</strong></h4>
-<p>BVPS P1 Booklist <a href="/files/Parents and Partners/Info for Parents/Info for Parents/Pri_1_Booklist_for_Year_2026.pdf" rel="noopener nofollow" target="_blank">Here</a>
-</p>
-<p>BVPS P2 Booklist <a href="/files/Parents and Partners/Info for Parents/Info for Parents/Pri_2_Booklist_for_Year_2026.pdf" rel="noopener nofollow" target="_blank">Here</a>
-</p>
-<p>BVPS P3 Booklist <a href="/files/Parents and Partners/Info for Parents/Info for Parents/Pri_3_Booklist_for_Year_2026.pdf" rel="noopener nofollow" target="_blank">Here</a>
-</p>
-<p>BVPS P4 Booklist <a href="/files/Parents and Partners/Info for Parents/Info for Parents/Pri_4_Booklist_for_Year_2026.pdf" rel="noopener nofollow" target="_blank">Here</a>
-</p>
-<p>BVPS P5 Booklist <a href="/files/Parents and Partners/Info for Parents/Info for Parents/Pri_5_Booklist_for_Year_2026.pdf" rel="noopener nofollow" target="_blank">Here</a>
-</p>
-<p>BVPS P5 Foundation Booklist <a href="/files/Parents and Partners/Info for Parents/Info for Parents/Pri_5_FDN_Booklist_for_Year_2026.pdf" rel="noopener nofollow" target="_blank">Here</a>
-</p>
-<p>BVPS P6 Booklist <a href="/files/Parents and Partners/Info for Parents/Info for Parents/Pri_6_Booklist_for_Year_2026.pdf" rel="noopener nofollow" target="_blank">Here</a>
-</p>
-<p>BVPS P6 Foundation Booklist <a href="/files/Parents and Partners/Info for Parents/Info for Parents/Pri_6_FDN_Booklist_for_Year_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Here</a>
-</p>
 <h4><strong>Primary 4: Swimsafer 2.0 Certifcate</strong></h4>
 <p>Dear Primary 4 Parents,</p>
 <p>You can now access your child’s SwimSafer 2.0 certificate via <a href="https://activesg.gov.sg/home" rel="noopener noreferrer nofollow" target="_blank">ActiveSG portal</a> once
