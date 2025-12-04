@@ -2,13 +2,14 @@
 title: Announcements
 permalink: /announcements/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <h2><strong>Relocation of Bukit View Primary School to Bukit Batok West in January 2027</strong></h2>
 <p>The Ministry of Education has announced on 9 Feb 2023 that Bukit View
 Primary School will relocate to a new campus at the junction of Bukit Batok
-West Avenue 5 and 8, in January 2027. <a href="https://www.moe.gov.sg/news/press-releases/20230209-new-schools-to-meet-demand-in-the-west-and-north-east-of-singapore" rel="noopener noreferrer nofollow" target="_blank">(Press Release)</a> Please note that registration (or balloting, if any) for 2026 P1 will still be based on distance to current site at 18, Bukit Batok St 21.
-</p>
+West Avenue 5 and 8, in January 2027. <a href="https://www.moe.gov.sg/news/press-releases/20230209-new-schools-to-meet-demand-in-the-west-and-north-east-of-singapore" rel="noopener noreferrer nofollow" target="_blank">(Press Release)</a> Please
+note that registration (or balloting, if any) for 2026 P1 will still be
+based on distance to current site at 18, Bukit Batok St 21.</p>
 <p>We are excited about this new development as the new campus will have
 state of the art design and provide new educational facilities, such as
 a band room, dance studio, and an indoor sports hall, to further enhance
@@ -44,9 +45,9 @@ from January 2028. You may read more about MK here
 </div>
 <p></p>
 <h2><strong>Offering of Hindi as In-School Parallel Programme</strong></h2>
-<p>Please be informed that the school will <u>not</u> be offering Hindi as
-In-School Parallel Programme (ISPP) for P1 students from 2024. P1 students
-may offer Hindi at a nearby weekend centre (Beacon Primary, Rulang Primary
-or Lakeside Primary). For enquiries, please contact HOD/MTL Mrs Kimberley
-Lin at 6566 1980 or bukitview_ps@moe.edu.sg.</p>
+<p>Please be informed that the school has not been offering Hindi as In-School
+Parallel Programme (ISPP) for P1 students from 2024. P1-3 students may
+offer Hindi at a nearby weekend centre (eg. Beacon Primary, Rulang Primary).
+For enquiries, please contact HOD/MTL Mrs Kimberley Lin at 6566 1980 or
+<a href="bukitview_ps@moe.edu.sg" rel="noopener nofollow" target="_blank">bukitview_ps@moe.edu.sg</a>.</p>
 <p></p>
