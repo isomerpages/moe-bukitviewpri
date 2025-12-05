@@ -318,43 +318,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3 Graciousness (3GR)</p>
+<p>3 Tenacity (3TE)</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Mdm Chong Wei Sea
-<br>Miss Rose Aizashira Bte Aineh</p>
+<p>Mdm Norezan Bte Saim</p>
+<p>Mdm Esther Chua Yan Yan</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>chong_wei_sea
-<br>rose_aizashira_aineh</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>3 Respect (3RT)</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>Miss Lim Hwee Ching
-<br>Ms Nurul ‘Aqilah Binte Dahlan
-<br>Miss Wong Po San</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>lim_hwee_ching
-<br>nurul_aqilah_dahlan
-<br>wong_po_san</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>3 Responsibility (3RY)</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>Mr Marso Mohamed Dilshad
-<br>Ms Florence Soh</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>marso_mohammed_dilshad
-<br>chia_poh_kwang</p>
+<p>norezan_saim</p>
+<p>chua_yan_yan_esther_a</p>
 </td>
 </tr>
 <tr>
@@ -362,12 +334,36 @@ variant: tiptap
 <p>3 Integrity (3IN)</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Ms Oh Wan Ling Chloe
-<br>Mdm Savarimuthu Amala</p>
+<p>Miss Lee Kit Beng</p>
+<p>Mr Thomas Ang</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>oh_wan_ling
-<br>savarimuthu_amala</p>
+<p>lee_kit_beng</p>
+<p>ang_tiong_wei</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3 Graciousness (3GR)</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Mdm Latheefa Beevi</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>latheefa_beevi</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3 Integrity (3IN)</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Mdm Ng Sin Ee</p>
+<p>Miss Chai Hui Min</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>ng_sin_ee</p>
+<p>chai_hui_min</p>
 </td>
 </tr>
 <tr>
@@ -375,12 +371,12 @@ variant: tiptap
 <p>3 Tenacity (3TE)</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Mrs Diana Wan
-<br>Mdm Eddayana Binte Abdullah</p>
+<p>Mdm Tan Beng Choo</p>
+<p>Ms Nur Diana Bte Ishak</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>tho_lee_kian_diana
-<br>eddayana_abdullah</p>
+<p>tan_beng_choo</p>
+<p>nur_diana_ishak</p>
 </td>
 </tr>
 <tr>
@@ -388,14 +384,12 @@ variant: tiptap
 <p>3 Care (3CA)</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Mdm Lam Hui Li Narcissus
-<br>Mdm Sheena Ho
-<br>Miss Fang Pingping</p>
+<p>Mrs Kumutha Selvan</p>
+<p>Ms Li Lidan</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>lam_hui_li_narcissus
-<br>ho_shi_hui_sheena
-<br>fang_pingping</p>
+<p>kumutha_silvamany</p>
+<p>li_lidan</p>
 </td>
 </tr>
 </tbody>
