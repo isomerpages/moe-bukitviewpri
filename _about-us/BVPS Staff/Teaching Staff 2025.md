@@ -6,7 +6,7 @@ third_nav_title: BVPS Staff
 variant: markdown
 ---
 <h4><strong>PRIMARY 1 FORM TEACHERS</strong></h4>
-<table style="minWidth: 75px">
+<table style="minWidth: 125px">
 <colgroup>
 <col>
 <col>
@@ -43,12 +43,12 @@ variant: markdown
 <p>1 Respect (1RT)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Gary Lin</p>
-<p>Mdm Savarimuthu Amala</p>
+<p>Mr Gary Lin
+<br>Mdm Savarimuthu Amala</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lin_wen_an</p>
-<p>savarimuthu_amala</p>
+<p>lin_wen_an
+<br>savarimuthu_amala</p>
 </td>
 </tr>
 <tr>
@@ -56,12 +56,12 @@ variant: markdown
 <p>1 Responsibility (1RY)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Umairah</p>
-<p>Mrs Dinah Tan-Lim</p>
+<p>Umairah
+<br>Mrs Dinah Tan-Lim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>??</p>
-<p>dinah_lim_hong_buay</p>
+<p>??
+<br>dinah_lim_hong_buay</p>
 </td>
 </tr>
 <tr>
@@ -69,12 +69,12 @@ variant: markdown
 <p>1 Integrity (1IN)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Rachel Chew</p>
-<p>Miss Fang Pingping</p>
+<p>Miss Rachel Chew
+<br>Miss Fang Pingping</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>chew_hui_yi_rachel</p>
-<p>fang_pingping</p>
+<p>chew_hui_yi_rachel
+<br>fang_pingping</p>
 </td>
 </tr>
 <tr>
@@ -82,12 +82,12 @@ variant: markdown
 <p>1 Tenacity (1TE)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Tay Xue Ling Cherie</p>
-<p>Mdm Yap Meixiang Mika</p>
+<p>Mdm Tay Xue Ling Cherie
+<br>Mdm Yap Meixiang Mika</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tay_xue_ling_cherie</p>
-<p>??</p>
+<p>tay_xue_ling_cherie
+<br>??</p>
 </td>
 </tr>
 <tr>
@@ -95,12 +95,12 @@ variant: markdown
 <p>1 Care (1CA)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Chan Hai Yen</p>
-<p>Mrs Diana Wan</p>
+<p>Mdm Chan Hai Yen
+<br>Mrs Diana Wan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>chan_hai_yen</p>
-<p>tho_lee_kian_diana</p>
+<p>chan_hai_yen
+<br>tho_lee_kian_diana</p>
 </td>
 </tr>
 <tr>
@@ -108,12 +108,12 @@ variant: markdown
 <p>1 Harmony (1HA)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Eunice Goh San San</p>
-<p>Mrs Florence Liew</p>
+<p>Ms Eunice Goh San San
+<br>Mrs Florence Liew</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>goh_san_san</p>
-<p>loh_yian_wei</p>
+<p>goh_san_san
+<br>loh_yian_wei</p>
 </td>
 </tr>
 <tr>
@@ -121,12 +121,12 @@ variant: markdown
 <p>1 Resilience (1RS)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Lee Geok Puay</p>
-<p>Mdm Siti Shahira</p>
+<p>Mdm Lee Geok Puay
+<br>Mdm Siti Shahira</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lee_geok_puay</p>
-<p>siti_shahira_sapade</p>
+<p>lee_geok_puay
+<br>siti_shahira_sapade</p>
 </td>
 </tr>
 <tr>
@@ -135,12 +135,12 @@ variant: markdown
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Norazlin Bte Jumadi</p>
-<p>Mdm Tan Ya Xin</p>
+<p>Mdm Norazlin Bte Jumadi
+<br>Mdm Tan Ya Xin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>norazlin_jumadi</p>
-<p>tan_ya_xin</p>
+<p>norazlin_jumadi
+<br>tan_ya_xin</p>
 </td>
 </tr>
 </tbody>
