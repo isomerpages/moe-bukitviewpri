@@ -735,17 +735,6 @@ variant: tiptap
 <p>CL</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Winnie Ho</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ho_yee_hin_winnie</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>CL</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mdm Lee Geok Puay</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -783,17 +772,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>lim_hwee_ching</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>CL</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Tan You Mei</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>tan_you_mei</p>
 </td>
 </tr>
 <tr>
@@ -882,17 +860,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>chen_miaomiao</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>CL</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Miss Huang Jingyao</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>huang_jingyao</p>
 </td>
 </tr>
 <tr>
@@ -1159,6 +1126,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>muhammad_firdaus_madi</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Student Welfare Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Jasmine Tan Puey Lin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>tan_puey_lin_jasmine</p>
 </td>
 </tr>
 </tbody>
