@@ -10,7 +10,7 @@ locations:
       - ""
     operating_hours:
       - days: Office Hours
-        time: 7.30am - 5.30pm
+        time: 7.30am - 5.00pm
         description: "Saturday, Sunday and Public Holiday: Closed"
     maps_link: ""
     title: Main Office

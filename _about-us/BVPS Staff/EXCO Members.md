@@ -39,7 +39,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Chia-Lai Seow Poh</p>
+<p>Mrs Lee Jun Wen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vice-Principal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>bukitview_ps</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Terence Tay</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Vice-Principal</p>
@@ -96,17 +107,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Lee Lee Cheng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SSD</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>lee_lee_cheng</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Eliana Bte Mohamed</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -151,7 +151,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Winnie Ho
+<p>Mr Matthew Tay
 <br>
 </p>
 </td>
@@ -159,7 +159,7 @@ variant: tiptap
 <p>HOD / ICT</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ho_yee_hin_winnie</p>
+<p>chong_chee_weng</p>
 </td>
 </tr>
 <tr>
@@ -199,17 +199,6 @@ variant: tiptap
 <p>norsidah_suadi
 <br>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Tan Eng Wee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HOD / Discipline</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>tan_eng_wee</p>
 </td>
 </tr>
 <tr>
@@ -267,17 +256,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>ernita_mohd_yazid</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Ho Shi Hui Sheena</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Assistant Year Head (Middle Pri)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ho_shi_hui_sheena</p>
 </td>
 </tr>
 <tr>
@@ -410,6 +388,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>mohammad_abdul_halim_bin</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Sylvia Tan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH / Special Projects</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>sylvia_tan</p>
 </td>
 </tr>
 </tbody>

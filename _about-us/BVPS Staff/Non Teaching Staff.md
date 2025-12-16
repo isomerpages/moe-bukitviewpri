@@ -3,7 +3,7 @@ title: Non Teaching Staff
 permalink: /about-us/bvps-staff/non-teaching-staff/
 description: ""
 third_nav_title: BVPS Staff
-variant: markdown
+variant: tiptap
 ---
 <table style="minWidth: 50px">
 <colgroup>
@@ -49,7 +49,7 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Operation Support Officers</p>
+<p>Operation Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Oh Geok Cheng
@@ -57,7 +57,7 @@ variant: markdown
 <br>Mdm Vellasamy Vijayaletchimi
 <br>Mr Cheong Wai Kit
 <br>Mr Toh Sin Lye
-	<br>Mr Quek Choon Ho</p>
+<br>Mr Quek Choon Ho</p>
 </td>
 </tr>
 <tr>
@@ -73,8 +73,7 @@ variant: markdown
 <p>Desktop Engineer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nur Ain Binti Adam
-<br>Miss Tharrsinee Krishnan</p>
+<p>Mdm Nur Ain Binti Adam</p>
 </td>
 </tr>
 <tr>
@@ -82,7 +81,7 @@ variant: markdown
 <p>Library Assistant</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Amira Syafiqah </p>
+<p>Ms Amira Syafiqah</p>
 </td>
 </tr>
 <tr>
