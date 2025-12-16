@@ -57,7 +57,7 @@ variant: tiptap
 <br>Mdm Vellasamy Vijayaletchimi
 <br>Mr Cheong Wai Kit
 <br>Mr Toh Sin Lye
-	<br>Mr Quek Choon Ho</p>
+<br>Mr Quek Choon Ho</p>
 </td>
 </tr>
 <tr>
@@ -73,8 +73,7 @@ variant: tiptap
 <p>Desktop Engineer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nur Ain Binti Adam
-<br>Miss Tharrsinee Krishnan</p>
+<p>Mdm Nur Ain Binti Adam</p>
 </td>
 </tr>
 <tr>
@@ -82,7 +81,7 @@ variant: tiptap
 <p>Library Assistant</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Amira Syafiqah </p>
+<p>Ms Amira Syafiqah</p>
 </td>
 </tr>
 <tr>
