@@ -6,7 +6,7 @@ third_nav_title: BVPS Staff
 variant: tiptap
 ---
 <h4><strong>PRIMARY 1 FORM TEACHERS</strong></h4>
-<table style="minWidth: 125px">
+<table style="minWidth: 75px">
 <colgroup>
 <col>
 <col>
@@ -201,8 +201,8 @@ variant: tiptap
 <br>Miss Ng Xue Li</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>magdalene_christina_sebastian
-</p><p>ng_xue_li_a</p>
+<p>magdalene_christina_sebastian</p>
+<p>ng_xue_li_a</p>
 </td>
 </tr>
 <tr>
@@ -656,7 +656,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="2">
 <p>jayanthi_chandramohan
-	<br>ang_siok_kuwan_dominique</p>
+<br>ang_siok_kuwan_dominique</p>
 </td>
 </tr>
 <tr>
@@ -882,6 +882,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>lim_su_ru</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Li Lidan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>li_lidan</p>
 </td>
 </tr>
 <tr>
