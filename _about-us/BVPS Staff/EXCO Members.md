@@ -151,7 +151,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Matthew Tay
+<p>Mr Matthew Chong
 <br>
 </p>
 </td>
