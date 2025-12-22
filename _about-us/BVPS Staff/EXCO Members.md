@@ -61,17 +61,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Lee Jun Wen</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Vice-Principal</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>bukitview_ps</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Goh Gin Howe</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -206,7 +195,7 @@ variant: tiptap
 <p>Mdm Tan Sze-Hui Vanessa</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD / CCE (Internal)</p>
+<p>HOD / CCE</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>tan_sze_hui_vanessa</p>
@@ -217,7 +206,7 @@ variant: tiptap
 <p>Mr Gary Teo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD / PE &amp; CCA (Internal)</p>
+<p>HOD / PE &amp; CCA</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>gary_teo_jiunn_shyan</p>
@@ -285,7 +274,7 @@ variant: tiptap
 <p>Mr Ghanim Bin Salim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head (Lower Pri) (Internal)</p>
+<p>Assistant Year Head (Lower Pri)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ghanim_salim</p>
@@ -307,7 +296,7 @@ variant: tiptap
 <p>Mdm Tan Ya Xin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH / Chinese (Internal)</p>
+<p>SH / Chinese</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>tan_ya_xin</p>
@@ -329,7 +318,7 @@ variant: tiptap
 <p>Mr Thomas Ang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH / Applied Learning</p>
+<p>SH / 21CC</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ang_tiong_wei</p>
