@@ -362,7 +362,7 @@ variant: tiptap
 <p>Mrs Diana Wan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH / Educational Support &amp; Partnership (Internal)</p>
+<p>SH / Partnership (Internal)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>tho_lee_kian_diana</p>
