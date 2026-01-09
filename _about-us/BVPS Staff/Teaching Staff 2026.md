@@ -113,7 +113,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>goh_san_san
-<br>loh_yian_wei_a</p>
+<br>loh_yian_wei</p>
 </td>
 </tr>
 <tr>
