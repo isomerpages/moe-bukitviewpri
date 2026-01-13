@@ -36,7 +36,7 @@ against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt
 you and your loved ones.</p>
 <p>You may click&nbsp;<strong><a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here </a></strong>for
 more information on MOE Sexuality Education.</p>
-<h5><strong>OVERVIEW OF BUKIT VIEW PRIMARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2025</strong></h5>
+<h5><strong>OVERVIEW OF BUKIT VIEW PRIMARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2026</strong></h5>
 <p>4. Sexuality Education is delivered in a holistic manner through the school
 curriculum. The content for Sexuality Education is grouped into five main
 themes: Human Development, Interpersonal Relationships, Sexual Health,
@@ -64,7 +64,7 @@ growing years. They learn to build healthy and rewarding relationships
 with others, including those with members of the opposite sex. Students
 are also guided to make wise, informed and responsible decisions to keep
 themselves safe from sexuality-related risks.</p>
-<p><strong>At Bukit View Primary School, the following Sexuality Education lessons will be taught in 2025:</strong>&nbsp;</p>
+<p><strong>At Bukit View Primary School, the following Sexuality Education lessons will be taught in 2026:</strong>&nbsp;</p>
 <p><strong>PRIMARY 5</strong>
 </p>
 <table style="minWidth: 100px">
@@ -106,14 +106,11 @@ themselves safe from sexuality-related risks.</p>
 <br>(60 min)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>This lesson focuses on helping students identify the emotions and stress
-caused by physical changes during puberty. Students will learn to describe
-the healthy ways to manage their negative feelings during this time. They
-will also learn to recognise that one’s identity need not be negatively
-affected, even when one’s body is experiencing changes due to puberty.</p>
+<p><em>This lesson focuses on helping students identify the emotions and stress caused by physical changes during puberty. Students will learn to describe the healthy ways to manage their negative feelings during this time. They will also learn to recognise that one’s identity need not be negatively affected, even when one’s body is experiencing changes due to puberty.</em>
+</p>
 <p></p>
-<p>This lesson is conducted separately for boys and girls in different classrooms,
-so that the students will feel more comfortable during the discussions.</p>
+<p><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 1 Week 8</p>
@@ -128,16 +125,10 @@ so that the students will feel more comfortable during the discussions.</p>
 <br>(60 min)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>This lesson focuses on helping students know what pornography is and how
-it can affect themselves and others. Students will learn about the dangers
-of being exposed to sexually explicit materials and reject the viewing
-and/or reading of pornographic materials. They will learn to evaluate their
-own responses when they encounter pornography by applying the strategy
-‘Stop-Think-Do’.
-<br>
+<p><em>This lesson focuses on helping students know what pornography is and how it can affect themselves and others. Students will learn about the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy ‘Stop-Think-Do’. <br></em>
 </p>
-<p>This lesson is conducted separately for boys and girls in different classrooms,
-so that the students will feel more comfortable during the discussions.</p>
+<p><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 1 Week 9</p>
@@ -157,8 +148,8 @@ during online and offline interactions and the impact of such abuse on
 victims. They also learn how to take precautionary measures to be safe
 and how to seek help for themselves and their friends.</p>
 <p></p>
-<p>This lesson is conducted separately for boys and girls in different classrooms,
-so that the students will feel more comfortable during the discussions.</p>
+<p><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 1 Week 10</p>
@@ -246,9 +237,13 @@ and learn to behave maturely towards each other.</p>
 <h4><strong>INFORMATION FOR PARENTS</strong></h4>
 <p>8. Parents may opt their children out of Sexuality Education lessons,
 and/or supplementary Sexuality Education programmes by MOE-approved external
-providers. If you would like to withdraw your child out of The Sexuality
-Education Programme in 2025, please complete the online Sexuality Education
-Parent Opt-out Form via <a href="https://go.gov.sg/bvpssed2025" rel="noopener noreferrer nofollow" target="_blank">FormSG</a> by <strong>24/01/2025</strong>.</p>
-<p>9. Parents can contact the school at <strong>bukitview_ps@moe.edu.sg</strong> for
+providers.</p>
+<ol start="9" data-tight="true" class="tight">
+<li>
+<p>Parents who wish to opt their children out of the Sexuality Education
+lessons 2026, please complete the Opt-out Form via <a href="https://go.gov.sg/bvpssed2026" rel="noopener noreferrer nofollow" target="_blank">FormSG</a> by <strong>26 January 2026</strong>.</p>
+</li>
+</ol>
+<p>10. Parents can contact the school at <strong>bukitview_ps@moe.edu.sg</strong> for
 discussion or to seek clarification about the school’s Sexuality Education
 programme.</p>
