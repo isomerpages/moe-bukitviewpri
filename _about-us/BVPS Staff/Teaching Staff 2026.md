@@ -596,7 +596,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="2">
 <p>rajeshree_rajanthiran
-<br>sylvia_tan</p>
+<br>sylvia_tan_han_yu</p>
 </td>
 </tr>
 </tbody>
