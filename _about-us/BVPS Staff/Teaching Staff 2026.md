@@ -350,12 +350,12 @@ variant: markdown
 <p>3 Graciousness (3GR)</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Mdm Latheefa Beevi</p>
-<p>Mr Khairul Khairi Bin Rahimee</p>
+<p>Mdm Latheefa Beevi
+<br>Mr Khairul Khairi Bin Rahimee</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>latheefa_beevi</p>
-<p>khairul_khairi_rahimee</p>
+<p>latheefa_beevi
+<br>khairul_khairi_rahimee</p>
 </td>
 </tr>
 <tr>
