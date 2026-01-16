@@ -96,9 +96,9 @@ students to become caring, responsible and motivated leaders in the community.</
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Cherie Lim (IC)
-<br>Mdm Lim Su Ru</p>
-<p>Miss Siti Nur Umairah Binte Hashim</p>
-</td>
+<br>Mdm Lim Su Ru
+<br>Miss Siti Nur Umairah Binte Hashim
+</p></td>
 <td rowspan="1" colspan="1">
 <p>Music Studio</p>
 </td>
