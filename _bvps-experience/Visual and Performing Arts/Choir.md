@@ -93,9 +93,9 @@ the café.</p>
 <td rowspan="1" colspan="1">
 <p>Mdm Chan Hai Yen (I/C)
 <br>Miss Fong Shi Men
-<br>Ms Ng Xue Li</p>
-<p>Ms Nurul ‘Aqilah Binte Dahlan</p>
-</td>
+<br>Ms Ng Xue Li
+<br>Ms Nurul ‘Aqilah Binte Dahlan
+</p></td>
 <td rowspan="1" colspan="1">
 <p>Performing Arts Studio (PAS)</p>
 </td>
