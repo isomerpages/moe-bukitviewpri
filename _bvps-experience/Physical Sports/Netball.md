@@ -87,8 +87,8 @@ Games.</p>
 <td rowspan="1" colspan="1">
 <p>Mdm Norezan Bte Saim (I/C)
 <br>Mdm Nurdayana Binte Mohd Noor
-<br>Mdm Siti Raihana Bte Suleiman
-<br>Mdm Chong Wei Sea</p>
+<br>Miss Ng Wan Ling, Emily
+<br>Mdm Sylvia Tan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>School hall</p>

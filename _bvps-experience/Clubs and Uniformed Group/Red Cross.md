@@ -3,7 +3,7 @@ title: Red Cross
 permalink: /bvps-experience/clubs-and-uniformed-group/red-cross/
 description: ""
 third_nav_title: Clubs and Uniformed Group
-variant: tiptap
+variant: markdown
 ---
 <p>‘The CCA with lots of HEART’ – The BVPS Red Cross Links prides itself
 in being a CCA that not only develops students with the ability to provide
@@ -96,9 +96,9 @@ students to become caring, responsible and motivated leaders in the community.</
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Cherie Lim (IC)
-<br>Mdm Norbi Binte Mohd Salleh
-<br>Mdm Lim Su Ru</p>
-</td>
+<br>Mdm Lim Su Ru
+<br>Miss Siti Nur Umairah Binte Hashim
+</p></td>
 <td rowspan="1" colspan="1">
 <p>Music Studio</p>
 </td>

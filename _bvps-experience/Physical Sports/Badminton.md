@@ -3,7 +3,7 @@ title: Badminton
 permalink: /bvps-experience/sports-and-games/badminton/
 description: ""
 third_nav_title: Physical Sports
-variant: tiptap
+variant: markdown
 ---
 <p>In Bukit View Primary School, many boys and girls are excited to join
 the school’s Badminton Club annually.</p>
@@ -85,9 +85,9 @@ thus pushing their limits and demonstrating excellent sportsmanship.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Marso Mohammed Dil'shad (I/C)
-<br>Mdm Grace Goh Yue Lin
 <br>Mdm Esther Chua Yan Yan
-<br>Ms Natalie Ng Jia Ern</p>
+<br>Ms Natalie Ng Jia Ern
+<br>Mdm Latheefa Beevi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>School Hall</p>
@@ -103,11 +103,9 @@ thus pushing their limits and demonstrating excellent sportsmanship.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Marso Mohammed Dil'shad (I/C)
-<br>Mdm Grace Goh Yue Lin
 <br>Mdm Esther Chua Yan Yan
 <br>Ms Natalie Ng Jia Ern
-<br>
-</p>
+<br>Mdm Latheefa Beevi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>School Hall</p>

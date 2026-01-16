@@ -3,17 +3,17 @@ title: Indian Dance
 permalink: /bvps-experience/aesthetics-and-performing-arts/indian-dance/
 description: ""
 third_nav_title: Visual and Performing Arts
-variant: tiptap
+variant: markdown
 ---
 <p>Indian Dance in BVPS serves as a platform for students to appreciate the
 fine aesthetics of dance. Students are exposed to different genres of dance,
-including classical, contemporary and fusion.&nbsp;</p>
-<p>Students also get to broaden their knowledge in both the theoretical and
+including classical, contemporary and fusion.
+<br>Students also get to broaden their knowledge in both the theoretical and
 cultural aspects of Indian dance, thus developing a sense of deep rootedness
-and love for the art form.&nbsp;</p>
-<p>Our dancers develop strong friendships and bond as they learn from one
+and love for the art form.
+<br>Our dancers develop strong friendships and bond as they learn from one
 another. They also learn to overcome challenges through strong team spirit
-and being resilient.</p>
+and being resilient.
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -85,8 +85,7 @@ and being resilient.</p>
 <td rowspan="1" colspan="1">
 <p>Mdm Nageswari (I/C)
 <br>Mdm Savarimuthu Amala
-<br>Miss M Selvarani
-<br>Miss Latheefa Beevi</p>
+<br>Miss M Selvarani</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Dance Studio</p>
@@ -94,4 +93,4 @@ and being resilient.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
+</p><p></p>

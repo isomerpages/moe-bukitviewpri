@@ -3,7 +3,7 @@ title: Football
 permalink: /bvps-experience/sports-and-games/football/
 description: ""
 third_nav_title: Physical Sports
-variant: tiptap
+variant: markdown
 ---
 <p>The Football CCA comprises young, dedicated players with a strong passion
 for football and a drive to hone their skills.&nbsp;</p>
@@ -86,9 +86,10 @@ advocates of good sportsmanship and effective communicators.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Lukman Umar (I/C)
-<br>Mr Muhammad Dzuhri
 <br>Mr Shamsudin Hashim
-<br>Mr Lim Jia Ying</p>
+<br>Mr Mohamed Syahmi Sudhan
+<br>Mr Khairul Khairi Bin Rahimee
+<br>Mdm Nur Farah Binte Mohd Alim</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>BVSS Field

@@ -3,7 +3,7 @@ title: Choir
 permalink: /bvps-experience/aesthetics-and-performing-arts/choir/
 description: ""
 third_nav_title: Visual and Performing Arts
-variant: tiptap
+variant: markdown
 ---
 <p>In Bukit View Choir, members are given opportunities to build their stage
 confidence and leadership qualities. Our members have performed in annual
@@ -93,9 +93,9 @@ the café.</p>
 <td rowspan="1" colspan="1">
 <p>Mdm Chan Hai Yen (I/C)
 <br>Miss Fong Shi Men
-<br>Mdm Nurul Haiyu Rosli
-<br>Miss Tessa Suprapmo</p>
-</td>
+<br>Ms Ng Xue Li
+<br>Ms Nurul ‘Aqilah Binte Dahlan
+</p></td>
 <td rowspan="1" colspan="1">
 <p>Performing Arts Studio (PAS)</p>
 </td>

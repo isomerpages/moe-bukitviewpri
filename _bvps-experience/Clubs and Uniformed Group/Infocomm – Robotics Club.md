@@ -1,13 +1,13 @@
 ---
-title: Multimedia Club
-permalink: /bvps-experience/clubs-and-uniformed-group/multimedia-club/
+title: Infocomm – Robotics Club
+permalink: /bvps-experience/clubs-and-uniformed-group/robotics-club/
 description: ""
 third_nav_title: Clubs and Uniformed Group
 variant: tiptap
 ---
-<p>Multimedia Club supports the development of students’ computational thinking.
-It also provides them with perspectives to solve problems through the use
-of various coding devices and multimedia platforms.&nbsp;</p>
+<p>Infocomm - Robotics Club supports the development of students’ computational
+thinking. It also provides them with perspectives to solve problems through
+the use of various coding devices and multimedia platforms.&nbsp;</p>
 <p>Throughout the year, students will be given various innovative projects
 that enhance their logical reasoning and problem-solving skills. Through
 these, students are empowered with lifelong skills such as a sense of responsibility,
@@ -81,10 +81,10 @@ perseverance and leadership skills.</p>
 <p>2pm to 4pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Mdm Ng Sin Ee (I/C)
+<p>Mdm Ng Sin Ee (I/C)
 <br>Mdm Brenda Chong
-<br>Mdm Tan Ya Xin
-<br>Mdm Tham Wei Ting, Vanessa</p>
+<br>Mrs Diana Wan
+<br>Mrs Eunice Goh Suat Ling</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Computer Labs 1 and 2</p>

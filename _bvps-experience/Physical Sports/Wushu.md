@@ -3,7 +3,7 @@ title: Wushu
 permalink: /bvps-experience/sports-and-games/wushu/
 description: ""
 third_nav_title: Physical Sports
-variant: tiptap
+variant: markdown
 ---
 <p>Wushu helps students to develop strength and flexibility through the learning
 of different stances and routines. Students&nbsp; learn martial arts involving
@@ -90,10 +90,9 @@ work and talent and instill in them a sense of pride.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Tan Shuen Keat Elvin (I/C)
-<br>Mdm Kir Soo Kien
 <br>Miss Chen Miao Miao
-<br>Mdm Hazel Neo
-<br>Miss Rajeshree D/O Rajanthiran</p>
+<br>Mdm Kir Soo Kien
+<br>Mdm Chong Wei Sea</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Courtyard (outside Tinker room)</p>
@@ -109,10 +108,9 @@ work and talent and instill in them a sense of pride.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Tan Shuen Keat Elvin (I/C)
-<br>Mdm Kir Soo Kien
 <br>Miss Chen Miao Miao
-<br>Mdm Hazel Neo
-<br>Miss Rajeshree D/O Rajanthiran</p>
+<br>Mdm Kir Soo Kien
+<br>Mdm Chong Wei Sea</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Courtyard (outside Tinker room)</p>

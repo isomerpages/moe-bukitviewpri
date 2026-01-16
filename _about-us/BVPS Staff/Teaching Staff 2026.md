@@ -3,7 +3,7 @@ title: Teaching Staff 2026
 permalink: /about-us/bvps-staff/teaching-staff-2026/
 description: ""
 third_nav_title: BVPS Staff
-variant: tiptap
+variant: markdown
 ---
 <h4><strong>PRIMARY 1 FORM TEACHERS</strong></h4>
 <table style="minWidth: 75px">
@@ -350,12 +350,12 @@ variant: tiptap
 <p>3 Graciousness (3GR)</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Mdm Latheefa Beevi</p>
-<p>Mr Khairul Khairi Bin Rahimee</p>
+<p>Mdm Latheefa Beevi
+<br>Mr Khairul Khairi Bin Rahimee</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>latheefa_beevi</p>
-<p>khairul_khairi_rahimee</p>
+<p>latheefa_beevi
+<br>khairul_khairi_rahimee</p>
 </td>
 </tr>
 <tr>

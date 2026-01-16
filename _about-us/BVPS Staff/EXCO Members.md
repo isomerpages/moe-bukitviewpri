@@ -387,7 +387,7 @@ variant: tiptap
 <p>SH / Special Projects</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>sylvia_tan</p>
+<p>sylvia_tan_han_yu</p>
 </td>
 </tr>
 </tbody>
