@@ -5,12 +5,11 @@ description: ""
 third_nav_title: Visual and Performing Arts
 variant: tiptap
 ---
-<p>Bukit View Primary School’s English Drama Club aims to provide students
-with opportunities for creative expression as well as different platforms
-to explore and develop their skills and interest in drama. The engaging
-training programme is designed to develop an appreciation and enjoyment
-of drama as an art form while building students’ confidence and fostering
-team camaraderie.</p>
+<p>Bukit View Primary School’s Drama Club aims to provide students with opportunities
+for creative expression as well as different platforms to explore and develop
+their skills and interest in drama. The engaging training programme is
+designed to develop an appreciation and enjoyment of drama as an art form
+while building students’ confidence and fostering team camaraderie.</p>
 <p>Under the guidance of our passionate and dedicated instructor and teachers-in-charge,
 students hone their skills and talents and they perform for various school
 events and competitions.</p>
@@ -79,8 +78,8 @@ events and competitions.</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>Mrs Kumutha Selvan (I/C)
-<br>Miss Rose Aizashira
-<br>Miss Nurul Amirah Binte M A</p>
+<br>Ms Nurul Amirah Binte Muhd Azmy</p>
+<p>Ms Li Lidan</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>Performing Arts Studio (PAS)</p>
