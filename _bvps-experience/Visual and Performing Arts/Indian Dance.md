@@ -85,8 +85,7 @@ and being resilient.</p>
 <td rowspan="1" colspan="1">
 <p>Mdm Nageswari (I/C)
 <br>Mdm Savarimuthu Amala
-<br>Miss M Selvarani
-<br>Miss Latheefa Beevi</p>
+<br>Miss M Selvarani</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Dance Studio</p>
