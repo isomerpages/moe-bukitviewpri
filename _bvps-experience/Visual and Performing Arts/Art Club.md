@@ -106,7 +106,7 @@ presentations.</p>
 <td rowspan="1" colspan="1">
 <p>Miss Chwa Bee Lian (I/C)
 <br>Ms Chua Huai Ling Sheila
-<br>Miss Ng Xue Li</p>
+<br>Miss Yadavalli Sri Vidya</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Art Room</p>
