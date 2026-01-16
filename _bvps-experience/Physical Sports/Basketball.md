@@ -91,7 +91,7 @@ also to guide students to becoming good sportsmen and supportive team members.</
 <br>Bin Rosli (I/C)
 <br>Mr Gary Lin Wen'an
 <br>Mr Idris Bin Lekiman
-<br>Ms Law Yu Jing</p>
+<br>Miss Rajeshree D/O Rajanthiran</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Basketball Court</p>
