@@ -93,7 +93,7 @@ National Day Dinner.</p>
 <td rowspan="1" colspan="1">
 <p>Mdm Suraya Rahmat (I/C)
 <br>Mdm Eddayana Bte Abdullah
-<br>Mdm Siti Shahira Bte Sapade</p>
+<br>Mdm Nurul Haiyu Rosli</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>PAL Room</p>
