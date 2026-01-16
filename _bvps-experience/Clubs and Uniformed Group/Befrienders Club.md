@@ -79,8 +79,7 @@ the activities.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Lee Geok Puay (I/C)
-<br>Miss Lim Hwee Ching
-<br>Mrs Diana Wan</p>
+<br>Miss Lim Hwee Ching</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Classroom</p>
