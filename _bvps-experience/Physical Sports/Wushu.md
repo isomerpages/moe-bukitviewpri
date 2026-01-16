@@ -89,11 +89,10 @@ work and talent and instill in them a sense of pride.</p>
 <p>2pm to 4pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Shuen Keat Elvin (I/C)
+<p>Mr Tan Shuen Keat Elvin (I/C)</p>
+<p>Miss Chen Miao Miao
 <br>Mdm Kir Soo Kien
-<br>Miss Chen Miao Miao
-<br>Mdm Hazel Neo
-<br>Miss Rajeshree D/O Rajanthiran</p>
+<br>Mdm Chong Wei Sea</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Courtyard (outside Tinker room)</p>
@@ -109,10 +108,9 @@ work and talent and instill in them a sense of pride.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Tan Shuen Keat Elvin (I/C)
-<br>Mdm Kir Soo Kien
 <br>Miss Chen Miao Miao
-<br>Mdm Hazel Neo
-<br>Miss Rajeshree D/O Rajanthiran</p>
+<br>Mdm Kir Soo Kien
+<br>Mdm Chong Wei Sea</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Courtyard (outside Tinker room)</p>
