@@ -90,7 +90,7 @@ the experiences.</p>
 <p>Mrs Yeo Soon Foong (I/C)
 <br>Mdm Ng Siew Hong
 <br>Miss Fang Pingping
-<br>Miss Yang Jia
+<br>Mdm Yang Jia
 <br>
 </p>
 </td>
