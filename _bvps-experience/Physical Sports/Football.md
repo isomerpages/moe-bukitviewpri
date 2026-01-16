@@ -86,9 +86,10 @@ advocates of good sportsmanship and effective communicators.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Lukman Umar (I/C)
-<br>Mr Muhammad Dzuhri
 <br>Mr Shamsudin Hashim
-<br>Mr Lim Jia Ying</p>
+<br>Mr Mohamed Syahmi Sudhan</p>
+<p>Mr Khairul Khairi Bin Rahimee</p>
+<p>Mdm Nur Farah Binte Mohd Alim</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>BVSS Field
