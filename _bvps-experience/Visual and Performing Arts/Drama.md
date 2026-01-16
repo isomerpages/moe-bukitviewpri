@@ -78,8 +78,8 @@ events and competitions.</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>Mrs Kumutha Selvan (I/C)
-<br>Ms Nurul Amirah Binte Muhd Azmy</p>
-<p>Ms Li Lidan</p>
+<br>Ms Nurul Amirah Binte Muhd Azmy
+<br>Ms Li Lidan</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>Performing Arts Studio (PAS)</p>
