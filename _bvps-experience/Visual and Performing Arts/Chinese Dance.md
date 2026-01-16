@@ -89,8 +89,8 @@ the experiences.</p>
 <td rowspan="1" colspan="2">
 <p>Mrs Yeo Soon Foong (I/C)
 <br>Mdm Ng Siew Hong
-<br>Miss Huang Jingyao
-<br>Miss Ng Wan Ling, Emily
+<br>Miss Fang Pingping
+<br>Miss Yang Jia
 <br>
 </p>
 </td>
