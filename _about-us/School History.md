@@ -4,13 +4,11 @@ permalink: /about-us/schhistory/
 description: ""
 variant: markdown
 ---
-Bukit View Primary School was established in Bukit Batok New Town in January 1986 and started operations in the premises of Bukit View Secondary School. On 24 March 1986, Bukit View Primary School moved into its own building at Bukit Batok Street 21, where it is presently located. The school was officially opened on 31 August 1988.
+Bukit View Primary School was established in 1986, together with the start of Bukit Batok New Town as one of its first schools. The school’s Chinese name 百德小学 likely came from one of the region’s Chinese public schools, 培德公立学校 Pei Tek Public School, which started in 1946 and was a popular school in the 1960s-70s.  
 
-Since its establishment in 1986, Bukit View Primary School has continuously upgraded its facilities to provide a conducive environment to support teaching and learning. In 2001, Bukit View Primary School completed the PRIME upgrading and has since been operating as a single-session school. The major improvements included a new classroom block, improved administrative and staff rooms, a larger library and canteen, additional computer and science labs and better-equipped special rooms.
+We used to have only 2 classroom blocks, with a third built in 2001 during PRIME. Known for teaching excellence, caring culture, and character development through aesthetics, we were one of five prototype schools in 2009 to experiment with innovative pedagogies and used drama to develop students’ curiosity, confidence and collaboration. We were recognised as the Centre of Excellence for Aesthetics in the West Zone in 2011. Since then, we have developed our own brand of Learn for Life Programme that develops students’ character, 21st century competencies and foundations towards excellence.  
 
-Bukit View Primary School has steadily built up its school programming to provide students with a well-rounded education. In 2007, Bukit View Primary School was awarded the Programme for School-Based Excellence Award for its aesthetics programme. The programme then evolved to become the Learning for Life Programme (LLP) in Nurturing Values and Character through Aesthetics in 2014. The LLP provides all students with a broad-based arts programme, with a talent development component to groom those with the potential to excel. The school was recognised as the Centre of Excellence for Aesthetics in the West Zone for its quality programmes and good practices since 2011.
-
-In the area of teaching and learning, Bukit View Primary School was selected as one of the five prototype schools in 2009 to experiment innovative pedagogies for engaged learning. The school adopted drama as a pedagogy to promote confidence, critical thinking, cooperation and curiosity in students. In 2016, leveraging the strengths from the outcomes of the experimentation, Bukit View Primary School was accorded the Applied Learning Programme in Developing Thinkers, Collaborators and Communicators, with the aim of equipping students with 21st-century competencies.
+In 2023, it was announced that the school will move to a brand-new campus at Bukit Batok West Ave 8 in 2027 to better support its increasing population.
 
 Principals:
 
