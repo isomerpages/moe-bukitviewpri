@@ -18,6 +18,6 @@ Principals:
 *   Mdm Jenny Law (2002–2011)
 *   Mrs Elsie Poey (2012–2016)
 *   Mdm Koh Yuen Choo (2017–2022)
-*   Mdm Teo Eng Hui (2022– )
+*   Mdm Teo Eng Hui (2022–)
 
 ![](/images/About%20Us/School%20History/H1.jpg)
