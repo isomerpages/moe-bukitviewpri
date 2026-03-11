@@ -6,28 +6,23 @@ variant: tiptap
 ---
 <h2><strong>Relocation of Bukit View Primary School to Bukit Batok West in January 2027</strong></h2>
 <p>The Ministry of Education has announced on 9 Feb 2023 that Bukit View
-Primary School will relocate to a new campus at the junction of Bukit Batok
-West Avenue 5 and 8, in January 2027. <a href="https://www.moe.gov.sg/news/press-releases/20230209-new-schools-to-meet-demand-in-the-west-and-north-east-of-singapore" rel="noopener noreferrer nofollow" target="_blank">(Press Release)</a> Please
-note that registration (or balloting, if any) for 2026 P1 will still be
-based on distance to current site at 18, Bukit Batok St 21.</p>
-<p>We are excited about this new development as the new campus will have
-state of the art design and provide new educational facilities, such as
-a band room, dance studio, and an indoor sports hall, to further enhance
-students’ learning experiences.</p>
+Primary School will be relocating to a new campus at&nbsp; Bukit Batok
+West, in January 2027 (<a href="https://www.moe.gov.sg/news/press-releases/20230209-new-schools-to-meet-demand-in-the-west-and-north-east-of-singapore" rel="noopener nofollow" target="_blank">Press Release</a>). Please
+note that registration (or balloting, if any) for the 2027 P1 will be<strong> based on distance to the new school site at 101 Bukit Batok West Ave 8.</strong>&nbsp;&nbsp;</p>
+<p>You may read more about the school’s move <a href="https://www.straitstimes.com/singapore/politics/bukit-view-primary-school-s-move-west-closer-to-tengah-is-to-meet-demand-there" rel="noopener nofollow" target="_blank">here</a>.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/sch%20map.JPG">
 </div>
-<p>You may read more about the school’s move <a href="https://www.straitstimes.com/singapore/politics/bukit-view-primary-school-s-move-west-closer-to-tengah-is-to-meet-demand-there" rel="noopener noreferrer nofollow" target="_blank">here.</a>
-</p>
-<p>These are the updates shared with our parents on 26 June 2025.
-<br>We are excited to share that construction of our new school campus at
-101 Bukit Batok West Ave 8 has begun since Mar 2025. We are all looking
-forward to our brand-new campus in the vibrant and growing estate in 2027.
-This move marks a significant milestone in our school’s journey and promises
-an enhanced educational experience for all. We are committed to ensuring
-a smooth transition and will keep you updated with regular sharing on the
-progress. Below is a sneak peek of the façade of the new school (artist’s
-impression).</p>
+<p>The construction of our new school campus has begun in Mar 2025, and we
+are all looking forward to our brand-new campus in the vibrant and growing
+estate in 2027.&nbsp; The new campus will have state-of-the-art design
+and provide new educational facilities, such as a Band Room, Dance Studio,
+and an Indoor Sports Hall, to further enhance students’ learning experiences.&nbsp;</p>
+<p>This move marks a significant milestone in our school’s journey and promises
+a refreshed space that will complement our mission to nurture and empower
+learners for the future. We are committed to ensuring a smooth transition
+and will keep you updated with regular sharing on the progress. Below is
+a sneak peek of the façade of the new school (artist’s impression).&nbsp;</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/New_school_campus_Jun25.jpg">
@@ -50,4 +45,13 @@ Parallel Programme (ISPP) for P1 students from 2024. P1-3 students may
 offer Hindi at a nearby weekend centre (eg. Beacon Primary, Rulang Primary).
 For enquiries, please contact HOD/MTL Mrs Kimberley Lin at 6566 1980 or
 <a href="bukitview_ps@moe.edu.sg" rel="noopener nofollow" target="_blank">bukitview_ps@moe.edu.sg</a>.</p>
+<p></p>
+<h2><strong>Open House 2026</strong></h2>
+<p>Parents of P1s in 2027,&nbsp;&nbsp;</p>
+<p>We warmly welcome you to join our Virtual Open House on 16 May 2026, Saturday.
+See you there!&nbsp;&nbsp;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Announcement/6__Announcements_Open_House_2026.png">
+</div>
 <p></p>
