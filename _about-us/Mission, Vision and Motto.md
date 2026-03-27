@@ -4,9 +4,9 @@ permalink: /about-us/mvm/
 description: ""
 variant: markdown
 ---
-### **Mission**
+### **Graciousness**
 
-Nurturing and Empowering Learners to Create the Future   
+We care and help others, are considerate, and greet and communicate with everyone politely.  
   
 
 #### **Vision** 
