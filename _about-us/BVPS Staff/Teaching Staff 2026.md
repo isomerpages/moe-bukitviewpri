@@ -3,7 +3,7 @@ title: Teaching Staff 2026
 permalink: /about-us/bvps-staff/teaching-staff-2026/
 description: ""
 third_nav_title: BVPS Staff
-variant: markdown
+variant: tiptap
 ---
 <h4><strong>PRIMARY 1 FORM TEACHERS</strong></h4>
 <table style="minWidth: 75px">
@@ -1128,28 +1128,6 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <p>leong_xin_yue</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Student Welfare Officer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Muhammad Firdaus bin Madi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>muhammad_firdaus_madi</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Student Welfare Officer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Miss Jasmine Tan Puey Lin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>tan_puey_lin_jasmine</p>
 </td>
 </tr>
 </tbody>

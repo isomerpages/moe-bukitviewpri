@@ -3,7 +3,7 @@ title: Non Teaching Staff
 permalink: /about-us/bvps-staff/non-teaching-staff/
 description: ""
 third_nav_title: BVPS Staff
-variant: tiptap
+variant: markdown
 ---
 <table style="minWidth: 50px">
 <colgroup>
@@ -73,7 +73,8 @@ variant: tiptap
 <p>Desktop Engineer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nur Ain Binti Adam</p>
+<p>Mdm Nur Ain Binti Adam<br>
+Mr Daniel Tee</p>
 </td>
 </tr>
 <tr>
