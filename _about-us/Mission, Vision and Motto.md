@@ -14,7 +14,7 @@ excellence.
 <h4><strong>Respect</strong></h4>
 We are kind in our actions and words, treat everyone and their properties
 with respect, and have empathy for others by listening actively and appreciating
-their perspectives.<p></p>
+their perspectives.
 <h4><strong>Integrity</strong></h4>
 We deliver on our promises, are truthful, and choose to do what is right
 even when no one is watching.
