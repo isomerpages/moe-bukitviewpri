@@ -74,6 +74,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Nur Ain Binti Adam</p>
+<p>Mr Daniel Tee</p>
 </td>
 </tr>
 <tr>
