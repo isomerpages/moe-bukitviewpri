@@ -1130,28 +1130,6 @@ variant: tiptap
 <p>leong_xin_yue</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Student Welfare Officer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Muhammad Firdaus bin Madi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>muhammad_firdaus_madi</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Student Welfare Officer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Miss Jasmine Tan Puey Lin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>tan_puey_lin_jasmine</p>
-</td>
-</tr>
 </tbody>
 </table>
 <h4><strong>ADJUNCT TEACHERS</strong></h4>
