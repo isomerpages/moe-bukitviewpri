@@ -22,17 +22,5 @@ inspire the next generation.</p>
 </p>
 <p>Sharing the joyous occasion with our stakeholders: students, teachers,
 parents, external partners:</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong><a href="https://www.youtube.com/watch?v=a2QtYI-ttfc" rel="noopener noreferrer nofollow" target="_blank">https://www.youtube.com/watch?v=a2QtYI-ttfc</a></strong>
 </p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
