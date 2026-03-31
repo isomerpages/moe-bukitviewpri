@@ -8,7 +8,8 @@ description: ""
 every Bukit Viewan to <em>Build Memories and Ignite Dreams</em> in their
 time with us.&nbsp;</p>
 <p></p>
-<p>Getting to know the school</p>
+<p><strong>Getting to know the school</strong>
+</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -36,11 +37,13 @@ time with us.&nbsp;</p>
 </tr>
 </tbody>
 </table>
-<p>Life in BVPS</p>
+<p><strong>Life in BVPS</strong>
+</p>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/tYgSbTrFSCg"></iframe>
 </div>
-<p>What our stakeholders say about us</p>
+<p><strong>What our stakeholders say about us</strong>
+</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -61,8 +64,17 @@ time with us.&nbsp;</p>
 </tr>
 </tbody>
 </table>
-<p>Our space</p>
+<p><strong>Our space</strong>
+</p>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/t3BF9nU9hHU"></iframe>
 </div>
+<p><strong>Update on new campus</strong>
+</p>
+<p>See <a href="https://www.youtube.com/watch?v=Jrb7mtb-wVM" rel="noopener nofollow" target="_blank">here</a> for
+updates on the new BVPS space from 2027.</p>
 <p></p>
+<p><strong>40th Anniversary Celebration</strong>
+</p>
+<p>Visit our 40<sup>th</sup> Anniversary page to keep track of our celebrations
+in this milestone year.</p>
