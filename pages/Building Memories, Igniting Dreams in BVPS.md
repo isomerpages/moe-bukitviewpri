@@ -45,15 +45,14 @@ time with us.&nbsp;</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/tYgSbTrFSCg"></iframe>
+</div>
 </th>
 </tr>
 </tbody>
 </table>
 <p></p>
-<div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/tYgSbTrFSCg"></iframe>
-</div>
 <p><strong>What our stakeholders say about us</strong>
 <br>
 </p>
@@ -86,14 +85,13 @@ time with us.&nbsp;</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/t3BF9nU9hHU"></iframe>
+</div>
 </td>
 </tr>
 </tbody>
 </table>
-<div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/t3BF9nU9hHU"></iframe>
-</div>
 <p>
 <br><strong>Update on new campus</strong>
 <br>See <a href="https://www.youtube.com/watch?v=Jrb7mtb-wVM" rel="noopener nofollow" target="_blank">here</a> for
