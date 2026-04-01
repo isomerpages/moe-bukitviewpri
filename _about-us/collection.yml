@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Mission, Vision and Motto.md
+      - Curriculum/Character and Citizenship Education.md
       - Curriculum/.keep
       - Curriculum/Curriculum Overview.md
       - Curriculum/Mother Tongue Department.md
