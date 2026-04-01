@@ -4,3 +4,22 @@ permalink: /testing/
 variant: tiptap
 description: ""
 ---
+<p>Google Embed</p>
+<p>Medium</p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSD-p6Fz6m2dCiknhX5S4qWr5H1rEgW8CUn3hfv2wg5CTHgM1K8yf_nh7udDQ6ZBPfaf9qM6SOFFx6B/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<p></p>
+<p>Large</p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="900" width="1600" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSD-p6Fz6m2dCiknhX5S4qWr5H1rEgW8CUn3hfv2wg5CTHgM1K8yf_nh7udDQ6ZBPfaf9qM6SOFFx6B/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
+<p></p>
+<p><a href="https://docs.google.com/presentation/d/e/2PACX-1vSD-p6Fz6m2dCiknhX5S4qWr5H1rEgW8CUn3hfv2wg5CTHgM1K8yf_nh7udDQ6ZBPfaf9qM6SOFFx6B/pub?start=true&amp;loop=true&amp;delayms=3000" rel="noopener nofollow" target="_blank">Google Slide Link</a>
+</p>
+<p>
+<br>Canva</p>
+<p></p>
+<p><a href="https://www.canva.com/design/DAHEu5Au0Ss/JlOEPNSXKbKKGQMY33MEDg/view" rel="noopener nofollow" target="_blank">Canva Link</a>
+</p>
+<p></p>
