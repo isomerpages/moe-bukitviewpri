@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Our Learning Dispositions.md
       - Mission, Vision and Motto.md
       - Curriculum/.keep
       - Curriculum/Curriculum Overview.md
@@ -15,6 +14,7 @@ collections:
       - Curriculum/Physical Education.md
       - Curriculum/Science Department.md
       - Our School Values.md
+      - Our Learning Dispositions.md
       - School Crest.md
       - School Song.md
       - School History.md
