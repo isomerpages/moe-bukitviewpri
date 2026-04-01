@@ -4,7 +4,7 @@ permalink: /about-us/schvals/
 description: ""
 variant: markdown
 ---
-<h3><strong>Graciousness</strong></h3>
+<h4><strong>Graciousness</strong></h4>
 We care and help others, are considerate, and greet and communicate with
 everyone politely.
 <h4><strong>Responsibility</strong></h4>
