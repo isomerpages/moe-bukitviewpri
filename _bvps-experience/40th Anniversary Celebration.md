@@ -20,5 +20,4 @@ It all started here… and the journey continues.....</p>
 <p><strong>Celebrating 40 Years Together</strong><br>
 Sharing the joyous occasion with our stakeholders: students, teachers,
 parents, external partners:
-<strong><a href="https://www.youtube.com/watch?v=a2QtYI-ttfc" rel="noopener noreferrer nofollow" target="_blank">https://www.youtube.com/watch?v=a2QtYI-ttfc</a></strong>
-</p>
+<iframe allowfullscreen="" referrerpolicy="strict-origin-when-cross-origin" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/a2QtYI-ttfc?si=ZrPHXXocm6wGmZhe" height="315" width="560"></iframe></p>
