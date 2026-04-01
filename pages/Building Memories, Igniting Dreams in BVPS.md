@@ -92,7 +92,7 @@ description: ""
 </tbody>
 </table>
 <p>
-<br><strong>Update on new campus</strong>
+<br><strong>Updates on new campus</strong>
 <br>Visit this <a href="/bvps-experience/bvps-future/" rel="noopener nofollow" target="_blank">page</a> for
 updates on the new BVPS space from 2027.</p>
 <p><strong>40th Anniversary Celebration</strong>
