@@ -4,9 +4,8 @@ permalink: /bvps-experience/bvps-40th/
 variant: tiptap
 description: ""
 ---
-<p>2026 marks Bukit View Primary’s 40<sup>th</sup> Anniversary. Follow our
-celebrations that reminisce our past, rejoice for our present, and reimagine
-our future.</p>
+<p><strong>2026 marks Bukit View Primary’s 40<sup>th</sup> Anniversary. Follow our celebrations that reminisce our past, rejoice for our present, and reimagine our future.</strong>
+</p>
 <p><strong>Our 40-year journey</strong>
 <br>Coming soon....</p>
 <p>✨<strong>Voices of BVPS </strong>– Alumni Poster Series✨
