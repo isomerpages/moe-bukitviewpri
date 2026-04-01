@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Mission, Vision and Motto.md
+      - Curriculum/Information and Communication Technology.md
       - Curriculum/Science Department.md
       - Curriculum/Character and Citizenship Education.md
       - Curriculum/.keep
