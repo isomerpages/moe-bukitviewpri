@@ -96,7 +96,7 @@ description: ""
 <br>Visit this <a href="/bvps-experience/bvps-future/" rel="noopener nofollow" target="_blank">page</a> for
 updates on the new BVPS space from 2027.</p>
 <p><strong>40th Anniversary Celebration</strong>
-<br>Visit our 40<sup>th</sup> Anniversary page to keep track of our celebrations
+<br>Visit our 40<sup>th</sup> Anniversary <a href="/bvps-experience/bvps-40th/" rel="noopener nofollow" target="_blank">page</a> to keep track of our celebrations
 in this milestone year.</p>
 <p></p>
 <p></p>
