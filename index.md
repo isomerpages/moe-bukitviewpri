@@ -12,9 +12,9 @@ sections:
         - title: Announcements
           description: ""
           url: /announcements/
-        - title: Highlights
+        - title: Building Memories, Igniting Dreams in BVPS
           description: ""
-          url: /highlights/
+          url: /building-memories-igniting-dreams/
         - title: Quick Links
           description: ""
           url: /Quick-Links/
