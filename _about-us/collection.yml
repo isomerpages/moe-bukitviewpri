@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Curriculum/Curriculum Overview.md
       - Curriculum/.keep
       - Mission, Vision and Motto.md
       - Our School Values.md
