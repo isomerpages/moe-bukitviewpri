@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Mission, Vision and Motto.md
+      - Curriculum/English Department.md
       - Curriculum/.keep
       - Curriculum/Curriculum Overview.md
       - Our School Values.md
