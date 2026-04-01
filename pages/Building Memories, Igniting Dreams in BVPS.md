@@ -4,9 +4,8 @@ permalink: /building-memories-igniting-dreams/
 variant: tiptap
 description: ""
 ---
-<p>Bukit View Primary strives to curate vibrant school experiences to enable
-every Bukit Viewan to <em>Build Memories and Ignite Dreams</em> in their
-time with us.&nbsp;</p>
+<p><strong>Bukit View Primary strives to curate vibrant school experiences to enable every Bukit Viewan to <em>Build Memories and Ignite Dreams</em> in their time with us.&nbsp;</strong>
+</p>
 <p><strong>Getting to know the school</strong>
 </p>
 <table style="minWidth: 75px">
