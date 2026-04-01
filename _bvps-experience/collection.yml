@@ -2,7 +2,6 @@ collections:
   bvps-experience:
     output: true
     order:
-      - Life in BVPS (nnew).md
       - 40th Anniversary Celebration.md
       - Our Upcoming New BVPS.md
       - CCA.md
@@ -43,3 +42,4 @@ collections:
       - Student Leadership/Rewards and Recognition.md
       - Life in BVPS.md
       - Life in BVPS (new).md
+      - Life in BVPS (nnew).md
