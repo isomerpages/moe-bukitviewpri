@@ -3,11 +3,11 @@ collections:
     output: true
     order:
       - Mission, Vision and Motto.md
+      - Curriculum/.keep
+      - Curriculum/Curriculum Overview.md
       - Curriculum/Mother Tongue Department.md
       - Curriculum/Mathematics Department.md
       - Curriculum/English Department.md
-      - Curriculum/.keep
-      - Curriculum/Curriculum Overview.md
       - Our School Values.md
       - School Crest.md
       - School Song.md
