@@ -6,10 +6,10 @@ description: ""
 ---
 <p>Learning dispositions are the attitudes, motivations, and interests that
 shape how students approach learning. Developing positive dispositions
-provides a strong foundation for life-long learning.</p>
+provides a strong foundation for life-long learning.
 At Bukit View Primary School, we focus on nurturing <strong>three</strong> key
 learning dispositions in every student. These dispositions are intentionally
-inculcated through academic subjects and school programmes.<p></p>
+inculcated through academic subjects and school programmes.</p>
 <p><strong>Adaptability</strong><br>
 Bukit Viewans are open to changes and uncertainties, look for ways to
 solve problems and are willing to try new things.</p>
