@@ -4,9 +4,11 @@ permalink: /highlights/
 description: ""
 variant: markdown
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Homepage/News%20and%20Views/Highlight.jpg">
-</div>
+<p><strong>Schedule of School Events</strong>
+</p>
+<iframe scrolling="no" frameborder="0" height="600" width="800" style="border: 0" src="https://calendar.google.com/calendar/embed?src=bukitview_ps%40moe.edu.sg&amp;ctz=Asia%2FSingapore"></iframe> 
+<p>Note: <em>*Schedule accurate as of date of publication. Parents should refer to Parents Gateway for event-specific information, when available</em>
+</p>
 <h1><strong>News &amp; Views</strong></h1>
 <p>For P5 and P6 students, drama provides a platform for students to hone
 their skills and showcase their talents as they collaborate with their
