@@ -93,7 +93,7 @@ description: ""
 </table>
 <p>
 <br><strong>Update on new campus</strong>
-<br>See <a href="https://www.youtube.com/watch?v=Jrb7mtb-wVM" rel="noopener nofollow" target="_blank">here</a> for
+<br>See <a href="/bvps-experience/bvps-future/" rel="noopener nofollow" target="_blank">here</a> for
 updates on the new BVPS space from 2027.</p>
 <p><strong>40th Anniversary Celebration</strong>
 <br>Visit our 40<sup>th</sup> Anniversary page to keep track of our celebrations
