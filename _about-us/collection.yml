@@ -3,16 +3,16 @@ collections:
     output: true
     order:
       - Mission, Vision and Motto.md
-      - Curriculum/Aesthetics.md
-      - Curriculum/Physical Education.md
-      - Curriculum/Information and Communication Technology.md
-      - Curriculum/Science Department.md
-      - Curriculum/Character and Citizenship Education.md
       - Curriculum/.keep
       - Curriculum/Curriculum Overview.md
-      - Curriculum/Mother Tongue Department.md
-      - Curriculum/Mathematics Department.md
+      - Curriculum/Aesthetics.md
+      - Curriculum/Character and Citizenship Education.md
       - Curriculum/English Department.md
+      - Curriculum/Information and Communication Technology.md
+      - Curriculum/Mathematics Department.md
+      - Curriculum/Mother Tongue Department.md
+      - Curriculum/Physical Education.md
+      - Curriculum/Science Department.md
       - Our School Values.md
       - School Crest.md
       - School Song.md
