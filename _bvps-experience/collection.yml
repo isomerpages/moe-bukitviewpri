@@ -2,8 +2,8 @@ collections:
   bvps-experience:
     output: true
     order:
-      - Our Upcoming New BVPS.md
       - 40th Anniversary Celebration.md
+      - Our Upcoming New BVPS.md
       - CCA.md
       - Visual and Performing Arts/.keep
       - Visual and Performing Arts/Drama.md
