@@ -172,7 +172,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="2">
 <p>Mdm Grace Goh
-<br>Mdm Brenda Chong</p>
+<br>Mrs Brenda Lee</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>grace_goh_yue_lin
