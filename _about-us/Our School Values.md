@@ -12,8 +12,8 @@ values in their thoughts,&nbsp;words&nbsp;and actions.&nbsp;
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/GR2IT_values.png">
 </div>
-<p><strong>Graciousness</strong>
-</p><ul data-tight="true" class="tight">
+<h4><strong>Graciousness</strong></h4>
+<ul data-tight="true" class="tight">
 <li>
 Greet&nbsp;and&nbsp;communicate&nbsp;with everyone politely&nbsp;
 </li>
