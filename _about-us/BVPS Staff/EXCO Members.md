@@ -197,17 +197,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Chloe Wong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Lead Teacher- Mathematics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>wong_soo_ching</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Tan Ming Say</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -382,6 +371,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>mohammad_abdul_halim_rosli</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Chloe Wong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lead Teacher- Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>wong_soo_ching</p>
 </td>
 </tr>
 </tbody>
