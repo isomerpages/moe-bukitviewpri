@@ -6,8 +6,6 @@ description: ""
 ---
 <p><strong>2026 marks Bukit View Primary’s 40<sup>th</sup> Anniversary. Follow our celebrations that reminisce our past, rejoice for our present, and reimagine our future.</strong>
 </p>
-<p><strong>Our 40-year journey</strong>
-<br>Coming soon...</p>
 <p>✨<strong>Voices of BVPS </strong>– Alumni Poster Series✨
 <br>The Voices of BVPS poster series is a teaser to introduce a special group
 of individuals - our very own alumni who were once students of Bukit View
