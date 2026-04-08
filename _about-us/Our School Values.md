@@ -10,7 +10,7 @@ the school values of GR<sup>2</sup>IT: Graciousness, Responsibility, Respect,&nb
 Tenacity.&nbsp;As Bukit&nbsp;Viewans, our students are guided by these
 values in their thoughts,&nbsp;words&nbsp;and actions.&nbsp;
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/GR2IT_values.png">
+<img style="width: 200%" height="auto" width="200%" alt="" src="/images/About Us/GR2IT_values.png">
 </div>
 <h4><strong>Graciousness</strong></h4>
 <ul data-tight="true" class="tight">
