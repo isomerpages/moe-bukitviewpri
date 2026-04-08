@@ -5,10 +5,10 @@ description: ""
 variant: tiptap
 ---
 <h4><strong>Our School Values&nbsp;</strong></h4>
-<p><strong>&nbsp;</strong>The school’s character education is premised on
-the school values of GR<sup>2</sup>IT: Graciousness, Responsibility, Respect,&nbsp;Integrity&nbsp;and
-Tenacity.&nbsp;As Bukit&nbsp;Viewans, our students are guided by these
-values in their thoughts,&nbsp;words&nbsp;and actions.&nbsp;</p>
+<p>The school’s character education is premised on the school values of GR<sup>2</sup>IT:
+Graciousness, Responsibility, Respect,&nbsp;Integrity&nbsp;and Tenacity.&nbsp;As
+Bukit&nbsp;Viewans, our students are guided by these values in their thoughts,&nbsp;words&nbsp;and
+actions.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/GRIT_values_enlarged.png">
 </div>
