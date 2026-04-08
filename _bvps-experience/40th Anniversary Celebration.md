@@ -55,5 +55,4 @@ inspire the next generation.
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/a2QtYI-ttfc?si=ZrPHXXocm6wGmZhe"></iframe>
 </div>
 <p><strong>Coming Soon …</strong>
-</p>
-<p>Stay tune for updates on the segment “Our 40-year journey”</p>
+<br>Stay tune for updates on the segment “Our 40-year journey”</p>
