@@ -50,8 +50,7 @@ inspire the next generation.
 </tbody>
 </table>
 <p><strong>Celebrating 40 Years Together</strong>
-<br>Our students, staff, parents, and external partners sharing the joyous
-occasion with us 🏫🥳</p>
+<br>School’s warm up to the celebrations to come! 🏫🥳</p>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/a2QtYI-ttfc?si=ZrPHXXocm6wGmZhe"></iframe>
 </div>
