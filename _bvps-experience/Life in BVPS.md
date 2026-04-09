@@ -6,7 +6,7 @@ variant: markdown
 ---
 <p><strong>Schedule of School Events</strong>
 </p>
-<iframe scrolling="no" frameborder="0" height="600" width="800" style="border: 0" src="https://calendar.google.com/calendar/embed?src=bukitview_ps%40moe.edu.sg&amp;ctz=Asia%2FSingapore"></iframe> 
+<iframe scrolling="no" frameborder="0" height="600" width="800" style="border:solid 1px #777" src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;ctz=Asia%2FSingapore&amp;showPrint=0&amp;src=c3lsdmlhX3Rhbl9oYW5feXVAbW9lLmVkdS5zZw&amp;src=Y18wMmJkZjI4NzgxNTliOTFmOGQ3NDMwZjRhYTRjYjU1ZGNhYzljNTk4NGEyMjcwNjhmMDg1ODgyMTgzYmI0NGIxQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&amp;color=%23039be5&amp;color=%23ad1457"></iframe>
 <p>Note: <em>*Schedule accurate as of date of publication. Parents should refer to Parents Gateway for event-specific information, when available</em>
 </p>
 <h1><strong>News &amp; Views</strong></h1>
