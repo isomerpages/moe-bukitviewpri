@@ -11,15 +11,14 @@ care through essential basic first aid, but it also aspires to develop
 students to become caring, responsible and motivated leaders in the community.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Excellent Unit Award (EUA)</strong>&nbsp;– Gold Award for Year
-2025</p>
+<strong>Excellent Unit Award (EUA)</strong>&nbsp;– Gold Award for Year
+2025
+</li>
+<li><strong>First-Aid Championships (FAC)</strong> – Gold Award (2026)
 </li>
 <li>
-<p><strong>First-Aid Championships (FAC)</strong> – Gold Award (2026)</p>
-</li>
-<li>
-<p><strong>Ambassador of Blood Donation Competition</strong> – Gold Award
-(2026)</p>
+<strong>Ambassador of Blood Donation Competition</strong> – Gold Award
+(2026)
 </li>
 </ul>
 <table style="minWidth: 50px">
