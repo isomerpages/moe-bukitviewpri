@@ -102,7 +102,7 @@ students to become caring, responsible and motivated leaders in the community.</
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>TUES</p>
+<p>TUE</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2pm to 4pm</p>
