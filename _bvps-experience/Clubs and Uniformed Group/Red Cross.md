@@ -9,6 +9,19 @@ variant: tiptap
 in being a CCA that not only develops students with the ability to provide
 care through essential basic first aid, but it also aspires to develop
 students to become caring, responsible and motivated leaders in the community.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Excellent Unit Award (EUA)</strong>&nbsp;– Gold Award for Year
+2025</p>
+</li>
+<li>
+<p><strong>First-Aid Championships (FAC)</strong> – Gold Award (2026)</p>
+</li>
+<li>
+<p><strong>Ambassador of Blood Donation Competition</strong> – Gold Award
+(2026)</p>
+</li>
+</ul>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -39,7 +52,7 @@ students to become caring, responsible and motivated leaders in the community.</
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BVPS Experience/Co Curricular Activities/Clubs &amp; Uniformed Group/RED CROSS/campfire.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BVPS Experience/Co Curricular Activities/Clubs &amp; Uniformed Group/RED CROSS/FAC_2026_group_photo_2.jpg">
 </div>
 </td>
 </tr>
@@ -97,8 +110,8 @@ students to become caring, responsible and motivated leaders in the community.</
 <td rowspan="1" colspan="1">
 <p>Mrs Cherie Lim (IC)
 <br>Mdm Lim Su Ru
-<br>Miss Siti Nur Umairah Binte Hashim
-</p></td>
+<br>Miss Siti Nur Umairah Binte Hashim</p>
+</td>
 <td rowspan="1" colspan="1">
 <p>Music Studio</p>
 </td>
