@@ -112,7 +112,7 @@ students to become caring, responsible and motivated leaders in the community.</
 <br>Miss Siti Nur Umairah Binte Hashim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Music Studio</p>
+<p>Library</p>
 </td>
 </tr>
 </tbody>
