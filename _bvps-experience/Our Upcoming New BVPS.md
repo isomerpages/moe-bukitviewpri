@@ -27,10 +27,12 @@ new home in Bukit Batok West Ave 8.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/BVPS Experience/Life in BVPS/BVPS_New_site_map.jpg">
 </div>
+
 <p>Still unsure about how to make your way to the new BVPS campus? 🏫 Finding
 your way would be a breeze with the many bus services 🚌 connected to the
 new campus. Check out the site map to find the most convenient bus route
 for you! &nbsp;</p>
 <p></p>
+<iframe allowfullscreen="" referrerpolicy="strict-origin-when-cross-origin" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/Bz-ma9sDYIw?si=zxLGArxnnos-TrZR" height="315" width="560"></iframe>
 <p>Not sure which turn to take once you hop off the bus? Watch the video to let
 our school leaders show you the way!️🚶‍♂️‍➡️♂️‍➡️ </p>
