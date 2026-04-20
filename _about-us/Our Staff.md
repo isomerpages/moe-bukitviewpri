@@ -4,6 +4,7 @@ permalink: /about-us/our-staff/
 description: ""
 variant: markdown
 ---
+<h4><strong>EXCO MEMBERS</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -1651,7 +1652,7 @@ variant: markdown
 </tbody>
 </table>
 <p></p>
-<h4><strong>Non-Teaching Staff</strong></h4>
+<h4><strong>NON-TEACHING STAFF</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
