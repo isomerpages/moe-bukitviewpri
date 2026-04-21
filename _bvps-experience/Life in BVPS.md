@@ -4,7 +4,6 @@ permalink: /bvps-experience/life-in-bvps/
 description: ""
 variant: tiptap
 ---
-<strong>News &amp; Views</strong>
 <p>For P5 and P6 students, drama provides a platform for students to hone
 their skills and showcase their talents as they collaborate with their
 peers to put up drama performances for the whole school.</p>
@@ -17,12 +16,12 @@ in the recent years. Enjoy! <em>(click on the links below to view)</em>
 <p><strong>5TE - Towards an Inclusive Society</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="393" width="699" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/xsBJjefo5ZA?si=bfWxP0hFlkg8mJbG"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="393" width="699" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/xsBJjefo5ZA?si=bfWxP0hFlkg8mJbG"></iframe>
 </div>
 <p><strong>5RT - Towards a Greener Tomorrow</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="393" width="699" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ARL4q_6hjDc?si=vR8V97TCtxW__tta"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="393" width="699" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ARL4q_6hjDc?si=vR8V97TCtxW__tta"></iframe>
 </div>
 <p></p>
 <p><strong>2023 Videos and Photos</strong>
@@ -31,12 +30,12 @@ in the recent years. Enjoy! <em>(click on the links below to view)</em>
 <p><strong>6CA - Cyberwellness theme</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="393" width="699" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/MZpqI26a2LI"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="393" width="699" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/MZpqI26a2LI"></iframe>
 </div>
 <p><strong>6GR - Social Responsibility and Resilience</strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="393" width="699" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/SnTw8Uot4C0"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="393" width="699" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/SnTw8Uot4C0"></iframe>
 </div>
 <p><strong>6HA - Bullying Prevention Matters</strong>
 </p>
