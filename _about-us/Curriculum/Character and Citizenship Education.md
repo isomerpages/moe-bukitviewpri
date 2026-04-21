@@ -1,6 +1,6 @@
 ---
 title: Character and Citizenship Education
-permalink: /bvps-experience/curriculum/cce/
+permalink: /about-us/curriculum/cce/
 variant: tiptap
 description: ""
 third_nav_title: Curriculum

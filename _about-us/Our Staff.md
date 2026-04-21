@@ -1,10 +1,392 @@
 ---
-title: Teaching Staff 2026
-permalink: /about-us/bvps-staff/teaching-staff-2026/
+title: Our Staff
+permalink: /about-us/our-staff/
 description: ""
-third_nav_title: BVPS Staff
-variant: tiptap
+variant: markdown
 ---
+<h4><strong>EXCO MEMBERS</strong></h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Appointment</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Email Address
+<br>@ moe.edu.sg</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Teo Eng Hui
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Principal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>bukitview_ps</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Lee Jun Wen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vice-Principal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>bukitview_ps</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Terence Tay</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vice-Principal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>bukitview_ps</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Goh Gin Howe</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vice-Principal (Administration)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>bukitview_ps</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Siti Liana</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Administration Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>siti_liana_rosd
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Serene Kiew</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Administration Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>kiew_wanxin</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Faith Chung</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD / Aesthetics &amp; Partnership</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>faith_chung_wai_teng</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Tan Sze-Hui Vanessa</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD / CCE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>tan_sze_hui_vanessa</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Norsidah Suadi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD / Educational Support</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>norsidah_suadi</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Eliana Bte Mohamed</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD / English Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>eliana_mohamed</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Matthew Chong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD / ICT</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>chong_chee_weng</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Ng Kay Joo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD / Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ng_kay_joo</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Kimberley Lin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD / Mother Tongue</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>peh_hui_min_kimberley</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Gary Teo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD / PE &amp; CCA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>gary_teo_jiunn_shyan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Stephen Joseph D'cruz</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD / Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>stephen_joseph_dcruz
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Tan Ming Say</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Year Head (Upper Pri)
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>tan_ming_say</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Cheng Joo Hiang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Year Head (Lower Pri)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>cheng_joo_hiang</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Ernita Bte Mohd Yazid</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Assistant Year Head (Upper Pri)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ernita_mohd_yazid</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Nur Liyanna Maznin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Assistant Year Head (Middle Pri)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>nur_liyanna_maznin</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Tan Shuen Keat Elvin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Assistant Year Head (Middle Pri) (Internal)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>tan_shuen_keat</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Ghanim Bin Salim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Assistant Year Head (Lower Pri)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ghanim_salim</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Thomas Ang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH / 21CC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ang_tiong_wei</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Miss Ashley Boey</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH / English Language (Internal)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>sabrina_abdullahashley_boey_ching</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Miss Erh Xin Hui</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH / CCE (Internal)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>erh_xin_hui</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Tan Ya Xin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH / Chinese</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>tan_ya_xin</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Tham Wei Ting, Vanessa</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH / ICT &amp; Data Management</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>tham_wei_ting_vanessa</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Ng Tse Ern Serene</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH / Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ng_tse_ern</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Diana Wan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH / Partnership (Internal)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>tho_lee_kian_diana</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Hazel Neo Hui Fen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH / Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>neo_hui_fen</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Sylvia Tan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH / Special Projects</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>sylvia_tan_han_yu</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Mohammad Abdul Halim Bin Rosli</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH / Student Management (Internal)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>mohammad_abdul_halim_rosli</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Chloe Wong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lead Teacher- Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>wong_soo_ching</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <h4><strong>PRIMARY 1 FORM TEACHERS</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
@@ -172,7 +554,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="2">
 <p>Mdm Grace Goh
-<br>Mdm Brenda Chong</p>
+<br>Mrs Brenda Lee</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>grace_goh_yue_lin
@@ -1144,7 +1526,7 @@ variant: tiptap
 <p>1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Dinah Tan-Lim Hong Buay</p>
+<p>Mdm Chia Hui</p>
 </td>
 </tr>
 <tr>
@@ -1152,7 +1534,7 @@ variant: tiptap
 <p>2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Rahayu Bte Mohd Ali</p>
+<p>Mrs Dinah Tan-Lim Hong Buay</p>
 </td>
 </tr>
 <tr>
@@ -1160,7 +1542,7 @@ variant: tiptap
 <p>3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Wong Po San</p>
+<p>Mdm Hasiave Bte Abdullah</p>
 </td>
 </tr>
 <tr>
@@ -1168,7 +1550,7 @@ variant: tiptap
 <p>4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Selena Ang</p>
+<p>Mdm Juliet Ang Shy Yunn</p>
 </td>
 </tr>
 <tr>
@@ -1176,7 +1558,7 @@ variant: tiptap
 <p>5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Kavitha</p>
+<p>Mdm Junaidah Binte Manap</p>
 </td>
 </tr>
 <tr>
@@ -1184,7 +1566,7 @@ variant: tiptap
 <p>6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Juliet Ang Shy Yunn</p>
+<p>Miss Kavitha D/O Alagrusamy</p>
 </td>
 </tr>
 <tr>
@@ -1208,7 +1590,7 @@ variant: tiptap
 <p>9</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Shamsudin Hashim</p>
+<p>Mdm Ng Siew Hong</p>
 </td>
 </tr>
 <tr>
@@ -1216,7 +1598,7 @@ variant: tiptap
 <p>10</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Sarinah Bte Samsudin</p>
+<p>Mrs Priscilla Ng</p>
 </td>
 </tr>
 <tr>
@@ -1224,7 +1606,7 @@ variant: tiptap
 <p>11</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Ng Siew Hong</p>
+<p>Mdm Rahayu Bte Mohamed Ali</p>
 </td>
 </tr>
 <tr>
@@ -1232,7 +1614,7 @@ variant: tiptap
 <p>12</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Rebecca Goh Tok Min</p>
+<p>Mdm Sarinah Bte Samsudin</p>
 </td>
 </tr>
 <tr>
@@ -1240,7 +1622,7 @@ variant: tiptap
 <p>13</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Rohani Bte Ishak</p>
+<p>Mrs Selena Ang</p>
 </td>
 </tr>
 <tr>
@@ -1248,7 +1630,7 @@ variant: tiptap
 <p>14</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Yap Meixiang Mika</p>
+<p>Mr Shamsudin Hashim</p>
 </td>
 </tr>
 <tr>
@@ -1256,9 +1638,108 @@ variant: tiptap
 <p>15</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Priscilla Ng</p>
+<p>Miss Wong Po San</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>16</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Yap Meixiang Mika</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p></p>
+<h4><strong>NON-TEACHING STAFF</strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Administration Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Siti Liana Rosd
+<br>Mdm Serene Kiew</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Operations Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Nazir
+<br>Mr Eric Yeo</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Administrative Executive</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Jessie Ang
+<br>Mdm Aisha Begum</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Corporate Support Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Suriati Binti Shukor
+<br>Mdm Gladys Cheng</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Operation Support Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Oh Geok Cheng
+<br>Mdm Veloo Manorangitham
+<br>Mdm Vellasamy Vijayaletchimi
+<br>Mr Cheong Wai Kit
+<br>Mr Toh Sin Lye
+<br>Mr Quek Choon Ho</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ICT Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Khoo Kwan Liang</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Desktop Engineer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Nur Ain Binti Adam<br>
+Mr Daniel Tee</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Library Assistant</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Amira Syafiqah</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ICT Teacher Aide</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Peter Tan</p>
+</td>
+</tr>
+</tbody>
+</table>

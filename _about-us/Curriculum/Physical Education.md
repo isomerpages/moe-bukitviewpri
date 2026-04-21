@@ -1,6 +1,6 @@
 ---
 title: Physical Education
-permalink: /bvps-experience/curriculum/pe/
+permalink: /about-us/curriculum/pe/
 description: ""
 third_nav_title: Curriculum
 variant: tiptap

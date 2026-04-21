@@ -2,7 +2,7 @@
 title: Announcements
 permalink: /announcements/
 description: ""
-variant: tiptap
+variant: markdown
 ---
 <h2><strong>Relocation of Bukit View Primary School to Bukit Batok West in January 2027</strong></h2>
 <p>The Ministry of Education has announced on 9 Feb 2023 that Bukit View

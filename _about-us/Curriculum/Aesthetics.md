@@ -1,6 +1,6 @@
 ---
 title: Aesthetics
-permalink: /bvps-experience/curriculum/aesthetics/
+permalink: /about-us/curriculum/aesthetics/
 description: ""
 third_nav_title: Curriculum
 variant: tiptap

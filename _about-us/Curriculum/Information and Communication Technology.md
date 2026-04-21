@@ -1,6 +1,6 @@
 ---
 title: Information and Communication Technology
-permalink: /bvps-experience/curriculum/ict/
+permalink: /about-us/curriculum/ict/
 description: ""
 third_nav_title: Curriculum
 variant: tiptap

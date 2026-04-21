@@ -1,6 +1,6 @@
 ---
 title: Mother Tongue Department
-permalink: /bvps-experience/curriculum/mt/
+permalink: /about-us/curriculum/mt/
 description: ""
 third_nav_title: Curriculum
 variant: tiptap

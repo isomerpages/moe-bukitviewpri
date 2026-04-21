@@ -5,16 +5,20 @@ links:
     sublinks:
       - title: Mission, Vision and Motto
         url: /about-us/mvm
+      - title: Curriculum Overview
+        url: /about-us/curriculum/curriculum-overview/
       - title: Our School Values
-        url: /about-us/schvals/
+        url: /about-us/values
+      - title: Our Learning Dispositions
+        url: /about-us/our-learning-dispositions/
       - title: School Crest
         url: /about-us/schcrest/
       - title: School Song
         url: /about-us/schsong/
       - title: School History
         url: /about-us/schhistory/
-      - title: BVPS Staff
-        url: /about-us/bvps-staff/exco-members/
+      - title: Our Staff
+        url: /about-us/our-staff/
       - title: Centre of Excellence
         url: /about-us/wzcoea/
   - title: BVPS Experience
@@ -22,14 +26,16 @@ links:
     sublinks:
       - title: Co-Curricular Activities
         url: /bvps-experience/cocurricular-activities/
-      - title: Curriculum
-        url: /bvps-experience/curriculum/curriculum-overview/
       - title: Learn For Life Programmes
         url: /bvps-experience/learn-for-life-programmes/learn-for-life-programmes-at-bvps/
       - title: Student Leadership
         url: /student-leadership/
       - title: Life in BVPS
-        url: /bvps-experience/Life-in-BVPS/
+        url: /bvps-experience/life-in-bvps/
+      - title: 40th Anniversary Celebration
+        url: /bvps-experience/bvps-40th/
+      - title: Our Upcoming New BVPS
+        url: /bvps-experience/bvps-future/
   - title: Parents & Partners
     url: /parents-and-partners/info-for-parents/info-for-parents/
     sublinks:

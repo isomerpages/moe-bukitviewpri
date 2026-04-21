@@ -1,6 +1,6 @@
 ---
 title: Science Department
-permalink: /bvps-experience/curriculum/sci/
+permalink: /about-us/curriculum/sci/
 description: ""
 third_nav_title: Curriculum
 variant: tiptap

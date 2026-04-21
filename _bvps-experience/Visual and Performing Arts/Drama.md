@@ -1,6 +1,6 @@
 ---
 title: Drama
-permalink: /bvps-experience/clubs-and-uniformed-group/drama/
+permalink: /bvps-experience/aesthetics-and-performing-arts/drama/
 description: ""
 third_nav_title: Visual and Performing Arts
 variant: markdown
@@ -71,7 +71,7 @@ events and competitions.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>TUES</p>
+<p>TUE</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>2pm to 4pm</p>

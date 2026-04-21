@@ -1,9 +1,9 @@
 ---
 title: Curriculum Overview
-permalink: /bvps-experience/curriculum/curriculum-overview/
+permalink: /about-us/curriculum/curriculum-overview/
 description: ""
-third_nav_title: Curriculum
 variant: tiptap
+third_nav_title: Curriculum
 ---
 <table style="minWidth: 50px">
 <colgroup>

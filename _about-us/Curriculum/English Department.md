@@ -1,6 +1,6 @@
 ---
 title: English Department
-permalink: /bvps-experience/curriculum/english/
+permalink: /about-us/curriculum/english/
 description: ""
 third_nav_title: Curriculum
 variant: tiptap

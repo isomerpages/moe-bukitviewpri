@@ -29,33 +29,38 @@ National Day Dinner.</p>
 </td>
 </tr>
 <tr>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/BVPS%20Experience/Co%20Curricular%20Activities/Aesthetics%20and%20Performing%20Arts/MALAY%20DANCE/M1.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/BVPS%20Experience/Co%20Curricular%20Activities/Aesthetics%20and%20Performing%20Arts/MALAY%20DANCE/M3.jpg">
-</div>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="2">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/BVPS%20Experience/Co%20Curricular%20Activities/Aesthetics%20and%20Performing%20Arts/MALAY%20DANCE/M2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BVPS Experience/Co Curricular Activities/Aesthetics and Performing Arts/MALAY DANCE/Malay_Dance_1_2026.jpg">
 </div>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/BVPS%20Experience/Co%20Curricular%20Activities/Aesthetics%20and%20Performing%20Arts/MALAY%20DANCE/M4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BVPS Experience/Co Curricular Activities/Aesthetics and Performing Arts/MALAY DANCE/Malay_Dance_2_2026.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BVPS Experience/Co Curricular Activities/Aesthetics and Performing Arts/MALAY DANCE/Malay_Dance_5_2026.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BVPS Experience/Co Curricular Activities/Aesthetics and Performing Arts/MALAY DANCE/Malay_Dance_4_2026.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/BVPS%20Experience/Co%20Curricular%20Activities/Aesthetics%20and%20Performing%20Arts/MALAY%20DANCE/M5.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BVPS Experience/Co Curricular Activities/Aesthetics and Performing Arts/MALAY DANCE/Malay_Dance_3_2026.jpg">
 </div>
 </td>
 </tr>
@@ -85,7 +90,7 @@ National Day Dinner.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>TUES</p>
+<p>TUE</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2pm to 4pm</p>
