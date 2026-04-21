@@ -4,12 +4,7 @@ permalink: /bvps-experience/life-in-bvps/
 description: ""
 variant: markdown
 ---
-<p><strong>Schedule of School Events</strong>
-</p>
-<iframe scrolling="no" frameborder="0" height="600" width="800" style="border:solid 1px #777" src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=2&amp;ctz=Asia%2FSingapore&amp;showPrint=0&amp;src=c3lsdmlhX3Rhbl9oYW5feXVAbW9lLmVkdS5zZw&amp;src=Y19lOWJmNTM1NTM5ZWUyNzg3NWI3YjhlY2YzOTdjMWM3MGFkMjNiNDdjOGM2NjRmMTgyMjdiMDdjNzZiMjQ5MzAxQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&amp;color=%23039be5&amp;color=%23c0ca33"></iframe>
-<p>Note: <em>*Schedule accurate as of date of publication. Parents should refer to Parents Gateway for event-specific information, when available</em>
-</p>
-<h1><strong>News &amp; Views</strong></h1>
+<strong>News &amp; Views</strong>
 <p>For P5 and P6 students, drama provides a platform for students to hone
 their skills and showcase their talents as they collaborate with their
 peers to put up drama performances for the whole school.</p>
