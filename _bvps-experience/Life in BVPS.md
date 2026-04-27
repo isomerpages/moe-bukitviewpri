@@ -10,15 +10,15 @@ peers to put up drama performances for the whole school.
 <br>Here are the links to some of our News and Views drama videos showcased
 in the recent years. Enjoy!
 <h4><strong>2025 Videos</strong></h4>
+<p><strong>Drama Club - EL Week Game On - Power up your English XP</strong>
+	</p><div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="393" width="699" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/8-Jao11iuVE?si=VEbxzpQvp-9N6irG"></iframe></div>
 <p><strong>6TE - Be an Upstander</strong>
 </p><div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="393" width="699" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/-NM9pIx34JU?si=WgqL0YOJndK0PxKX"></iframe></div>
 <p><strong>6GR - Respect Inside Out</strong>
 </p><div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="393" width="699" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/gAo_dfAA1Nc?si=03cK7_BdYrpDpVXr"></iframe></div>
-<p><strong>Drama Club - EL Week Game On - Power up your English XP</strong>
-	</p><div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" height="393" width="699" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/8-Jao11iuVE?si=VEbxzpQvp-9N6irG"></iframe></div>
 <p><strong>6RY - Curiosity</strong>
 	</p><div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="393" width="699" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Pgwh0MkMYdc?si=rNEA_08oX1fQNJgv"></iframe></div>
