@@ -36,8 +36,7 @@ in the recent years. Enjoy! <em>(click on the links below to view)</em>
 <iframe allowfullscreen="" referrerpolicy="strict-origin-when-cross-origin" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/igc8DUUoEUA?si=Ss22_ptTSMN1wBLB" height="315" width="560"></iframe></p>
 <p><strong>5GR - Adaptability</strong>
 <iframe allowfullscreen="" referrerpolicy="strict-origin-when-cross-origin" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/B8VGmRYbxIo?si=Hf35JdFwpTy9Kjhi" height="315" width="560"></iframe>
-</p>
-<h4><strong>2024 Videos</strong></h4>
+</p><h4><strong>2024 Videos</strong></h4>
 <p><strong>5TE - Towards an Inclusive Society</strong>
 </p>
 <div class="iframe-wrapper">
@@ -48,7 +47,6 @@ in the recent years. Enjoy! <em>(click on the links below to view)</em>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="393" width="699" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ARL4q_6hjDc?si=vR8V97TCtxW__tta"></iframe>
 </div>
-<p></p>
 <h4><strong>2023 Videos and Photos</strong></h4>
 <p><strong>6CA - Cyberwellness theme</strong>
 </p>
@@ -135,4 +133,3 @@ in the recent years. Enjoy! <em>(click on the links below to view)</em>
 </p>
 </li>
 </ul>
-<p></p>
