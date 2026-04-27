@@ -12,8 +12,10 @@ in the recent years. Enjoy! <em>(click on the links below to view)</em>
 </p>
 <h4><strong>2025 Videos</strong></h4>
 <p><strong>6TE - Be an Upstander</strong>
+<iframe allowfullscreen="" referrerpolicy="strict-origin-when-cross-origin" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/-NM9pIx34JU?si=WgqL0YOJndK0PxKX" height="315" width="560"></iframe>
 </p>
 <p><strong>6GR - Respect Inside Out</strong>
+<iframe allowfullscreen="" referrerpolicy="strict-origin-when-cross-origin" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/gAo_dfAA1Nc?si=03cK7_BdYrpDpVXr" height="315" width="560"></iframe>
 </p>
 <p><strong>Drama Club - EL Week Game On - Power up your English XP</strong>
 </p>
