@@ -8,7 +8,7 @@ variant: markdown
 their skills and showcase their talents as they collaborate with their
 peers to put up drama performances for the whole school.</p>
 <p>Here are the links to some of our News and Views drama videos showcased
-in the recent years. Enjoy! <em>(click on the links below to view)</em>
+in the recent years. Enjoy!
 </p>
 <h4><strong>2025 Videos</strong></h4>
 <p><strong>6TE - Be an Upstander</strong>
