@@ -4,12 +4,13 @@ permalink: /bvps-experience/life-in-bvps/
 description: ""
 variant: markdown
 ---
-For P5 and P6 students, drama provides a platform for students to hone
+<iframe scrolling="no" frameborder="0" height="600" width="800" style="border: 0" src="https://calendar.google.com/calendar/embed?src=c_e9bf535539ee27875b7b8ecf397c1c70ad23b47c8c664f18227b07c76b249301%40group.calendar.google.com&amp;ctz=Asia%2FSingapore"></iframe>
+<p>For P5 and P6 students, drama provides a platform for students to hone
 their skills and showcase their talents as they collaborate with their
 peers to put up drama performances for the whole school.
 <br>Here are the links to some of our News and Views drama videos showcased
 in the recent years. Enjoy!
-<h4><strong>2025 Videos</strong></h4>
+</p><h4><strong>2025 Videos</strong></h4>
 <p><strong>Drama Club - EL Week Game On - Power up your English XP</strong>
 	</p><div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="393" width="699" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/8-Jao11iuVE?si=VEbxzpQvp-9N6irG"></iframe></div>
