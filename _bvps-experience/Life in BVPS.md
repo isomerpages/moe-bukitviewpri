@@ -52,7 +52,7 @@ in the recent years. Enjoy!
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="393" width="699" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/B8VGmRYbxIo?si=Hf35JdFwpTy9Kjhi"></iframe>
 </div>
 <h4><strong>2024 videos</strong></h4>
-<br><strong>5TE - Towards an Inclusive Society</strong>
+<strong>5TE - Towards an Inclusive Society</strong>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="393" width="699" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/xsBJjefo5ZA?si=bfWxP0hFlkg8mJbG"></iframe>
 </div>
@@ -61,7 +61,7 @@ in the recent years. Enjoy!
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="393" width="699" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ARL4q_6hjDc?si=vR8V97TCtxW__tta"></iframe>
 </div>
 <h4><strong>2023 videos and photos</strong></h4>
-<br><strong>6CA - Cyberwellness theme</strong>
+<strong>6CA - Cyberwellness theme</strong>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="393" width="699" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/MZpqI26a2LI"></iframe>
 </div>
