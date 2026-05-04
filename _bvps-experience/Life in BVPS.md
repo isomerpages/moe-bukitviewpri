@@ -7,7 +7,7 @@ variant: markdown
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" style="border: 0" height="600" width="800" allowfullscreen="true" frameborder="0" src="https://calendar.google.com/calendar/embed?src=c_e9bf535539ee27875b7b8ecf397c1c70ad23b47c8c664f18227b07c76b249301%40group.calendar.google.com&amp;ctz=Asia%2FSingapore"></iframe>
 </div>
-Note: <em>*Schedule accurate as of date of publication. Parents should refer to Parents Gateway for event-specific information, when available</em>&nbsp;&nbsp;
+Note: <em>*Schedule accurate as of date of publication. Parents should refer to Parents Gateway for event-specific information.</em>&nbsp;&nbsp;
 <h4><strong>News &amp; Views</strong></h4>
 For P5 and P6 students, drama provides a platform for students to hone
 their skills and showcase their talents as they collaborate with their
