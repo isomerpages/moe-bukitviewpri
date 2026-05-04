@@ -7,73 +7,61 @@ variant: markdown
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" style="border: 0" height="600" width="800" allowfullscreen="true" frameborder="0" src="https://calendar.google.com/calendar/embed?src=c_e9bf535539ee27875b7b8ecf397c1c70ad23b47c8c664f18227b07c76b249301%40group.calendar.google.com&amp;ctz=Asia%2FSingapore"></iframe>
 </div>
-<p>Note: <em>*Schedule accurate as of date of publication. Parents should refer to Parents Gateway for event-specific information, when available</em>&nbsp;&nbsp;</p>
+Note: <em>*Schedule accurate as of date of publication. Parents should refer to Parents Gateway for event-specific information, when available</em>&nbsp;&nbsp;
 <h4><strong>News &amp; Views</strong></h4>
-<p>For P5 and P6 students, drama provides a platform for students to hone
+For P5 and P6 students, drama provides a platform for students to hone
 their skills and showcase their talents as they collaborate with their
 peers to put up drama performances for the whole school.
 <br>Here are the links to some of our News and Views drama videos showcased
-in the recent years. Enjoy!</p>
+in the recent years. Enjoy!
 <h4><strong>2025 videos</strong></h4>
-<p><strong>Drama Club - EL Week Game On - Power up your English XP</strong>
-</p>
+<strong>Drama Club - EL Week Game On - Power up your English XP</strong>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="393" width="699" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/8-Jao11iuVE?si=VEbxzpQvp-9N6irG"></iframe>
 </div>
-<p><strong>6TE - Be an Upstander</strong>
-</p>
+<br><strong>6TE - Be an Upstander</strong>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="393" width="699" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/-NM9pIx34JU?si=WgqL0YOJndK0PxKX"></iframe>
 </div>
-<p><strong>6GR - Respect Inside Out</strong>
-</p>
+<br><strong>6GR - Respect Inside Out</strong>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="393" width="699" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/gAo_dfAA1Nc?si=03cK7_BdYrpDpVXr"></iframe>
 </div>
-<p><strong>6RY - Curiosity</strong>
-</p>
+<br><strong>6RY - Curiosity</strong>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="393" width="699" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Pgwh0MkMYdc?si=rNEA_08oX1fQNJgv"></iframe>
 </div>
-<p><strong>6IN - The Responsibility Switch</strong>
-</p>
+<br><strong>6IN - The Responsibility Switch</strong>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="393" width="699" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/z8Uc4tcwgwI?si=moJjLqMfqDXUT7b0"></iframe>
 </div>
-<p><strong>6RT - IFD - Forging Friendships in a Complex World</strong>
-</p>
+<br><strong>6RT - IFD - Forging Friendships in a Complex World</strong>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="393" width="699" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/qBdrVFCfvhg?si=TmeX5bfgpYNee-_V"></iframe>
 </div>
-<p><strong>5RY - Mirror Mirror on the Wall, Who is the most Reflective of them all</strong>
-</p>
+<br><strong>5RY - Mirror Mirror on the Wall, Who is the most Reflective of them all</strong>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="393" width="699" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/WTpO02QYnus?si=_VQSsGPVZSWTKgQP"></iframe>
 </div>
-<p><strong>5CA - The Emperor and the Seed - A story about Integrity</strong>
-</p>
+<br><strong>5CA - The Emperor and the Seed - A story about Integrity</strong>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="393" width="699" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/igc8DUUoEUA?si=Ss22_ptTSMN1wBLB"></iframe>
 </div>
-<p><strong>5GR - Adaptability</strong>
-</p>
+<br><strong>5GR - Adaptability</strong>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="393" width="699" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/B8VGmRYbxIo?si=Hf35JdFwpTy9Kjhi"></iframe>
 </div>
 <h4><strong>2024 videos</strong></h4>
-<p><strong>5TE - Towards an Inclusive Society</strong>
-</p>
+<br><strong>5TE - Towards an Inclusive Society</strong>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="393" width="699" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/xsBJjefo5ZA?si=bfWxP0hFlkg8mJbG"></iframe>
 </div>
-<p><strong>5RT - Towards a Greener Tomorrow</strong>
-</p>
+<br><strong>5RT - Towards a Greener Tomorrow</strong>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="393" width="699" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ARL4q_6hjDc?si=vR8V97TCtxW__tta"></iframe>
 </div>
 <h4><strong>2023 videos and photos</strong></h4>
-<p><strong>6CA - Cyberwellness theme</strong>
-</p>
+<br><strong>6CA - Cyberwellness theme</strong>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="393" width="699" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/MZpqI26a2LI"></iframe>
 </div>
@@ -82,13 +70,11 @@ in the recent years. Enjoy!</p>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="393" width="699" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/SnTw8Uot4C0"></iframe>
 </div>
-<p><strong>6HA - Bullying Prevention Matters</strong>
-</p>
+<br><strong>6HA - Bullying Prevention Matters</strong>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Homepage/News%20and%20Views/6harmony.jpg">
 </div>
-<p><strong>6RT - FTGP My Support Network: Care and Respect for Others</strong>
-</p>
+<br><strong>6RT - FTGP My Support Network: Care and Respect for Others</strong>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Homepage/News%20and%20Views/6respect.jpg">
 </div>
@@ -104,8 +90,7 @@ in the recent years. Enjoy!</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>5CA 2022: <a href="https://www.youtube.com/watch?v=GUyTsQml5Ws&amp;t=1s" rel="noopener noreferrer nofollow" target="_blank">Celebrating Diversity, Appreciating Interconnectedness</a>
-</p>
-</li>
+</p></li>
 <li>
 <p>5RT 2022: <a href="https://www.youtube.com/watch?v=qhUZU5oJrwk&amp;t=1s" rel="noopener noreferrer nofollow" target="_blank">Coping With Exam Stress</a>
 </p>
@@ -157,4 +142,3 @@ in the recent years. Enjoy!</p>
 </p>
 </li>
 </ul>
-<p></p>
