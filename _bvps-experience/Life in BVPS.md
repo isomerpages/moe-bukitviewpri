@@ -4,43 +4,66 @@ permalink: /bvps-experience/life-in-bvps/
 description: ""
 variant: tiptap
 ---
-<iframe scrolling="no" frameborder="0" height="600" width="800" style="border: 0" src="https://calendar.google.com/calendar/embed?src=c_e9bf535539ee27875b7b8ecf397c1c70ad23b47c8c664f18227b07c76b249301%40group.calendar.google.com&amp;ctz=Asia%2FSingapore"></iframe>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" style="border: 0" height="600" width="800" allowfullscreen="true" frameborder="0" src="https://calendar.google.com/calendar/embed?src=c_e9bf535539ee27875b7b8ecf397c1c70ad23b47c8c664f18227b07c76b249301%40group.calendar.google.com&amp;ctz=Asia%2FSingapore"></iframe>
+</div>
+<p>Note: <em>*Schedule accurate as of date of publication. Parents should refer to Parents Gateway for event-specific information, when available</em>&nbsp;&nbsp;</p>
+<h4><strong>News &amp; Views</strong></h4>
 <p>For P5 and P6 students, drama provides a platform for students to hone
 their skills and showcase their talents as they collaborate with their
 peers to put up drama performances for the whole school.
 <br>Here are the links to some of our News and Views drama videos showcased
-in the recent years. Enjoy!
-</p><h4><strong>2025 Videos</strong></h4>
+in the recent years. Enjoy!</p>
+<h4><strong>2025 videos</strong></h4>
 <p><strong>Drama Club - EL Week Game On - Power up your English XP</strong>
-	</p><div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" height="393" width="699" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/8-Jao11iuVE?si=VEbxzpQvp-9N6irG"></iframe></div>
+</p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="393" width="699" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/8-Jao11iuVE?si=VEbxzpQvp-9N6irG"></iframe>
+</div>
 <p><strong>6TE - Be an Upstander</strong>
-</p><div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" height="393" width="699" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/-NM9pIx34JU?si=WgqL0YOJndK0PxKX"></iframe></div>
+</p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="393" width="699" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/-NM9pIx34JU?si=WgqL0YOJndK0PxKX"></iframe>
+</div>
 <p><strong>6GR - Respect Inside Out</strong>
-</p><div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" height="393" width="699" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/gAo_dfAA1Nc?si=03cK7_BdYrpDpVXr"></iframe></div>
+</p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="393" width="699" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/gAo_dfAA1Nc?si=03cK7_BdYrpDpVXr"></iframe>
+</div>
 <p><strong>6RY - Curiosity</strong>
-	</p><div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" height="393" width="699" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Pgwh0MkMYdc?si=rNEA_08oX1fQNJgv"></iframe></div>
+</p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="393" width="699" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Pgwh0MkMYdc?si=rNEA_08oX1fQNJgv"></iframe>
+</div>
 <p></p>
 <p><strong>6IN - The Responsibility Switch</strong>
-	</p><div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" height="393" width="699" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/z8Uc4tcwgwI?si=moJjLqMfqDXUT7b0"></iframe></div>
+</p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="393" width="699" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/z8Uc4tcwgwI?si=moJjLqMfqDXUT7b0"></iframe>
+</div>
 <p><strong>6RT - IFD - Forging Friendships in a Complex World</strong>
-	</p><div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" height="393" width="699" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/qBdrVFCfvhg?si=TmeX5bfgpYNee-_V"></iframe></div>
+</p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="393" width="699" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/qBdrVFCfvhg?si=TmeX5bfgpYNee-_V"></iframe>
+</div>
 <p></p>
 <p><strong>5RY - Mirror Mirror on the Wall, Who is the most Reflective of them all</strong>
-	</p><div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" height="393" width="699" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/WTpO02QYnus?si=_VQSsGPVZSWTKgQP"></iframe></div>
+</p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="393" width="699" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/WTpO02QYnus?si=_VQSsGPVZSWTKgQP"></iframe>
+</div>
 <p><strong>5CA - The Emperor and the Seed - A story about Integrity</strong>
-	</p><div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" height="393" width="699" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/igc8DUUoEUA?si=Ss22_ptTSMN1wBLB"></iframe></div>
+</p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="393" width="699" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/igc8DUUoEUA?si=Ss22_ptTSMN1wBLB"></iframe>
+</div>
 <p><strong>5GR - Adaptability</strong>
-	</p><div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" height="393" width="699" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/B8VGmRYbxIo?si=Hf35JdFwpTy9Kjhi"></iframe></div>
-<p></p><h4><strong>2024 Videos</strong></h4>
+</p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="393" width="699" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/B8VGmRYbxIo?si=Hf35JdFwpTy9Kjhi"></iframe>
+</div>
+<p></p>
+<h4><strong>2024 videos</strong></h4>
 <p><strong>5TE - Towards an Inclusive Society</strong>
 </p>
 <div class="iframe-wrapper">
@@ -51,7 +74,7 @@ in the recent years. Enjoy!
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="393" width="699" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ARL4q_6hjDc?si=vR8V97TCtxW__tta"></iframe>
 </div>
-<h4><strong>2023 Videos and Photos</strong></h4>
+<h4><strong>2023 videos and photos</strong></h4>
 <p><strong>6CA - Cyberwellness theme</strong>
 </p>
 <div class="iframe-wrapper">
@@ -77,7 +100,7 @@ in the recent years. Enjoy!
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Homepage/News%20and%20Views/6responsibility.jpg">
 </div>
-<h4><strong>2022 Videos and Photos</strong></h4>
+<h4><strong>2022 videos and photos</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Homepage/News%20and%20Views/merged_2.jpg">
 </div>
@@ -119,7 +142,7 @@ in the recent years. Enjoy!
 </p>
 </li>
 </ul>
-<h4><strong>2021 VIDEOS</strong></h4>
+<h4><strong>2021 videos</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Homepage/News%20and%20Views/videosgrid20211.png">
 </div>
@@ -137,3 +160,4 @@ in the recent years. Enjoy!
 </p>
 </li>
 </ul>
+<p></p>
