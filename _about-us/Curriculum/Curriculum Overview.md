@@ -49,14 +49,6 @@ dispositions and 21<sup>st</sup> Century Competencies.</p>
 </div>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
 <ul data-tight="true" class="tight">
