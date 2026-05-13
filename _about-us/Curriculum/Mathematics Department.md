@@ -1,6 +1,6 @@
 ---
 title: Mathematics Department
-permalink: /bvps-experience/curriculum/maths/
+permalink: /about-us/curriculum/maths/
 description: ""
 third_nav_title: Curriculum
 variant: tiptap

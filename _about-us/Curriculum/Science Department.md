@@ -1,6 +1,6 @@
 ---
 title: Science Department
-permalink: /about-us/curriculum/sci/
+permalink: /about-us/curriculum/science/
 description: ""
 third_nav_title: Curriculum
 variant: tiptap
