@@ -81,7 +81,7 @@ dispositions and 21<sup>st</sup> Century Competencies.</p>
 </p>
 </li>
 <li>
-<p><a href="/about-us/curriculum/sci/" rel="noopener noreferrer nofollow" target="_blank">Science</a>
+<p><a href="/about-us/curriculum/science/" rel="noopener noreferrer nofollow" target="_blank">Science</a>
 </p>
 </li>
 </ul>
