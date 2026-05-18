@@ -2,7 +2,7 @@
 title: Our Staff
 permalink: /about-us/our-staff/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <h4><strong>EXCO MEMBERS</strong></h4>
 <table style="minWidth: 75px">
@@ -327,17 +327,6 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <p>ng_tse_ern</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Diana Wan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SH / Partnership (Internal)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>tho_lee_kian_diana</p>
 </td>
 </tr>
 <tr>
@@ -1721,8 +1710,8 @@ variant: markdown
 <p>Desktop Engineer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nur Ain Binti Adam<br>
-Mr Daniel Tee</p>
+<p>Mdm Nur Ain Binti Adam
+<br>Mr Daniel Tee</p>
 </td>
 </tr>
 <tr>
@@ -1743,3 +1732,4 @@ Mr Daniel Tee</p>
 </tr>
 </tbody>
 </table>
+<p></p>
