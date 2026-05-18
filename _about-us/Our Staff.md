@@ -331,17 +331,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Diana Wan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SH / Partnership (Internal)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>tho_lee_kian_diana</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Hazel Neo Hui Fen</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1721,8 +1710,8 @@ variant: tiptap
 <p>Desktop Engineer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nur Ain Binti Adam<br>
-Mr Daniel Tee</p>
+<p>Mdm Nur Ain Binti Adam
+<br>Mr Daniel Tee</p>
 </td>
 </tr>
 <tr>
@@ -1743,3 +1732,4 @@ Mr Daniel Tee</p>
 </tr>
 </tbody>
 </table>
+<p></p>
