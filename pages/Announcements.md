@@ -45,13 +45,3 @@ Parallel Programme (ISPP) for P1 students from 2024. P1-3 students may
 offer Hindi at a nearby weekend centre (eg. Beacon Primary, Rulang Primary).
 For enquiries, please contact HOD/MTL Mrs Kimberley Lin at 6566 1980 or
 <a href="bukitview_ps@moe.edu.sg" rel="noopener nofollow" target="_blank">bukitview_ps@moe.edu.sg</a>.</p>
-<p></p>
-<h2><strong>Open House 2026</strong></h2>
-<p>Parents of P1s in 2027,&nbsp;&nbsp;</p>
-<p>We warmly welcome you to join our Virtual Open House on 16 May 2026, Saturday.
-See you there!&nbsp;&nbsp;</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Announcement/6__Announcements_Open_House_2026.png">
-</div>
-<p></p>
