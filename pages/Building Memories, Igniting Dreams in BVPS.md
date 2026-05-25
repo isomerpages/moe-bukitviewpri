@@ -1,7 +1,7 @@
 ---
 title: Building Memories, Igniting Dreams in BVPS
 permalink: /building-memories-igniting-dreams/
-variant: tiptap
+variant: markdown
 description: ""
 ---
 <p><strong>Bukit View Primary strives to curate vibrant school experiences to enable every Bukit Viewan to <em>Build Memories and Ignite Dreams</em> in their time with us.&nbsp;</strong>
