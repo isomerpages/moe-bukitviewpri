@@ -165,7 +165,7 @@ variant: tiptap
 <p>Mrs Kimberley Lin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD / Mother Tongue</p>
+<p>HOD / Mother Tongue Language</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>peh_hui_min_kimberley</p>
@@ -301,7 +301,7 @@ variant: tiptap
 <p>Mdm Tan Ya Xin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH / Chinese</p>
+<p>SH / Chinese Language</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>tan_ya_xin</p>

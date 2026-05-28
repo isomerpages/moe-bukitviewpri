@@ -1,5 +1,5 @@
 ---
-title: Mother Tongue Department
+title: Mother Tongue Languages
 permalink: /about-us/curriculum/mt/
 description: ""
 third_nav_title: Curriculum

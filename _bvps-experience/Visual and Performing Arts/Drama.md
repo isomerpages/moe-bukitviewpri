@@ -77,7 +77,7 @@ events and competitions.</p>
 <p>2pm to 4pm</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Mrs Kumutha Selvan (I/C)
+<p>Miss Rose Aizashira Bte Aineh (I/C)
 <br>Ms Nurul Amirah Binte Muhd Azmy
 <br>Ms Li Lidan</p>
 </td>
