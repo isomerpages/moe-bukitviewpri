@@ -1693,8 +1693,7 @@ variant: tiptap
 <br>Mdm Veloo Manorangitham
 <br>Mdm Vellasamy Vijayaletchimi
 <br>Mr Cheong Wai Kit
-<br>Mr Toh Sin Lye
-<br>Mr Quek Choon Ho</p>
+<br>Mr Toh Sin Lye</p>
 </td>
 </tr>
 <tr>
