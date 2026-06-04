@@ -760,12 +760,10 @@ variant: tiptap
 <p>3 Responsibility (3RY)</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Mrs Kumutha Selvan
-<br>Ms Li Lidan</p>
+<p>Ms Li Lidan</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>kumutha_silvamany
-<br>li_lidan</p>
+<p>li_lidan</p>
 </td>
 </tr>
 </tbody>
@@ -898,11 +896,13 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="2">
 <p>Ms Nurdayana Binte Mohd Noor
-<br>Ms C. Grace Lenora</p>
+<br>
+</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>nurdayana_mohd_noor
-<br>cornelius_grace_lenora</p>
+<br>
+</p>
 </td>
 </tr>
 <tr>
