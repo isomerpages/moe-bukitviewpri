@@ -243,17 +243,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Shuen Keat Elvin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Assistant Year Head (Middle Pri) (Internal)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>tan_shuen_keat</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Ghanim Bin Salim</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -356,10 +345,21 @@ variant: tiptap
 <p>Mr Mohammad Abdul Halim Bin Rosli</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH / Student Management (Internal)</p>
+<p>SH / Student Management</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>mohammad_abdul_halim_rosli</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Goh-Wang Jia</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ST / Lower Primary Learners</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>wang_jia</p>
 </td>
 </tr>
 <tr>
@@ -760,12 +760,10 @@ variant: tiptap
 <p>3 Responsibility (3RY)</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Mrs Kumutha Selvan
-<br>Ms Li Lidan</p>
+<p>Ms Li Lidan</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>kumutha_silvamany
-<br>li_lidan</p>
+<p>li_lidan</p>
 </td>
 </tr>
 </tbody>
@@ -898,11 +896,13 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="2">
 <p>Ms Nurdayana Binte Mohd Noor
-<br>Ms C. Grace Lenora</p>
+<br>
+</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>nurdayana_mohd_noor
-<br>cornelius_grace_lenora</p>
+<br>
+</p>
 </td>
 </tr>
 <tr>
@@ -1693,8 +1693,7 @@ variant: tiptap
 <br>Mdm Veloo Manorangitham
 <br>Mdm Vellasamy Vijayaletchimi
 <br>Mr Cheong Wai Kit
-<br>Mr Toh Sin Lye
-<br>Mr Quek Choon Ho</p>
+<br>Mr Toh Sin Lye</p>
 </td>
 </tr>
 <tr>
