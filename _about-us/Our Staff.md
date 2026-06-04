@@ -243,17 +243,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Shuen Keat Elvin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Assistant Year Head (Middle Pri) (Internal)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>tan_shuen_keat</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Ghanim Bin Salim</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -356,10 +345,21 @@ variant: tiptap
 <p>Mr Mohammad Abdul Halim Bin Rosli</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH / Student Management (Internal)</p>
+<p>SH / Student Management</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>mohammad_abdul_halim_rosli</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Goh-Wang Jia</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ST / Lower Primary Learners</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>wang_jia</p>
 </td>
 </tr>
 <tr>
