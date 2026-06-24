@@ -696,13 +696,13 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="2">
 <p>Mdm Norezan Bte Saim
-<br>Mdm Esther Chua Yan Yan</p>
-<p>Miss Chen Pei Lu</p>
+<br>Mdm Esther Chua Yan Yan
+<br>Miss Chen Pei Lu</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>norezan_saim
-<br>chua_yan_yan_esther_a</p>
-<p>chen_pei_lu_a</p>
+<br>chua_yan_yan_esther_a
+<br>chen_pei_lu_a</p>
 </td>
 </tr>
 <tr>
@@ -725,11 +725,12 @@ variant: markdown
 <td rowspan="1" colspan="2">
 <p>Mdm Latheefa Beevi
 <br>Mr Khairul Khairi Bin Rahimee
-	<br> M Ong Wenting Charlene</p>
+	<br> Ms Ong Wenting Charlene</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>latheefa_beevi
-<br>khairul_khairi_rahimee</p>
+<br>khairul_khairi_rahimee
+	<br>ong_wenting_charlene</p>
 </td>
 </tr>
 <tr>
