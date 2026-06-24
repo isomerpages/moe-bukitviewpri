@@ -697,10 +697,12 @@ variant: tiptap
 <td rowspan="1" colspan="2">
 <p>Mdm Norezan Bte Saim
 <br>Mdm Esther Chua Yan Yan</p>
+<p>Miss Chen Pei Lu</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>norezan_saim
 <br>chua_yan_yan_esther_a</p>
+<p>chen_pei_lu_a</p>
 </td>
 </tr>
 <tr>
@@ -761,9 +763,11 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="2">
 <p>Ms Li Lidan</p>
+<p>Miss Kek Poh Poh Belle</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>li_lidan</p>
+<p>kek_poh_poh</p>
 </td>
 </tr>
 </tbody>
@@ -835,6 +839,7 @@ variant: tiptap
 <td rowspan="1" colspan="2">
 <p>Ms Oh Wan Ling Chloe
 <br>Mr Mohamed Syahmi Sudhan</p>
+<p>Ms Nadhrah Binte Mohamad Zulkefly</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>oh_wan_ling
@@ -848,6 +853,7 @@ variant: tiptap
 <td rowspan="1" colspan="2">
 <p>Mr Tan Kah Keong
 <br>Mdm Eddayana Binte Abdullah</p>
+<p>Mdm Adriana Binte Asnandi</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>tan_kah_keong
@@ -861,10 +867,12 @@ variant: tiptap
 <td rowspan="1" colspan="2">
 <p>Mdm Lam Hui Li Narcissus
 <br>Mr Tan Shuen Keat Elvin</p>
+<p>Mr Low Wei Heng Chris</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>lam_hui_li_narcissus
 <br>tan_shuen_keat</p>
+<p>low_wei_heng</p>
 </td>
 </tr>
 </tbody>
