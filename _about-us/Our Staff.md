@@ -762,12 +762,12 @@ variant: markdown
 <p>3 Responsibility (3RY)</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Ms Li Lidan</p>
-<p>Miss Kek Poh Poh Belle</p>
+<p>Ms Li Lidan
+<br>Miss Kek Poh Poh Belle</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>li_lidan</p>
-<p>kek_poh_poh</p>
+<p>li_lidan
+<br>kek_poh_poh</p>
 </td>
 </tr>
 </tbody>
@@ -838,12 +838,13 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="2">
 <p>Ms Oh Wan Ling Chloe
-<br>Mr Mohamed Syahmi Sudhan</p>
-<p>Ms Nadhrah Binte Mohamad Zulkefly</p>
+<br>Mr Mohamed Syahmi Sudhan
+<br>Ms Nadhrah Binte Mohamad Zulkefly</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>oh_wan_ling
-<br>mohamed_syahmi_sudhan_mohamed</p>
+<br>mohamed_syahmi_sudhan_mohamed
+	<br>-</p>
 </td>
 </tr>
 <tr>
@@ -852,12 +853,13 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="2">
 <p>Mr Tan Kah Keong
-<br>Mdm Eddayana Binte Abdullah</p>
-<p>Mdm Adriana Binte Asnandi</p>
+<br>Mdm Eddayana Binte Abdullah
+<br>Mdm Adriana Binte Asnandi</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>tan_kah_keong
-<br>eddayana_abdullah</p>
+<br>eddayana_abdullah
+		<br>-</p>
 </td>
 </tr>
 <tr>
@@ -866,13 +868,13 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="2">
 <p>Mdm Lam Hui Li Narcissus
-<br>Mr Tan Shuen Keat Elvin</p>
-<p>Mr Low Wei Heng Chris</p>
+<br>Mr Tan Shuen Keat Elvin
+<br>Mr Low Wei Heng Chris</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>lam_hui_li_narcissus
-<br>tan_shuen_keat</p>
-<p>low_wei_heng</p>
+<br>tan_shuen_keat
+<br>low_wei_heng</p>
 </td>
 </tr>
 </tbody>
