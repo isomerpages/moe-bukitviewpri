@@ -10,9 +10,10 @@ variant: tiptap
 will give you and your child greater flexibility to plan and buy his/her
 food for breakfast, recess and/or lunch on days he/she has school activities
 (eg: CCAs and remedial lessons) in the afternoon.</p>
-<p>Please click&nbsp;<a href="/files/Parents%20and%20Partners/Info%20for%20Parents/Info%20for%20Parents/BVPS_Stall_Canteen_Menu_for_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Here</a>&nbsp;to
-access canteen menu and price list.&nbsp; (With effect from Friday, 2
-Jan 2026)</p><h4><strong>2026 School Booklist (P1 to P6)</strong></h4>
+<p>Please click&nbsp;<a href="/files/Parents and Partners/Info for Parents/Info for Parents/BVPS_Stall_Canteen_Menu_for_2026__revised_.pdf" rel="noopener nofollow" target="_blank">Here</a>&nbsp;to
+access canteen menu and price list.&nbsp; (With effect from Friday, 2 Jan
+2026)</p>
+<h4><strong>2026 School Booklist (P1 to P6)</strong></h4>
 <p>BVPS P1 Booklist <a href="/files/Parents and Partners/Info for Parents/Info for Parents/Pri_1_Booklist_for_Year_2026.pdf" rel="noopener nofollow" target="_blank">Here</a>
 </p>
 <p>BVPS P2 Booklist <a href="/files/Parents and Partners/Info for Parents/Info for Parents/Pri_2_Booklist_for_Year_2026.pdf" rel="noopener nofollow" target="_blank">Here</a>
