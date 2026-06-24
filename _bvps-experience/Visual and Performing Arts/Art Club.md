@@ -5,10 +5,10 @@ description: ""
 third_nav_title: Visual and Performing Arts
 variant: tiptap
 ---
-<p>The Art Club aims to inspire and nurture budding artists&nbsp; in the
-school. Students are given opportunities to explore different art forms
-such as drawing, painting and ceramics, which allows them to express their
-ideas and creativity while honing their art skills and building their knowledge
+<p>The Art Club aims to inspire and nurture budding artists&nbsp;in the school.
+Students are given opportunities to explore different art forms such as
+drawing, painting and ceramics, which allows them to express their ideas
+and creativity while honing their art skills and building their knowledge
 in visual arts.&nbsp;</p>
 <p>The Art Club also provides a platform for students to showcase their talents
 beyond the curriculum when they take part in various art competitions and
@@ -105,8 +105,7 @@ presentations.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Miss Chwa Bee Lian (I/C)
-<br>Ms Chua Huai Ling Sheila
-<br>Miss Yadavalli Sri Vidya</p>
+<br>Ms Chua Huai Ling Sheila</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Art Room</p>
