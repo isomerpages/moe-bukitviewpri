@@ -11,7 +11,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://www.bukitviewpri.moe.edu.sg/student/MOE-SEXUALITY-EDUCATION/" rel="noopener noreferrer nofollow" target="_blank">MOE&nbsp;Sexuality Education</a>
+<p><a href="https://www.bukitviewpri.moe.edu.sg/student/moe-sexuality-education/" rel="noopener noreferrer nofollow" target="_blank">MOE&nbsp;Sexuality Education</a>
 </p>
 </li>
 <li>
