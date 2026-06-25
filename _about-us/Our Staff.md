@@ -2,7 +2,7 @@
 title: Our Staff
 permalink: /about-us/our-staff/
 description: ""
-variant: tiptap
+variant: markdown
 ---
 <h4><strong>EXCO MEMBERS</strong></h4>
 <table style="minWidth: 75px">
@@ -696,11 +696,13 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="2">
 <p>Mdm Norezan Bte Saim
-<br>Mdm Esther Chua Yan Yan</p>
+<br>Mdm Esther Chua Yan Yan
+<br>Miss Chen Pei Lu</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>norezan_saim
-<br>chua_yan_yan_esther_a</p>
+<br>chua_yan_yan_esther_a
+<br>chen_pei_lu_a</p>
 </td>
 </tr>
 <tr>
@@ -722,11 +724,13 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="2">
 <p>Mdm Latheefa Beevi
-<br>Mr Khairul Khairi Bin Rahimee</p>
+<br>Mr Khairul Khairi Bin Rahimee
+	<br> Ms Ong Wenting Charlene</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>latheefa_beevi
-<br>khairul_khairi_rahimee</p>
+<br>khairul_khairi_rahimee
+	<br>ong_wenting_charlene</p>
 </td>
 </tr>
 <tr>
@@ -760,10 +764,12 @@ variant: tiptap
 <p>3 Responsibility (3RY)</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Ms Li Lidan</p>
+<p>Ms Li Lidan
+<br>Miss Kek Poh Poh Belle</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>li_lidan</p>
+<p>li_lidan
+<br>kek_poh_poh</p>
 </td>
 </tr>
 </tbody>
@@ -834,11 +840,13 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="2">
 <p>Ms Oh Wan Ling Chloe
-<br>Mr Mohamed Syahmi Sudhan</p>
+<br>Mr Mohamed Syahmi Sudhan
+<br>Ms Nadhrah Binte Mohamad Zulkefly</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>oh_wan_ling
-<br>mohamed_syahmi_sudhan_mohamed</p>
+<br>mohamed_syahmi_sudhan_mohamed
+	<br>-</p>
 </td>
 </tr>
 <tr>
@@ -847,11 +855,13 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="2">
 <p>Mr Tan Kah Keong
-<br>Mdm Eddayana Binte Abdullah</p>
+<br>Mdm Eddayana Binte Abdullah
+<br>Mdm Adriana Binte Asnandi</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>tan_kah_keong
-<br>eddayana_abdullah</p>
+<br>eddayana_abdullah
+		<br>-</p>
 </td>
 </tr>
 <tr>
@@ -860,11 +870,13 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="2">
 <p>Mdm Lam Hui Li Narcissus
-<br>Mr Tan Shuen Keat Elvin</p>
+<br>Mr Tan Shuen Keat Elvin
+<br>Mr Low Wei Heng Chris</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>lam_hui_li_narcissus
-<br>tan_shuen_keat</p>
+<br>tan_shuen_keat
+<br>low_wei_heng</p>
 </td>
 </tr>
 </tbody>
