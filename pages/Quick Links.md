@@ -33,7 +33,7 @@ variant: tiptap
 <h4><strong>FOR STAFF</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://icon.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">MOE iCON</a>
+<p><a href="https://icon.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">MOE ICON</a>
 </p>
 </li>
 <li>
