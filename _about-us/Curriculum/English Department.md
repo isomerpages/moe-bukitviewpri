@@ -50,9 +50,7 @@ skills.</p>
 their talents through live drama and video performances. Through these
 performances, the classes will also be incorporating the learning of values
 and skills that will help them to be self-directed learners, confident
-leaders and caring citizens. To see more of our young stars in action,
-<a href="https://www.bukitviewpri.moe.edu.sg/highlights/" rel="noopener noreferrer nofollow" target="_blank">click here</a>
-</p>
+leaders and caring citizens.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/BVPS%20Experience/Curriculum/English%20Department/picture5.jpg">
 </div>
@@ -86,16 +84,12 @@ to start at 7.30 a.m. DEAR empowers students with daily moments of immersive
 reading which not only enhances literacy skills, expands vocabulary, and
 nurtures imagination, but also cultivates a lifelong love for reading,
 improves focus, and provides a valuable escape into different worlds.</p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -222,6 +216,6 @@ for this year’s competition. Check out his entry below:</p>
 (5 Integrity), worked on a 3-minute monologue and performed it as a staged
 performance. His performance was shortlisted in this year’s showcase.</p>
 <div class="iframe-wrapper">
-<iframe height="385" width="684" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Hny_ToiBNNI?list=PLRGFo1hZVPDkDAxKaGHaLpGVbrHle9gC4"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="385" width="684" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Hny_ToiBNNI?list=PLRGFo1hZVPDkDAxKaGHaLpGVbrHle9gC4"></iframe>
 </div>
 <p></p>
