@@ -17,5 +17,5 @@ sections:
           url: /announcements/
         - title: Quick Links
           description: ""
-          url: /Quick-Links/
+          url: /quick-links/
 ---
