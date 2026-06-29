@@ -2,7 +2,7 @@
 title: Our Staff
 permalink: /about-us/our-staff/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <h4><strong>EXCO MEMBERS</strong></h4>
 <table style="minWidth: 75px">
@@ -349,17 +349,6 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <p>mohammad_abdul_halim_rosli</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Goh-Wang Jia</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ST / Lower Primary Learners</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>wang_jia</p>
 </td>
 </tr>
 <tr>
@@ -725,12 +714,12 @@ variant: markdown
 <td rowspan="1" colspan="2">
 <p>Mdm Latheefa Beevi
 <br>Mr Khairul Khairi Bin Rahimee
-	<br> Ms Ong Wenting Charlene</p>
+<br>Ms Ong Wenting Charlene</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>latheefa_beevi
 <br>khairul_khairi_rahimee
-	<br>ong_wenting_charlene</p>
+<br>ong_wenting_charlene</p>
 </td>
 </tr>
 <tr>
@@ -846,7 +835,7 @@ variant: markdown
 <td rowspan="1" colspan="2">
 <p>oh_wan_ling
 <br>mohamed_syahmi_sudhan_mohamed
-	<br>-</p>
+<br>-</p>
 </td>
 </tr>
 <tr>
@@ -861,7 +850,7 @@ variant: markdown
 <td rowspan="1" colspan="2">
 <p>tan_kah_keong
 <br>eddayana_abdullah
-		<br>-</p>
+<br>-</p>
 </td>
 </tr>
 <tr>
