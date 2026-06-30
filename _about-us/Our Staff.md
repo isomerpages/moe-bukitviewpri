@@ -704,11 +704,13 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="2">
 <p>Miss Lee Kit Beng
-<br>Mr Thomas Ang</p>
+<br>Mr Thomas Ang
+<br>Mdm Zubaidah Binte Mahamood</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>lee_kit_beng
-<br>ang_tiong_wei</p>
+<br>ang_tiong_wei
+<br>-</p>
 </td>
 </tr>
 <tr>
@@ -794,11 +796,13 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="2">
 <p>Mdm Chong Wei Sea
-<br>Ms Tan Soon Fun</p>
+<br>Ms Tan Soon Fun
+<br>Mdm Mahehraj Begum d/o Maidee</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>chong_wei_sea
-<br>tan_soon_fun</p>
+<br>tan_soon_fun
+<br>-</p>
 </td>
 </tr>
 <tr>
