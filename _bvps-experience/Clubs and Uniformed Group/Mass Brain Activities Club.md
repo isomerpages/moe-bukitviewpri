@@ -83,9 +83,10 @@ and challenges thinking while imparting the values of sharing and caring.</p>
 <p>2pm to 4pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Jayce Yong Li Ying (I/C)
+<p>Ms Oh Wan Ling Chloe (I/C)
 <br>Mrs Goh-Wang Jia
-<br>Ms Oh Wan Ling Chloe</p>
+<br>Mdm Nur Adriana Binte Asnandi
+<br>Mr Lee Jia Wei</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mind Bistro,
