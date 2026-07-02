@@ -106,8 +106,8 @@ presentations.</p>
 <td rowspan="1" colspan="1">
 <p>Miss Chwa Bee Lian (I/C)
 <br>Ms Chua Huai Ling Sheila
-<br>Ms Nadhrah Binte Mohamad Zulkefly</p>
-<p>Mr Shaun Soh Kuanyu</p>
+<br>Ms Nadhrah Binte Mohamad Zulkefly
+<br>Mr Shaun Soh Kuanyu</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Art Room</p>
