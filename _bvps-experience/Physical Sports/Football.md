@@ -89,7 +89,9 @@ advocates of good sportsmanship and effective communicators.</p>
 <br>Mr Shamsudin Hashim
 <br>Mr Mohamed Syahmi Sudhan
 <br>Mr Khairul Khairi Bin Rahimee
-<br>Miss Nur Farah Binte Mohd Alim</p>
+<br>Miss Nur Farah Binte Mohd Alim
+	<br>Ms Ong Wenting Charlene
+	<br>Mr Low Wei Heng Chris</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>BVSS Field
