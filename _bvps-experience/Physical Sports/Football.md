@@ -88,7 +88,7 @@ advocates of good sportsmanship and effective communicators.</p>
 <p>Mr Lukman Umar (I/C)
 <br>Mr Shamsudin Hashim
 	<br>Ms Ong Wenting Charlene
-	<br>Mr Low Wei Heng Chris</p>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>BVSS Field
