@@ -83,6 +83,7 @@ various projects.</p>
 <p>Mdm Tan Beng Choo (I/C)
 <br>Mdm Dominique Ang
 <br>Mr Tan Kah Keong</p>
+<p>Miss Chen Pei Lu</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Computer Labs 1 &amp; 2</p>
