@@ -2,7 +2,7 @@
 title: Our Staff
 permalink: /about-us/our-staff/
 description: ""
-variant: tiptap
+variant: markdown
 ---
 <h4><strong>EXCO MEMBERS</strong></h4>
 <table style="minWidth: 75px">
@@ -843,7 +843,7 @@ variant: tiptap
 <td rowspan="1" colspan="2">
 <p>oh_wan_ling
 <br>mohamed_syahmi_sudhan_mohamed
-<br>-</p>
+<br>nadhrah_mohamad_zulkefly_a</p>
 </td>
 </tr>
 <tr>
@@ -911,7 +911,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="2">
 <p>nurdayana_mohd_noor
-<br>-
+<br>fong_kah_onn_michael
 <br>
 </p>
 </td>
