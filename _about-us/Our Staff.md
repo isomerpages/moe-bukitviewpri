@@ -547,13 +547,13 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="2">
 <p>Mdm Lim Su Ru
-<br>Miss Erh Xin Hui</p>
-<p>Mdm Balasubramanian Susithra</p>
+<br>Miss Erh Xin Hui
+<br>Mdm Balasubramanian Susithra</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>lim_su_ru
-<br>erh_xin_hui</p>
-<p>-</p>
+<br>erh_xin_hui
+<br>-</p>
 </td>
 </tr>
 <tr>
@@ -588,13 +588,13 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="2">
 <p>Mrs Yeo Soon Foong
-<br>Ms M Selvarani</p>
-<p>Mdm Cai Peijun</p>
+<br>Ms M Selvarani
+<br>Mdm Cai Peijun</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>yeo_soon_foong
-<br>selvarani_munusamy</p>
-<p>-</p>
+<br>selvarani_munusamy
+<br>-</p>
 </td>
 </tr>
 <tr>
