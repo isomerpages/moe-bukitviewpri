@@ -2,7 +2,7 @@
 title: Our Staff
 permalink: /about-us/our-staff/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <h4><strong>EXCO MEMBERS</strong></h4>
 <table style="minWidth: 75px">
@@ -547,11 +547,13 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="2">
 <p>Mdm Lim Su Ru
-<br>Miss Erh Xin Hui</p>
+<br>Miss Erh Xin Hui
+<br>Mdm Balasubramanian Susithra</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>lim_su_ru
-<br>erh_xin_hui</p>
+<br>erh_xin_hui
+<br>-</p>
 </td>
 </tr>
 <tr>
@@ -586,11 +588,13 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="2">
 <p>Mrs Yeo Soon Foong
-<br>Ms M Selvarani</p>
+<br>Ms M Selvarani
+<br>Mdm Cai Peijun</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>yeo_soon_foong
-<br>selvarani_munusamy</p>
+<br>selvarani_munusamy
+<br>cai_peijun_a</p>
 </td>
 </tr>
 <tr>
@@ -853,7 +857,7 @@ variant: markdown
 <td rowspan="1" colspan="2">
 <p>Mr Tan Kah Keong
 <br>Mdm Eddayana Binte Abdullah
-<br>Mdm Nur Adriana Binte Asnandi</p>
+<br>Mdm Nur Adriana Binte Asnadi</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>tan_kah_keong
