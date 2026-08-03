@@ -708,14 +708,13 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="2">
 <p>Miss Lee Kit Beng
-<br>Mr Thomas Ang</p>
-<p>Mdm Zubaidah Binte Mahamood</p>
+<br>Mr Thomas Ang
+<br>Mdm Zubaidah Binte Mahamood</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>lee_kit_beng
-<br>ang_tiong_wei</p>
-<p><a href="mailto:zubaidah_mahamood@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zubaidah_mahamood</a>
-</p>
+<br>ang_tiong_wei
+<br>zubaidah_mahamood</p>
 </td>
 </tr>
 <tr>
@@ -921,8 +920,8 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="2">
 <p>Ms Law Yu Jing
-<br>Miss Rose Aizashira Bte Aineh</p>
-<p>Mr Lee Jia Wee</p>
+<br>Miss Rose Aizashira Bte Aineh
+<br>Mr Lee Jia Wee</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>law_yu_jing
@@ -975,14 +974,13 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="2">
 <p>Miss Rajeshree D/O Rajanthiran
-<br>Mdm Sylvia Tan</p>
-<p>Mdm Aqilah Binte Kamalruddin</p>
+<br>Mdm Sylvia Tan
+<br>Mdm Aqilah Binte Kamalruddin</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>rajeshree_rajanthiran
-<br>sylvia_tan_han_yu</p>
-<p><a href="mailto:nur_aqilah_kamalruddin_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_aqilah_kamalruddin_a</a>
-</p>
+<br>sylvia_tan_han_yu
+<br>nur_aqilah_kamalruddin_a</p>
 </td>
 </tr>
 </tbody>
