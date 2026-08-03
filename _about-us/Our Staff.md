@@ -588,13 +588,11 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="2">
 <p>Mrs Yeo Soon Foong
-<br>Ms M Selvarani
-<br>Mdm Cai Peijun</p>
-</td>
+<br>Ms M Selvarani<br>
+</p></td>
 <td rowspan="1" colspan="2">
 <p>yeo_soon_foong
-<br>selvarani_munusamy
-<br>cai_peijun_a</p>
+	<br>selvarani_munusamy</p>
 </td>
 </tr>
 <tr>
@@ -694,12 +692,12 @@ variant: markdown
 <td rowspan="1" colspan="2">
 <p>Mdm Norezan Bte Saim
 <br>Mdm Esther Chua Yan Yan
-<br>Miss Chen Pei Lu</p>
+<br>Mdm Cai Peijun</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>norezan_saim
 <br>chua_yan_yan_esther_a
-<br>chen_pei_lu_a</p>
+<br>cai_peijun_a</p>
 </td>
 </tr>
 <tr>
