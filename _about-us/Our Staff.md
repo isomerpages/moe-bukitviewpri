@@ -2,7 +2,7 @@
 title: Our Staff
 permalink: /about-us/our-staff/
 description: ""
-variant: tiptap
+variant: markdown
 ---
 <h4><strong>EXCO MEMBERS</strong></h4>
 <table style="minWidth: 75px">
@@ -588,13 +588,11 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="2">
 <p>Mrs Yeo Soon Foong
-<br>Ms M Selvarani
-<br>Mdm Cai Peijun</p>
-</td>
+<br>Ms M Selvarani<br>
+</p></td>
 <td rowspan="1" colspan="2">
 <p>yeo_soon_foong
-<br>selvarani_munusamy
-<br>cai_peijun_a</p>
+	<br>selvarani_munusamy</p>
 </td>
 </tr>
 <tr>
@@ -694,12 +692,12 @@ variant: tiptap
 <td rowspan="1" colspan="2">
 <p>Mdm Norezan Bte Saim
 <br>Mdm Esther Chua Yan Yan
-<br>Miss Chen Pei Lu</p>
+<br>Mdm Cai Peijun</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>norezan_saim
 <br>chua_yan_yan_esther_a
-<br>chen_pei_lu_a</p>
+<br>cai_peijun_a</p>
 </td>
 </tr>
 <tr>
@@ -708,11 +706,13 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="2">
 <p>Miss Lee Kit Beng
-<br>Mr Thomas Ang</p>
+<br>Mr Thomas Ang
+<br>Mdm Zubaidah Binte Mahamood</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>lee_kit_beng
-<br>ang_tiong_wei</p>
+<br>ang_tiong_wei
+<br>zubaidah_mahamood</p>
 </td>
 </tr>
 <tr>
@@ -920,11 +920,13 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="2">
 <p>Ms Law Yu Jing
-<br>Miss Rose Aizashira Bte Aineh</p>
+<br>Miss Rose Aizashira Bte Aineh
+<br>Mr Lee Jia Wee</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>law_yu_jing
-<br>rose_aizashira_aineh</p>
+<br>rose_aizashira_aineh
+<br>lee_jia_wee</p>
 </td>
 </tr>
 <tr>
@@ -972,11 +974,13 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="2">
 <p>Miss Rajeshree D/O Rajanthiran
-<br>Mdm Sylvia Tan</p>
+<br>Mdm Sylvia Tan
+<br>Mdm Aqilah Binte Kamalruddin</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>rajeshree_rajanthiran
-<br>sylvia_tan_han_yu</p>
+<br>sylvia_tan_han_yu
+<br>nur_aqilah_kamalruddin_a</p>
 </td>
 </tr>
 </tbody>
