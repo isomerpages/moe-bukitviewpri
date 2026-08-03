@@ -867,11 +867,13 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="2">
 <p>Mdm Lam Hui Li Narcissus
-<br>Mr Tan Shuen Keat Elvin</p>
+<br>Mr Tan Shuen Keat Elvin
+<br>Mr Low Wei Heng Chris</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>lam_hui_li_narcissus
-<br>tan_shuen_keat</p>
+<br>tan_shuen_keat
+<br>low_wei_heng</p>
 </td>
 </tr>
 </tbody>
