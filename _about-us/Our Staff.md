@@ -709,10 +709,13 @@ variant: tiptap
 <td rowspan="1" colspan="2">
 <p>Miss Lee Kit Beng
 <br>Mr Thomas Ang</p>
+<p>Mdm Zubaidah Binte Mahamood</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>lee_kit_beng
 <br>ang_tiong_wei</p>
+<p><a href="mailto:zubaidah_mahamood@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zubaidah_mahamood</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -865,13 +868,11 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="2">
 <p>Mdm Lam Hui Li Narcissus
-<br>Mr Tan Shuen Keat Elvin
-<br>Mr Low Wei Heng Chris</p>
+<br>Mr Tan Shuen Keat Elvin</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>lam_hui_li_narcissus
-<br>tan_shuen_keat
-<br>low_wei_heng</p>
+<br>tan_shuen_keat</p>
 </td>
 </tr>
 </tbody>
@@ -921,10 +922,12 @@ variant: tiptap
 <td rowspan="1" colspan="2">
 <p>Ms Law Yu Jing
 <br>Miss Rose Aizashira Bte Aineh</p>
+<p>Mr Lee Jia Wee</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>law_yu_jing
-<br>rose_aizashira_aineh</p>
+<br>rose_aizashira_aineh
+<br>lee_jia_wee</p>
 </td>
 </tr>
 <tr>
@@ -973,10 +976,13 @@ variant: tiptap
 <td rowspan="1" colspan="2">
 <p>Miss Rajeshree D/O Rajanthiran
 <br>Mdm Sylvia Tan</p>
+<p>Mdm Aqilah Binte Kamalruddin</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>rajeshree_rajanthiran
 <br>sylvia_tan_han_yu</p>
+<p><a href="mailto:nur_aqilah_kamalruddin_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_aqilah_kamalruddin_a</a>
+</p>
 </td>
 </tr>
 </tbody>
