@@ -129,5 +129,7 @@ to nurturing, inspiring, and making a difference.</p>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/a2QtYI-ttfc?si=ZrPHXXocm6wGmZhe"></iframe>
 </div>
-<p><strong>Coming Soon …</strong>
+<p><strong>Celebrating our 40<sup>th</sup> Anniversary with our Alumni at our last Homecoming held in the current campus!</strong>
+</p>
+<p><a href="https://youtu.be/Hdt8Sk30YZE?si=23H2OkhC8GSV0JgW" rel="noopener noreferrer nofollow" target="_blank">https://youtu.be/Hdt8Sk30YZE?si=23H2OkhC8GSV0JgW</a>
 <br>Stay tuned for updates on the segment “Our 40-year journey”</p>
