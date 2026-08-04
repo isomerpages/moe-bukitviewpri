@@ -8,13 +8,13 @@ description: ""
 </p>
 <p>🕰<strong>️ BEYOND THE PAGES: Our Digital Time Capsule</strong>🎉</p>
 <p>As part of Bukit View Primary School’s 40th Anniversary celebrations,
-our Digital Time Capsule extends the journey beyond the pages of the commemorative magazine.</p>
+our Digital Time Capsule extends the journey beyond the pages of the commemorative
+magazine.</p>
 <p>Through photographs, stories and special memories, this interactive experience
 offers another way to revisit meaningful moments from BVPS’s past, celebrate
 our present and preserve them for future generations.</p>
-<p>Our Digital Time Capsule will
-continue to grow as we gather more memories, stories and surprises. Stay
-tuned as we add new chapters to the BVPS journey!</p>
+<p>Our Digital Time Capsule will continue to grow as we gather more memories,
+stories and surprises. Stay tuned as we add new chapters to the BVPS journey!</p>
 <p><a href="https://docs.google.com/presentation/d/1Ihond8r7fB9Yd02CM6bzT-QyOQMR_0TLWXVsgz_HzrM/present" rel="noopener noreferrer nofollow" target="_blank">Click here to explore our Digital Time Capsule!</a>
 </p>
 <p></p>
@@ -86,8 +86,9 @@ they have built.</p>
 <p>As we commemorate 40 years of BVPS, we are reminded that the story of
 our school is made possible by the people who have devoted their hearts
 to nurturing, inspiring, and making a difference.</p>
-<table style="minWidth: 50px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
@@ -96,13 +97,19 @@ to nurturing, inspiring, and making a difference.</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BVPS Experience/40th Anniversary/Mdm_Rah_Votes_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BVPS Experience/40th Anniversary/7.png">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BVPS Experience/40th Anniversary/5.png">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/BVPS Experience/40th Anniversary/Mdm_Rah_Votes_1.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BVPS Experience/40th Anniversary/9.png">
 </div>
 </th>
 </tr>
@@ -116,21 +123,13 @@ to nurturing, inspiring, and making a difference.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/BVPS Experience/40th Anniversary/5.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/BVPS Experience/40th Anniversary/4.png">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BVPS Experience/40th Anniversary/7.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BVPS Experience/40th Anniversary/9.png">
 </div>
 </td>
 </tr>
