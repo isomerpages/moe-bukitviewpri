@@ -6,6 +6,19 @@ description: ""
 ---
 <p><strong>2026 marks Bukit View Primary’s 40<sup>th</sup> Anniversary. Follow our celebrations that reminisce our past, rejoice for our present, and reimagine our future.</strong>
 </p>
+<p>🕰<strong>️ BEYOND THE PAGES: Our <a href="https://docs.google.com/presentation/d/1Ihond8r7fB9Yd02CM6bzT-QyOQMR_0TLWXVsgz_HzrM/present" rel="noopener noreferrer nofollow" target="_blank">Digital Time Capsule</a> </strong>🎉</p>
+<p>As part of Bukit View Primary School’s 40th Anniversary celebrations,
+our <a href="https://docs.google.com/presentation/d/1Ihond8r7fB9Yd02CM6bzT-QyOQMR_0TLWXVsgz_HzrM/present" rel="noopener noreferrer nofollow" target="_blank">Digital Time Capsule</a>&nbsp;
+extends the journey beyond the pages of the commemorative magazine. Through
+photographs, stories and special memories, this interactive experience
+offers another way to revisit meaningful moments from BVPS’s past, celebrate
+our present and preserve them for future generations.</p>
+<p>Our <a href="https://docs.google.com/presentation/d/1Ihond8r7fB9Yd02CM6bzT-QyOQMR_0TLWXVsgz_HzrM/present" rel="noopener noreferrer nofollow" target="_blank">Digital Time Capsule</a> will
+continue to grow as we gather more memories, stories and surprises. Stay
+tuned as we add new chapters to the BVPS journey!</p>
+<p><a href="https://docs.google.com/presentation/d/1Ihond8r7fB9Yd02CM6bzT-QyOQMR_0TLWXVsgz_HzrM/present" rel="noopener noreferrer nofollow" target="_blank">Click here to explore our Digital Time Capsule!</a>
+</p>
+<p></p>
 <p>✨<strong>Voices of BVPS </strong>– Alumni Poster Series✨
 <br>The Voices of BVPS poster series is a teaser to introduce a special group
 of individuals - our very own alumni who were once students of Bukit View
@@ -130,5 +143,8 @@ to nurturing, inspiring, and making a difference.</p>
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/a2QtYI-ttfc?si=ZrPHXXocm6wGmZhe"></iframe>
 </div>
 <p><strong>Celebrating our 40<sup>th</sup> Anniversary with our Alumni at our last Homecoming held in the current campus!</strong>
-<iframe allowfullscreen="" referrerpolicy="strict-origin-when-cross-origin" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/Hdt8Sk30YZE?si=23H2OkhC8GSV0JgW" height="315" width="560"></iframe>
 </p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Hdt8Sk30YZE?si=23H2OkhC8GSV0JgW"></iframe>
+</div>
+<p></p>
