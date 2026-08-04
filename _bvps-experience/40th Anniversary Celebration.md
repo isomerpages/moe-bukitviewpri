@@ -9,8 +9,8 @@ description: ""
 <p>🕰<strong>️ BEYOND THE PAGES: Our <a href="https://docs.google.com/presentation/d/1Ihond8r7fB9Yd02CM6bzT-QyOQMR_0TLWXVsgz_HzrM/present" rel="noopener noreferrer nofollow" target="_blank">Digital Time Capsule</a> </strong>🎉</p>
 <p>As part of Bukit View Primary School’s 40th Anniversary celebrations,
 our <a href="https://docs.google.com/presentation/d/1Ihond8r7fB9Yd02CM6bzT-QyOQMR_0TLWXVsgz_HzrM/present" rel="noopener noreferrer nofollow" target="_blank">Digital Time Capsule</a>&nbsp;
-extends the journey beyond the pages of the commemorative magazine. </p><p>Through
-photographs, stories and special memories, this interactive experience
+extends the journey beyond the pages of the commemorative magazine.</p>
+<p>Through photographs, stories and special memories, this interactive experience
 offers another way to revisit meaningful moments from BVPS’s past, celebrate
 our present and preserve them for future generations.</p>
 <p>Our <a href="https://docs.google.com/presentation/d/1Ihond8r7fB9Yd02CM6bzT-QyOQMR_0TLWXVsgz_HzrM/present" rel="noopener noreferrer nofollow" target="_blank">Digital Time Capsule</a> will
@@ -142,8 +142,8 @@ to nurturing, inspiring, and making a difference.</p>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/a2QtYI-ttfc?si=ZrPHXXocm6wGmZhe"></iframe>
 </div>
-<p><strong>Celebrating our 40<sup>th</sup> Anniversary with our Alumni at our last Homecoming held in the current campus!</strong>
-</p>
+<p>Celebrating our 40<sup>th</sup> Anniversary with our Alumni at our last
+Homecoming held in the current campus!</p>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Hdt8Sk30YZE?si=23H2OkhC8GSV0JgW"></iframe>
 </div>
