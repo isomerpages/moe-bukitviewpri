@@ -9,7 +9,7 @@ description: ""
 <p>🕰<strong>️ BEYOND THE PAGES: Our <a href="https://docs.google.com/presentation/d/1Ihond8r7fB9Yd02CM6bzT-QyOQMR_0TLWXVsgz_HzrM/present" rel="noopener noreferrer nofollow" target="_blank">Digital Time Capsule</a> </strong>🎉</p>
 <p>As part of Bukit View Primary School’s 40th Anniversary celebrations,
 our <a href="https://docs.google.com/presentation/d/1Ihond8r7fB9Yd02CM6bzT-QyOQMR_0TLWXVsgz_HzrM/present" rel="noopener noreferrer nofollow" target="_blank">Digital Time Capsule</a>&nbsp;
-extends the journey beyond the pages of the commemorative magazine. Through
+extends the journey beyond the pages of the commemorative magazine. </p><p>Through
 photographs, stories and special memories, this interactive experience
 offers another way to revisit meaningful moments from BVPS’s past, celebrate
 our present and preserve them for future generations.</p>
