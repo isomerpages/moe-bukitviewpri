@@ -6,14 +6,13 @@ description: ""
 ---
 <p><strong>2026 marks Bukit View Primary’s 40<sup>th</sup> Anniversary. Follow our celebrations that reminisce our past, rejoice for our present, and reimagine our future.</strong>
 </p>
-<p>🕰<strong>️ BEYOND THE PAGES: Our <a href="https://docs.google.com/presentation/d/1Ihond8r7fB9Yd02CM6bzT-QyOQMR_0TLWXVsgz_HzrM/present" rel="noopener noreferrer nofollow" target="_blank">Digital Time Capsule</a> </strong>🎉</p>
+<p>🕰<strong>️ BEYOND THE PAGES: Our Digital Time Capsule</strong>🎉</p>
 <p>As part of Bukit View Primary School’s 40th Anniversary celebrations,
-our <a href="https://docs.google.com/presentation/d/1Ihond8r7fB9Yd02CM6bzT-QyOQMR_0TLWXVsgz_HzrM/present" rel="noopener noreferrer nofollow" target="_blank">Digital Time Capsule</a>&nbsp;
-extends the journey beyond the pages of the commemorative magazine.</p>
+our Digital Time Capsule extends the journey beyond the pages of the commemorative magazine.</p>
 <p>Through photographs, stories and special memories, this interactive experience
 offers another way to revisit meaningful moments from BVPS’s past, celebrate
 our present and preserve them for future generations.</p>
-<p>Our <a href="https://docs.google.com/presentation/d/1Ihond8r7fB9Yd02CM6bzT-QyOQMR_0TLWXVsgz_HzrM/present" rel="noopener noreferrer nofollow" target="_blank">Digital Time Capsule</a> will
+<p>Our Digital Time Capsule will
 continue to grow as we gather more memories, stories and surprises. Stay
 tuned as we add new chapters to the BVPS journey!</p>
 <p><a href="https://docs.google.com/presentation/d/1Ihond8r7fB9Yd02CM6bzT-QyOQMR_0TLWXVsgz_HzrM/present" rel="noopener noreferrer nofollow" target="_blank">Click here to explore our Digital Time Capsule!</a>
