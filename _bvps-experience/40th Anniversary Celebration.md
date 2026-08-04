@@ -61,6 +61,20 @@ inspire the next generation.
 </tr>
 </tbody>
 </table>
+<p>🕵️‍♀️ <strong>SILHOUETTE SPOTLIGHT: 40th Anniversary Edition!</strong> 🎉
+<br>The Silhouette Spotlight series was introduced as part of Bukit View Primary
+School's 40th Anniversary celebrations to honour the educators and staff
+who have played an important role in shaping the BVPS community over the
+years.</p>
+<p>Through a series of silhouette reveals, the activity celebrated individuals
+whose dedication, service, and contributions have left a lasting impact
+on generations of students and colleagues. Each spotlight was an opportunity
+to recognise the people behind the school's journey and celebrate the legacy
+they have built.</p>
+<p>As we commemorate 40 years of BVPS, we are reminded that the story of
+our school is made possible by the people who have devoted their hearts
+to nurturing, inspiring, and making a difference.</p>
+<p></p>
 <p><strong>Celebrating 40 Years Together</strong>
 <br>School’s warm up to the celebrations to come! 🏫🥳</p>
 <div class="iframe-wrapper">
